@@ -1,0 +1,4398 @@
+{
+  "series": {
+    "seri-1": {
+      "title": "Monsuno",
+      "description": "GGO Futbol, gelişen futbol teknolojisini konu alır. Teknoloji ve spor arasındaki ilişkinin giderek artışı sonucu, Profesör GGO adlı bir kişi GGO Futbol'u yaratmıştır.[1] Öyle ki artık futbol avuç içi büyüklüğünde ve yapay zekaya sahip olan küçük robotların kontrol edilmesiyle oynanmaktadır. Bu robotlara GGO Futbolcusu denmektedir. Ayrıca her robotun açılmasını sağlayan kartı ve kendine özel futbol hareketleri(mesela uydu çalımı, gölge kurtarışı vs.) bulunur. GGO Futbol giderek yaygınlaşır ve hem ulusal hem uluslararası turnuvaları düzenlenmeye başlanır.",
+      "cover": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+      "categories": ["Fantastik", "Aksiyon", "Macera", "Anime"],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+        {
+          "id": "ep1",
+          "title": "Monsuno-Bölüm 01",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "sQrapRhHkws"
+        },
+        {
+          "id": "ep2",
+          "title": "Monsuno-Bölüm 02",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "8jxdpcRZKq0"
+        },
+        {
+          "id": "ep3",
+          "title": "Monsuno-Bölüm 03",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "PtHFTbOZOWk"
+        },
+        {
+          "id": "ep4",
+          "title": "Monsuno-Bölüm 04",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "VRdADixpLFo"
+        },
+        {
+          "id": "ep5",
+          "title": "Monsuno-Bölüm 05",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "GNC2Xifa2A0"
+        },
+        {
+          "id": "ep6",
+          "title": "Monsuno-Bölüm 06",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "_KrxM_9z2Hs"
+        },
+        {
+          "id": "ep7",
+          "title": "Monsuno-Bölüm 07",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "amFTaJMrUmU"
+        },
+        {
+          "id": "ep8",
+          "title": "Monsuno-Bölüm 08",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "wtTc_ISQsXs"
+        },
+        {
+          "id": "ep9",
+          "title": "Monsuno-Bölüm 09",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "B6cxMBf6sTw"
+        },
+        {
+          "id": "ep10",
+          "title": "Monsuno-Bölüm 10",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "RGDtHaFL2Xw"
+        },
+        {
+          "id": "ep11",
+          "title": "Monsuno-Bölüm 11",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "AGa4H5Wwm3c"
+        },
+        {
+          "id": "ep12",
+          "title": "Monsuno-Bölüm 12",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "N7Oxq4l_ao4"
+        },
+        {
+          "id": "ep13",
+          "title": "Monsuno-Bölüm 13",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "EyuCnJ2g86o"
+        },
+        {
+          "id": "ep14",
+          "title": "Monsuno-Bölüm 14",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "cnDS3m-hXD0"
+        },
+        {
+          "id": "ep15",
+          "title": "Monsuno-Bölüm 15",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "1oWmAKvjaCc"
+        },
+        {
+          "id": "ep16",
+          "title": "Monsuno-Bölüm 16",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "StFia2A7n8I"
+        },
+        {
+          "id": "ep17",
+          "title": "Monsuno-Bölüm 17",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "BwHThp68bWc"
+        },
+        {
+          "id": "ep18",
+          "title": "Monsuno-Bölüm 18",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "e4ZZOSZsP5o"
+        },
+        {
+          "id": "ep19",
+          "title": "Monsuno-Bölüm 19",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "tsXC81ZZzpM"
+        },
+        {
+          "id": "ep20",
+          "title": "Monsuno-Bölüm 20",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "IBO7lBmiUds"
+        },
+        {
+          "id": "ep21",
+          "title": "Monsuno-Bölüm 21",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "bRc7QJ_By6Y"
+        },
+        {
+          "id": "ep22",
+          "title": "Monsuno-Bölüm 22",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "HI2Wh0xuizo"
+        },
+        {
+          "id": "ep23",
+          "title": "Monsuno-Bölüm 23",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "vv0QOK-jYOw"
+        },
+        {
+          "id": "ep24",
+          "title": "Monsuno-Bölüm 24",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "_vYteH_yKf8"
+        },
+        {
+          "id": "ep25",
+          "title": "Monsuno-Bölüm 25",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "w0WJWNcyuos"
+        },
+        {
+          "id": "ep26",
+          "title": "Monsuno-Bölüm 26",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "FOvEQv42Xxo"
+        }
+        ]
+        },
+        {
+          "seasonNumber": 2,
+          "episodes": [
+        {
+          "id": "ep1",
+          "title": "Monsuno Combat Chaos-Bölüm 01",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "pDTeH_Y6EdU"
+        },
+        {
+          "id": "ep2",
+          "title": "Monsuno Combat Chaos-Bölüm 02",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "WwCpfeLPZAw"
+        },
+        {
+          "id": "ep3",
+          "title": "Monsuno Combat Chaos-Bölüm 03",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "pqcza9hwyGo"
+        },
+        {
+          "id": "ep4",
+          "title": "Monsuno Combat Chaos-Bölüm 04",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "yYMAKd3i3X4"
+        },
+        {
+          "id": "ep5",
+          "title": "Monsuno Combat Chaos-Bölüm 05",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "UBgiJZaWTaU"
+        },
+        {
+          "id": "ep6",
+          "title": "Monsuno Combat Chaos-Bölüm 06",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "04E3UWPeUtI"
+        },
+        {
+          "id": "ep7",
+          "title": "Monsuno Combat Chaos-Bölüm 07",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "e7DyY06W2Ao"
+        },
+        {
+          "id": "ep8",
+          "title": "Monsuno Combat Chaos-Bölüm 08",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "fiHJ49pDUu4"
+        },
+        {
+          "id": "ep9",
+          "title": "Monsuno Combat Chaos-Bölüm 09",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "4Ftv9HKR-0s"
+        },
+        {
+          "id": "ep10",
+          "title": "Monsuno Combat Chaos-Bölüm 10",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "imbs0eApsQk"
+        },
+        {
+          "id": "ep11",
+          "title": "Monsuno Combat Chaos-Bölüm 11",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "0lPkymPqzh4"
+        },
+        {
+          "id": "ep12",
+          "title": "Monsuno Combat Chaos-Bölüm 12",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "WG135nZW-uU"
+        },
+        {
+          "id": "ep13",
+          "title": "Monsuno Combat Chaos-Bölüm 13",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "ckbut3OiJ8w"
+        },
+        {
+          "id": "ep14",
+          "title": "Monsuno Combat Chaos-Bölüm 14",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "kjbtl9bKbBE"
+        },
+        {
+          "id": "ep15",
+          "title": "Monsuno Combat Chaos-Bölüm 15",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "4VYIFra05p8"
+        },
+        {
+          "id": "ep16",
+          "title": "Monsuno Combat Chaos-Bölüm 16",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "23x617G7VQo"
+        },
+        {
+          "id": "ep17",
+          "title": "Monsuno Combat Chaos-Bölüm 17",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "-waJg32M-os"
+        },
+        {
+          "id": "ep18",
+          "title": "Monsuno Combat Chaos-Bölüm 18",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "sbKVSOUcIb0"
+        },
+        {
+          "id": "ep19",
+          "title": "Monsuno Combat Chaos-Bölüm 19",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "HhLBOyJsjSQ"
+        },
+        {
+          "id": "ep20",
+          "title": "Monsuno Combat Chaos-Bölüm 20",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "laTZF5at_tc"
+        },
+        {
+          "id": "ep21",
+          "title": "Monsuno Combat Chaos-Bölüm 21",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "tPYNhotDE2c"
+        },
+        {
+          "id": "ep22",
+          "title": "Monsuno Combat Chaos-Bölüm 22",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "paDIgvVkUds"
+        },
+        {
+          "id": "ep23",
+          "title": "Monsuno Combat Chaos-Bölüm 23",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "gtmjXyRQpsU"
+        },
+        {
+          "id": "ep24",
+          "title": "Monsuno Combat Chaos-Bölüm 24",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "sctNBrZhAI8"
+        },
+        {
+          "id": "ep25",
+          "title": "Monsuno Combat Chaos-Bölüm 25",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "NN_FStKda7I"
+        },
+        {
+          "id": "ep26",
+          "title": "Monsuno Combat Chaos-Bölüm 26",
+          "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
+          "videoId": "miN8ywriOns"
+        }
+        ]
+        }
+      ]
+    },
+    "seri-2": {
+      "title": "Gormiti: Doğa Elementleri",
+      "description": "İlk Gormiti adında eski bir efsanenin mirasını taşıyan bir grup gencin maceralarını anlatır. Bu gençler, dört ana elementin temsilcileridir: Toprak, Hava, Su ve Ateş. Gormiti adındaki fantastik bir dünyada, doğanın dört temel elementi ile bağlı olan yaratıklar ve savaşçılar yaşar.",
+      "cover": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+      "seri-2": ["Fantastik", "Macera"],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+        {
+          "id": "ep1",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 01",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "AORkvPsnKcc"
+        },
+        {
+          "id": "ep2",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 02",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "Tn9DRJ9dDHg"
+        },
+        {
+          "id": "ep3",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 03",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "mErItA8bpsQ"
+        },
+        {
+          "id": "ep4",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 04",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "0LNcazNjBWc"
+        },
+        {
+          "id": "ep5",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 05",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "EvoZfeWzFMs"
+        },
+        {
+          "id": "ep6",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 06",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "oh2-AF-lFY4"
+        },
+        {
+          "id": "ep7",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 07",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "BTdxNBu88ng"
+        },
+        {
+          "id": "ep8",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 08",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "YmPyH8yEwnI"
+        },
+        {
+          "id": "ep9",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 09",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "UcmGlUf8D6I"
+        },
+        {
+          "id": "ep10",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 10",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "Fr82pC-5LrM"
+        },
+        {
+          "id": "ep11",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 11",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "X6usfUhwDHM"
+        },
+        {
+          "id": "ep12",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 12",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "4Hq7NN4lqZA"
+        },
+        {
+          "id": "ep13",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 13",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "_GmRRsI9Gso"
+        },
+        {
+          "id": "ep14",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 14",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "Da34HuZArtQ"
+        },
+        {
+          "id": "ep15",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 15",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "8rdiQ3_DHfY"
+        },
+        {
+          "id": "ep16",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 16",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "IEeWiD_ZgNw"
+        },
+        {
+          "id": "ep17",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 17",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "L2rnLw0bvRk"
+        },
+        {
+          "id": "ep18",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 18",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "tcqeQxX4vSA"
+        },
+        {
+          "id": "ep19",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 19",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "_zlDKZRnjSM"
+        },
+        {
+          "id": "ep20",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 20",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "SBPdsKO4FN4"
+        },
+        {
+          "id": "ep21",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 21",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "yx7T4BsU01Q"
+        },
+        {
+          "id": "ep22",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 22",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "NJ5bkGjj-z8"
+        },
+        {
+          "id": "ep23",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 23",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "3EFfTSSIeLI"
+        },
+        {
+          "id": "ep24",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 24",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "i-_dX6UPe6E"
+        },
+        {
+          "id": "ep25",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 25",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "8g1u0YILDZo"
+        },
+        {
+          "id": "ep26",
+          "title": "Gormiti: Doğa Elementleri-Bölüm 26",
+          "thumbnail": "https://f4.bcbits.com/img/a2926178355_10.jpg",
+          "videoId": "BUv0kCvZ_00"
+        }
+        ]
+        }
+      ]
+    },
+    "seri-3": {
+      "title": "Bakugan",
+      "description": "Dan Kuso adında bir çocuğun etrafında döner. Dan ve arkadaşları, Bakugan adlı özel taşları kullanarak, bu taşların içindeki yaratıklarla dövüşürler. Bakugan taşları, normalde küçük birer top gibi görünürler, ancak belirli bir yüzeye düştüklerinde açılır ve içerilerindeki yaratıklar ortaya çıkar. Bu yaratıklar, Bakugan olarak adlandırılır ve her birinin kendine has özel güçleri vardır.",
+      "cover": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+      "seri-3": ["Aksiyon", "Fantastik", "Anime"],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+          {
+            "id": "ep1",
+            "title": "Bakugan: Battle Brawlers-Bölüm 01",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "vxjaBnt4eNw"
+          },
+          {
+            "id": "ep2",
+            "title": "Bakugan: Battle Brawlers-Bölüm 02",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "zsv_HE_jp1Q"
+          },
+          {
+            "id": "ep3",
+            "title": "Bakugan: Battle Brawlers-Bölüm 03",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "CcN6pk8sTMs"
+          },
+          {
+            "id": "ep4",
+            "title": "Bakugan: Battle Brawlers-Bölüm 04",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "92ofzvpmp24"
+          },
+          {
+            "id": "ep5",
+            "title": "Bakugan: Battle Brawlers-Bölüm 05",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "oU3Ffsw10ZQ"
+          },
+          {
+            "id": "ep6",
+            "title": "Bakugan: Battle Brawlers-Bölüm 06",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "7CIMdftr-4w"
+          },
+          {
+            "id": "ep7",
+            "title": "Bakugan: Battle Brawlers-Bölüm 07",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "wI6zWJAkd5M"
+          },
+          {
+            "id": "ep8",
+            "title": "Bakugan: Battle Brawlers-Bölüm 08",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "r-JAqbYGF5g"
+          },
+          {
+            "id": "ep9",
+            "title": "Bakugan: Battle Brawlers-Bölüm 09",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "cDI9cf01AdQ"
+          },
+          {
+            "id": "ep10",
+            "title": "Bakugan: Battle Brawlers-Bölüm 10",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "stBm0F3H_V0"
+          },
+          {
+            "id": "ep11",
+            "title": "Bakugan: Battle Brawlers-Bölüm 11",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "fCG5OD4z30c"
+          },
+          {
+            "id": "ep12",
+            "title": "Bakugan: Battle Brawlers-Bölüm 12",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "L6YnH4oCNi8"
+          },
+          {
+            "id": "ep13",
+            "title": "Bakugan: Battle Brawlers-Bölüm 13",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "OwOOee6LCQ4"
+          },
+          {
+            "id": "ep14",
+            "title": "Bakugan: Battle Brawlers-Bölüm 14",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "G-IH2CSeRGI"
+          },
+          {
+            "id": "ep15",
+            "title": "Bakugan: Battle Brawlers-Bölüm 15",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "dqnmKekR2tA"
+          },
+          {
+            "id": "ep16",
+            "title": "Bakugan: Battle Brawlers-Bölüm 16",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "BwqY-_tbi9Y"
+          },
+          {
+            "id": "ep17",
+            "title": "Bakugan: Battle Brawlers-Bölüm 17",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "mSkPYWtBy_Q"
+          },
+          {
+            "id": "ep18",
+            "title": "Bakugan: Battle Brawlers-Bölüm 18",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "j8V9jBaMwmo"
+          },
+          {
+            "id": "ep19",
+            "title": "Bakugan: Battle Brawlers-Bölüm 19",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "sly2q0re5jM"
+          },
+          {
+            "id": "ep20",
+            "title": "Bakugan: Battle Brawlers-Bölüm 20",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "e11cTMKUVJo"
+          },
+          {
+            "id": "ep21",
+            "title": "Bakugan: Battle Brawlers-Bölüm 21",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "JS5p77WdFGY"
+          },
+          {
+            "id": "ep22",
+            "title": "Bakugan: Battle Brawlers-Bölüm 22",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "d62xoDVRxiY"
+          },
+          {
+            "id": "ep23",
+            "title": "Bakugan: Battle Brawlers-Bölüm 23",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "dZ4_CN2KDVI"
+          },
+          {
+            "id": "ep24",
+            "title": "Bakugan: Battle Brawlers-Bölüm 24",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "yvwFazN7nXQ"
+          },
+          {
+            "id": "ep25",
+            "title": "Bakugan: Battle Brawlers-Bölüm 25",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "gbLjUn_VKRQ"
+          },
+          {
+            "id": "ep26",
+            "title": "Bakugan: Battle Brawlers-Bölüm 26",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "7t3sZTRntg0"
+          },
+          {
+            "id": "ep27",
+            "title": "Bakugan: Battle Brawlers-Bölüm 27",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "eafktORjm-Y"
+          },
+          {
+            "id": "ep28",
+            "title": "Bakugan: Battle Brawlers-Bölüm 28",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "NvrbMAANvI0"
+          },
+          {
+            "id": "ep29",
+            "title": "Bakugan: Battle Brawlers-Bölüm 29",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "7xTMSDYgBqs"
+          },
+          {
+            "id": "ep30",
+            "title": "Bakugan: Battle Brawlers-Bölüm 30",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "TqErsUOgGzc"
+          },
+          {
+            "id": "ep31",
+            "title": "Bakugan: Battle Brawlers-Bölüm 31",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "INRD_drsjVE"
+          },
+          {
+            "id": "ep32",
+            "title": "Bakugan: Battle Brawlers-Bölüm 32",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "W6V7f48IREw"
+          },
+          {
+            "id": "ep33",
+            "title": "Bakugan: Battle Brawlers-Bölüm 33",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "aHm18vmPTMo"
+          },
+          {
+            "id": "ep34",
+            "title": "Bakugan: Battle Brawlers-Bölüm 34",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "4Zvgb-FbcDY"
+          },
+          {
+            "id": "ep35",
+            "title": "Bakugan: Battle Brawlers-Bölüm 35",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "FYKmUGV6j1o"
+          },
+          {
+            "id": "ep36",
+            "title": "Bakugan: Battle Brawlers-Bölüm 36",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "6m-cY12Vzrk"
+          },
+          {
+            "id": "ep37",
+            "title": "Bakugan: Battle Brawlers-Bölüm 37",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "xxcTEZvzgRY"
+          },
+          {
+            "id": "ep38",
+            "title": "Bakugan: Battle Brawlers-Bölüm 38",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "J2woSoxO4z4"
+          },
+          {
+            "id": "ep39",
+            "title": "Bakugan: Battle Brawlers-Bölüm 39",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "k13dzduavY8"
+          },
+          {
+            "id": "ep40",
+            "title": "Bakugan: Battle Brawlers-Bölüm 40",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "YkJqcWWs4Ws"
+          },
+          {
+            "id": "ep41",
+            "title": "Bakugan: Battle Brawlers-Bölüm 41",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "FmtURHdHzcY"
+          },
+          {
+            "id": "ep42",
+            "title": "Bakugan: Battle Brawlers-Bölüm 42",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "9Yd4X9DRHII"
+          },
+          {
+            "id": "ep43",
+            "title": "Bakugan: Battle Brawlers-Bölüm 43",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "A_gRRrJJK9s"
+          },
+          {
+            "id": "ep44",
+            "title": "Bakugan: Battle Brawlers-Bölüm 44",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "xo6Tl4WGKpU"
+          },
+          {
+            "id": "ep45",
+            "title": "Bakugan: Battle Brawlers-Bölüm 45",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "hdWGO8Pj1WA"
+          },
+          {
+            "id": "ep46",
+            "title": "Bakugan: Battle Brawlers-Bölüm 46",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "CeUComqxx6M"
+          },
+          {
+            "id": "ep47",
+            "title": "Bakugan: Battle Brawlers-Bölüm 47",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "sKrmCWoYGRg"
+          },
+          {
+            "id": "ep48",
+            "title": "Bakugan: Battle Brawlers-Bölüm 48",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "6aQO2zij6cg"
+          },
+          {
+            "id": "ep49",
+            "title": "Bakugan: Battle Brawlers-Bölüm 49",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "yJqzxf_ELy8"
+          },
+          {
+            "id": "ep50",
+            "title": "Bakugan: Battle Brawlers-Bölüm 50",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "ZyZKObAFl9g"
+          },
+          {
+            "id": "ep51",
+            "title": "Bakugan: Battle Brawlers-Bölüm 51",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "2DiXSIWDRvM"
+          },
+          {
+            "id": "ep52",
+            "title": "Bakugan: Battle Brawlers-Bölüm 52",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "JO3QAMD30M"
+          }   
+          ]
+        },
+        {
+          "seasonNumber": 2,
+          "episodes": [
+          {
+            "id": "ep1",
+            "title": "Bakugan: New Vestroia-Bölüm 01",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "BlF9-rKfZbk"
+          },
+          {
+            "id": "ep2",
+            "title": "Bakugan: New Vestroia-Bölüm 02",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "YKf9dlRYGPU"
+          },
+          {
+            "id": "ep3",
+            "title": "Bakugan: New Vestroia-Bölüm 03",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "dGbHqd5sIzI"
+          },
+          {
+            "id": "ep4",
+            "title": "Bakugan: New Vestroia-Bölüm 04",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "TolGWEpJdYw"
+          },
+          {
+            "id": "ep5",
+            "title": "Bakugan: New Vestroia-Bölüm 05",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "auU4GaIpWBs"
+          },
+          {
+            "id": "ep6",
+            "title": "Bakugan: New Vestroia-Bölüm 06",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "PCzSIzvL9N8"
+          },
+          {
+            "id": "ep7",
+            "title": "Bakugan: New Vestroia-Bölüm 07",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "c8TH5p7xKNg"
+          },
+          {
+            "id": "ep8",
+            "title": "Bakugan: New Vestroia-Bölüm 08",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "7kMwP0nIv4o"
+          },
+          {
+            "id": "ep9",
+            "title": "Bakugan: New Vestroia-Bölüm 09",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "dzy8LEwL880"
+          },
+          {
+            "id": "ep10",
+            "title": "Bakugan: New Vestroia-Bölüm 10",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "LzVA4eKocwQ"
+          },
+          {
+            "id": "ep11",
+            "title": "Bakugan: New Vestroia-Bölüm 11",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "Vfcx_D2kmtY"
+          },
+          {
+            "id": "ep12",
+            "title": "Bakugan: New Vestroia-Bölüm 12",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "hUToWvHEMFg"
+          },
+          {
+            "id": "ep13",
+            "title": "Bakugan: New Vestroia-Bölüm 13",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "vq-A8GxfFSU"
+          },
+          {
+            "id": "ep14",
+            "title": "Bakugan: New Vestroia-Bölüm 14",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "dbpnn7Fa0Bk"
+          },
+          {
+            "id": "ep15",
+            "title": "Bakugan: New Vestroia-Bölüm 15",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "hGWgHKQF1JE"
+          },
+          {
+            "id": "ep16",
+            "title": "Bakugan: New Vestroia-Bölüm 16",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "pMYfbp50wEw"
+          },
+          {
+            "id": "ep17",
+            "title": "Bakugan: New Vestroia-Bölüm 17",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "bekPKBPz8Wk"
+          },
+          {
+            "id": "ep18",
+            "title": "Bakugan: New Vestroia-Bölüm 18",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "89FKhwYjpkk"
+          },
+          {
+            "id": "ep19",
+            "title": "Bakugan: New Vestroia-Bölüm 19",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "yjGgP8esnLA"
+          },
+          {
+            "id": "ep20",
+            "title": "Bakugan: New Vestroia-Bölüm 20",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "5HiffK2_9aI"
+          },
+          {
+            "id": "ep21",
+            "title": "Bakugan: New Vestroia-Bölüm 21",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "HP6jwT6OtOk"
+          },
+          {
+            "id": "ep22",
+            "title": "Bakugan: New Vestroia-Bölüm 22",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "oxfsIVpcwBI"
+          },
+          {
+            "id": "ep23",
+            "title": "Bakugan: New Vestroia-Bölüm 23",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "314fahUVBUk"
+          },
+          {
+            "id": "ep24",
+            "title": "Bakugan: New Vestroia-Bölüm 24",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "aqnamEz-d6g"
+          },
+          {
+            "id": "ep25",
+            "title": "Bakugan: New Vestroia-Bölüm 25",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "vlxIvR4uMM0"
+          },
+          {
+            "id": "ep26",
+            "title": "Bakugan: New Vestroia-Bölüm 26",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "Eon4Sy0KUoY"
+          },
+          {
+            "id": "ep27",
+            "title": "Bakugan: New Vestroia-Bölüm 27",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "8lpq0BmkjIQ"
+          },
+          {
+            "id": "ep28",
+            "title": "Bakugan: New Vestroia-Bölüm 28",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "jYlTECxnfJU"
+          },
+          {
+            "id": "ep29",
+            "title": "Bakugan: New Vestroia-Bölüm 29",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "N7yyCOtSA1c"
+          },
+          {
+            "id": "ep30",
+            "title": "Bakugan: New Vestroia-Bölüm 30",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "Im90vUiKk0M"
+          },
+          {
+            "id": "ep31",
+            "title": "Bakugan: New Vestroia-Bölüm 31",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "wPWUTOlw30k"
+          },
+          {
+            "id": "ep32",
+            "title": "Bakugan: New Vestroia-Bölüm 32",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "16qr7uvC0LU"
+          },
+          {
+            "id": "ep33",
+            "title": "Bakugan: New Vestroia-Bölüm 33",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "0YWwVOJUbyU"
+          },
+          {
+            "id": "ep34",
+            "title": "Bakugan: New Vestroia-Bölüm 34",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "7iZR4qMxCgg"
+          },
+          {
+            "id": "ep35",
+            "title": "Bakugan: New Vestroia-Bölüm 35",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "M1OSUvCx6us"
+          },
+          {
+            "id": "ep36",
+            "title": "Bakugan: New Vestroia-Bölüm 36",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "UmkNpHKT6wo"
+          },
+          {
+            "id": "ep37",
+            "title": "Bakugan: New Vestroia-Bölüm 37",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "wgxV_NTIZpQ"
+          },
+          {
+            "id": "ep38",
+            "title": "Bakugan: New Vestroia-Bölüm 38",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "xALp2ZI1obw"
+          },
+          {
+            "id": "ep39",
+            "title": "Bakugan: New Vestroia-Bölüm 39",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "zpq6CVO5FTA"
+          },
+          {
+            "id": "ep40",
+            "title": "Bakugan: New Vestroia-Bölüm 40",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "d3aq39i-Yt4"
+          },
+          {
+            "id": "ep41",
+            "title": "Bakugan: New Vestroia-Bölüm 41",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "rspxBxXSxB8"
+          },
+          {
+            "id": "ep42",
+            "title": "Bakugan: New Vestroia-Bölüm 42",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "Fy7Ee5tDPIs"
+          },
+          {
+            "id": "ep43",
+            "title": "Bakugan: New Vestroia-Bölüm 43",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "wzGFra3C4bs"
+          },
+          {
+            "id": "ep44",
+            "title": "Bakugan: New Vestroia-Bölüm 44",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "Y1PSWSkY6FQ"
+          },
+          {
+            "id": "ep45",
+            "title": "Bakugan: New Vestroia-Bölüm 45",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "dVGCqiayDhU"
+          },
+          {
+            "id": "ep46",
+            "title": "Bakugan: New Vestroia-Bölüm 46",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "aC0KBXvLHKg"
+          },
+          {
+            "id": "ep47",
+            "title": "Bakugan: New Vestroia-Bölüm 47",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "MqFRkEXcbq0"
+          },
+          {
+            "id": "ep48",
+            "title": "Bakugan: New Vestroia-Bölüm 48",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "wf1E2ZtMEa8"
+          },
+          {
+            "id": "ep49",
+            "title": "Bakugan: New Vestroia-Bölüm 49",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "xUX5mEmU8x4"
+          },
+          {
+            "id": "ep50",
+            "title": "Bakugan: New Vestroia-Bölüm 50",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "_k1iGUDMC6o"
+          },
+          {
+            "id": "ep51",
+            "title": "Bakugan: New Vestroia-Bölüm 51",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "E7RkK1Y5zmQ"
+          },
+          {
+            "id": "ep52",
+            "title": "Bakugan: New Vestroia-Bölüm 52",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "ZHWiRG1ge04"
+          }   
+          ]
+        },
+        {
+          "seasonNumber": 3,
+          "episodes": [
+          {
+            "id": "ep1",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 01",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "pG2g1EoBfeA"
+          },
+          {
+            "id": "ep2",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 02",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "jxfvB9e3rS8"
+          },
+          {
+            "id": "ep3",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 03",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "vaOqY9FCjPw"
+          },
+          {
+            "id": "ep4",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 04",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "7rEFmDe-tsM"
+          },
+          {
+            "id": "ep5",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 05",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "S4iS1pz3NhE"
+          },
+          {
+            "id": "ep6",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 06",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "Z9Mb_9kLltI"
+          },
+          {
+            "id": "ep7",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 07",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "-9Sy6Gi-0Ac"
+          },
+          {
+            "id": "ep8",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 08",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "D9WY-XtaafI"
+          },
+          {
+            "id": "ep9",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 09",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "5yvvhXCj_6I"
+          },
+          {
+            "id": "ep10",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 10",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "eEDRQh2N3X4"
+          },
+          {
+            "id": "ep11",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 11",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "zRNl4OlVXH4"
+          },
+          {
+            "id": "ep12",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 12",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "vuFXMe5777k"
+          },
+          {
+            "id": "ep13",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 13",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "ORtpKF6Rg9Y"
+          },
+          {
+            "id": "ep14",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 14",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "qM4JZDvlP4I"
+          },
+          {
+            "id": "ep15",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 15",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "cakB1gp1ZzI"
+          },
+          {
+            "id": "ep16",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 16",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "lABXQqelaio"
+          },
+          {
+            "id": "ep17",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 17",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "rWy9pXsKLSw"
+          },
+          {
+            "id": "ep18",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 18",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "nvJ-Jk7fjFc"
+          },
+          {
+            "id": "ep19",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 19",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "aoi0fTFoOEw"
+          },
+          {
+            "id": "ep20",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 20",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "_TBJWvmdFbM"
+          },
+          {
+            "id": "ep21",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 21",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "u3QmCR8NiCA"
+          },
+          {
+            "id": "ep22",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 22",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "pli11MPvarU"
+          },
+          {
+            "id": "ep23",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 23",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "TovW3Md-6rc"
+          },
+          {
+            "id": "ep24",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 24",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "mh6Md97b_OI"
+          },
+          {
+            "id": "ep25",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 25",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "1ZbHIe806pY"
+          },
+          {
+            "id": "ep26",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 26",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "6quoBpKLT8Y"
+          },
+          {
+            "id": "ep27",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 27",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "bg_n49t9_XU"
+          },
+          {
+            "id": "ep28",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 28",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "3KbG7MlkrPI"
+          },
+          {
+            "id": "ep29",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 29",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "nXawfOETZm4"
+          },
+          {
+            "id": "ep30",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 30",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "UOvzwxgMeUs"
+          },
+          {
+            "id": "ep31",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 31",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "LTSJ5ecva1M"
+          },
+          {
+            "id": "ep32",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 32",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "EbmCh3NpZww"
+          },
+          {
+            "id": "ep33",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 33",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "WD_m9MtRhro"
+          },
+          {
+            "id": "ep34",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 34",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "NQ4clJtREFU"
+          },
+          {
+            "id": "ep35",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 35",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "3klEuLrVmas"
+          },
+          {
+            "id": "ep36",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 36",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "Xc6zggWqeh8"
+          },
+          {
+            "id": "ep37",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 37",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "xzIvJBW6UGc"
+          },
+          {
+            "id": "ep38",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 38",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "0WLC46WVWo0"
+          },
+          {
+            "id": "ep39",
+            "title": "Bakugan: Gundalian Invaders-Bölüm 39",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "u6CXLG0RmQ8"
+          }  
+        ]
+        },
+        {
+          "seasonNumber": 4,
+          "episodes": [
+          {
+            "id": "ep1",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 01",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "__Wo44nbOJE"
+          },
+          {
+            "id": "ep2",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 02",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "shvfMoR9K7c"
+          },
+          {
+            "id": "ep3",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 03",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "wRhlH5AvsTE"
+          },
+          {
+            "id": "ep4",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 04",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "mp5uYex1_Qs"
+          },
+          {
+            "id": "ep5",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 05",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "Y2o2iW1hsFQ"
+          },
+          {
+            "id": "ep6",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 06",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "XbcTxSNA4kI"
+          },
+          {
+            "id": "ep7",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 07",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "SfuetHEpFz0"
+          },
+          {
+            "id": "ep8",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 08",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "zpJdgt9PqxU"
+          },
+          {
+            "id": "ep9",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 09",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "Q-wz9h_-76Y"
+          },
+          {
+            "id": "ep10",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 10",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "G8Jjor9VfhE"
+          },
+          {
+            "id": "ep11",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 11",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "5o60VApzUpI"
+          },
+          {
+            "id": "ep12",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 12",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "xw5SgtBGgvQ"
+          },
+          {
+            "id": "ep13",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 13",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "ElGqs5zkpIM"
+          },
+          {
+            "id": "ep14",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 14",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "bAUau3zDewo"
+          },
+          {
+            "id": "ep15",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 15",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "YRjsOe9dPe0"
+          },
+          {
+            "id": "ep16",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 16",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "GhzlIcL1yqE"
+          },
+          {
+            "id": "ep17",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 17",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "BW4hLLBRNUE"
+          },
+          {
+            "id": "ep18",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 18",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "kj41LO1inOU"
+          },
+          {
+            "id": "ep19",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 19",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "XQjKVk8bZ-M"
+          },
+          {
+            "id": "ep20",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 20",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "teW0Nz9p8l8"
+          },
+          {
+            "id": "ep21",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 21",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "x9zTW8azx94"
+          },
+          {
+            "id": "ep22",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 22",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "nJX81T5nDw0"
+          },
+          {
+            "id": "ep23",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 23",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "R4bn1JErCMU"
+          },
+          {
+            "id": "ep24",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 24",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "U7NrAvJCRLI"
+          },
+          {
+            "id": "ep25",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 25",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "SZnIDaQsUkg"
+          },
+          {
+            "id": "ep26",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 26",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "EoTe5mnIFes"
+          },
+          {
+            "id": "ep27",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 27",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "h3ECZCE0PAA"
+          },
+          {
+            "id": "ep28",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 28",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "-zofSc3JitY"
+          },
+          {
+            "id": "ep29",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 29",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "RmwF91SYbI4"
+          },
+          {
+            "id": "ep30",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 30",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "wKN3TvJ06Fg"
+          },
+          {
+            "id": "ep31",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 31",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "oMgpdFCdVa0"
+          },
+          {
+            "id": "ep32",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 32",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "j_8V3yxNIgU"
+          },
+          {
+            "id": "ep33",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 33",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "L4faQLLK2vU"
+          },
+          {
+            "id": "ep34",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 34",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "5-pS_SMUxa8"
+          },
+          {
+            "id": "ep35",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 35",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "7gdjdat5lWY"
+          },
+          {
+            "id": "ep36",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 36",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "0xnbpd7fAto"
+          },
+          {
+            "id": "ep37",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 37",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "VcX0PI4awCM"
+          },
+          {
+            "id": "ep38",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 38",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "u1qGx4zorEU"
+          },
+          {
+            "id": "ep39",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 39",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "BWVk_2QDq6Q"
+          },
+          {
+            "id": "ep40",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 40",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "7AI6tGnkg8g"
+          },
+          {
+            "id": "ep41",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 41",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "FpLGtDgaGFE"
+          },
+          {
+            "id": "ep42",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 42",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "4Xv1uTPIcTA"
+          },
+          {
+            "id": "ep43",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 43",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "adLJpKeN5PI"
+          },
+          {
+            "id": "ep44",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 44",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "HAgFPDV0_iM"
+          },
+          {
+            "id": "ep45",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 45",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "ya0xlUg7EYE"
+          },
+          {
+            "id": "ep46",
+            "title": "Bakugan: Mechtanium Surge-Bölüm 46",
+            "thumbnail": "https://www.animeclick.it/immagini/anime/Bakugan_Battle_Brawlers_Gundalian_Invaders/cover/Bakugan_Battle_Brawlers_Gundalian_Invaders-cover.jpg",
+            "videoId": "iYxXm9ajHg4"
+          }   
+        ]
+        }
+      ]
+    },
+    "seri-4": {
+      "title": "Tsubasa: Road To 2002",
+      "description": "Tsubasa, doğumundan beri topla haşır neşir bir çocuktur. Tek hayali dünyadaki en iyi futbol oyuncusu olmaktır. Bazı sorunları nedeniyle Tsubasa'nın babasını tanıyan Brezilya millî takımının en iyi 10 numaralı orta saha oyuncularından Roberto Hongo, gözündeki rahatsızlık nedeniyle futboldan emekli olur ve Tsubasa'nın çalıştırıcısı olur. Tsubasa'nın artık hayali çizgfilmin konusuna göre futbolda en iyi ülke olan Brezilya'ya gitmektir. Tsubasa, çok iyi oyuncular ile sırasıyla Genzo, Taro, Kojiro, Jun, Ken ile karşılaştıkça olaylar gelişir.",
+      "cover": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+      "categories": ["Spor", "Dram", "Macera"],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+          {
+            "id": "ep1",
+            "title": "Tsubasa: Road To 2002-Bölüm 01",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "UfLlg4LBvZg"
+          },
+          {
+            "id": "ep2",
+            "title": "Tsubasa: Road To 2002-Bölüm 02",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "vpcDxsxIMvo"
+          },
+          {
+            "id": "ep3",
+            "title": "Tsubasa: Road To 2002-Bölüm 03",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "i6uBWEjLl6o"
+          },
+          {
+            "id": "ep4",
+            "title": "Tsubasa: Road To 2002-Bölüm 04",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "mAVWObb9oW0"
+          },
+          {
+            "id": "ep5",
+            "title": "Tsubasa: Road To 2002-Bölüm 05",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "4cv52-xZ9Js"
+          },
+          {
+            "id": "ep6",
+            "title": "Tsubasa: Road To 2002-Bölüm 06",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "jZ1BnyRued4"
+          },
+          {
+            "id": "ep7",
+            "title": "Tsubasa: Road To 2002-Bölüm 07",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "TKbaPnbXCTg"
+          },
+          {
+            "id": "ep8",
+            "title": "Tsubasa: Road To 2002-Bölüm 08",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "xOuMbRd2DH4"
+          },
+          {
+            "id": "ep9",
+            "title": "Tsubasa: Road To 2002-Bölüm 09",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "cEC-hfokY3M"
+          },
+          {
+            "id": "ep10",
+            "title": "Tsubasa: Road To 2002-Bölüm 10",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "RnSVVOLe0AA"
+          },
+          {
+            "id": "ep11",
+            "title": "Tsubasa: Road To 2002-Bölüm 11",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "NXeZtvyKbpU"
+          },
+          {
+            "id": "ep12",
+            "title": "Tsubasa: Road To 2002-Bölüm 12",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "jln7U7altxI"
+          },
+          {
+            "id": "ep13",
+            "title": "Tsubasa: Road To 2002-Bölüm 13",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "xwhIrsks1oM"
+          },
+          {
+            "id": "ep14",
+            "title": "Tsubasa: Road To 2002-Bölüm 14",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "tlxIGC8gqzA"
+          },
+          {
+            "id": "ep15",
+            "title": "Tsubasa: Road To 2002-Bölüm 15",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "rVEMy_1f4og"
+          },
+          {
+            "id": "ep16",
+            "title": "Tsubasa: Road To 2002-Bölüm 16",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "8J7sqRDN_6s"
+          },
+          {
+            "id": "ep17",
+            "title": "Tsubasa: Road To 2002-Bölüm 17",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "S811KBuWgJ0"
+          },
+          {
+            "id": "ep18",
+            "title": "Tsubasa: Road To 2002-Bölüm 18",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "RC3tPm1BTRw"
+          },
+          {
+            "id": "ep19",
+            "title": "Tsubasa: Road To 2002-Bölüm 19",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "Ux61k93Gymc"
+          },
+          {
+            "id": "ep20",
+            "title": "Tsubasa: Road To 2002-Bölüm 20",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "lrv9jCnLGUU"
+          },
+          {
+            "id": "ep21",
+            "title": "Tsubasa: Road To 2002-Bölüm 21",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "4y0g8l-s51I"
+          },
+          {
+            "id": "ep22",
+            "title": "Tsubasa: Road To 2002-Bölüm 22",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "Mo1pivQleaU"
+          },
+          {
+            "id": "ep23",
+            "title": "Tsubasa: Road To 2002-Bölüm 23",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "-4jQJC3tqIY"
+          },
+          {
+            "id": "ep24",
+            "title": "Tsubasa: Road To 2002-Bölüm 24",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "vwllkOJytWA"
+          },
+          {
+            "id": "ep25",
+            "title": "Tsubasa: Road To 2002-Bölüm 25",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "lexvwTF4DuI"
+          },
+          {
+            "id": "ep26",
+            "title": "Tsubasa: Road To 2002-Bölüm 26",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "glB0sJa6otY"
+          },
+          {
+            "id": "ep27",
+            "title": "Tsubasa: Road To 2002-Bölüm 27",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "sWTMvUj6jRg"
+          },
+          {
+            "id": "ep28",
+            "title": "Tsubasa: Road To 2002-Bölüm 28",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "tBWUfCKaXqc"
+          },
+          {
+            "id": "ep29",
+            "title": "Tsubasa: Road To 2002-Bölüm 29",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "FtEnUZrdJD0"
+          },
+          {
+            "id": "ep30",
+            "title": "Tsubasa: Road To 2002-Bölüm 30",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "pk3D8tJsu7Q"
+          },
+          {
+            "id": "ep31",
+            "title": "Tsubasa: Road To 2002-Bölüm 31",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "TmZJ0amhFpE"
+          },
+          {
+            "id": "ep32",
+            "title": "Tsubasa: Road To 2002-Bölüm 32",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "eomkFe0WDNI"
+          },
+          {
+            "id": "ep33",
+            "title": "Tsubasa: Road To 2002-Bölüm 33",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "jSDZHf-HUQU"
+          },
+          {
+            "id": "ep34",
+            "title": "Tsubasa: Road To 2002-Bölüm 34",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "e2L0GDvVgLo"
+          },
+          {
+            "id": "ep35",
+            "title": "Tsubasa: Road To 2002-Bölüm 35",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "9HP2wHttHXU"
+          },
+          {
+            "id": "ep36",
+            "title": "Tsubasa: Road To 2002-Bölüm 36",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "0UPlkxg2NKU"
+          },
+          {
+            "id": "ep37",
+            "title": "Tsubasa: Road To 2002-Bölüm 37",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "ODh35hWNN5Y"
+          },
+          {
+            "id": "ep38",
+            "title": "Tsubasa: Road To 2002-Bölüm 38",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "KlgnJRTO_VY"
+          },
+          {
+            "id": "ep39",
+            "title": "Tsubasa: Road To 2002-Bölüm 39",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "7CkHp8mZWXE"
+          },
+          {
+            "id": "ep40",
+            "title": "Tsubasa: Road To 2002-Bölüm 40",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "vdKPSxd8Xsk"
+          },
+          {
+            "id": "ep41",
+            "title": "Tsubasa: Road To 2002-Bölüm 41",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "f9o8tJ2VYLI"
+          },
+          {
+            "id": "ep42",
+            "title": "Tsubasa: Road To 2002-Bölüm 42",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "VfLPBXd1Rx0"
+          },
+          {
+            "id": "ep43",
+            "title": "Tsubasa: Road To 2002-Bölüm 43",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "ihG64h3GcA"
+          },
+          {
+            "id": "ep44",
+            "title": "Tsubasa: Road To 2002-Bölüm 44",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "2--YfzefUXM"
+          },
+          {
+            "id": "ep45",
+            "title": "Tsubasa: Road To 2002-Bölüm 45",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "ikBgBR0tfvo"
+          },
+          {
+            "id": "ep46",
+            "title": "Tsubasa: Road To 2002-Bölüm 46",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "n7JZ7GLKX-I"
+          },
+          {
+            "id": "ep47",
+            "title": "Tsubasa: Road To 2002-Bölüm 47",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "KTRP-5f-nPs"
+          },
+          {
+            "id": "ep48",
+            "title": "Tsubasa: Road To 2002-Bölüm 48",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "ax7R8h-xyLA"
+          },
+          {
+            "id": "ep49",
+            "title": "Tsubasa: Road To 2002-Bölüm 49",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "gV00fqGTY2Y"
+          },
+          {
+            "id": "ep50",
+            "title": "Tsubasa: Road To 2002-Bölüm 50",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "Tb4bfuQKIAg"
+          },
+          {
+            "id": "ep51",
+            "title": "Tsubasa: Road To 2002-Bölüm 51",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "A52aBx3utFY"
+          },
+          {
+            "id": "ep52",
+            "title": "Tsubasa: Road To 2002-Bölüm 52",
+            "thumbnail": "https://seyredelim.com/media/thumbs/53f71609084f2f6721e30aaee752319b-492.jpg",
+            "videoId": "ThnbBGdKD8c"
+          }   
+          ]
+        }
+      ]
+    },
+    "seri-5": {
+      "title": "Cille",
+      "description": "Dizinin ana karakterleri, farklı güçlere sahip Cilleler ile maceradan maceraya atılan bir grup çocuktur. Bu çocuklar, Cille Diyarı'nı keşfederken, iyi ve kötü güçler arasında dengeleri korumaya çalışırlar. Ancak, Cillelerin peşinde olan kötü niyetli karakterler de vardır ve kahramanlarımız bu tehditlere karşı mücadele etmek zorundadır.",
+      "cover": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+      "categories": ["Fantastik", "Macera", "Anime"],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+          {
+            "id": "ep1",
+            "title": "Cille-Bölüm 01",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "yEV2Hi5irPk"
+          },
+          {
+            "id": "ep2",
+            "title": "Cille-Bölüm 02",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "VIBvOOwb0yU"
+          },
+          {
+            "id": "ep3",
+            "title": "Cille-Bölüm 03",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "mGbqVXPmS-o"
+          },
+          {
+            "id": "ep4",
+            "title": "Cille-Bölüm 04",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "GpnBxfSTfY4"
+          },
+          {
+            "id": "ep5",
+            "title": "Cille-Bölüm 05",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "YbkN7YHMR34"
+          },
+          {
+            "id": "ep6",
+            "title": "Cille-Bölüm 06",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "Rpzz-7pZkec"
+          },
+          {
+            "id": "ep7",
+            "title": "Cille-Bölüm 07",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "Q7phlVuax7g"
+          },
+          {
+            "id": "ep8",
+            "title": "Cille-Bölüm 08",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "fUUixQ-nwXE"
+          },
+          {
+            "id": "ep9",
+            "title": "Cille-Bölüm 09",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "jv7b2BZTV4k"
+          },
+          {
+            "id": "ep10",
+            "title": "Cille-Bölüm 10",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "aE5rzJettMk"
+          },
+          {
+            "id": "ep11",
+            "title": "Cille-Bölüm 11",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "3OEUR562h0E"
+          },
+          {
+            "id": "ep12",
+            "title": "Cille-Bölüm 12",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "6jazctERXg4"
+          },
+          {
+            "id": "ep13",
+            "title": "Cille-Bölüm 13",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "uLaHHQuGl5w"
+          },
+          {
+            "id": "ep14",
+            "title": "Cille-Bölüm 14",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "0THu361-QlM"
+          },
+          {
+            "id": "ep15",
+            "title": "Cille-Bölüm 15",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "FAEWkaAdz_4"
+          },
+          {
+            "id": "ep16",
+            "title": "Cille-Bölüm 16",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "PS9LNeYLswU"
+          },
+          {
+            "id": "ep17",
+            "title": "Cille-Bölüm 17",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "-Gx-YlvTgmg"
+          },
+          {
+            "id": "ep18",
+            "title": "Cille-Bölüm 18",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "PaoDIvC_N14"
+          },
+          {
+            "id": "ep19",
+            "title": "Cille-Bölüm 19",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "gVaJegw3XNw"
+          },
+          {
+            "id": "ep20",
+            "title": "Cille-Bölüm 20",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "oKqpbyoatWs"
+          },
+          {
+            "id": "ep21",
+            "title": "Cille-Bölüm 21",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "Ubug2PfQpnI"
+          },
+          {
+            "id": "ep22",
+            "title": "Cille-Bölüm 22",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "gokBGZpFFt4"
+          },
+          {
+            "id": "ep23",
+            "title": "Cille-Bölüm 23",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "2oxaNvUCsrA"
+          },
+          {
+            "id": "ep24",
+            "title": "Cille-Bölüm 24",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "4J_Ue4O7kpE"
+          },
+          {
+            "id": "ep25",
+            "title": "Cille-Bölüm 25",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "YZAYVZYdIIQ"
+          },
+          {
+            "id": "ep26",
+            "title": "Cille-Bölüm 26",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "ikdAOxNm5ZM"
+          },
+          {
+            "id": "ep27",
+            "title": "Cille-Bölüm 27",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "GQSEscleMhg"
+          },
+          {
+            "id": "ep28",
+            "title": "Cille-Bölüm 28",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "8g31_L-yOiM"
+          },
+          {
+            "id": "ep29",
+            "title": "Cille-Bölüm 29",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "8vFVvjFzHlo"
+          },
+          {
+            "id": "ep30",
+            "title": "Cille-Bölüm 30",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "1Jyy0FWJukQ"
+          },
+          {
+            "id": "ep31",
+            "title": "Cille-Bölüm 31",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "UwxOtw9q0hs"
+          },
+          {
+            "id": "ep32",
+            "title": "Cille-Bölüm 32",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "MyGWyR5hB9I"
+          },
+          {
+            "id": "ep33",
+            "title": "Cille-Bölüm 33",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "Nko-sGuChKI"
+          },
+          {
+            "id": "ep34",
+            "title": "Cille-Bölüm 34",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "3Lw6ntjlBdA"
+          },
+          {
+            "id": "ep35",
+            "title": "Cille-Bölüm 35",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "_FzNqFFBRtk"
+          },
+          {
+            "id": "ep36",
+            "title": "Cille-Bölüm 36",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "r4d-IAylvkI"
+          },
+          {
+            "id": "ep37",
+            "title": "Cille-Bölüm 37",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "EXSAmrgTkyQ"
+          },
+          {
+            "id": "ep38",
+            "title": "Cille-Bölüm 38",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "ogo6xBGmDws"
+          },
+          {
+            "id": "ep39",
+            "title": "Cille-Bölüm 39",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "F9w8NI7dRZA"
+          },
+          {
+            "id": "ep40",
+            "title": "Cille-Bölüm 40",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "0A-g1HcHS6E"
+          },
+          {
+            "id": "ep41",
+            "title": "Cille-Bölüm 41",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "cjDVrBvZ4CA"
+          },
+          {
+            "id": "ep42",
+            "title": "Cille-Bölüm 42",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "0G6UjTYhkPI"
+          },
+          {
+            "id": "ep43",
+            "title": "Cille-Bölüm 43",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "QMkaVWR6Sss"
+          },
+          {
+            "id": "ep44",
+            "title": "Cille-Bölüm 44",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "PaET4UPS4ak"
+          },
+          {
+            "id": "ep45",
+            "title": "Cille-Bölüm 45",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "QMaHe-9hN4Y"
+          },
+          {
+            "id": "ep46",
+            "title": "Cille-Bölüm 46",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "Xo9vmEvoadU"
+          },
+          {
+            "id": "ep47",
+            "title": "Cille-Bölüm 47",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "obcCnPk9c50"
+          },
+          {
+            "id": "ep48",
+            "title": "Cille-Bölüm 48",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "5OBwaKwrxMY"
+          },
+          {
+            "id": "ep49",
+            "title": "Cille-Bölüm 49",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "-W-etp8YI9k"
+          },
+          {
+            "id": "ep50",
+            "title": "Cille-Bölüm 50",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "QJgcr0g1i_g"
+          },
+          {
+            "id": "ep51",
+            "title": "Cille-Bölüm 51",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "s4M-UMsPUAM"
+          },
+          {
+            "id": "ep52",
+            "title": "Cille-Bölüm 52",
+            "thumbnail": "https://i.pinimg.com/474x/5d/91/fd/5d91fd8eb877e7f8b448f63902229656.jpg",
+            "videoId": "acLR4JYrKYY"
+          }   
+          ]
+        }
+      ]
+    },
+    "seri-6": {
+      "title": "Beyblade",
+      "description": "Beyblade, Gingka Hagane adlı ana karakterin etrafında döner. Gingka, eski bir Beyblade şampiyonudur ve kendisini, güçlü Beyblade dövüşleri yaparak dünyayı gezmekte bulur. Gingka'nın amacı, en güçlü Beyblade'i kullanarak Beyblade Dünya Şampiyonasını kazanmak ve aynı zamanda Nemesis adlı kötü bir gücü durdurmaktır.",
+      "cover": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+      "categories": ["Aksiyon", "Macera", "Fantastik", "Anime"],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+          {
+            "id": "ep1",
+            "title": "Beyblade: Metal Fusion-Bölüm 01",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "_JKNDCvPc3A"
+          },
+          {
+            "id": "ep2",
+            "title": "Beyblade: Metal Fusion-Bölüm 02",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "4jHoj5geuJ8"
+          },
+          {
+            "id": "ep3",
+            "title": "Beyblade: Metal Fusion-Bölüm 03",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "50jkNwbNYFs"
+          },
+          {
+            "id": "ep4",
+            "title": "Beyblade: Metal Fusion-Bölüm 04",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "rWOJMX9xDyA"
+          },
+          {
+            "id": "ep5",
+            "title": "Beyblade: Metal Fusion-Bölüm 05",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "JVw2OrBg0Os"
+          },
+          {
+            "id": "ep6",
+            "title": "Beyblade: Metal Fusion-Bölüm 06",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "qCJhIAHU7c8"
+          },
+          {
+            "id": "ep7",
+            "title": "Beyblade: Metal Fusion-Bölüm 07",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "AjNAan3r_EQ"
+          },
+          {
+            "id": "ep8",
+            "title": "Beyblade: Metal Fusion-Bölüm 08",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "PBoW0shkDIo"
+          },
+          {
+            "id": "ep9",
+            "title": "Beyblade: Metal Fusion-Bölüm 09",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "xBou90Yk1i4"
+          },
+          {
+            "id": "ep10",
+            "title": "Beyblade: Metal Fusion-Bölüm 10",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ZWxmhgtYBx4"
+          },
+          {
+            "id": "ep11",
+            "title": "Beyblade: Metal Fusion-Bölüm 11",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "Dcp2Q7aAMAI"
+          },
+          {
+            "id": "ep12",
+            "title": "Beyblade: Metal Fusion-Bölüm 12",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "QVPvEd4N81Y"
+          },
+          {
+            "id": "ep13",
+            "title": "Beyblade: Metal Fusion-Bölüm 13",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "FTsaUUU_P3M"
+          },
+          {
+            "id": "ep14",
+            "title": "Beyblade: Metal Fusion-Bölüm 14",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "3I7S6TjJ7A8"
+          },
+          {
+            "id": "ep15",
+            "title": "Beyblade: Metal Fusion-Bölüm 15",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "mJ7NWV-6jH8"
+          },
+          {
+            "id": "ep16",
+            "title": "Beyblade: Metal Fusion-Bölüm 16",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "H6L-jLRKpww"
+          },
+          {
+            "id": "ep17",
+            "title": "Beyblade: Metal Fusion-Bölüm 17",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "eyILMmMe_7E"
+          },
+          {
+            "id": "ep18",
+            "title": "Beyblade: Metal Fusion-Bölüm 18",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "eaFIR8BWqeQ"
+          },
+          {
+            "id": "ep19",
+            "title": "Beyblade: Metal Fusion-Bölüm 19",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "G-hrjJ3Nr8k"
+          },
+          {
+            "id": "ep20",
+            "title": "Beyblade: Metal Fusion-Bölüm 20",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "GsPRKoos0WM"
+          },
+          {
+            "id": "ep21",
+            "title": "Beyblade: Metal Fusion-Bölüm 21",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "9aMTStcjtFk"
+          },
+          {
+            "id": "ep22",
+            "title": "Beyblade: Metal Fusion-Bölüm 22",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "vS0i3JIncaw"
+          },
+          {
+            "id": "ep23",
+            "title": "Beyblade: Metal Fusion-Bölüm 23",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "7tB3w0-vFzI"
+          },
+          {
+            "id": "ep24",
+            "title": "Beyblade: Metal Fusion-Bölüm 24",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "2qsQ8edARcU"
+          },
+          {
+            "id": "ep25",
+            "title": "Beyblade: Metal Fusion-Bölüm 25",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "8M1tc4nAhJg"
+          },
+          {
+            "id": "ep26",
+            "title": "Beyblade: Metal Fusion-Bölüm 26",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "b-XPnBhAe-0"
+          },
+          {
+            "id": "ep27",
+            "title": "Beyblade: Metal Fusion-Bölüm 27",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "-57bUIuCoEc"
+          },
+          {
+            "id": "ep28",
+            "title": "Beyblade: Metal Fusion-Bölüm 28",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "V3ixNc_5csg"
+          },
+          {
+            "id": "ep29",
+            "title": "Beyblade: Metal Fusion-Bölüm 29",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "TQs-V4LCSN0"
+          },
+          {
+            "id": "ep30",
+            "title": "Beyblade: Metal Fusion-Bölüm 30",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "GKBdtoo8vu8"
+          },
+          {
+            "id": "ep31",
+            "title": "Beyblade: Metal Fusion-Bölüm 31",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "AGAJn6VObXU"
+          },
+          {
+            "id": "ep32",
+            "title": "Beyblade: Metal Fusion-Bölüm 32",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "yEd-rzJ1i9U"
+          },
+          {
+            "id": "ep33",
+            "title": "Beyblade: Metal Fusion-Bölüm 33",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "sibsN8Wxb44"
+          },
+          {
+            "id": "ep34",
+            "title": "Beyblade: Metal Fusion-Bölüm 34",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "nQdiHntLhoQ"
+          },
+          {
+            "id": "ep35",
+            "title": "Beyblade: Metal Fusion-Bölüm 35",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "PqmnPy-AH7k"
+          },
+          {
+            "id": "ep36",
+            "title": "Beyblade: Metal Fusion-Bölüm 36",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "Smh_uEZrC9Y"
+          },
+          {
+            "id": "ep37",
+            "title": "Beyblade: Metal Fusion-Bölüm 37",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "IX-tc2zQ9qw"
+          },
+          {
+            "id": "ep38",
+            "title": "Beyblade: Metal Fusion-Bölüm 38",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "Vlpr9l4Pzmw"
+          },
+          {
+            "id": "ep39",
+            "title": "Beyblade: Metal Fusion-Bölüm 39",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "tPmfdml_jCA"
+          },
+          {
+            "id": "ep40",
+            "title": "Beyblade: Metal Fusion-Bölüm 40",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "juX70V2xiro"
+          },
+          {
+            "id": "ep41",
+            "title": "Beyblade: Metal Fusion-Bölüm 41",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "RlpwPwq8hR4"
+          },
+          {
+            "id": "ep42",
+            "title": "Beyblade: Metal Fusion-Bölüm 42",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "I-URGN-BTkY"
+          },
+          {
+            "id": "ep43",
+            "title": "Beyblade: Metal Fusion-Bölüm 43",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "P_ueJ2uGOBw"
+          },
+          {
+            "id": "ep44",
+            "title": "Beyblade: Metal Fusion-Bölüm 44",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "CW3_Oys4Ftw"
+          },
+          {
+            "id": "ep45",
+            "title": "Beyblade: Metal Fusion-Bölüm 45",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "uLOOYI72yS4"
+          },
+          {
+            "id": "ep46",
+            "title": "Beyblade: Metal Fusion-Bölüm 46",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "pqWqlV30gCE"
+          },
+          {
+            "id": "ep47",
+            "title": "Beyblade: Metal Fusion-Bölüm 47",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "nz_9LwJ8cjA"
+          },
+          {
+            "id": "ep48",
+            "title": "Beyblade: Metal Fusion-Bölüm 48",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "U0QUBzjiP3s"
+          },
+          {
+            "id": "ep49",
+            "title": "Beyblade: Metal Fusion-Bölüm 49",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "C3pre_H8b3M"
+          },
+          {
+            "id": "ep50",
+            "title": "Beyblade: Metal Fusion-Bölüm 50",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "33x5JzXgoQw"
+          },
+          {
+            "id": "ep51",
+            "title": "Beyblade: Metal Fusion-Bölüm 51",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "i9TQqCjbZAk"
+          }  
+          ]
+        },
+        {
+          "seasonNumber": 2,
+          "episodes": [
+          {
+            "id": "ep1",
+            "title": "Beyblade: Metal Masters-Bölüm 01",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "UfLlg4LBvZg"
+          },
+          {
+            "id": "ep2",
+            "title": "Beyblade: Metal Masters-Bölüm 02",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "vpcDxsxIMvo"
+          },
+          {
+            "id": "ep3",
+            "title": "Beyblade: Metal Masters-Bölüm 03",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "i6uBWEjLl6o"
+          },
+          {
+            "id": "ep4",
+            "title": "Beyblade: Metal Masters-Bölüm 04",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "mAVWObb9oW0"
+          },
+          {
+            "id": "ep5",
+            "title": "Beyblade: Metal Masters-Bölüm 05",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "4cv52-xZ9Js"
+          },
+          {
+            "id": "ep6",
+            "title": "Beyblade: Metal Masters-Bölüm 06",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "jZ1BnyRued4"
+          },
+          {
+            "id": "ep7",
+            "title": "Beyblade: Metal Masters-Bölüm 07",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "TKbaPnbXCTg"
+          },
+          {
+            "id": "ep8",
+            "title": "Beyblade: Metal Masters-Bölüm 08",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "xOuMbRd2DH4"
+          },
+          {
+            "id": "ep9",
+            "title": "Beyblade: Metal Masters-Bölüm 09",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "cEC-hfokY3M"
+          },
+          {
+            "id": "ep10",
+            "title": "Beyblade: Metal Masters-Bölüm 10",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "RnSVVOLe0AA"
+          },
+          {
+            "id": "ep11",
+            "title": "Beyblade: Metal Masters-Bölüm 11",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "NXeZtvyKbpU"
+          },
+          {
+            "id": "ep12",
+            "title": "Beyblade: Metal Masters-Bölüm 12",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "jln7U7altxI"
+          },
+          {
+            "id": "ep13",
+            "title": "Beyblade: Metal Masters-Bölüm 13",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "xwhIrsks1oM"
+          },
+          {
+            "id": "ep14",
+            "title": "Beyblade: Metal Masters-Bölüm 14",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "tlxIGC8gqzA"
+          },
+          {
+            "id": "ep15",
+            "title": "Beyblade: Metal Masters-Bölüm 15",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "rVEMy_1f4og"
+          },
+          {
+            "id": "ep16",
+            "title": "Beyblade: Metal Masters-Bölüm 16",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "8J7sqRDN_6s"
+          },
+          {
+            "id": "ep17",
+            "title": "Beyblade: Metal Masters-Bölüm 17",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "S811KBuWgJ0"
+          },
+          {
+            "id": "ep18",
+            "title": "Beyblade: Metal Masters-Bölüm 18",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "RC3tPm1BTRw"
+          },
+          {
+            "id": "ep19",
+            "title": "Beyblade: Metal Masters-Bölüm 19",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "Ux61k93Gymc"
+          },
+          {
+            "id": "ep20",
+            "title": "Beyblade: Metal Masters-Bölüm 20",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "lrv9jCnLGUU"
+          },
+          {
+            "id": "ep21",
+            "title": "Beyblade: Metal Masters-Bölüm 21",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "4y0g8l-s51I"
+          },
+          {
+            "id": "ep22",
+            "title": "Beyblade: Metal Masters-Bölüm 22",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "Mo1pivQleaU"
+          },
+          {
+            "id": "ep23",
+            "title": "Beyblade: Metal Masters-Bölüm 23",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "4jQJC3tqIY"
+          },
+          {
+            "id": "ep24",
+            "title": "Beyblade: Metal Masters-Bölüm 24",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "vwllkOJytWA"
+          },
+          {
+            "id": "ep25",
+            "title": "Beyblade: Metal Masters-Bölüm 25",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "lexvwTF4DuI"
+          },
+          {
+            "id": "ep26",
+            "title": "Beyblade: Metal Masters-Bölüm 26",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "glB0sJa6otY"
+          },
+          {
+            "id": "ep27",
+            "title": "Beyblade: Metal Masters-Bölüm 27",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "sWTMvUj6jRg"
+          },
+          {
+            "id": "ep28",
+            "title": "Beyblade: Metal Masters-Bölüm 28",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "tBWUfCKaXqc"
+          },
+          {
+            "id": "ep29",
+            "title": "Beyblade: Metal Masters-Bölüm 29",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "FtEnUZrdJD0"
+          },
+          {
+            "id": "ep30",
+            "title": "Beyblade: Metal Masters-Bölüm 30",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "pk3D8tJsu7Q"
+          },
+          {
+            "id": "ep31",
+            "title": "Beyblade: Metal Masters-Bölüm 31",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "TmZJ0amhFpE"
+          },
+          {
+            "id": "ep32",
+            "title": "Beyblade: Metal Masters-Bölüm 32",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "eomkFe0WDNI"
+          },
+          {
+            "id": "ep33",
+            "title": "Beyblade: Metal Masters-Bölüm 33",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "jSDZHf-HUQU"
+          },
+          {
+            "id": "ep34",
+            "title": "Beyblade: Metal Masters-Bölüm 34",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "e2L0GDvVgLo"
+          },
+          {
+            "id": "ep35",
+            "title": "Beyblade: Metal Masters-Bölüm 35",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "9HP2wHttHXU"
+          },
+          {
+            "id": "ep36",
+            "title": "Beyblade: Metal Masters-Bölüm 36",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "0UPlkxg2NKU"
+          },
+          {
+            "id": "ep37",
+            "title": "Beyblade: Metal Masters-Bölüm 37",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ODh35hWNN5Y"
+          },
+          {
+            "id": "ep38",
+            "title": "Beyblade: Metal Masters-Bölüm 38",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "KlgnJRTO_VY"
+          },
+          {
+            "id": "ep39",
+            "title": "Beyblade: Metal Masters-Bölüm 39",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "7CkHp8mZWXE"
+          },
+          {
+            "id": "ep40",
+            "title": "Beyblade: Metal Masters-Bölüm 40",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "vdKPSxd8Xsk"
+          },
+          {
+            "id": "ep41",
+            "title": "Beyblade: Metal Masters-Bölüm 41",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "f9o8tJ2VYLI"
+          },
+          {
+            "id": "ep42",
+            "title": "Beyblade: Metal Masters-Bölüm 42",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "VfLPBXd1Rx0"
+          },
+          {
+            "id": "ep43",
+            "title": "Beyblade: Metal Masters-Bölüm 43",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ihG64h3GcA"
+          },
+          {
+            "id": "ep44",
+            "title": "Beyblade: Metal Masters-Bölüm 44",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "2--YfzefUXM"
+          },
+          {
+            "id": "ep45",
+            "title": "Beyblade: Metal Masters-Bölüm 45",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ikBgBR0tfvo"
+          },
+          {
+            "id": "ep46",
+            "title": "Beyblade: Metal Masters-Bölüm 46",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "n7JZ7GLKX-I"
+          },
+          {
+            "id": "ep47",
+            "title": "Beyblade: Metal Masters-Bölüm 47",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "KTRP-5f-nPs"
+          },
+          {
+            "id": "ep48",
+            "title": "Beyblade: Metal Masters-Bölüm 48",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ax7R8h-xyLA"
+          },
+          {
+            "id": "ep49",
+            "title": "Beyblade: Metal Masters-Bölüm 49",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "gV00fqGTY2Y"
+          },
+          {
+            "id": "ep50",
+            "title": "Beyblade: Metal Masters-Bölüm 50",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "Tb4bfuQKIAg"
+          },
+          {
+            "id": "ep51",
+            "title": "Beyblade: Metal Masters-Bölüm 51",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "A52aBx3utFY"
+          },
+          {
+            "id": "ep52",
+            "title": "Beyblade: Metal Masters-Bölüm 52",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ThnbBGdKD8c"
+          }   
+          ]
+        },
+        {
+          "seasonNumber": 3,
+          "episodes": [
+          {
+            "id": "ep1",
+            "title": "Beyblade: Metal Fury-Bölüm 01",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "UfLlg4LBvZg"
+          },
+          {
+            "id": "ep2",
+            "title": "Beyblade: Metal Fury-Bölüm 02",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "vpcDxsxIMvo"
+          },
+          {
+            "id": "ep3",
+            "title": "Beyblade: Metal Fury-Bölüm 03",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "i6uBWEjLl6o"
+          },
+          {
+            "id": "ep4",
+            "title": "Beyblade: Metal Fury-Bölüm 04",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "mAVWObb9oW0"
+          },
+          {
+            "id": "ep5",
+            "title": "Beyblade: Metal Fury-Bölüm 05",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "4cv52-xZ9Js"
+          },
+          {
+            "id": "ep6",
+            "title": "Beyblade: Metal Fury-Bölüm 06",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "jZ1BnyRued4"
+          },
+          {
+            "id": "ep7",
+            "title": "Beyblade: Metal Fury-Bölüm 07",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "TKbaPnbXCTg"
+          },
+          {
+            "id": "ep8",
+            "title": "Beyblade: Metal Fury-Bölüm 08",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "xOuMbRd2DH4"
+          },
+          {
+            "id": "ep9",
+            "title": "Beyblade: Metal Fury-Bölüm 09",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "cEC-hfokY3M"
+          },
+          {
+            "id": "ep10",
+            "title": "Beyblade: Metal Fury-Bölüm 10",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "RnSVVOLe0AA"
+          },
+          {
+            "id": "ep11",
+            "title": "Beyblade: Metal Fury-Bölüm 11",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "NXeZtvyKbpU"
+          },
+          {
+            "id": "ep12",
+            "title": "Beyblade: Metal Fury-Bölüm 12",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "jln7U7altxI"
+          },
+          {
+            "id": "ep13",
+            "title": "Beyblade: Metal Fury-Bölüm 13",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "xwhIrsks1oM"
+          },
+          {
+            "id": "ep14",
+            "title": "Beyblade: Metal Fury-Bölüm 14",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "tlxIGC8gqzA"
+          },
+          {
+            "id": "ep15",
+            "title": "Beyblade: Metal Fury-Bölüm 15",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "rVEMy_1f4og"
+          },
+          {
+            "id": "ep16",
+            "title": "Beyblade: Metal Fury-Bölüm 16",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "8J7sqRDN_6s"
+          },
+          {
+            "id": "ep17",
+            "title": "Beyblade: Metal Fury-Bölüm 17",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "S811KBuWgJ0"
+          },
+          {
+            "id": "ep18",
+            "title": "Beyblade: Metal Fury-Bölüm 18",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "RC3tPm1BTRw"
+          },
+          {
+            "id": "ep19",
+            "title": "Beyblade: Metal Fury-Bölüm 19",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "Ux61k93Gymc"
+          },
+          {
+            "id": "ep20",
+            "title": "Beyblade: Metal Fury-Bölüm 20",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "lrv9jCnLGUU"
+          },
+          {
+            "id": "ep21",
+            "title": "Beyblade: Metal Fury-Bölüm 21",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "4y0g8l-s51I"
+          },
+          {
+            "id": "ep22",
+            "title": "Beyblade: Metal Fury-Bölüm 22",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "Mo1pivQleaU"
+          },
+          {
+            "id": "ep23",
+            "title": "Beyblade: Metal Fury-Bölüm 23",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "4jQJC3tqIY"
+          },
+          {
+            "id": "ep24",
+            "title": "Beyblade: Metal Fury-Bölüm 24",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "vwllkOJytWA"
+          },
+          {
+            "id": "ep25",
+            "title": "Beyblade: Metal Fury-Bölüm 25",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "lexvwTF4DuI"
+          },
+          {
+            "id": "ep26",
+            "title": "Beyblade: Metal Fury-Bölüm 26",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "glB0sJa6otY"
+          },
+          {
+            "id": "ep27",
+            "title": "Beyblade: Metal Fury-Bölüm 27",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "sWTMvUj6jRg"
+          },
+          {
+            "id": "ep28",
+            "title": "Beyblade: Metal Fury-Bölüm 28",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "tBWUfCKaXqc"
+          },
+          {
+            "id": "ep29",
+            "title": "Beyblade: Metal Fury-Bölüm 29",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "FtEnUZrdJD0"
+          },
+          {
+            "id": "ep30",
+            "title": "Beyblade: Metal Fury-Bölüm 30",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "pk3D8tJsu7Q"
+          },
+          {
+            "id": "ep31",
+            "title": "Beyblade: Metal Fury-Bölüm 31",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "TmZJ0amhFpE"
+          },
+          {
+            "id": "ep32",
+            "title": "Beyblade: Metal Fury-Bölüm 32",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "eomkFe0WDNI"
+          },
+          {
+            "id": "ep33",
+            "title": "Beyblade: Metal Fury-Bölüm 33",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "jSDZHf-HUQU"
+          },
+          {
+            "id": "ep34",
+            "title": "Beyblade: Metal Fury-Bölüm 34",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "e2L0GDvVgLo"
+          },
+          {
+            "id": "ep35",
+            "title": "Beyblade: Metal Fury-Bölüm 35",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "9HP2wHttHXU"
+          },
+          {
+            "id": "ep36",
+            "title": "Beyblade: Metal Fury-Bölüm 36",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "0UPlkxg2NKU"
+          },
+          {
+            "id": "ep37",
+            "title": "Beyblade: Metal Fury-Bölüm 37",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ODh35hWNN5Y"
+          },
+          {
+            "id": "ep38",
+            "title": "Beyblade: Metal Fury-Bölüm 38",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "KlgnJRTO_VY"
+          },
+          {
+            "id": "ep39",
+            "title": "Beyblade: Metal Fury-Bölüm 39",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "7CkHp8mZWXE"
+          },
+          {
+            "id": "ep40",
+            "title": "Beyblade: Metal Fury-Bölüm 40",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "vdKPSxd8Xsk"
+          },
+          {
+            "id": "ep41",
+            "title": "Beyblade: Metal Fury-Bölüm 41",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "f9o8tJ2VYLI"
+          },
+          {
+            "id": "ep42",
+            "title": "Beyblade: Metal Fury-Bölüm 42",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "VfLPBXd1Rx0"
+          },
+          {
+            "id": "ep43",
+            "title": "Beyblade: Metal Fury-Bölüm 43",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ihG64h3GcA"
+          },
+          {
+            "id": "ep44",
+            "title": "Beyblade: Metal Fury-Bölüm 44",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "2--YfzefUXM"
+          },
+          {
+            "id": "ep45",
+            "title": "Beyblade: Metal Fury-Bölüm 45",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ikBgBR0tfvo"
+          },
+          {
+            "id": "ep46",
+            "title": "Beyblade: Metal Fury-Bölüm 46",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "n7JZ7GLKX-I"
+          },
+          {
+            "id": "ep47",
+            "title": "Beyblade: Metal Fury-Bölüm 47",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "KTRP-5f-nPs"
+          },
+          {
+            "id": "ep48",
+            "title": "Beyblade: Metal Fury-Bölüm 48",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ax7R8h-xyLA"
+          },
+          {
+            "id": "ep49",
+            "title": "Beyblade: Metal Fury-Bölüm 49",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "gV00fqGTY2Y"
+          },
+          {
+            "id": "ep50",
+            "title": "Beyblade: Metal Fury-Bölüm 50",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "Tb4bfuQKIAg"
+          },
+          {
+            "id": "ep51",
+            "title": "Beyblade: Metal Fury-Bölüm 51",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "A52aBx3utFY"
+          },
+          {
+            "id": "ep52",
+            "title": "Beyblade: Metal Fury-Bölüm 52",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ThnbBGdKD8c"
+          }   
+          ]
+        },
+        {
+          "seasonNumber": 4,
+          "episodes": [
+          {
+            "id": "ep1",
+            "title": "Beyblade: Shogun Steel-Bölüm 01",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "UfLlg4LBvZg"
+          },
+          {
+            "id": "ep2",
+            "title": "Beyblade: Shogun Steel-Bölüm 02",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "vpcDxsxIMvo"
+          },
+          {
+            "id": "ep3",
+            "title": "Beyblade: Shogun Steel-Bölüm 03",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "i6uBWEjLl6o"
+          },
+          {
+            "id": "ep4",
+            "title": "Beyblade: Shogun Steel-Bölüm 04",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "mAVWObb9oW0"
+          },
+          {
+            "id": "ep5",
+            "title": "Beyblade: Shogun Steel-Bölüm 05",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "4cv52-xZ9Js"
+          },
+          {
+            "id": "ep6",
+            "title": "Beyblade: Shogun Steel-Bölüm 06",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "jZ1BnyRued4"
+          },
+          {
+            "id": "ep7",
+            "title": "Beyblade: Shogun Steel-Bölüm 07",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "TKbaPnbXCTg"
+          },
+          {
+            "id": "ep8",
+            "title": "Beyblade: Shogun Steel-Bölüm 08",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "xOuMbRd2DH4"
+          },
+          {
+            "id": "ep9",
+            "title": "Beyblade: Shogun Steel-Bölüm 09",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "cEC-hfokY3M"
+          },
+          {
+            "id": "ep10",
+            "title": "Beyblade: Shogun Steel-Bölüm 10",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "RnSVVOLe0AA"
+          },
+          {
+            "id": "ep11",
+            "title": "Beyblade: Shogun Steel-Bölüm 11",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "NXeZtvyKbpU"
+          },
+          {
+            "id": "ep12",
+            "title": "Beyblade: Shogun Steel-Bölüm 12",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "jln7U7altxI"
+          },
+          {
+            "id": "ep13",
+            "title": "Beyblade: Shogun Steel-Bölüm 13",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "xwhIrsks1oM"
+          },
+          {
+            "id": "ep14",
+            "title": "Beyblade: Shogun Steel-Bölüm 14",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "tlxIGC8gqzA"
+          },
+          {
+            "id": "ep15",
+            "title": "Beyblade: Shogun Steel-Bölüm 15",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "rVEMy_1f4og"
+          },
+          {
+            "id": "ep16",
+            "title": "Beyblade: Shogun Steel-Bölüm 16",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "8J7sqRDN_6s"
+          },
+          {
+            "id": "ep17",
+            "title": "Beyblade: Shogun Steel-Bölüm 17",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "S811KBuWgJ0"
+          },
+          {
+            "id": "ep18",
+            "title": "Beyblade: Shogun Steel-Bölüm 18",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "RC3tPm1BTRw"
+          },
+          {
+            "id": "ep19",
+            "title": "Beyblade: Shogun Steel-Bölüm 19",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "Ux61k93Gymc"
+          },
+          {
+            "id": "ep20",
+            "title": "Beyblade: Shogun Steel-Bölüm 20",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "lrv9jCnLGUU"
+          },
+          {
+            "id": "ep21",
+            "title": "Beyblade: Shogun Steel-Bölüm 21",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "4y0g8l-s51I"
+          },
+          {
+            "id": "ep22",
+            "title": "Beyblade: Shogun Steel-Bölüm 22",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "Mo1pivQleaU"
+          },
+          {
+            "id": "ep23",
+            "title": "Beyblade: Shogun Steel-Bölüm 23",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "4jQJC3tqIY"
+          },
+          {
+            "id": "ep24",
+            "title": "Beyblade: Shogun Steel-Bölüm 24",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "vwllkOJytWA"
+          },
+          {
+            "id": "ep25",
+            "title": "Beyblade: Shogun Steel-Bölüm 25",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "lexvwTF4DuI"
+          },
+          {
+            "id": "ep26",
+            "title": "Beyblade: Shogun Steel-Bölüm 26",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "glB0sJa6otY"
+          },
+          {
+            "id": "ep27",
+            "title": "Beyblade: Shogun Steel-Bölüm 27",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "sWTMvUj6jRg"
+          },
+          {
+            "id": "ep28",
+            "title": "Beyblade: Shogun Steel-Bölüm 28",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "tBWUfCKaXqc"
+          },
+          {
+            "id": "ep29",
+            "title": "Beyblade: Shogun Steel-Bölüm 29",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "FtEnUZrdJD0"
+          },
+          {
+            "id": "ep30",
+            "title": "Beyblade: Shogun Steel-Bölüm 30",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "pk3D8tJsu7Q"
+          },
+          {
+            "id": "ep31",
+            "title": "Beyblade: Shogun Steel-Bölüm 31",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "TmZJ0amhFpE"
+          },
+          {
+            "id": "ep32",
+            "title": "Beyblade: Shogun Steel-Bölüm 32",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "eomkFe0WDNI"
+          },
+          {
+            "id": "ep33",
+            "title": "Beyblade: Shogun Steel-Bölüm 33",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "jSDZHf-HUQU"
+          },
+          {
+            "id": "ep34",
+            "title": "Beyblade: Shogun Steel-Bölüm 34",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "e2L0GDvVgLo"
+          },
+          {
+            "id": "ep35",
+            "title": "Beyblade: Shogun Steel-Bölüm 35",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "9HP2wHttHXU"
+          },
+          {
+            "id": "ep36",
+            "title": "Beyblade: Shogun Steel-Bölüm 36",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "0UPlkxg2NKU"
+          },
+          {
+            "id": "ep37",
+            "title": "Beyblade: Shogun Steel-Bölüm 37",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ODh35hWNN5Y"
+          },
+          {
+            "id": "ep38",
+            "title": "Beyblade: Shogun Steel-Bölüm 38",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "KlgnJRTO_VY"
+          },
+          {
+            "id": "ep39",
+            "title": "Beyblade: Shogun Steel-Bölüm 39",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "7CkHp8mZWXE"
+          },
+          {
+            "id": "ep40",
+            "title": "Beyblade: Shogun Steel-Bölüm 40",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "vdKPSxd8Xsk"
+          },
+          {
+            "id": "ep41",
+            "title": "Beyblade: Shogun Steel-Bölüm 41",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "f9o8tJ2VYLI"
+          },
+          {
+            "id": "ep42",
+            "title": "Beyblade: Shogun Steel-Bölüm 42",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "VfLPBXd1Rx0"
+          },
+          {
+            "id": "ep43",
+            "title": "Beyblade: Shogun Steel-Bölüm 43",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ihG64h3GcA"
+          },
+          {
+            "id": "ep44",
+            "title": "Beyblade: Shogun Steel-Bölüm 44",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "2--YfzefUXM"
+          },
+          {
+            "id": "ep45",
+            "title": "Beyblade: Shogun Steel-Bölüm 45",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ikBgBR0tfvo"
+          },
+          {
+            "id": "ep46",
+            "title": "Beyblade: Shogun Steel-Bölüm 46",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "n7JZ7GLKX-I"
+          },
+          {
+            "id": "ep47",
+            "title": "Beyblade: Shogun Steel-Bölüm 47",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "KTRP-5f-nPs"
+          },
+          {
+            "id": "ep48",
+            "title": "Beyblade: Shogun Steel-Bölüm 48",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ax7R8h-xyLA"
+          },
+          {
+            "id": "ep49",
+            "title": "Beyblade: Shogun Steel-Bölüm 49",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "gV00fqGTY2Y"
+          },
+          {
+            "id": "ep50",
+            "title": "Beyblade: Shogun Steel-Bölüm 50",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "Tb4bfuQKIAg"
+          },
+          {
+            "id": "ep51",
+            "title": "Beyblade: Shogun Steel-Bölüm 51",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "A52aBx3utFY"
+          },
+          {
+            "id": "ep52",
+            "title": "Beyblade: Shogun Steel-Bölüm 52",
+            "thumbnail": "https://m.media-amazon.com/images/I/71MmZDzR6OL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "ThnbBGdKD8c"
+          }   
+          ]
+        }
+      ]
+    },
+    "seri-7": {
+      "title": "GGO Football",
+      "description": "Isaac, babasının ortadan kaybolmasıyla büyük bir gizemin içine sürüklenir. Aynı zamanda GGO futbol turnuvasına katılmak için kendi takımını kurar. Takımındaki robot futbolcuları yöneterek, diğer güçlü rakiplerle mücadele eder ve babasının kayboluşunun ardındaki sırrı çözmeye çalışır",
+      "cover": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+      "seri-6": ["Aksiyon", "Spor", "Bilim Kurgu", "Robot", "Anime"],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+          {
+            "id": "ep1",
+            "title": "GGO Football-Bölüm 01",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "UfLlg4LBvZg"
+          },
+          {
+            "id": "ep2",
+            "title": "GGO Football-Bölüm 02",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "CWGixwmriYM"
+          },
+          {
+            "id": "ep3",
+            "title": "GGO Football-Bölüm 03",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "Irylybq-c0o"
+          },
+          {
+            "id": "ep4",
+            "title": "GGO Football-Bölüm 04",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "D6lLD9u5KDU"
+          },
+          {
+            "id": "ep5",
+            "title": "GGO Football-Bölüm 05",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "hLxb68o1_v4"
+          },
+          {
+            "id": "ep6",
+            "title": "GGO Football-Bölüm 06",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "03V6y-yPzRQ"
+          },
+          {
+            "id": "ep7",
+            "title": "GGO Football-Bölüm 07",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "iB8CMwYadRU"
+          },
+          {
+            "id": "ep8",
+            "title": "GGO Football-Bölüm 08",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "lQfqg0DkZpQ"
+          },
+          {
+            "id": "ep9",
+            "title": "GGO Football-Bölüm 09",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "n1LLcXzSoAI"
+          },
+          {
+            "id": "ep10",
+            "title": "GGO Football-Bölüm 10",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "dmtZgh-Nirw"
+          },
+          {
+            "id": "ep11",
+            "title": "GGO Football-Bölüm 11",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "QPUNMuhVceE"
+          },
+          {
+            "id": "ep12",
+            "title": "GGO Football-Bölüm 12",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "KkcxgdPqzcM"
+          },
+          {
+            "id": "ep13",
+            "title": "GGO Football-Bölüm 13",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "8V85OkbXATA"
+          },
+          {
+            "id": "ep14",
+            "title": "GGO Football-Bölüm 14",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "lAthpaOILAQ"
+          },
+          {
+            "id": "ep15",
+            "title": "GGO Football-Bölüm 15",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "qNPCJRELyKM"
+          },
+          {
+            "id": "ep16",
+            "title": "GGO Football-Bölüm 16",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "iltOSSqo5cY"
+          },
+          {
+            "id": "ep17",
+            "title": "GGO Football-Bölüm 17",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "7Rh2RETWPRA"
+          },
+          {
+            "id": "ep18",
+            "title": "GGO Football-Bölüm 18",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "2U2kNx5q2h4"
+          },
+          {
+            "id": "ep19",
+            "title": "GGO Football-Bölüm 19",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "9cFTDepqQf4"
+          },
+          {
+            "id": "ep20",
+            "title": "GGO Football-Bölüm 20",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "g6CVDBlmpdA"
+          },
+          {
+            "id": "ep21",
+            "title": "GGO Football-Bölüm 21",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "UI0T2QT5sUg"
+          },
+          {
+            "id": "ep22",
+            "title": "GGO Football-Bölüm 22",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "Jbn7cC1Fx90"
+          },
+          {
+            "id": "ep23",
+            "title": "GGO Football-Bölüm 23",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "euHf7zedmo"
+          },
+          {
+            "id": "ep24",
+            "title": "GGO Football-Bölüm 24",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "dZHIxYCV88E"
+          },
+          {
+            "id": "ep25",
+            "title": "GGO Football-Bölüm 25",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "IknTajAZqsM"
+          },
+          {
+            "id": "ep26",
+            "title": "GGO Football-Bölüm 26",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "CuBPSq_s7F8"
+          },
+          {
+            "id": "ep27",
+            "title": "GGO Football-Bölüm 27",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "-E33_JpCIpI"
+          },
+          {
+            "id": "ep28",
+            "title": "GGO Football-Bölüm 28",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "oXwVjZoF4a4"
+          },
+          {
+            "id": "ep29",
+            "title": "GGO Football-Bölüm 29",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "1xhyfjcVOHU"
+          },
+          {
+            "id": "ep30",
+            "title": "GGO Football-Bölüm 30",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "SpU1jju2s5U"
+          },
+          {
+            "id": "ep31",
+            "title": "GGO Football-Bölüm 31",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "MdQbZW7pjdM"
+          },
+          {
+            "id": "ep32",
+            "title": "GGO Football-Bölüm 32",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "GYgiDmiZhyY"
+          },
+          {
+            "id": "ep33",
+            "title": "GGO Football-Bölüm 33",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "zxVn5g_pCY4"
+          },
+          {
+            "id": "ep34",
+            "title": "GGO Football-Bölüm 34",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "qek1_sX8o5M"
+          },
+          {
+            "id": "ep35",
+            "title": "GGO Football-Bölüm 35",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "GtLLvmKw8UY"
+          },
+          {
+            "id": "ep36",
+            "title": "GGO Football-Bölüm 36",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "G8Bt8xnzUwE"
+          },
+          {
+            "id": "ep37",
+            "title": "GGO Football-Bölüm 37",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "PF5XpTlgc9Q"
+          },
+          {
+            "id": "ep38",
+            "title": "GGO Football-Bölüm 38",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "E1AA4kLxQ9Q"
+          },
+          {
+            "id": "ep39",
+            "title": "GGO Football-Bölüm 39",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "JoGJaq1oack"
+          },
+          {
+            "id": "ep40",
+            "title": "GGO Football-Bölüm 40",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "__uawL3du7o"
+          },
+          {
+            "id": "ep41",
+            "title": "GGO Football-Bölüm 41",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "tFIjFlGhU8o"
+          },
+          {
+            "id": "ep42",
+            "title": "GGO Football-Bölüm 42",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "mlhaLSfCIEU"
+          },
+          {
+            "id": "ep43",
+            "title": "GGO Football-Bölüm 43",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "ofqekury640"
+          },
+          {
+            "id": "ep44",
+            "title": "GGO Football-Bölüm 44",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "35GpO2TiTSI"
+          },
+          {
+            "id": "ep45",
+            "title": "GGO Football-Bölüm 45",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "meW4yN6Hvt0"
+          },
+          {
+            "id": "ep46",
+            "title": "GGO Football-Bölüm 46",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "F89JF9C7BLQ"
+          },
+          {
+            "id": "ep47",
+            "title": "GGO Football-Bölüm 47",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "XLnbVMqknE8"
+          },
+          {
+            "id": "ep48",
+            "title": "GGO Football-Bölüm 48",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "sQ35FWNOtqc"
+          },
+          {
+            "id": "ep49",
+            "title": "GGO Football-Bölüm 49",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "22BZWAAuges"
+          },
+          {
+            "id": "ep50",
+            "title": "GGO Football-Bölüm 50",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "Ey1pfvcMXVQ"
+          },
+          {
+            "id": "ep51",
+            "title": "GGO Football-Bölüm 51",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "envgmtLiCqw"
+          },
+          {
+            "id": "ep52",
+            "title": "GGO Football-Bölüm 52",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "AnT2SDQsihU"
+          }   
+          ]
+        },
+        {
+          "seasonNumber": 2,
+          "episodes": [
+          {
+            "id": "ep1",
+            "title": "GGO Football 2-Bölüm 01",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "UfLlg4LBvZg"
+          },
+          {
+            "id": "ep2",
+            "title": "GGO Football 2-Bölüm 02",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "vpcDxsxIMvo"
+          },
+          {
+            "id": "ep3",
+            "title": "GGO Football 2-Bölüm 03",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "i6uBWEjLl6o"
+          },
+          {
+            "id": "ep4",
+            "title": "GGO Football 2-Bölüm 04",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "mAVWObb9oW0"
+          },
+          {
+            "id": "ep5",
+            "title": "GGO Football 2-Bölüm 05",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "4cv52-xZ9Js"
+          },
+          {
+            "id": "ep6",
+            "title": "GGO Football 2-Bölüm 06",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "jZ1BnyRued4"
+          },
+          {
+            "id": "ep7",
+            "title": "GGO Football 2-Bölüm 07",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "TKbaPnbXCTg"
+          },
+          {
+            "id": "ep8",
+            "title": "GGO Football 2-Bölüm 08",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "xOuMbRd2DH4"
+          },
+          {
+            "id": "ep9",
+            "title": "GGO Football 2-Bölüm 09",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "cEC-hfokY3M"
+          },
+          {
+            "id": "ep10",
+            "title": "GGO Football 2-Bölüm 10",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "RnSVVOLe0AA"
+          },
+          {
+            "id": "ep11",
+            "title": "GGO Football 2-Bölüm 11",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "NXeZtvyKbpU"
+          },
+          {
+            "id": "ep12",
+            "title": "GGO Football 2-Bölüm 12",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "jln7U7altxI"
+          },
+          {
+            "id": "ep13",
+            "title": "GGO Football 2-Bölüm 13",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "xwhIrsks1oM"
+          },
+          {
+            "id": "ep14",
+            "title": "GGO Football 2-Bölüm 14",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "tlxIGC8gqzA"
+          },
+          {
+            "id": "ep15",
+            "title": "GGO Football 2-Bölüm 15",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "rVEMy_1f4og"
+          },
+          {
+            "id": "ep16",
+            "title": "GGO Football 2-Bölüm 16",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "8J7sqRDN_6s"
+          },
+          {
+            "id": "ep17",
+            "title": "GGO Football 2-Bölüm 17",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "S811KBuWgJ0"
+          },
+          {
+            "id": "ep18",
+            "title": "GGO Football 2-Bölüm 18",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "RC3tPm1BTRw"
+          },
+          {
+            "id": "ep19",
+            "title": "GGO Football 2-Bölüm 19",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "Ux61k93Gymc"
+          },
+          {
+            "id": "ep20",
+            "title": "GGO Football 2-Bölüm 20",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "lrv9jCnLGUU"
+          },
+          {
+            "id": "ep21",
+            "title": "GGO Football 2-Bölüm 21",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "4y0g8l-s51I"
+          },
+          {
+            "id": "ep22",
+            "title": "GGO Football 2-Bölüm 22",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "Mo1pivQleaU"
+          },
+          {
+            "id": "ep23",
+            "title": "GGO Football 2-Bölüm 23",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "4jQJC3tqIY"
+          },
+          {
+            "id": "ep24",
+            "title": "GGO Football 2-Bölüm 24",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "vwllkOJytWA"
+          },
+          {
+            "id": "ep25",
+            "title": "GGO Football 2-Bölüm 25",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "lexvwTF4DuI"
+          },
+          {
+            "id": "ep26",
+            "title": "GGO Football 2-Bölüm 26",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "glB0sJa6otY"
+          },
+          {
+            "id": "ep27",
+            "title": "GGO Football 2-Bölüm 27",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "sWTMvUj6jRg"
+          },
+          {
+            "id": "ep28",
+            "title": "GGO Football 2-Bölüm 28",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "tBWUfCKaXqc"
+          },
+          {
+            "id": "ep29",
+            "title": "GGO Football 2-Bölüm 29",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "FtEnUZrdJD0"
+          },
+          {
+            "id": "ep30",
+            "title": "GGO Football 2-Bölüm 30",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "pk3D8tJsu7Q"
+          },
+          {
+            "id": "ep31",
+            "title": "GGO Football 2-Bölüm 31",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "TmZJ0amhFpE"
+          },
+          {
+            "id": "ep32",
+            "title": "GGO Football 2-Bölüm 32",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "eomkFe0WDNI"
+          },
+          {
+            "id": "ep33",
+            "title": "GGO Football 2-Bölüm 33",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "jSDZHf-HUQU"
+          },
+          {
+            "id": "ep34",
+            "title": "GGO Football 2-Bölüm 34",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "e2L0GDvVgLo"
+          },
+          {
+            "id": "ep35",
+            "title": "GGO Football 2-Bölüm 35",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "9HP2wHttHXU"
+          },
+          {
+            "id": "ep36",
+            "title": "GGO Football 2-Bölüm 36",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "0UPlkxg2NKU"
+          },
+          {
+            "id": "ep37",
+            "title": "GGO Football 2-Bölüm 37",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "ODh35hWNN5Y"
+          },
+          {
+            "id": "ep38",
+            "title": "GGO Football 2-Bölüm 38",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "KlgnJRTO_VY"
+          },
+          {
+            "id": "ep39",
+            "title": "GGO Football 2-Bölüm 39",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "7CkHp8mZWXE"
+          },
+          {
+            "id": "ep40",
+            "title": "GGO Football 2-Bölüm 40",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "vdKPSxd8Xsk"
+          },
+          {
+            "id": "ep41",
+            "title": "GGO Football 2-Bölüm 41",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "f9o8tJ2VYLI"
+          },
+          {
+            "id": "ep42",
+            "title": "GGO Football 2-Bölüm 42",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "VfLPBXd1Rx0"
+          },
+          {
+            "id": "ep43",
+            "title": "GGO Football 2-Bölüm 43",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "ihG64h3GcA"
+          },
+          {
+            "id": "ep44",
+            "title": "GGO Football 2-Bölüm 44",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "2--YfzefUXM"
+          },
+          {
+            "id": "ep45",
+            "title": "GGO Football 2-Bölüm 45",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "ikBgBR0tfvo"
+          },
+          {
+            "id": "ep46",
+            "title": "GGO Football 2-Bölüm 46",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "n7JZ7GLKX-I"
+          },
+          {
+            "id": "ep47",
+            "title": "GGO Football 2-Bölüm 47",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "KTRP-5f-nPs"
+          },
+          {
+            "id": "ep48",
+            "title": "GGO Football 2-Bölüm 48",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "ax7R8h-xyLA"
+          },
+          {
+            "id": "ep49",
+            "title": "GGO Football 2-Bölüm 49",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "gV00fqGTY2Y"
+          },
+          {
+            "id": "ep50",
+            "title": "GGO Football 2-Bölüm 50",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "Tb4bfuQKIAg"
+          },
+          {
+            "id": "ep51",
+            "title": "GGO Football 2-Bölüm 51",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "A52aBx3utFY"
+          },
+          {
+            "id": "ep52",
+            "title": "GGO Football 2-Bölüm 52",
+            "thumbnail": "https://i.pinimg.com/550x/9f/d1/43/9fd143ba47bd4e93f523db8fb9865e41.jpg",
+            "videoId": "ThnbBGdKD8c"
+          }   
+          ]
+        }
+      ]
+    },
+    "seri-8": {
+      "title": "Transformers Prime",
+      "description": "Cybertron gezegeni yok olmanın eşiğindedir ve Optimus Prime liderliğindeki Autobotlar, insanlığı Megatron ve Decepticonların saldırılarından korumak için Dünya'ya sığınmıştır. Megatron, Dark Energon’un gücünü kullanarak Decepticonları güçlendirmeyi ve Cybertron'u ele geçirmeyi planlamaktadır.",
+      "cover": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+      "categories": ["Bilim Kurgu", "Aksiyon", "Macera", "Robot"],
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+          {
+            "id": "ep1",
+            "title": "Transformers Prime-Bölüm 01",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "V8t-D5R6S2U"
+          },
+          {
+            "id": "ep2",
+            "title": "Transformers Prime-Bölüm 02",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "Nsj1RdIBlFw"
+          },
+          {
+            "id": "ep3",
+            "title": "Transformers Prime-Bölüm 03",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "hxFcEkDxC3U"
+          },
+
+          
+          {
+            "id": "ep4",
+            "title": "Transformers Prime-Bölüm 04",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "D6lLD9u5KDU"
+          },
+          {
+            "id": "ep5",
+            "title": "Transformers Prime-Bölüm 05",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "hLxb68o1_v4"
+          },
+          {
+            "id": "ep6",
+            "title": "Transformers Prime-Bölüm 06",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "03V6y-yPzRQ"
+          },
+          {
+            "id": "ep7",
+            "title": "Transformers Prime-Bölüm 07",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "iB8CMwYadRU"
+          },
+          {
+            "id": "ep8",
+            "title": "Transformers Prime-Bölüm 08",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "lQfqg0DkZpQ"
+          },
+          {
+            "id": "ep9",
+            "title": "Transformers Prime-Bölüm 09",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "n1LLcXzSoAI"
+          },
+          {
+            "id": "ep10",
+            "title": "Transformers Prime-Bölüm 10",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "dmtZgh-Nirw"
+          },
+          {
+            "id": "ep11",
+            "title": "Transformers Prime-Bölüm 11",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "QPUNMuhVceE"
+          },
+          {
+            "id": "ep12",
+            "title": "Transformers Prime-Bölüm 12",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "KkcxgdPqzcM"
+          },
+          {
+            "id": "ep13",
+            "title": "Transformers Prime-Bölüm 13",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "8V85OkbXATA"
+          },
+          {
+            "id": "ep14",
+            "title": "Transformers Prime-Bölüm 14",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "lAthpaOILAQ"
+          },
+          {
+            "id": "ep15",
+            "title": "Transformers Prime-Bölüm 15",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "qNPCJRELyKM"
+          },
+          {
+            "id": "ep16",
+            "title": "Transformers Prime-Bölüm 16",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "iltOSSqo5cY"
+          },
+          {
+            "id": "ep17",
+            "title": "Transformers Prime-Bölüm 17",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "7Rh2RETWPRA"
+          },
+          {
+            "id": "ep18",
+            "title": "Transformers Prime-Bölüm 18",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "2U2kNx5q2h4"
+          },
+          {
+            "id": "ep19",
+            "title": "Transformers Prime-Bölüm 19",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "9cFTDepqQf4"
+          },
+          {
+            "id": "ep20",
+            "title": "Transformers Prime-Bölüm 20",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "g6CVDBlmpdA"
+          },
+          {
+            "id": "ep21",
+            "title": "Transformers Prime-Bölüm 21",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "UI0T2QT5sUg"
+          },
+          {
+            "id": "ep22",
+            "title": "Transformers Prime-Bölüm 22",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "Jbn7cC1Fx90"
+          },
+          {
+            "id": "ep23",
+            "title": "Transformers Prime-Bölüm 23",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "euHf7zedmo"
+          },
+          {
+            "id": "ep24",
+            "title": "Transformers Prime-Bölüm 24",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "dZHIxYCV88E"
+          },
+          {
+            "id": "ep25",
+            "title": "Transformers Prime-Bölüm 25",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "IknTajAZqsM"
+          },
+          {
+            "id": "ep26",
+            "title": "Transformers Prime-Bölüm 26",
+            "thumbnail": "https://m.media-amazon.com/images/I/81DEefpfdHL._AC_UF894,1000_QL80_.jpg",
+            "videoId": "CuBPSq_s7F8"
+          }   
+          ]
+        }
+      ]
+    }
+  }
+}
