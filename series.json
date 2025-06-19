@@ -1,8 +1,8 @@
 {
   "series": {
     "seri-1": {
-      "title": "Monsuno",
-      "description": "GGO Futbol, gelişen futbol teknolojisini konu alır. Teknoloji ve spor arasındaki ilişkinin giderek artışı sonucu, Profesör GGO adlı bir kişi GGO Futbol'u yaratmıştır.[1] Öyle ki artık futbol avuç içi büyüklüğünde ve yapay zekaya sahip olan küçük robotların kontrol edilmesiyle oynanmaktadır. Bu robotlara GGO Futbolcusu denmektedir. Ayrıca her robotun açılmasını sağlayan kartı ve kendine özel futbol hareketleri(mesela uydu çalımı, gölge kurtarışı vs.) bulunur. GGO Futbol giderek yaygınlaşır ve hem ulusal hem uluslararası turnuvaları düzenlenmeye başlanır.",
+      "title": "Ben 10 Alien Force",
+      "description": "",
       "cover": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
       "categories": ["Fantastik", "Aksiyon", "Macera", "Anime"],
       "seasons": [
@@ -11,15 +11,15 @@
           "episodes": [
         {
           "id": "ep1",
-          "title": "Monsuno-Bölüm 01",
+          "title": "Ben 10 Alien Force Bölüm 01",
           "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
-          "videoId": "https://ia800503.us.archive.org/31/items/max-steel-s-1-e-21/Max%20Steel%20S1%20E21.mp4"
+          "videoId": "https://ia600703.us.archive.org/12/items/ben-10-uzayli-gu-cu-ben-10-geri-donuyor-tam-bo-lu-m-cartoonnetworkturkiye-480-p/BEN%2010%20UZAYLI%20G%C3%9CC%C3%9C%20_%20Ben%2010%20Geri%20D%C3%B6n%C3%BCyor%20_%20TAM%20B%C3%96L%C3%9CM%20_%20_cartoonnetworkturkiye%28480P%29.ia.mp4"
         },
         {
           "id": "ep2",
-          "title": "Monsuno-Bölüm 02",
+          "title": "Ben 10 Alien Force Bölüm 02",
           "thumbnail": "https://i1.sndcdn.com/artworks-000116607973-dr9k3i-t500x500.jpg",
-          "videoId": "https://ia800703.us.archive.org/12/items/ben-10-uzayli-gu-cu-ben-10-geri-donuyor-tam-bo-lu-m-cartoonnetworkturkiye-480-p/BEN%2010%20UZAYLI%20G%C3%9CC%C3%9C%20_%20Ben%2010%20Geri%20D%C3%B6n%C3%BCyor%20_%20TAM%20B%C3%96L%C3%9CM%20_%20_cartoonnetworkturkiye%28480P%29.ia.mp4"
+          "videoId": "https://ia803100.us.archive.org/28/items/5534293/5534293.mp4"
         },
         {
           "id": "ep3",
