@@ -1,151 +1,5 @@
 {
   "series": {
-    "seri-1": {
-      "title": "Solo Leveling",
-      "description": "Dünya, 10 yıl önce aniden açılan  (Kapılar) adı verilen portallarla birlikte canavarlarla dolu zindanlara ev sahipliği yapmaya başlar. Bununla birlikte, bazı insanlar (Avcı) adı verilen özel güçlere sahip savaşçılar hâline gelir ve bu canavarlara karşı savaşarak insanlığı korurlar. Serinin ana karakteri Sung Jin-Woo, dünyanın en zayıf avcısı olarak bilinen bir E-Rank Hunter'dır. Ancak, bir gün ölümcül bir zindan görevinde karşılaştığı gizemli bir sistem sayesinde (Oyuncu) olarak yeniden doğar. Artık diğer avcılardan farklı olarak, seviye atlayarak güçlenme yeteneğine sahiptir. Kendi gücünü artırarak dünyanın en güçlü avcısı olma yolunda ilerler.",
-      "cover": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "categories": ["Aksiyon", "Fantastik", "Macera", "Shounen", "Seviye Atlama", "Anime"],
-      "year": 2024,
-      "type": ["Yeni Eklenenler"],
-      "imdb": 9.5,
-      "seasons": [
-        {
-          "seasonNumber": 1,
-          "episodes": [
-            {
-              "title": "Solo Leveling | 1. Sezon 1. Bölüm - Alışkınım",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://ia800907.us.archive.org/30/items/ben-10-uzayli-gu-cu-zirh-eldiveni-tam-bo-lu-m-cartoonnetworkturkiye-480-p/BEN%2010%20UZAYLI%20G%C3%9CC%C3%9C%20_%20Z%C4%B1rh%20Eldiveni%20_%20TAM%20B%C3%96L%C3%9CM%20_%20_cartoonnetworkturkiye%28480P%29.ia.mp4"
-            },
-            {
-              "title": "Solo Leveling | 1. Sezon 2. Bölüm - Bir Şansım Daha Olsaydı",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/65ba8450b304d628d5f55394"
-            },
-            {
-              "title": "Solo Leveling | 1. Sezon 3. Bölüm - Bir Oyun Gibi",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/65ba8635b304d628d5f55395"
-            },
-            {
-              "title": "Solo Leveling | 1. Sezon 4. Bölüm - Daha Güçlü Olmalıyım",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/65ba877fb304d628d5f55396"
-            },
-            {
-              "title": "Solo Leveling | 1. Sezon 5. Bölüm - Oldukça İyi Bir Anlaşma",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/65bea586b304d628d5f553de"
-            },
-            {
-              "title": "Solo Leveling | 1. Sezon 6. Bölüm - Gerçek Av Başlıyor",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/65ccdd1fb304d628d5f555db"
-            },
-            {
-              "title": "Solo Leveling | 1. Sezon 7. Bölüm - Bakalım ne kadar ileri gidebilirim",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/65d8d79935424e1e68a23a36"
-            },
-            {
-              "title": "Solo Leveling | 1. Sezon 8. Bölüm - Bu sinir bozucu",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/66874ee9782a0690594b44e9"
-            },
-            {
-              "title": "Solo Leveling | 1. Sezon 9. Bölüm - Yeteneklerini Saklıyorsun",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/65ecc2a599775ec0840007e7"
-            },
-            {
-              "title": "Solo Leveling | 1. Sezon 10. Bölüm - Bu nedir, piknik mi?",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/65f5ffa599775ec084000887"
-            },
-            {
-              "title": "Solo Leveling | 1. Sezon 11. Bölüm - Boş Bir Tahtı Savunan Bir Şövalye",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/6687467d782a0690594b44e1"
-            },
-            {
-              "title": "Solo Leveling | 1. Sezon 12. Bölüm - Ortaya Çıkmak",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/6687459a782a0690594b44e0"
-            }
-          ]
-        },
-        {
-          "seasonNumber": 2,
-          "episodes": [
-            {
-              "title": "Solo Leveling | 2. Sezon 1. Bölüm - E-rütbesi değilsin, değil mi?",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/6782c8e071d1426dc6726e29"
-            },
-            {
-              "title": "Solo Leveling | 2. Sezon 2. Bölüm - Sanırım farkında değilsin",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/6782c7ff71d1426dc6726e28"
-            },
-            {
-              "title": "Solo Leveling | 2. Sezon 3. Bölüm - Hala Gidilecek Uzun Bir Yol",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/678bfe6c5eeae8f3c280a0b5"
-            },
-            {
-              "title": "Solo Leveling | 2. Sezon 4. Bölüm - Numara yapmayı bırakmam gerekiyor",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/67959414b1ae675dacedee28"
-            },
-            {
-              "title": "Solo Leveling | 2. Sezon 5. Bölüm - İşte bunu yapmak için eğitildik",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/67a2684fb00f138db1d44cbc"
-            },
-            {
-              "title": "Solo Leveling | 2. Sezon 6. Bölüm - Adamlarımı Küçümseme",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/67a7b515b00f138db1d44d11"
-            },
-            {
-              "title": "Solo Leveling | 2. Sezon 7. Bölüm - 10. S-Derece Avcısı",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/67b0db9cb00f138db1d44e80"
-            },
-            {
-              "title": "Solo Leveling | 2. Sezon 8. Bölüm - Yukarı bakmak beni yoruyordu",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/67bcfcff2dfeb3af499f876d"
-            },
-            {
-              "title": "Solo Leveling | 2. Sezon 9. Bölüm - Her Şeye Değdi",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/67c34db5ed01ed6a7560803b?vid=708886"
-            },
-            {
-              "title": "Solo Leveling | 2. Sezon 10. Bölüm - Bir Kahramana İhtiyacımız Var",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/67cc9e6547b862535fe05e4a"
-            },
-            {
-              "title": "Solo Leveling | 2. Sezon 11. Bölüm - Daha da Yoğunlaşacak",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/67d5cc6047b862535fe05fed"
-            },
-            {
-              "title": "Solo Leveling | 2. Sezon 12. Bölüm - İnsanların Kralı Sen misin",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/67defb9d47b862535fe060c5"
-            },
-            {
-              "title": "Solo Leveling | 2. Sezon 13. Bölüm - Sonraki Hedefe Doğru",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/67e83886962c3d32bc825d23"
-            }
-          ]
-        }
-      ]
-    },
     "seri-2": {
       "title": "Avatar: Son Hava Bükücü",
       "description": "Dört elementin bükülebildiği bir dünyada, barışı sağlamakla görevli Avatar Aang’in hikâyesini anlatır. Ateş Ulusu, dünyayı ele geçirmek için savaş başlatmış ve Aang 100 yıl boyunca kaybolmuştur. Su bükücü Katara ve kardeşi Sokka, Aang’i bulur ve onun Ateş Kralı’nı durdurması için gereken eğitimleri almasına yardım eder.",
@@ -5131,17 +4985,17 @@
             {
               "title": "Ben 10 Alien Force | 1.Sezon 1.Bölüm - Ben 10 Dönüyor: Bölüm 1",
               "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGQ5YWFjYjItODE5OC00ZDQxLTk5ZmYtNzY0YzM4NjIyMWFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://video.sibnet.ru/shell.php?videoid=5864736"
+              "videoUrl": "https://ia800703.us.archive.org/12/items/ben-10-uzayli-gu-cu-ben-10-geri-donuyor-tam-bo-lu-m-cartoonnetworkturkiye-480-p/BEN%2010%20UZAYLI%20G%C3%9CC%C3%9C%20_%20Ben%2010%20Geri%20D%C3%B6n%C3%BCyor%20_%20TAM%20B%C3%96L%C3%9CM%20_%20_cartoonnetworkturkiye%28480P%29.ia.mp4"
             },
             {
               "title": "Ben 10 Alien Force | 1.Sezon 2.Bölüm - Ben 10 Dönüyor: Bölüm 2",
               "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGQ5YWFjYjItODE5OC00ZDQxLTk5ZmYtNzY0YzM4NjIyMWFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://video.sibnet.ru/shell.php?videoid=5864735"
+              "videoUrl": "https://ia803100.us.archive.org/28/items/5534293/5534293.mp4"
             },
             {
               "title": "Ben 10 Alien Force | 1.Sezon 3.Bölüm - Herkes Havanın Hakkında Konuşuyor",
               "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGQ5YWFjYjItODE5OC00ZDQxLTk5ZmYtNzY0YzM4NjIyMWFlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-              "videoUrl": "https://video.sibnet.ru/shell.php?videoid=5864734"
+              "videoUrl": "https://ia801607.us.archive.org/26/items/5534292/5534292.mp4"
             },
             {
               "title": "Ben 10 Alien Force | 1.Sezon 4.Bölüm - Kevin'ın Büyük Skoru",
