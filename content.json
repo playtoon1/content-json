@@ -31,7 +31,13 @@
             {
               "title": "Avatar: Son Hava Bükücü | 1. Sezon 2. Bölüm - Avatar'ın Dönüşü",
               "thumbnail": "https://m.media-amazon.com/images/I/81RxSsVQfbL.jpg",
-              "videoUrl": "https://ia803101.us.archive.org/3/items/4828702/5203357.mp4"
+              "videoSources": [
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": "https://ia803101.us.archive.org/3/items/4828702/5203357.mp4"
+                }
+              ]  
             },
             {
               "title": "Avatar: Son Hava Bükücü | 1. Sezon 3. Bölüm - Güney Hava Tapınağı",
