@@ -363,7 +363,13 @@
             {
               "title": "Jujutsu Kaisen | 1. Sezon 1. Bölüm - Ryomen Sukuna",
               "thumbnail": "https://i.ytimg.com/vi/J3d6SrKRvNU/maxresdefault.jpg",
-              "videoUrl": "https://tau-video.xyz/embed/6335c9e6d03cb090cb4c58c1"
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "480p",
+                  "url": ""https://tau-video.xyz/embed/6335c9e6d03cb090cb4c58c1""
+                }
+              ]
             },
             {
               "title": "Jujutsu Kaisen | 1. Sezon 2. Bölüm - Kötülük İçin Yapılmış",
@@ -14254,3 +14260,4 @@
     }
   }
 }  
+
