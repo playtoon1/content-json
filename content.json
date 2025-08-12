@@ -19,12 +19,12 @@
                 {
                   "name": "BC",
                   "quality": "480p",
-                  "videoUrl": "https://seed171.bitchute.com/oh6QdFBWLnBu/eM21fVlhfYSX.mp4"
+                  "url": "https://seed171.bitchute.com/oh6QdFBWLnBu/eM21fVlhfYSX.mp4"
                 },
                 {
                   "name": "Arc",
                   "quality": "720p",
-                  "videoUrl": "https://dn720706.ca.archive.org/0/items/001-1x-1/001_1x1.mp4"
+                  "url": "https://dn720706.ca.archive.org/0/items/001-1x-1/001_1x1.mp4"
                 }
               ]
             },
@@ -35,7 +35,7 @@
                 {
                   "name": "Arc",
                   "quality": "720p",
-                  "videoUrl": "https://dn720706.ca.archive.org/0/items/001-1x-1/001_1x1.mp4"
+                  "url": "https://dn720706.ca.archive.org/0/items/001-1x-1/001_1x1.mp4"
                 }
               ]
             },
@@ -14254,6 +14254,7 @@
     }
   }
 }  
+
 
 
 
