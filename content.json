@@ -6,7 +6,7 @@
       "cover": "https://m.media-amazon.com/images/I/81RxSsVQfbL.jpg",
       "categories": ["Animasyon", "Macera", "Fantastik", "Aksiyon", "Dram", "Komedi"],
       "year": 2005,
-      "type": ["Anime", "Dram"],
+      "type": ["Anime", "Dram", "Dövüş"],
       "imdb": 9.3,
       "seasons": [
         {
@@ -364,7 +364,7 @@
       "cover": "https://i.ytimg.com/vi/J3d6SrKRvNU/maxresdefault.jpg",
       "categories": ["Anime", "Macera", "Karanlık Fantezi", "Doğaüstü"],
       "year": 2020,
-      "type": ["Anime", "Aksiyon & Macera"],
+      "type": ["Anime", "Aksiyon & Macera", "Dövüş"],
       "imdb": 8.5,
       "seasons": [
         {
@@ -14264,6 +14264,7 @@
     }
   }
 }  
+
 
 
 
