@@ -6,7 +6,7 @@
       "cover": "https://m.media-amazon.com/images/I/81RxSsVQfbL.jpg",
       "categories": ["Animasyon", "Macera", "Fantastik", "Aksiyon", "Dram", "Komedi"],
       "year": 2005,
-      "type": ["Önerilenler"],
+      "type": ["Anime", "Dram"],
       "imdb": 9.3,
       "seasons": [
         {
@@ -364,7 +364,7 @@
       "cover": "https://i.ytimg.com/vi/J3d6SrKRvNU/maxresdefault.jpg",
       "categories": ["Anime", "Macera", "Karanlık Fantezi", "Doğaüstü"],
       "year": 2020,
-      "type": ["Önerilenler"],
+      "type": ["Anime", "Aksiyon & Macera"],
       "imdb": 8.5,
       "seasons": [
         {
@@ -620,7 +620,7 @@
       "cover": "https://m.media-amazon.com/images/M/MV5BZWMyNWVhMzAtNzNmMC00MzMxLWE4OTAtMDZmMmRkODUyOWY0XkEyXkFqcGc@._V1_.jpg",
       "categories": ["Anime", "Spor", "Futbol"],
       "year": 2009,
-      "type": ["AnimetoonTr İçerikleri"],
+      "type": ["Spor", "Aile"],
       "imdb": 7.2,
       "seasons": [
         {
@@ -14264,6 +14264,7 @@
     }
   }
 }  
+
 
 
 
