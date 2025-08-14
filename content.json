@@ -41,6 +41,11 @@
                   "name": "Arc",
                   "quality": "720p",
                   "url": "https://dn720706.ca.archive.org/0/items/001-1x-1/001_1x1.mp4"
+                },
+                {
+                  "name": "DRIVE",
+                  "quality": "720p",
+                  "url": "https://drive.google.com/file/d/1_O7sjM9voJVGzKh1sM2yIv5apX5y6SHd/preview"
                 }
               ]
             },
@@ -52,7 +57,7 @@
             {
               "title": "Avatar: Son Hava Bükücü | 1. Sezon 4. Bölüm - Kyoshi Savaşçıları",
               "thumbnail": "https://m.media-amazon.com/images/I/81RxSsVQfbL.jpg",
-              "videoUrl": "https://ia803101.us.archive.org/3/items/4828702/5203355.mp4"
+              "videoUrl": "https://drive.google.com/file/d/1_O7sjM9voJVGzKh1sM2yIv5apX5y6SHd/preview"
             },
             {
               "title": "Avatar: Son Hava Bükücü | 1. Sezon 5. Bölüm - Omashu Kralı",
@@ -14259,6 +14264,7 @@
     }
   }
 }  
+
 
 
 
