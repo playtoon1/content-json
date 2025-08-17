@@ -43,6 +43,11 @@
               "thumbnail": "https://m.media-amazon.com/images/I/81RxSsVQfbL.jpg",
               "videoSources": [
                 {
+                  "name": "Arc2",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
                   "name": "Arc",
                   "quality": "720p",
                   "url": "https://dn720706.ca.archive.org/0/items/001-1x-1/001_1x1.mp4"
@@ -14269,6 +14274,7 @@
     }
   }
 }  
+
 
 
 
