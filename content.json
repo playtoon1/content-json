@@ -19443,7 +19443,7 @@
       "cover": "https://m.media-amazon.com/images/M/MV5BYWVjODZjNDgtYjk4ZS00OTg5LTg5NDQtZDMxZDQ4ZmM5MGJmXkEyXkFqcGc@._V1_.jpg",
       "categories": ["Aksiyon", "Macera", "Fantastik", "Çocuk", "Bilim Kurgu"],
       "year": 2005,
-      "type": ["Önerilenler", "Yeni Eklenenler"],
+      "type": ["Aksiyon & Macera", "Dövüş"],
       "imdb": 7.5,
       "seasons": [
         {
@@ -19503,7 +19503,7 @@
                 {
                   "name": "Arc",
                   "quality": "720p",
-                  "url": ""
+                  "url": "https://ia803103.us.archive.org/30/items/4814681/4814687.mp4"
                 },
                 {
                   "name": "Rumble",
@@ -55748,5 +55748,6 @@
     }
   }
 }  
+
 
 
