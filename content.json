@@ -20590,6 +20590,11 @@
                   "name": "Rumble",
                   "quality": "720p",
                   "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5880394"
                 }
               ] 
             },
@@ -55748,6 +55753,7 @@
     }
   }
 }  
+
 
 
 
