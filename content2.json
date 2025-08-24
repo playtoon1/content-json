@@ -2,355 +2,585 @@
   "series": {
     "seri-1": {
       "title": "Captain Tsubasa Dream Team (2018)",
-      "description": "Dünya, 10 yıl önce aniden açılan (Geçitler) adı verilen portallarla birlikte canavarlarla dolu zindanlara ev sahipliği yapmaya başlar. Bununla birlikte, bazı insanlar (Avcı) adı verilen özel güçlere sahip savaşçılar hâline gelir ve bu canavarlara karşı savaşarak insanlığı korurlar. Serinin ana karakteri Sung Jin-Woo, dünyanın en zayıf avcısı olarak bilinen bir E-Rank Hunter'dır. Ancak, bir gün ölümcül bir zindan görevinde karşılaştığı gizemli bir sistem sayesinde (Oyuncu) olarak yeniden doğar. Artık diğer avcılardan farklı olarak, seviye atlayarak güçlenme yeteneğine sahiptir. Kendi gücünü artırarak dünyanın en güçlü avcısı olma yolunda ilerler.",
+      "description": "Ozora Tsubasa, futbol aşkıyla yanıp tutuşan bir gençtir. Hayali ise dünya kupasında Japonya'yı temsil etmek için oynamaktır. Bu hayaline giden yolda kendisiyle aynı hayalleri paylaşan çok kişiyle yolları kesişir ve kendisini bitmek bilmez mücadeleler içerisinde bulur. Efsane serinin yeniden uyarlanmasıdır.",
       "cover": "https://m.media-amazon.com/images/M/MV5BOGQyYTAxZDctNTlhNS00MzJhLWE5ODQtMDY0ZDNmNTZhODFkXkEyXkFqcGc@._V1_.jpg",
-      "categories": ["Animasyon", "Macera", "Fantastik", "Aksiyon"],
+      "categories": ["Anime", "Spor", "Aile", "Aksiyon"],
       "year": 2018,
-      "type": ["Anime", "Aksiyon & Macera", "Fantastik", "Dövüş"],
-      "imdb": 9.5,
+      "type": ["Anime", "Aile", "Spor"],
+      "imdb": 7.9,
       "seasons": [
         {
           "seasonNumber": 1,
           "episodes": [
             {
-              "title": "Solo Leveling | 1. Sezon 1. Bölüm - Alışkınım",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 1. Bölüm - Uçuşa Çık",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F6PrmdKwrC2h90jY5WVWtrc71Ka4.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://an-zaihai.online/file/tau-video/3ead5161-d016-433e-823a-456147c8972f.mp4"
+                  "url": "https://noble-ran.site/file/tau-video/7102545e-d412-46b8-befb-22bb52d2e96c.mp4"
                 }
               ]
             },
             {
-              "title": "Solo Leveling | 1. Sezon 2. Bölüm - Bir Şansım Daha Olsaydı",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 2. Bölüm - Uçuyor!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Frr8wTcSEE82HCmj8ZbFvXb5bs8x.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://choumen-tai.store/file/tau-video/5a43ad29-09f6-4263-9506-785e2e325560.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": ""
-                },
-                {
-                  "name": "Arc",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "https://jian-daozi.site/file/tau-video/719adb9e-ebba-4fe0-a64e-64d33f7b000e.mp4"
                 }
               ]  
             },
             {
-              "title": "Solo Leveling | 1. Sezon 3. Bölüm - Bir Oyun Gibi",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 3. Bölüm - Nankatsu Futbol Kulübü için Yeni Bir Başlangıç",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FvkbFyHUaXP1qRIfIbn6kqtIFOUZ.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://noble-ran.site/file/tau-video/54fd899e-08b2-48ba-9bc4-72499243472e.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": ""
-                },
-                {
-                  "name": "Arc",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "https://choumen-tai.store/file/tau-video/d3de8bc1-cce3-41cd-a2c1-6ea96ecae5a0.mp4"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 1. Sezon 4. Bölüm - Daha Güçlü Olmalıyım",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 4. Bölüm - Tsubasa ve Roberto",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FwmCjuBlDPiJq7ljyjCuvzoX7Bno.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://fang-heshan.store/file/tau-video/d6908e19-70d5-4a69-8e77-c7df8ac895a7.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": ""
-                },
-                {
-                  "name": "Arc",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "https://lord-fifth.site/file/tau-video/f74d0e48-bc54-4a88-a421-745a0e8e04dd.mp4"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 1. Sezon 5. Bölüm - Oldukça İyi Bir Anlaşma",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 5. Bölüm - Okullar Arası Turnuva Yolunda",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FXCH5svpMfsk3hn3KnMqhgO8ggo.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://fang-heshan.store/file/tau-video/e8f404a0-0a11-49bb-a7df-43eba41f682a.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": ""
-                },
-                {
-                  "name": "Arc",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "https://an-zaihai.online/file/tau-video/05d97265-22fc-4690-8911-1de87c32d69a.mp4"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 1. Sezon 6. Bölüm - Gerçek Av Başlıyor",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 6. Bölüm - Başlamak! Nankatsu vs Shuutetsu",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F5H2CX319NaoUmiQfs2qWhMoJBSK.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": ""
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": "http://video.sibnet.ru/shell.php?videoid=5732444"
-                },
-                {
-                  "name": "Arc",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "https://huyan-qing.site/file/tau-video/e8ba8f9a-4163-4dda-8197-7f1db61defba.mp4"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 1. Sezon 7. Bölüm - Bakalım ne kadar ileri gidebilirim",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 7. Bölüm - Fantastik Tsubasa",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F5dogAzfq77M3CICm376uX7CJUze.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://fang-heshan.online/file/tau-video/218275bc-df45-4bbd-9e71-964a5e0e5a56.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": ""
-                },
-                {
-                  "name": "Arc",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "https://an-zaihai.site/file/tau-video/13442de3-3d54-4986-a505-fb8636d877bf.mp4"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 1. Sezon 8. Bölüm - Bu sinir bozucu",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 8. Bölüm - Nankatsu Altın İkili'nin Doğuşu",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FxoaEFtPbmWMxkb4OihC8DYZGszq.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://song-jia.store/file/tau-video/ae53c4da-d773-47ee-a358-4ab536b194bc.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": ""
-                },
-                {
-                  "name": "Arc",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "https://choumen-tai.store/file/tau-video/1a0bff81-b503-4d85-9258-0d2201e744b7.mp4"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 1. Sezon 9. Bölüm - Yeteneklerini Saklıyorsun",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 9. Bölüm - Yasak Sonu",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FxiwZVQ1egfQmdVxp9QKTlAZfsmP.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://noble-ran.online/file/tau-video/b5fc1a34-db7c-4928-89f1-5dc4aafe0b8e.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": ""
-                },
-                {
-                  "name": "Arc",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "https://noble-ran.site/file/tau-video/f692ce8e-0cbd-42f0-9ca6-b36284e45833.mp4"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 1. Sezon 10. Bölüm - Bu nedir, piknik mi?",              
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 10. Bölüm - Kojiro'nun Gelişi",              
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F3xkBfZpYVY92QZ98v4qDeJQum63.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://lord-fifth.site/file/tau-video/91a3817a-ca1c-4aa7-8461-6e44511eb57e.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": ""
-                },
-                {
-                  "name": "Arc",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "https://fang-heshan.store/file/tau-video/d1b22130-39d8-4884-bdb5-ee3f6bcf0032.mp4"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 1. Sezon 11. Bölüm - Boş Bir Tahtı Savunan Bir Şövalye",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 11. Bölüm - Şaşırtıcı Derecede Zor Bir Maç",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F4EsQIYXwQbxAEoutGU1mZsNsOtm.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://lord-fifth.store/file/tau-video/d7631c00-6efd-4477-adfa-ecacde5ebe8a.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": ""
-                },
-                {
-                  "name": "Arc",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "https://jian-daozi.store/file/tau-video/2f73635c-6baa-4d9c-b743-73f710eaabe5.mp4"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 1. Sezon 12. Bölüm - Ortaya Çıkmak",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 12. Bölüm - Wakabayashi'yi ezmek",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FeOiX79pPFcGhaxspwQykWNLWdoa.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://an-zaihai.store/file/tau-video/24a8dd78-8f27-4204-ad4b-e3f783354d86.mp4"
-                },
+                  "url": "https://fang-heshan.store/file/tau-video/6b24ee30-9ed5-4eb8-80f1-d62b3990b345.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 13. Bölüm - Şimdi Tüm Ülke!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F37Ek26F7HcazDXgNwHsQ1rw5rwv.jpg",
+              "videoSources": [
                 {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": ""
-                },
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://jian-daozi.store/file/tau-video/035f76c8-d1d7-40f8-a529-8f74957fdb2a.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 14. Bölüm - Nankatsu, Meiwa'yı yenmek için yanıyor",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FumozhMDIhwyDtuWaDrCsE765ZOz.jpg",
+              "videoSources": [
                 {
-                  "name": "Arc",
-                  "quality": "720p",
-                  "url": ""
-                },
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://noble-ran.store/file/tau-video/4ac924ab-2d22-4838-ba03-544f6dae1acc.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 15. Bölüm - Kaybedemem çünkü bu benim hayalim!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FySIVrgrED6FVTLcdK7dQAeoQhtd.jpg",
+              "videoSources": [
                 {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://fang-heshan.online/file/tau-video/ddb3a382-3221-456a-b5ba-4ebad212b76b.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 16. Bölüm - Bu Akrobatik Futbol!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FGgEOQBR3lEp8R3enL9KwBnXzGY.jpg",
+              "videoSources": [
                 {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://choumen-tai.online/file/tau-video/7acd6832-e520-46ce-9cc9-99a003f7e28c.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 17. Bölüm - Son 4 dakika! Havada Belirleyici Savaş",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F9rlDhjs9wMhbpe0LYszPk3CABiu.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://song-jia.site/file/tau-video/7a226310-4c3a-4ed4-af6a-f40edbf02bbd.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 18. Bölüm - Hadi başlayalım! Belirleyici Turnuva",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F9zLQi7nipzAtolG7qlO24tfsq2V.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://an-zaihai.online/file/tau-video/c86d9efb-f326-48d5-bfb7-bee14476c5b7.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 19. Bölüm - Şiddetli mücadele! Meiwa, Furano'ya Karşı",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F4d6j1zLJuAm28MBDLTO2fdJ821s.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://lord-fifth.site/file/tau-video/974044f8-b11e-4781-b7cf-c90a27a9565e.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 20. Bölüm - Musashi'nin Gizli Planı",              
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fl3oOOWtQJKHAVDXi7XQysvMAfEZ.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://an-zaihai.online/file/tau-video/4659b4de-fe47-4962-965f-aa5f145386e5.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 21. Bölüm - Cam Ası",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F2DlyZt7ZOWf0y1SBSvQUkcblfrs.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://an-zaihai.store/file/tau-video/fe73672d-acf6-43e7-a2c6-f45552e41983.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 22. Bölüm - Kaderin Ek Zamanı",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fae4bBg0yNBD2N3jjnZng1TC2dgl.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://choumen-tai.site/file/tau-video/87ca959d-668f-4156-8013-01bda50bac06.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 23. Bölüm - Dahi Kaleci Geri Dönüyor!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Ffc4u18rr4m1j7bmOC9qArS0akL2.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://fang-heshan.store/file/tau-video/b5877463-a259-4e14-96ad-1b1de6130af0.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 24. Bölüm - Azim, Kesinlikle Azim!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FlbnPyD06kp9s5AiIriI7XQRYuSy.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://fang-heshan.site/file/tau-video/549e782e-db40-4cf2-91a9-a54874aab05d.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 25. Bölüm - Çarpıcı Karşı Saldırı",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FAgQSvDye1UW8JpW7sxfsuzSfdtX.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://jian-daozi.site/file/tau-video/32a05754-53b1-426b-b2df-9941e4d69bf2.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 26. Bölüm - Hayali Hedef",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FdPSJl3zP9iFeBwMqYxyiEprOXZ0.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://an-zaihai.store/file/tau-video/a7236184-51c9-4f33-a025-5eb1a3578623.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 27. Bölüm - Zafer Anı",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FklQsNT24GZ5hdZRImrvTLvpRCSD.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://jian-daozi.site/file/tau-video/4a13bcd0-d89c-4aa0-8075-3c6f99e061be.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 28. Bölüm - Herkes yola çıkıyor",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fv9JZxdMlTRqtbPh93q86Na4anWL.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://choumen-tai.site/file/tau-video/26b979fd-0f38-4242-ade7-b71821e3211f.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 29. Bölüm - Yaz Açılışı (Başlangıç)!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F1bChBoOngi0HkERjCwNqlNzuok6.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://noble-ran.online/file/tau-video/527a5dbd-d061-447e-adfc-9bfc80ab1a78.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 30. Bölüm - Falcon Shoot Ortaya Çıktı!",              
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Ff0i29q3VyRLqnGuKv6kxk8Qu4qZ.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://fang-heshan.site/file/tau-video/8fed5d80-65ee-48fc-9111-816473980f6c.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 31. Bölüm - Şahin, Tsubasa'ya Karşı",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fb2S4SEajpFtdg5LzR8NoEhZFBBD.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://lord-fifth.store/file/tau-video/22cc539f-e987-404c-94e7-bf616450b70e.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 32. Bölüm - Tsubasa'yı devirin! Hyuga, Misugi'ye karşı",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FaskjDIdCgD6453idQ3hvRJ0wtXt.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://song-jia.site/file/tau-video/8c1bb673-adae-408f-be27-f584386837d6.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 33. Bölüm - Tokyo Turnuvası Sonuç",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FfTickUvT37xFfG9rMGi4nifrKKx.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://jian-daozi.site/file/tau-video/e4a96917-1f97-4b4c-ac6a-0e1bb84e4626.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 34. Bölüm - Kıyasıya Savaş Açılışı! Turnuva Başlangıcı",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fj0puDYScv1DxEFkXACGKR56Vt1S.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://fang-heshan.store/file/tau-video/676561b7-9418-460a-aa22-402eccbd909b.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 35. Bölüm - Tıraş makinesinin patlayıcı gücü",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fu9QCKc5BTrJhOFfjJ0diBgRWmTM.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://jian-daozi.store/file/tau-video/a4bd581e-9394-4da5-a472-89093bc04418.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 36. Bölüm - Herkesin Kararı",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fnnvdh3BjC5fcwDUPqVopG5zclfj.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://huyan-qing.site/file/tau-video/91a0cf8c-f283-4340-844d-9787d188e995.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 37. Bölüm - Skylab Kasırgası!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F1qELxoynATCXjG0CqzOrUxdV5YZ.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://an-zaihai.online/file/tau-video/25e4ab37-a432-46cc-ba2d-44d723273d10.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 38. Bölüm - Taarruz! Tachibana Kardeşler",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F4DUjVhns48UZNoG7723MwuvDjUI.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://noble-ran.site/file/tau-video/1e562723-64d9-422e-8607-ca4e56fad7c1.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 39. Bölüm - Nankatsu, Hanawa'ya Karşı Sonuç!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F8VJQR76p0e8brrp7cJobTG4dHAZ.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://fang-heshan.store/file/tau-video/bf6cb936-d1f7-4d15-a64f-57b576696bd7.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 40. Bölüm - Furano öne çıkıyor!",              
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FoE0mATZzZSeNUoEpiOlvbsnJCZv.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://jian-daozi.store/file/tau-video/697bed92-70ad-481b-a4c4-5a4d06a00812.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 41. Bölüm - Korkunç Kara At",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fj4NDEtinkL36Xr0yuCnN4HGz9uz.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://noble-ran.site/file/tau-video/22bef7e5-feee-409b-a5e9-6cb78c16259b.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 42. Bölüm - Anka kuşu Tsubasa",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FrVQUfuTQus8Bq2WbbSMGqVbJH2S.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://fang-heshan.store/file/tau-video/791278b4-1c16-460a-bb98-dc3da8f680f3.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 43. Bölüm - Meiwa, Toho'ya Karşı",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FrkHu38H1uc4QwZvCwyGdwL8bINj.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://jian-daozi.store/file/tau-video/fbf6ae48-0b68-40ac-a92d-67e65cd96f37.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 44. Bölüm - 10 Numara vs 10 Numara",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F8NAmHrZsLFNzUkcO5DqtYo0zDNk.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://fang-heshan.store/file/tau-video/58245781-2711-4ef8-aee9-8310b7d541a6.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 45. Bölüm - Havaalanında Gözyaşı",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FaLzg21HXyXTXbD3XAMAhwQ1cdS2.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://lord-fifth.site/file/tau-video/578a0d33-3396-4bcb-b0eb-bd504dc05f73.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 46. Bölüm - Yüzyılın Başlangıcı",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FbbwObEd69OJV39i0FEHuaNERg6N.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://an-zaihai.online/file/tau-video/f45d5c1f-66ef-4395-8b53-279234bca569.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 47. Bölüm - Kaderle Bir Kez Daha Yüzleşme",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F5XNXIh0acMmyzekvYnpCNuOdNU7.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://lord-fifth.store/file/tau-video/2cae1d07-e050-4384-bcde-5ee43c19610b.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 48. Bölüm - Kral Toho",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F4v9wQZhGZ2seB1sHkcUojTFAnoQ.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://song-jia.store/file/tau-video/5234b6a8-d876-4163-a081-8bb88331c18c.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 49. Bölüm - Akkor Savaşçılar, Vahşi Kaplan ve Tsubasa",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FyTEJBEV16LxSSYhtWD9tatsRWZ3.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://an-zaihai.store/file/tau-video/276b1bbf-1f26-4e74-8a22-10f69724a809.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 50. Bölüm - Topyekün Azim Savaşı",              
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FqvcR8cJYmKR4v7atzFdYdUU7I2Y.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://choumen-tai.site/file/tau-video/2bd3ddbe-97db-42b7-aac2-575d72b188d3.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 51. Bölüm - Mucize Drive Şutu!",              
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FpAn7VOVd10eWJLryomNsrgcVz13.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://noble-ran.online/file/tau-video/53a3d927-dc7d-467f-b6cc-a15a22ec5b82.mp4"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 1. Sezon 52. Bölüm - Sonsuz Rüya",              
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FpdOKMx9sXzcYnLQkCL98yXgtweE.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://fang-heshan.site/file/tau-video/ad628b03-be1c-4cb2-b4a1-e237d2e5b9c6.mp4"
                 }
               ] 
             }
@@ -360,405 +590,626 @@
           "seasonNumber": 2,
           "episodes": [
             {
-              "title": "Solo Leveling | 2. Sezon 1. Bölüm - E-rütbesi değilsin, değil mi?",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 1. Bölüm - Yeni Bir Mücadele",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F5Ph2qe795aQPNk7f52dWmIkdKf5.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://noble-ran.online/file/tau-video/143ef213-bb3a-4807-80ab-28f616967c82.mp4"
+                  "url": "https://choumen-tai.store/file/tau-video/39648635-e8e2-482f-b4d1-8415e4483998.mp4"
                 },
                 {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": ""
-                },
-                {
-                  "name": "Arc",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
-                  "url": ""
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5732438"
+                }
+              ]
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 2. Bölüm - Eski bir rakibe selamlar",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FqEQpPlbDLNdYigx0TNKBy31ECkd.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://noble-ran.store/file/tau-video/d65a570e-7f01-44ef-b2bc-f74091e7af0f.mp4"
                 },
                 {
-                  "name": "Rumble",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
-                  "url": ""
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5732439"
+                }
+              ]  
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 3. Bölüm - Profesyonel savaşçı",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FfrndO48p796K9c7SCO2t0d0VUaC.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://choumen-tai.online/file/tau-video/03fa7a6f-7811-49d5-a963-24166f1e12da.mp4"
                 },
                 {
-                  "name": "Sibnet",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
-                  "url": ""
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732441"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 2. Sezon 2. Bölüm - Sanırım farkında değilsin",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 4. Bölüm - Sıfırdan tekrar başlayarak",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FcrJ754Y7zUQlgPjVwFBz7WoErzv.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://choumen-tai.site/file/tau-video/489874e8-1c79-4460-a825-fa336f5fd5a9.mp4"
+                  "url": "https://noble-ran.store/file/tau-video/c0b81c79-b869-4d95-8583-4793b9e25276.mp4"
                 },
                 {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": ""
-                },
-                {
-                  "name": "Arc",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5732442"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 2. Sezon 3. Bölüm - Hala Gidilecek Uzun Bir Yol",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 5. Bölüm - Başka bir ağır vurucu",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F6lnzOkTCY5msBgaVRCA72lqPVGZ.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://xu-qing.store/file/tau-video/d5d9daaf-aafb-4c75-962b-0f8a7576e6ad.mp4"
+                  "url": "https://fang-heshan.online/file/tau-video/42d3f839-ba2b-47ce-9b7a-c2edbf70e86f.mp4"
                 },
                 {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": ""
-                },
-                {
-                  "name": "Arc",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732443"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 2. Sezon 4. Bölüm - Numara yapmayı bırakmam gerekiyor",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 6. Bölüm - Aksiyon! Japonya Genç Takımı!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fe9OgMSwuV9lLNDlwsCcUOpMsTor.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://jian-daozi.site/file/tau-video/2c72ddd8-da52-4589-b1bd-b59986316901.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
                   "url": ""
                 },
                 {
-                  "name": "Arc",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732444"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 2. Sezon 5. Bölüm - İşte bunu yapmak için eğitildik",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 7. Bölüm - Paris'te yakınsak !!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FpCwOnWWIUKg1TM1YisaZvvQ1Eir.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://hong-bin.store/file/tau-video/d4f1f340-0826-48b8-b630-051af0ed2bbe.mp4"
+                  "url": "https://noble-ran.online/file/tau-video/9ebc2442-b809-4d5b-bf7a-fcddf333aa44.mp4"
                 },
                 {
-                  "name": "Sibnet",
-                  "quality": "1080p",
-                  "url": ""
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": ""
-                },
-                {
-                  "name": "Arc",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732445"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 2. Sezon 6. Bölüm - Adamlarımı Küçümseme",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 8. Bölüm - Ben Taro Misaki",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FecOywjBFGph9m9dKGDZ7kmSHlUx.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://ke-yunhai.store/file/tau-video/2a6589cb-8696-48f3-a2fc-9adca3e12295.mp4"
+                  "url": "https://fang-heshan.site/file/tau-video/59a2c637-19f0-4d37-b8c2-cfe6817cd452.mp4"
                 },
                 {
-                  "name": "BC",
-                  "quality": "480p",
-                  "url": ""
-                },
-                {
-                  "name": "Arc",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732446"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 2. Sezon 7. Bölüm - S-Derece Avcısı",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 9. Bölüm - Harika Bir Yolculuk",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F5fenZ2oflbvkjD3KKWmgpdHGA2j.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://fang-xuzhong.store/file/tau-video/8ed73a27-cfa7-45f1-af20-73cb73701eff.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
                   "url": ""
                 },
                 {
-                  "name": "Arc",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5732447"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 2. Sezon 8. Bölüm - Yukarı bakmak beni yoruyordu",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 10. Bölüm - Altın ikiliyi iade ettiler",              
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FzLPh6aRD4p0gNcTc4khJPB33oq.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://zappy-net.online/file/tau-video/2acf0234-3ed1-425d-8f7d-7157b95b694e.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
                   "url": ""
                 },
                 {
-                  "name": "Arc",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732448"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 2. Sezon 9. Bölüm - Her Şeye Değdi",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 11. Bölüm - Şiddetli kaplan uyanır",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F9hyRWuEFGEAlCEhXZ0H7vmuhytk.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://ihtau3.store/file/tau-video/1b7ea969-26e8-468d-b7b8-ccc9cf03fba6.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
                   "url": ""
                 },
                 {
-                  "name": "Arc",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732449"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 2. Sezon 10. Bölüm - Bir Kahramana İhtiyacımız Var",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 12. Bölüm - Zafere mahkum",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FqikyRg1aDYT4TEyZJYqKsaeCAad.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://ictau3.site/file/tau-video/d078817b-b878-42c6-9d53-d965f68f4b0b.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
                   "url": ""
                 },
                 {
-                  "name": "Arc",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5732450"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 2. Sezon 11. Bölüm - Daha da Yoğunlaşacak",              
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 13. Bölüm - Yıldızlı gökyüzünde bir rehin",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F1c1aQSCpsHZNViYOCedWEaAO4KV.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://ke-yunhai.store/file/tau-video/446a9ee2-a642-483c-8f8e-0c01dcb327a4.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
                   "url": ""
                 },
                 {
-                  "name": "Arc",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732451"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 2. Sezon 12. Bölüm - İnsanların Kralı Sen misin",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 14. Bölüm - Asla pes etme",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FmuRgjSI31uARvgGVssybI3xWQu2.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://xu-qing.store/file/tau-video/29865637-9ad5-47f5-a7ea-8f09fcb4337e.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
                   "url": ""
                 },
                 {
-                  "name": "Arc",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732452"
                 }
               ] 
             },
             {
-              "title": "Solo Leveling | 2. Sezon 13. Bölüm - Bir Sonraki Hedefe Doğru",
-              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 15. Bölüm - Japonya Junior Youth Strikes Back",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FuccRNGcuenU0cbLQSNsDuhiBU4e.jpg",
               "videoSources": [
                 {
-                  "name": "TAU",
+                  "name": "TAU - TR Altyazı",
                   "quality": "1080p",
-                  "url": "https://ke-yunhai.store/file/tau-video/4500ae49-6864-488b-9781-aa72efad03cb.mp4"
-                },
-                {
-                  "name": "BC",
-                  "quality": "480p",
                   "url": ""
                 },
                 {
-                  "name": "Arc",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732453"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 16. Bölüm - İniş ve çıkış savaşı",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fivcqj5ceLnJYxQnMZQFkeZxQfps.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
                   "url": ""
                 },
                 {
-                  "name": "Rumble",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732454"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 17. Bölüm - Alanın genç asil geri döner !!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FfFbk5quSyWXnJGiGHV9wnIqrUQZ.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
                   "url": ""
                 },
                 {
-                  "name": "Sibnet",
+                  "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732455"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 18. Bölüm - İlk dört toplama!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F6ER5EONDHWrHfHma3FRM1cV4FAx.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
                   "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732456"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 19. Bölüm - Ateş Topu ortaya çıktı",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F22xjwaUNs1fHVvVX9XaWOCcS0Os.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732457"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 20. Bölüm - Savaş başlıyor !! Japonya ve Fransa",              
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FipfJH24IUYYDiHo281rT0pOuB44.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5732458"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 21. Bölüm - 10'a karşı 11",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FwwExWw2RS7A364DTBjSpdzVpaRx.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5732459"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 22. Bölüm - Zarif Canavar Saldırıları",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FkwRP0eNdkv9Jse4BEp9Q6SQE8d9.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732460"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 23. Bölüm - Misaki ve Pierre",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fsga36zewebapbQDgJAF99RvXooG.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732461"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 24. Bölüm - Yağmurda fazla mesai",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F4dYO9dj3tbbyCdveCKaY97Y6ykQ.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732462"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 25. Bölüm - Yaralı bir son savunma",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fo7GctnFTP8rdctVwvl6HhHHVqMm.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732463"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 26. Bölüm - Mucize yumruk",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F8xMjBkyK6spmmNkDUPws3FSHrHF.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732464"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 27. Bölüm - Finalin aslanları",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F98DDuANQ53q7NNkaEH5T3Cz5SIj.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732465"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 28. Bölüm - Atış Fırtınası",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FkrsNqJjjP2Iz9dkPBsdBlyVo4QR.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732466"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 29. Bölüm - Schneider vs Wakabayashi",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fz6C3POWKTd4ft8rV9f4rg7zVls5.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732467"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 30. Bölüm - Yanan bir ilk nokta",              
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fky5UdvDtA4ERs83jjRfX2jQqLRg.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732468"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 31. Bölüm - Tarihin en güçlü çekimi",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fz7ab7rtxmdn7xOSlctVYMbM8i9l.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5732471"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 32. Bölüm - Tatters'da bir şapka",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FcMDpTuoxrZZGVGGeKFe1T29P0c5.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": "https://an-zaihai.site/file/tau-video/40e1ba62-67ba-469e-9e5f-3321245da6ab.mp4"
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732473"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 33. Bölüm - Mesaja yanıt verin!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FlkANMRN8QpKrtetlxaRTaoigovF.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732475"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 34. Bölüm - Global büyüklüğe bir bakış!?",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FhBqHj9Xfst4A76l9N4HJAFbfKae.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732476"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 35. Bölüm - Bitti!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FfX8LScfQjq7XmPgciZpCrkOFOai.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732477"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 36. Bölüm - Göklere Bir Söz",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F4R8KkewVruqyy38JUCGcBMnnm7s.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732478"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 37. Bölüm - İtiraf!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FotXjSOGVC71GJ9T4npTLltPn98m.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732480"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 38. Bölüm - Yeni bir döneme!",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2FxlVhTBrN0shciNGml4bLhlfmHyD.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732481"
+                }
+              ] 
+            },
+            {
+              "title": "Captain Tsubasa Dream Team | 2. Sezon 39. Bölüm - Tsubasa kalkıyor",
+              "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fa3aBmBY56MClYnT669S9XxSKNUR.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet - TR Altyazı",
+                  "quality": "720p",
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732482"
                 }
               ] 
             }
@@ -767,5 +1218,4 @@
       ]
     }
   }
-
 }     
