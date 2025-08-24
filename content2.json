@@ -1,0 +1,770 @@
+{
+  "series": {
+    "seri-1": {
+      "title": "Captain Tsubasa Dream Team (2018)",
+      "description": "Dünya, 10 yıl önce aniden açılan (Geçitler) adı verilen portallarla birlikte canavarlarla dolu zindanlara ev sahipliği yapmaya başlar. Bununla birlikte, bazı insanlar (Avcı) adı verilen özel güçlere sahip savaşçılar hâline gelir ve bu canavarlara karşı savaşarak insanlığı korurlar. Serinin ana karakteri Sung Jin-Woo, dünyanın en zayıf avcısı olarak bilinen bir E-Rank Hunter'dır. Ancak, bir gün ölümcül bir zindan görevinde karşılaştığı gizemli bir sistem sayesinde (Oyuncu) olarak yeniden doğar. Artık diğer avcılardan farklı olarak, seviye atlayarak güçlenme yeteneğine sahiptir. Kendi gücünü artırarak dünyanın en güçlü avcısı olma yolunda ilerler.",
+      "cover": "https://m.media-amazon.com/images/M/MV5BOGQyYTAxZDctNTlhNS00MzJhLWE5ODQtMDY0ZDNmNTZhODFkXkEyXkFqcGc@._V1_.jpg",
+      "categories": ["Animasyon", "Macera", "Fantastik", "Aksiyon"],
+      "year": 2018,
+      "type": ["Anime", "Aksiyon & Macera", "Fantastik", "Dövüş"],
+      "imdb": 9.5,
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "title": "Solo Leveling | 1. Sezon 1. Bölüm - Alışkınım",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://an-zaihai.online/file/tau-video/3ead5161-d016-433e-823a-456147c8972f.mp4"
+                }
+              ]
+            },
+            {
+              "title": "Solo Leveling | 1. Sezon 2. Bölüm - Bir Şansım Daha Olsaydı",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://choumen-tai.store/file/tau-video/5a43ad29-09f6-4263-9506-785e2e325560.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ]  
+            },
+            {
+              "title": "Solo Leveling | 1. Sezon 3. Bölüm - Bir Oyun Gibi",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://noble-ran.site/file/tau-video/54fd899e-08b2-48ba-9bc4-72499243472e.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 1. Sezon 4. Bölüm - Daha Güçlü Olmalıyım",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://fang-heshan.store/file/tau-video/d6908e19-70d5-4a69-8e77-c7df8ac895a7.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 1. Sezon 5. Bölüm - Oldukça İyi Bir Anlaşma",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://fang-heshan.store/file/tau-video/e8f404a0-0a11-49bb-a7df-43eba41f682a.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 1. Sezon 6. Bölüm - Gerçek Av Başlıyor",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://jian-daozi.site/file/tau-video/ffa2b1bc-a277-4469-b18b-e13d7e45f3ea.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 1. Sezon 7. Bölüm - Bakalım ne kadar ileri gidebilirim",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://fang-heshan.online/file/tau-video/218275bc-df45-4bbd-9e71-964a5e0e5a56.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 1. Sezon 8. Bölüm - Bu sinir bozucu",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://song-jia.store/file/tau-video/ae53c4da-d773-47ee-a358-4ab536b194bc.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 1. Sezon 9. Bölüm - Yeteneklerini Saklıyorsun",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://noble-ran.online/file/tau-video/b5fc1a34-db7c-4928-89f1-5dc4aafe0b8e.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 1. Sezon 10. Bölüm - Bu nedir, piknik mi?",              
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://lord-fifth.site/file/tau-video/91a3817a-ca1c-4aa7-8461-6e44511eb57e.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 1. Sezon 11. Bölüm - Boş Bir Tahtı Savunan Bir Şövalye",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://lord-fifth.store/file/tau-video/d7631c00-6efd-4477-adfa-ecacde5ebe8a.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 1. Sezon 12. Bölüm - Ortaya Çıkmak",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://an-zaihai.store/file/tau-video/24a8dd78-8f27-4204-ad4b-e3f783354d86.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            }
+          ]
+        },
+        {
+          "seasonNumber": 2,
+          "episodes": [
+            {
+              "title": "Solo Leveling | 2. Sezon 1. Bölüm - E-rütbesi değilsin, değil mi?",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://noble-ran.online/file/tau-video/143ef213-bb3a-4807-80ab-28f616967c82.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 2. Sezon 2. Bölüm - Sanırım farkında değilsin",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://choumen-tai.site/file/tau-video/489874e8-1c79-4460-a825-fa336f5fd5a9.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 2. Sezon 3. Bölüm - Hala Gidilecek Uzun Bir Yol",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://xu-qing.store/file/tau-video/d5d9daaf-aafb-4c75-962b-0f8a7576e6ad.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 2. Sezon 4. Bölüm - Numara yapmayı bırakmam gerekiyor",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://jian-daozi.site/file/tau-video/2c72ddd8-da52-4589-b1bd-b59986316901.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 2. Sezon 5. Bölüm - İşte bunu yapmak için eğitildik",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://hong-bin.store/file/tau-video/d4f1f340-0826-48b8-b630-051af0ed2bbe.mp4"
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "1080p",
+                  "url": ""
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 2. Sezon 6. Bölüm - Adamlarımı Küçümseme",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://ke-yunhai.store/file/tau-video/2a6589cb-8696-48f3-a2fc-9adca3e12295.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 2. Sezon 7. Bölüm - S-Derece Avcısı",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://fang-xuzhong.store/file/tau-video/8ed73a27-cfa7-45f1-af20-73cb73701eff.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 2. Sezon 8. Bölüm - Yukarı bakmak beni yoruyordu",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://zappy-net.online/file/tau-video/2acf0234-3ed1-425d-8f7d-7157b95b694e.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 2. Sezon 9. Bölüm - Her Şeye Değdi",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://ihtau3.store/file/tau-video/1b7ea969-26e8-468d-b7b8-ccc9cf03fba6.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 2. Sezon 10. Bölüm - Bir Kahramana İhtiyacımız Var",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://ictau3.site/file/tau-video/d078817b-b878-42c6-9d53-d965f68f4b0b.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 2. Sezon 11. Bölüm - Daha da Yoğunlaşacak",              
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://ke-yunhai.store/file/tau-video/446a9ee2-a642-483c-8f8e-0c01dcb327a4.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 2. Sezon 12. Bölüm - İnsanların Kralı Sen misin",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://xu-qing.store/file/tau-video/29865637-9ad5-47f5-a7ea-8f09fcb4337e.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            },
+            {
+              "title": "Solo Leveling | 2. Sezon 13. Bölüm - Bir Sonraki Hedefe Doğru",
+              "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+              "videoSources": [
+                {
+                  "name": "TAU",
+                  "quality": "1080p",
+                  "url": "https://ke-yunhai.store/file/tau-video/4500ae49-6864-488b-9781-aa72efad03cb.mp4"
+                },
+                {
+                  "name": "BC",
+                  "quality": "480p",
+                  "url": ""
+                },
+                {
+                  "name": "Arc",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Rumble",
+                  "quality": "720p",
+                  "url": ""
+                },
+                {
+                  "name": "Sibnet",
+                  "quality": "720p",
+                  "url": ""
+                }
+              ] 
+            }
+          ]
+        }
+      ]
+    }
+  }
+}     
