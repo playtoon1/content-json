@@ -144,12 +144,12 @@
                 {
                   "name": "TAU",
                   "quality": "1080p",
-                  "url": "https://jian-daozi.site/file/tau-video/ffa2b1bc-a277-4469-b18b-e13d7e45f3ea.mp4"
+                  "url": ""
                 },
                 {
                   "name": "BC",
                   "quality": "480p",
-                  "url": ""
+                  "url": "http://video.sibnet.ru/shell.php?videoid=5732444"
                 },
                 {
                   "name": "Arc",
@@ -767,4 +767,5 @@
       ]
     }
   }
+
 }     
