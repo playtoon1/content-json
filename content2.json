@@ -674,14 +674,14 @@
               "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2Fe9OgMSwuV9lLNDlwsCcUOpMsTor.jpg",
               "videoSources": [
                 {
-                  "name": "TAU - TR Altyazı",
-                  "quality": "1080p",
-                  "url": ""
-                },
-                {
                   "name": "Sibnet - TR Altyazı",
                   "quality": "720p",
                   "url": "http://video.sibnet.ru/shell.php?videoid=5732444"
+                },
+                {
+                  "name": "TAU - TR Altyazı",
+                  "quality": "1080p",
+                  "url": ""
                 }
               ] 
             },
@@ -1219,3 +1219,4 @@
     }
   }
 }     
+
