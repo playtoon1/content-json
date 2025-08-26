@@ -223,21 +223,6 @@
                 {
                   "name": "BC",                  
                   "url": ""
-                },
-                {
-                  "name": "Arc",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Rumble",
-                  "quality": "720p",
-                  "url": ""
-                },
-                {
-                  "name": "Sibnet",
-                  "quality": "720p",
-                  "url": ""
                 }
               ] 
             },
@@ -41026,6 +41011,7 @@
     }
   }
 }  
+
 
 
 
