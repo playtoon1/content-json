@@ -18,6 +18,7 @@
               "videoSources": [
                 {
                   "name": "TAU",
+                  "quality": "1080p",
                   "url": "https://an-zaihai.online/file/tau-video/3ead5161-d016-433e-823a-456147c8972f.mp4"
                 }
               ]
@@ -220,8 +221,7 @@
                   "url": "https://xu-qing.store/file/tau-video/d5d9daaf-aafb-4c75-962b-0f8a7576e6ad.mp4"
                 },
                 {
-                  "name": "BC",
-                  "quality": "480p",
+                  "name": "BC",                  
                   "url": ""
                 },
                 {
@@ -41026,6 +41026,7 @@
     }
   }
 }  
+
 
 
 
