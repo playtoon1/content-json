@@ -18,7 +18,6 @@
               "videoSources": [
                 {
                   "name": "TAU",
-                  "quality": "1080p",
                   "url": "https://an-zaihai.online/file/tau-video/3ead5161-d016-433e-823a-456147c8972f.mp4"
                 }
               ]
@@ -41027,6 +41026,7 @@
     }
   }
 }  
+
 
 
 
