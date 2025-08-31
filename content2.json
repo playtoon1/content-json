@@ -2501,7 +2501,7 @@
     },
     "seri-4": {
       "title": "Madagaskar Penguenleri (2008)",
-      "description": "Madagaskar Penguenleri; Skipper, Kowalski, Rico ve Private adlı dört sevimli ama son derece yetenekli penguenin maceralarını konu alır. Bu ekip, genellikle bir casus timi gibi çalışır ve karşılaştıkları tehditleri zekice planlarla bertaraf eder.",
+      "description": "Madagaskar Penguenleri; Skipper, Kowalski, RiPrivate adlı dört sevimli ama son derece yetenekli penguenin maceralarını konu alır. Bu ekip, genellikle bir casus timi gibi çalışır ve karşılaştıkları tehditleri zekice planlarla bertaraf eder.",
       "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSdzN6Bd8QTh68lvuj8cotYfnSFOsxp2f6fZ5R98cRipUKufmD1dofGmTG7jjlC8eYickzH6kH57exl9IOE7VUrJnLGytWBaiQR6_mYjW3NMRA_kfcFj0_9O6jGNeBiSwFUQA7tX6JkYiT/s1600/gbtwoYMWlG0HZe7sDaTOoijtXCu.jpg",
       "categories": ["Animasyon", "Aile", "Komedi"],
       "year": 2008,
@@ -2512,7 +2512,7 @@
           "seasonNumber": 1,
           "episodes": [
             {
-              "title": "Madagaskar Penguenleri | 1. Sezon 1. Bölüm - Patlamış Mısır Paniği / Flash Gibi Geçti",
+              "title": "Madagaskar Penguenleri | 1. Sezon 1. Bölüm - ış Mısır Paniği / Flash Gibi Geçti",
               "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn6AlQo6Z4vPm1XBzA8n7iOxEL9zdYfH7q6B_jpahuMlXMJMmnFSxSK_yH-MoeuVbDbu3RfiscrMi-ozygcmFURodABt_qJTV85q9HkfWk-FfytqC1QJDTXb9sD5-vfZ7C7tDVQ_Mx7iM/w680/POM_back_cover.jpg",
               "videoSources": [
                 {
@@ -3318,6 +3318,417 @@
                 {
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4716343"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "seri-5": {
+      "title": "Süper Köpek Krypto (2005)",
+      "description": "Kriptonlu süper kahraman köpek ve arkadaşlarının maceraları. Krypton gezegeninden gelen Krypto, Superman’in sadık dostu ve kahraman köpeğidir. Sarı Güneş’in etkisiyle uçma, süper güç, hız, ısı bakışları ve gelişmiş duyular gibi Superman’e benzer yeteneklere sahiptir. Suçla mücadelede Superman’e eşlik eder, gerektiğinde tek başına bile bir kahraman gibi savaşır. En büyük zayıflığı ise Kryptonite’tır.",
+      "cover": "https://m.media-amazon.com/images/S/pv-target-images/aff8b8ac15e3baba7d9b4cce857407fc6ce06ccbb0eb72b9790eef45c9f7ad23.jpg",
+      "categories": ["Animasyon", "Aile", "Komedi", "Aksiyon"],
+      "year": 2005,
+      "type": ["Komedi", "Aksiyon & Macera", "Aile"],
+      "imdb": 8.3,
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 1. Bölüm - Kripto'nun Kriptosu",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481234"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 2. Bölüm - Süper Pire / Bir Böceğin Çekişmesi",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481236"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 3. Bölüm - Köpek Yıldızlarıyla Tanışın / Çizgi Hikayesi",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481238"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 4. Bölüm - Bebek Bezi Çılgınlığı / Feline Fatale",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481239"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 5. Bölüm - Köpek Gitti Kevin / Kara Tazı Saldırıyor!",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481241"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 6. Bölüm - Evcil Hayvanım Oğlum / Dem Kemikleri",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481242"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 7. Bölüm - Bir Günlük Yarasa Tazısı / Dogbot",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481243"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 8. Bölüm - Yaşlı Köpek, Yeni Hileler / Hayvanlarla Konuş",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481244"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 9. Bölüm - Amcam, Süper Kahraman / En İyi Köpek",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481245"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 10. Bölüm - Uzay Botlarındaki Kedi / Ufacık Minik Bela",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481246"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 11. Bölüm - Kurtarmaya Dogbot / Bad Bailey",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481247"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 12. Bölüm - Yarasa Tazısı'nın Kötü Şansı / Köpek Yıldızlarının Sirki",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481249"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 13. Bölüm - Yaşayan Son / Kışın Köpek Günleri",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481250"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 14. Bölüm - Kötü Saç Günü / Kedi ve Yarasa",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481251"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 15. Bölüm - Melanie'nin Maymunu / Komik İş",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481252 "
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 16. Bölüm - Şimdi Onu Görüyorsun... / Çekişme Kemikleri",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481253"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 17. Bölüm - Süper Köpek? Kim Süper Köpek? / İyi Hayat",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481254"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 18. Bölüm - Streaky'nin Süper Kedi Hikayesi / Yeni Üye",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481256"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 19. Bölüm - Yukarı, Yukarı ve Uzakta / Dinozor Zamanı",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481257"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 20. Bölüm - Köpek Yavrusu Sorunları / Taraf Değiştirme",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481258"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 21. Bölüm - Yokluk Yaprağı / Abla",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481259"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 22. Bölüm - Yarasa Tazı Köpek Yıldızlarıyla Buluşuyor / Bir Köpeğin Hayatı",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481260"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 23. Bölüm - Bir Gün Başıboş / Fırfırlı Tüyler",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481261"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 24. Bölüm - Yarasa Tazısı ve Kızılgerdan / Tüylü Balık",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481262"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 25. Bölüm - Tusky'nin Dişi / Penguenler Uçarken",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481263"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 1. Sezon 26. Bölüm - Hikaye Kitabı Tatili",
+              "thumbnail": "https://i5.walmartimages.com/asr/de2411c1-5db7-4fcd-b258-c2850bd010dd_1.fcac95986977288b778ca3d0f05008b0.jpeg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481264"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "seasonNumber": 2,
+          "episodes": [
+            {
+              "title": "Süper Köpek Krypto | 2. Sezon 1. Bölüm - Pelerinli Çocuklar / Sanal Sebzelerin Saldırısı",
+              "thumbnail": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2005/3/w1280/5CoVZWB5TPFUqGbGTYqqQY0R8dP.jpg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481265"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 2. Sezon 2. Bölüm - Mechani-Bot / Stretch-O-Mutt Kurtarmaya Gidiyor",
+              "thumbnail": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2005/3/w1280/5CoVZWB5TPFUqGbGTYqqQY0R8dP.jpg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481266"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 2. Sezon 3. Bölüm - Büyüme Sancıları / K-9 Haçlı",
+              "thumbnail": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2005/3/w1280/5CoVZWB5TPFUqGbGTYqqQY0R8dP.jpg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481267"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 2. Sezon 4. Bölüm - Andrea Öğreniyor / Sihirli Köpekler",
+              "thumbnail": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2005/3/w1280/5CoVZWB5TPFUqGbGTYqqQY0R8dP.jpg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481268"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 2. Sezon 5. Bölüm - Sürüngen Round-Up / Streaky'nin Saha Gezisi",
+              "thumbnail": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2005/3/w1280/5CoVZWB5TPFUqGbGTYqqQY0R8dP.jpg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481270"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 2. Sezon 6. Bölüm - Pied Pussycat Piper / Solar Teknik özellikler",
+              "thumbnail": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2005/3/w1280/5CoVZWB5TPFUqGbGTYqqQY0R8dP.jpg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481271"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 2. Sezon 7. Bölüm - Çok Fazla Aşçı / Kulübe Katılın",
+              "thumbnail": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2005/3/w1280/5CoVZWB5TPFUqGbGTYqqQY0R8dP.jpg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481272"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 2. Sezon 8. Bölüm - Bailey'nin Sırtı / Streaky'nin İç Mücadelesi",
+              "thumbnail": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2005/3/w1280/5CoVZWB5TPFUqGbGTYqqQY0R8dP.jpg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481274"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 2. Sezon 9. Bölüm - Yüz Yüze / Katopi",
+              "thumbnail": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2005/3/w1280/5CoVZWB5TPFUqGbGTYqqQY0R8dP.jpg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481275"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 2. Sezon 10. Bölüm - Papağan ve Korsanlar / Robbie'nin Dönüşü",
+              "thumbnail": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2005/3/w1280/5CoVZWB5TPFUqGbGTYqqQY0R8dP.jpg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481276"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 2. Sezon 11. Bölüm - Kunduzların İsyanı / Fıstık Gezegeninden İstila",
+              "thumbnail": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2005/3/w1280/5CoVZWB5TPFUqGbGTYqqQY0R8dP.jpg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481277"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 2. Sezon 12. Bölüm - Mekaniklik / Barrump Barrump",
+              "thumbnail": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2005/3/w1280/5CoVZWB5TPFUqGbGTYqqQY0R8dP.jpg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481279"
+                }
+              ]
+            },
+            {
+              "title": "Süper Köpek Krypto | 2. Sezon 13. Bölüm - İguanukka",
+              "thumbnail": "https://www.lavanguardia.com/peliculas-series/images/serie/poster/2005/3/w1280/5CoVZWB5TPFUqGbGTYqqQY0R8dP.jpg",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4481280"
                 }
               ]
             }
