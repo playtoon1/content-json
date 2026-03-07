@@ -3,7 +3,7 @@
     "film-1": {
       "title": "Jurassic World: Yeniden Doğuş",
       "description": "Bu bir örnek film açıklamasıdır. Film hakkında detaylı bilgi burada yer alır.",
-      "cover": "https://m.media-amazon.com/images/M/MV5BOGQyYTAxZDctNTlhNS00MzJhLWE5ODQtMDY0ZDNmNTZhODFkXkEyXkFqcGc@._V1_.jpg",
+      "cover": "https://www.hdfilmizle.to/v/500203/cover/backdrop/jurassic-world-rebirth.jpg",
       "categories": ["Aksiyon", "Macera", "Bilim Kurgu"],
       "type": ["Aksiyon & Macera", "Gerilim"],
       "year": 2024,
@@ -23,3 +23,4 @@
   }
 
 }
+
