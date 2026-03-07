@@ -2,7 +2,7 @@
   "movies": {
     "film-1": {
       "title": "Jurassic World: Yeniden Doğuş",
-      "description": "Bu bir örnek film açıklamasıdır. Film hakkında detaylı bilgi burada yer alır.",
+      "description": "",
       "cover": "https://www.hdfilmizle.to/v/500203/cover/backdrop/jurassic-world-rebirth.jpg",
       "categories": ["Aksiyon", "Macera", "Bilim Kurgu"],
       "type": ["Aksiyon & Macera", "Gerilim"],
@@ -23,4 +23,5 @@
   }
 
 }
+
 
