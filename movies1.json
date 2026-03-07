@@ -1,18 +1,18 @@
 {
   "movies": {
     "film-1": {
-      "title": "Tsubasa Film",
+      "title": "Jurassic World: Yeniden Doğuş",
       "description": "Bu bir örnek film açıklamasıdır. Film hakkında detaylı bilgi burada yer alır.",
       "cover": "https://m.media-amazon.com/images/M/MV5BOGQyYTAxZDctNTlhNS00MzJhLWE5ODQtMDY0ZDNmNTZhODFkXkEyXkFqcGc@._V1_.jpg",
       "categories": ["Aksiyon", "Macera", "Bilim Kurgu"],
       "type": ["Aksiyon & Macera", "Gerilim"],
-      "year": 2023,
+      "year": 2024,
       "imdb": 8.2,
       "videoUrl": "",
       "videoSources": [
         {
           "name": "Altyazılı",
-          "url": "https://gojousatoru.asia/file/tau-video/8b78e4af-14ec-4470-b60b-c0d4f93eb7d6.mp4"
+          "url": "https://player.odycdn.com/v6/streams/0357b34a91837ae2d68a6eaf51470397d5918158/9d97a0.mp4"
         },
         {
           "name": "Türkçe Dublaj",
@@ -21,4 +21,5 @@
       ]
     }
   }
+
 }
