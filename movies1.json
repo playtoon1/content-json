@@ -1,0 +1,24 @@
+{
+  "movies": {
+    "film-1": {
+      "title": "Jurassic World Yeniden Doğuş",
+      "description": "Film, Jurassic World: Dominion olaylarından yaklaşık 5 yıl sonra geçer. Bir ekip, insanlık için devrim yaratabilecek bir ilaç geliştirmek amacıyla üç dev dinozor türünün DNA’sını toplamak için tehlikeli bir göreve gönderilir. Bu ekip tropik ve izole bir bölgeye gider; burada hâlâ yaşayan en büyük kara, deniz ve hava dinozorları vardır. Görev sırasında ekip, dinozorların olduğu yasaklı bir adada mahsur kalır ve hem hayatta kalmaya çalışır hem de yıllardır saklanan karanlık bir sırrı keşfeder.",
+      "cover": "https://www.hdfilmizle.to/v/500203/cover/backdrop/jurassic-world-rebirth.jpg",
+      "categories": ["Aksiyon", "Macera", "Bilim Kurgu"],
+      "type": ["Aksiyon & Macera", "Gerilim"],
+      "year": 2025,
+      "imdb": 5.9,
+      "videoUrl": "",
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://player.odycdn.com/v6/streams/0357b34a91837ae2d68a6eaf51470397d5918158/9d97a0.mp4"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
+    }
+  }
+}
