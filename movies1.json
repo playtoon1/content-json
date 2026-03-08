@@ -1,0 +1,241 @@
+{
+  "movies": {
+    "film-1": {
+      "title": "Jurassic World Yeniden Doğuş",
+      "description": "Film, Jurassic World: Dominion olaylarından yaklaşık 5 yıl sonra geçer. Bir ekip, insanlık için devrim yaratabilecek bir ilaç geliştirmek amacıyla üç dev dinozor türünün DNA’sını toplamak için tehlikeli bir göreve gönderilir. Bu ekip tropik ve izole bir bölgeye gider; burada hâlâ yaşayan en büyük kara, deniz ve hava dinozorları vardır. Görev sırasında ekip, dinozorların olduğu yasaklı bir adada mahsur kalır ve hem hayatta kalmaya çalışır hem de yıllardır saklanan karanlık bir sırrı keşfeder.",
+      "cover": "https://www.hdfilmizle.to/v/500203/cover/backdrop/jurassic-world-rebirth.jpg",
+      "categories": ["Aksiyon", "Macera", "Bilim Kurgu"],
+      "type": ["Aksiyon & Macera", "Gerilim"],
+      "year": 2025,
+      "imdb": 5.9,
+      "videoUrl": "",
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://player.odycdn.com/v6/streams/0357b34a91837ae2d68a6eaf51470397d5918158/9d97a0.mp4"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
+    },
+    "film-2": {
+      "title": "The Protégé",
+      "description": "Efsanevi suikastçı Moody tarafından çocukken kurtarılan ve yetiştirilen Anna, dünyanın en yetenekli kiralık katilidir. Moody'nin vahşice öldürülmesinin ardından Anna, kendisine her şeyi öğreten ve bir baba figürü olan adamın intikamını almak için tehlikeli bir yola girer. Bu arayış onu Vietnam'a kadar sürükler ve geçmişindeki sırlar ile gizemli bir rakiple yüzleşmesine neden olur.",
+      "cover": "https://play-lh.googleusercontent.com/0twcuW2C3DvA5F0ZCOKE_5vrfv8TlepRRvwWsiHa22WxcHSaWm3T4aJeRQKhHgniv_MxTnIIDCaRq6Dw2v7s",
+      "categories": [
+        "Aksiyon",
+        "Gerilim",
+        "Suç"
+      ],
+      "type": [
+        "Aksiyon & Macera",
+        "Gerilim"
+      ],
+      "year": 2021,
+      "imdb": 6.1,
+      "videoUrl": "",
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://player.odycdn.com/v6/streams/cdec22274d20ac10a17eb85c3ea5323f2ca7b17f/8a806f.mp4"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
+    },
+    "film-3": {
+      "title": "Prisoner Of War",
+      "description": "2025 yılında izleyiciyle buluşması planlanan bu animasyon yapımı, distopik bir gelecekteki küresel çatışma sırasında geçmektedir. Hikaye, yüksek güvenlikli ve gizemli bir esir kampına hapsedilen bir grup askerin etrafında döner. Karakterler, sadece kampın acımasız koşullarıyla değil, aynı zamanda kendi aralarındaki güven sorunları ve savaşın ardındaki büyük komployla da yüzleşmek zorundadır. Kaçış için planlar yapılırken, savaşın gidişatını tamamen değiştirebilecek yasaklı bir teknolojinin varlığı keşfedilir.",
+      "cover": "https://m.media-amazon.com/images/M/MV5BZDIzZjVhYTktZDA3YS00M2NjLTkzZTItYzNkMTZjMjY2MmIzXkEyXkFqcGc@._V1_.jpg",
+      "categories": [
+        "Aksiyon",
+        "Dram",
+        "Savaş"
+      ],
+      "type": [
+        "Animasyon",
+        "Bilim Kurgu"
+      ],
+      "year": 2025,
+      "imdb": 0,
+      "videoUrl": "",
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": ""
+        },
+        {
+          "name": "Altyazılı",
+          "url": "https://player.odycdn.com/v6/streams/09104934a82090263d04fa2e0eeca7ec78688cae/3740dc.mp4"
+        }
+      ]
+    },
+    "film-4": {
+      "title": "Kapıdaki Düşman (Enemy at the Gates)",
+      "description": "2. Dünya Savaşı'nın en kritik dönüm noktalarından biri olan Stalingrad kuşatması sırasında geçen film, efsanevi Rus keskin nişancı Vassili Zaitsev'in hikayesini konu alıyor. Sovyet propagandası tarafından bir kahraman haline getirilen Vassili, Almanların en yetenekli nişancısı olan Binbaşı König ile ölümcül bir kedi-fare oyununa girer. Savaşın yıkımı ve kaosunun ortasında bu iki keskin zekalı nişancı arasındaki psikolojik ve fiziksel düello, savaşın kaderini etkileyen sembolik bir mücadeleye dönüşür.",
+      "cover": "https://upload.wikimedia.org/wikipedia/tr/5/57/Kap%C4%B1daki_D%C3%BC%C5%9Fman_%28film%29_posteri.jpg",
+      "categories": [
+        "Savaş",
+        "Dram",
+        "Tarih"
+      ],
+      "type": [
+        "Aksiyon & Macera",
+        "Dram"
+      ],
+      "year": 2001,
+      "imdb": 7.6,
+      "videoUrl": "",
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://player.odycdn.com/v6/streams/188ce19a8d56583ab06e8d012460a5920ccaad48/63162f.mp4"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
+    },
+    "film-5": {
+      "title": "Trail of Blood",
+      "description": "Trail of Blood, derin bir ormanda kamp yapmaya giden bir grup gencin hikayesini konu alan 2011 yapımı bir gerilim filmidir. Huzurlu geçmesi planlanan hafta sonu gezisi, ormanda vahşice katledilmiş cesetlerin bulunmasıyla korkunç bir kabusa dönüşür. Hayatta kalma eğitimi alan iki askeri aday ile yolları kesişen gençler, kendilerini gizemli ve acımasız bir katilin hedefinde bulurlar. Issız doğanın derinliklerinde geçen bu kedi-fare oyununda, karakterler hayatta kalabilmek için hem fiziksel hem de psikolojik sınırlarını zorlamak zorundadır.",
+      "cover": "https://m.media-amazon.com/images/M/MV5BMjc2Mjk4NjcyOV5BMl5BanBnXkFtZTgwMjY0NTk1MDE@._V1_FMjpg_UX1000_.jpg",
+      "categories": [
+        "Korku",
+        "Gerilim",
+        "Aksiyon"
+      ],
+      "type": [
+        "Aksiyon & Macera",
+        "Gerilim"
+      ],
+      "year": 2011,
+      "imdb": 4.1,
+      "videoUrl": "",
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://player.odycdn.com/v6/streams/b28c20ab88bd9ce5b54649723754332c1d72c5b9/08d1b3.mp4"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
+    },
+    "film-6": {
+      "title": "Beyaz Köpekbalığı (Great White)",
+      "description": "Beş yolcuyu taşıyan bir deniz uçağı, ıssız bir adaya yaptıkları yolculuk sırasında kaza yaparak okyanusun ortasında batar. Kıyıdan millerce uzakta, küçük bir can salına mahsur kalan grup, karaya ulaşmaya çalışırken suyun derinliklerinde pusuda bekleyen dev bir beyaz köpekbalığı tarafından avlanmaya başlar. Kısıtlı kaynakları ve artan panikleriyle hayatta kalanlar, doğanın en tehlikeli yırtıcısına karşı zamana karşı ölümcül bir mücadele verir.",
+      "cover": "https://cdn.sinemalar.com/images/movie/266546/poster/buyuk-beyaz-1660927184.jpg",
+      "categories": [
+        "Korku",
+        "Gerilim"
+      ],
+      "type": [
+        "Aksiyon & Macera",
+        "Gerilim"
+      ],
+      "year": 2021,
+      "imdb": 4.2,
+      "videoUrl": "",
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": ""
+        },
+        {
+          "name": "Altyazılı",
+          "url": "https://player.odycdn.com/v6/streams/3da5dcea78f111f18240a7d6e921f3fbf39c974a/2820c7.mp4"
+        }
+      ]
+    },
+    "film-7": {
+      "title": "Yedi Ölümcül Günah: Gökyüzünün Mahkumları",
+      "description": "Meliodas ve Yedi Ölümcül Günah üyeleri, nadir bir malzeme olan gökyüzü balığını ararken bulutların üzerindeki Sky Palace'a ulaşırlar. Burada, mühürlenmiş korkunç bir canavarı uyandırmaya çalışan 'Altı Siyah Şövalye' adlı iblis grubuyla karşı karşıya gelirler. Meliodas, halk tarafından beklenen kahramanla karıştırılırken, ekip gökyüzü dünyasını yıkımdan kurtarmak için amansız bir savaşa girer.",
+      "cover": "https://filmmakinesi.to/uploads/postlar/afis/the-seven-deadly-sins-prisoners-of-the-sky-2018.jpg-thumb-detay.webp",
+      "categories": [
+        "Animasyon",
+        "Aksiyon",
+        "Macera",
+        "Fantastik"
+      ],
+      "type": [
+        "Anime",
+        "Aksiyon & Macera"
+      ],
+      "year": 2018,
+      "imdb": 7,
+      "videoUrl": "",
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://player.odycdn.com/v6/streams/4fc298621874f21082598e3da975524603628ad0/1df07d.mp4"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
+    },
+    "film-8": {
+      "title": "Yedi Ölümcül Günah: Işık Laneti",
+      "description": "The Seven Deadly Sins: Dragon's Judgement olaylarının sonrasını konu alan bu filmde, Meliodas ve arkadaşları dünyayı tehdit eden yeni bir tehlikeye karşı birleşiyor. Meliodas ve Elizabeth'in evlilik hazırlıkları yaptığı bir sırada, kutsal savaşın sona ermesinden memnun olmayan gizemli güçler ortaya çıkar. Yedi Ölümcül Günah üyeleri, barışı korumak ve Yüce Tanrıça ile bağlantılı bu kadim tehdidi ortadan kaldırmak için son bir maceraya atılır.",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/ef/Seven_Deadly_Sins_Movie_2.png",
+      "categories": [
+        "Aksiyon",
+        "Macera",
+        "Fantastik",
+        "Animasyon"
+      ],
+      "type": [
+        "Anime",
+        "Macera"
+      ],
+      "year": 2021,
+      "imdb": 6.4,
+      "videoUrl": "",
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://player.odycdn.com/v6/streams/ba0bb67ff01b33b2babff6aed160449d02b89301/c7e132.mp4"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
+    },
+    "film-9": {
+      "title": "Yedi Ölümcül Günah: Edinburgh'un Kini Bölüm 1",
+      "description": "Meliodas ve Elizabeth'in oğlu Tristan, tanrıça klanının iyileştirme gücünü ve iblis klanının yıkıcı gücünü miras almıştır. Ancak, kontrol edemediği bu güçler yüzünden başkalarına zarar vermekten korkmaktadır. Annesi Elizabeth'in hayatı gizemli bir lanet yüzünden tehlikeye girdiğinde, Tristan bu laneti durdurmanın yolunu bulmak ve annesini kurtarmak için eski Kutsal Şövalye Deathpierce'ın kalesi olan Edinburgh'a doğru bir yolculuğa çıkar. Bu süreçte hem kendi geçmişiyle yüzleşecek hem de yeni dostluklar kuracaktır.",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/e/ea/Seven_Deadly_Sins_Grudge.jpg",
+      "categories": [
+        "Aksiyon",
+        "Macera",
+        "Fantastik"
+      ],
+      "type": [
+        "Animasyon",
+        "Aksiyon & Macera"
+      ],
+      "year": 2022,
+      "imdb": 6.3,
+      "videoUrl": "",
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://player.odycdn.com/v6/streams/6dac73fe4ca9f95aa106fd2bd1db64e6d27db7bc/8256ac.mp4"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
+    }
+  }
+}
