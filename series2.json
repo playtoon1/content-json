@@ -15017,11 +15017,21 @@
               ]
             },
             {
-              "thumbnail": "",
+              "thumbnail": "https://static-3.bitchute.com/live/cover_images/zMJJYOp9ovkI/C1zV4fewInhs_1280x720.jpg",
               "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 3. Bölüm - ",
               "videoSources": [
                 {
-                  "name": "BC",
+                  "name": "BC-Eng Dublaj",
+                  "url": "https://seed305.bitchute.com/zMJJYOp9ovkI/C1zV4fewInhs.mp4"
+                }
+              ],
+              "subtitles": [
+                {
+                  "label": "Türkçe",
+                  "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/subs/037_6x3.srt"
+                },
+                {
+                  "label": "",
                   "url": ""
                 }
               ]
