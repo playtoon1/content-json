@@ -26,10 +26,6 @@
               "title": "Baykuş Evi | 1. Sezon 1. Bölüm - Güvenilmez Cadı ve Müdür",
               "videoSources": [
                 {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4949504"
-                },
-                {
                   "name": "Rmb",
                   "url": "https://1a-1791.com/video/fww1/c5/s8/2/g/6/F/5/g6F5z.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=74316288-74319111"
                 }
@@ -41,6 +37,10 @@
               "videoSources": [
                 {
                   "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4949504"
+                },
+                {
+                  "name": "Sibnet1",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949507"
                 },
                 {
