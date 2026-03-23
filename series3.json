@@ -4,9 +4,19 @@
       "title": "Baykuş Evi",
       "description": "İnsan dünyasında yaşayan Luz adlı meraklı bir kız, yanlışlıkla büyücülerin yaşadığı “Kaynar Adalar” adlı fantastik bir dünyaya geçit bulur. Burada asi bir cadı olan Eda ve küçük savaşçı King ile tanışır. Luz büyü gücü olmamasına rağmen cadı olmayı öğrenmeye çalışırken hem dostluklar kurar hem de bu garip dünyanın sırlarını keşfeder.",
       "cover": "https://static.wikia.nocookie.net/international-entertainment-project/images/d/d1/The_Owl_House_-_poster_%28Turkish%29.png/revision/latest/thumbnail/width/360/height/450?cb=20220805102328",
-      "categories": ["Animasyon", "Macera", "Komedi", "Fantastik", "Gençlik"],
+      "categories": [
+        "Animasyon",
+        "Macera",
+        "Komedi",
+        "Fantastik",
+        "Gençlik"
+      ],
       "year": 2020,
-      "type": ["Aksiyon & Macera", "Komedi", "Animasyon"],
+      "type": [
+        "Aksiyon & Macera",
+        "Komedi",
+        "Animasyon"
+      ],
       "imdb": 8.5,
       "seasons": [
         {
@@ -21,9 +31,9 @@
                 },
                 {
                   "name": "Rmb",
-                  "url": "https://rumble.com/hls-vod/74i8vy/playlist.m3u8?key=iFrm3-H_vtIAERNBzQiIWtvmExevRssqEfd3vVOmlL69qTT7xYwFWw&u=3&b=0"
+                  "url": "https://1a-1791.com/video/fww1/c5/s8/2/g/6/F/5/g6F5z.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=74316288-74319111"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2351971.jpg",
@@ -35,9 +45,9 @@
                 },
                 {
                   "name": "Rmb",
-                  "url": "https://1a-1791.com/video/fww1/c5/s8/2/g/6/F/5/g6F5z.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=74316288-74319111"
+                  "url": "https://rumble.com/hls-vod/74i8vy/playlist.m3u8?key=iFrm3-H_vtIAERNBzQiIWtvmExevRssqEfd3vVOmlL69qTT7xYwFWw&u=3&b=0"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2352515.jpg",
@@ -47,7 +57,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5861778"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2353253.jpg",
@@ -57,7 +67,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5861777"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2354222.jpg",
@@ -67,7 +77,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949512"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2354655.jpg",
@@ -77,7 +87,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949514"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2355405.jpg",
@@ -87,7 +97,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5861776"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2356337.jpg",
@@ -97,7 +107,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4982229"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2356337.jpg",
@@ -107,7 +117,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4982233"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2357465.jpg",
@@ -117,7 +127,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5861774"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2357947.jpg",
@@ -127,7 +137,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4982236"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2358513.jpg",
@@ -137,7 +147,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5861772"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2359307.jpg",
@@ -147,7 +157,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949525"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2360136.jpg",
@@ -157,7 +167,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949526"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2360375.jpg",
@@ -167,7 +177,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949529"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2361294.jpg",
@@ -177,7 +187,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4982238"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2362220.jpg",
@@ -187,7 +197,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949532"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2362571.jpg",
@@ -197,7 +207,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949534"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/2363230.jpg",
@@ -207,7 +217,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949535"
                 }
-              ] 
+              ]
             }
           ],
           "seasonNumber": 1
@@ -222,7 +232,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949539"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10012498.jpg",
@@ -232,7 +242,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949505"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10013167.jpg",
@@ -242,7 +252,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949506"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10013567.jpg",
@@ -252,7 +262,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949509"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10013968.jpg",
@@ -262,7 +272,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949513"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10015039.jpg",
@@ -272,7 +282,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949516"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10015795.jpg",
@@ -282,7 +292,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949520"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10016259.jpg",
@@ -292,7 +302,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4982242"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10017041.jpg",
@@ -302,7 +312,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4982244"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10017489.jpg",
@@ -312,7 +322,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949521"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10018568.jpg",
@@ -322,7 +332,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949527"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10019251.jpg",
@@ -332,7 +342,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949531"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10019404.jpg",
@@ -342,7 +352,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949533"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10020040.jpg",
@@ -352,7 +362,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949537"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10021145.jpg",
@@ -362,7 +372,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949540"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10021994.jpg",
@@ -372,7 +382,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949541"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10022162.jpg",
@@ -382,7 +392,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949542"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10022844.jpg",
@@ -392,7 +402,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949544"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10023755.jpg",
@@ -402,7 +412,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949546"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10024454.jpg",
@@ -412,7 +422,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949547"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/10025505.jpg",
@@ -422,7 +432,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4949548"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/12514936.jpg",
@@ -432,7 +442,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5276721"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/12516727.jpg",
@@ -442,7 +452,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5276739"
                 }
-              ] 
+              ]
             },
             {
               "thumbnail": "https://tvt.fancaps.net/12517440.jpg",
@@ -452,7 +462,7 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=5276746"
                 }
-              ] 
+              ]
             }
           ],
           "seasonNumber": 2
@@ -460,4 +470,4 @@
       ]
     }
   }
-}  
+}
