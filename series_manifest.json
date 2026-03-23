@@ -1,6 +1,8 @@
-[
-  "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/series.json",
-  "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/series2.json",
-  "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/series3.json"
-]
-
+{
+  "version": "2025-03-23-v1",
+  "files": [
+    "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/series.json",
+    "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/series2.json",
+    "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/series3.json"
+  ]
+}
