@@ -14990,7 +14990,7 @@
           "episodes": [
             {
               "thumbnail": "https://static-3.bitchute.com/live/cover_images/zMJJYOp9ovkI/RJS1bCg2cuWz_1280x720.jpg",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 1. Bölüm - ",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 1. Bölüm - Klimatik Kraliçesi",
               "videoSources": [
                 {
                   "name": "BC",
@@ -15004,7 +15004,7 @@
             },
             {
               "thumbnail": "https://static-3.bitchute.com/live/cover_images/zMJJYOp9ovkI/U74TcxZClkPn_1280x720.jpg",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 2. Bölüm - ",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 2. Bölüm - İllüstrasyondan Nefret Eden",
               "videoSources": [
                 {
                   "name": "BC",
@@ -15018,7 +15018,7 @@
             },
             {
               "thumbnail": "https://static-3.bitchute.com/live/cover_images/zMJJYOp9ovkI/oggbFZHzQIbF_1280x720.jpg",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 3. Bölüm - ",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 3. Bölüm - Süblimasyon",
               "videoSources": [
                 {
                   "name": "BC-Eng Dublaj",
@@ -15037,12 +15037,16 @@
               ]
             },
             {
-              "thumbnail": "",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 4. Bölüm - ",
+              "thumbnail": "https://static-3.bitchute.com/live/cover_images/zMJJYOp9ovkI/riDY26PMFjPO_1280x720.jpg",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 4. Bölüm - Daddycop",
               "videoSources": [
                 {
-                  "name": "BC",
+                  "name": "Bright",
                   "url": "https://video.brighteon.com/file/BTBucket-Prod/hls/e15be18b-3a4b-4b18-b516-54aa2c439bbd.m3u8"
+                },
+                {
+                  "name": "BC",
+                  "url": "https://seed167.bitchute.com/zMJJYOp9ovkI/riDY26PMFjPO.mp4"
                 }
               ],
               "subtitles": [
@@ -15057,8 +15061,56 @@
               ]
             },
             {
+              "thumbnail": "https://static-3.bitchute.com/live/cover_images/zMJJYOp9ovkI/bAQaYzgMlQMP_1280x720.jpg",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 5. Bölüm - Kurtpapalar",
+              "videoSources": [
+                {
+                  "name": "Bright",
+                  "url": "https://video.brighteon.com/file/BTBucket-Prod/hls/9a9058f8-6463-4b0e-88b1-b406d640bbc4.m3u8"
+                },
+                {
+                  "name": "BC",
+                  "url": "https://seed132.bitchute.com/zMJJYOp9ovkI/bAQaYzgMlQMP.mp4"
+                }
+              ],
+              "subtitles": [
+                {
+                  "label": "Türkçe",
+                  "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/subs/037_6x5_e_tr.srt"
+                },
+                {
+                  "label": "İngilizce",
+                  "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/subs/037_6x5_e.srt"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://static-3.bitchute.com/live/cover_images/zMJJYOp9ovkI/dZNOAyHCrwk4_1280x720.jpg",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 6. Bölüm - Uyuyan Syren",
+              "videoSources": [
+                {
+                  "name": "Bright",
+                  "url": "https://video.brighteon.com/file/BTBucket-Prod/hls/3f0affd1-abcd-40e7-ba17-381d04efa14f.m3u8"
+                },
+                {
+                  "name": "BC",
+                  "url": "https://seed167.bitchute.com/zMJJYOp9ovkI/dZNOAyHCrwk4.mp4"
+                }
+              ],
+              "subtitles": [
+                {
+                  "label": "Türkçe",
+                  "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/subs/037_6x6_e_tr.srt"
+                },
+                {
+                  "label": "İngilizce",
+                  "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/subs/037_6x6_e.srt"
+                }
+              ]
+            },
+            {
               "thumbnail": "",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 5. Bölüm - ",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 7. Bölüm - El Toro De Piedra",
               "videoSources": [
                 {
                   "name": "BC",
@@ -15068,7 +15120,7 @@
             },
             {
               "thumbnail": "",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 6. Bölüm - ",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 8. Bölüm - Vampigami",
               "videoSources": [
                 {
                   "name": "BC",
@@ -15078,7 +15130,7 @@
             },
             {
               "thumbnail": "",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 7. Bölüm - ",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 9. Bölüm - Bay Agreste",
               "videoSources": [
                 {
                   "name": "BC",
@@ -15088,7 +15140,7 @@
             },
             {
               "thumbnail": "",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 8. Bölüm - ",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 10. Bölüm - Karanlık Kale",
               "videoSources": [
                 {
                   "name": "BC",
@@ -15098,7 +15150,7 @@
             },
             {
               "thumbnail": "",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 9. Bölüm - ",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 11. Bölüm - Revelator",
               "videoSources": [
                 {
                   "name": "BC",
@@ -15108,7 +15160,7 @@
             },
             {
               "thumbnail": "",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 10. Bölüm - ",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 12. Bölüm - Dikkatsiz Sürücü",
               "videoSources": [
                 {
                   "name": "BC",
@@ -15118,7 +15170,7 @@
             },
             {
               "thumbnail": "",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 11. Bölüm - ",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 13. Bölüm - Yaksi Gozen",
               "videoSources": [
                 {
                   "name": "BC",
@@ -15128,7 +15180,7 @@
             },
             {
               "thumbnail": "",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 12. Bölüm - ",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 14. Bölüm - Grandiaper",
               "videoSources": [
                 {
                   "name": "BC",
@@ -15138,7 +15190,7 @@
             },
             {
               "thumbnail": "",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 13. Bölüm - ",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 15. Bölüm - Hükümdar",
               "videoSources": [
                 {
                   "name": "BC",
@@ -15148,7 +15200,7 @@
             },
             {
               "thumbnail": "",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 14. Bölüm - ",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 16. Bölüm - Noe",
               "videoSources": [
                 {
                   "name": "BC",
@@ -15158,27 +15210,7 @@
             },
             {
               "thumbnail": "",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 15. Bölüm - ",
-              "videoSources": [
-                {
-                  "name": "BC",
-                  "url": ""
-                }
-              ]
-            },
-            {
-              "thumbnail": "",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 16. Bölüm - ",
-              "videoSources": [
-                {
-                  "name": "BC",
-                  "url": ""
-                }
-              ]
-            },
-            {
-              "thumbnail": "",
-              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 17. Bölüm - ",
+              "title": "Mucize: Uğur Böceği ile Kara Kedi | 6. Sezon 17. Bölüm - Bir Peri İyi Geceler",
               "videoSources": [
                 {
                   "name": "BC",
