@@ -15042,7 +15042,17 @@
               "videoSources": [
                 {
                   "name": "BC",
-                  "url": "https://vod3.cf.dmcdn.net/sec2(afa4rhbol1RbS6z5g7eUGsnTIbDeK4QaCMNpYmMvZeQr2_XYtyQ5oiRpR0sPtb5oB3WxkLe0Sp9Nd7dhQM7IQqUHkfYdMWU2CJz-8QLhEQR1ZCY1Ji9EbW1F2k51ygUS0DiXIgeNIpeTpBqrrr_mX9CouSiiqUdRxGBeChcWIah3hKZxiZHZfj50E416yV0ivCHz65eVphb2fKu5MI_fUg)/video/fmp4/609628808/h264_aac_hd_hfr/1/manifest.m3u8"
+                  "url": "https://video.brighteon.com/file/BTBucket-Prod/hls/e15be18b-3a4b-4b18-b516-54aa2c439bbd.m3u8"
+                }
+              ],
+              "subtitles": [
+                {
+                  "label": "Türkçe",
+                  "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/subs/037_6x4_e_tr.srt"
+                },
+                {
+                  "label": "İngilizce",
+                  "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/subs/037_6x4_e.srt"
                 }
               ]
             },
