@@ -4455,6 +4455,10 @@
                 {
                   "name": "BC",
                   "url": "https://seed128.bitchute.com/oh6QdFBWLnBu/5BuArHedUyTi.mp4"
+                },
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/video6154719-009_2x1"
                 }
               ]
             },
@@ -4763,6 +4767,10 @@
               "thumbnail": "https://static-3.bitchute.com/live/cover_images/oh6QdFBWLnBu/QiCCx0YNN0B5_1280x720.jpg",
               "videoSources": [
                 {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=6155298"
+                },
+                {
                   "name": "BC",
                   "url": "https://seed132.bitchute.com/oh6QdFBWLnBu/QiCCx0YNN0B5.mp4"
                 }
@@ -4793,8 +4801,8 @@
               "thumbnail": "https://static-3.bitchute.com/live/cover_images/oh6QdFBWLnBu/GdXnVvk5SGbR_1280x720.jpg",
               "videoSources": [
                 {
-                  "name": "BC",
-                  "url": "https://seed132.bitchute.com/oh6QdFBWLnBu/GdXnVvk5SGbR.mp4"
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=6155302"
                 }
               ]
             },
@@ -4852,6 +4860,14 @@
               "title": "Bakugan Yeni Vestroia 41.Bölüm - BT: Son Mücadele",
               "thumbnail": "https://static-3.bitchute.com/live/cover_images/oh6QdFBWLnBu/1TK1fuWCCUZt_1280x720.jpg",
               "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=6155317"
+                },
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=6157506"
+                },
                 {
                   "name": "BC",
                   "url": "https://seed132.bitchute.com/oh6QdFBWLnBu/1TK1fuWCCUZt.mp4"
