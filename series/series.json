@@ -4861,14 +4861,6 @@
               "thumbnail": "https://static-3.bitchute.com/live/cover_images/oh6QdFBWLnBu/1TK1fuWCCUZt_1280x720.jpg",
               "videoSources": [
                 {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=6155317"
-                },
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=6157506"
-                },
-                {
                   "name": "BC",
                   "url": "https://seed132.bitchute.com/oh6QdFBWLnBu/1TK1fuWCCUZt.mp4"
                 }
