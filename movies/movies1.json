@@ -1,32 +1,5 @@
 {
   "movies": {
-    "film-1": {
-      "title": "Jurassic World Yeniden Doğuş",
-      "description": "Film, Jurassic World: Dominion olaylarından yaklaşık 5 yıl sonra geçer. Bir ekip, insanlık için devrim yaratabilecek bir ilaç geliştirmek amacıyla üç dev dinozor türünün DNA’sını toplamak için tehlikeli bir göreve gönderilir. Bu ekip tropik ve izole bir bölgeye gider; burada hâlâ yaşayan en büyük kara, deniz ve hava dinozorları vardır. Görev sırasında ekip, dinozorların olduğu yasaklı bir adada mahsur kalır ve hem hayatta kalmaya çalışır hem de yıllardır saklanan karanlık bir sırrı keşfeder.",
-      "cover": "https://www.hdfilmizle.to/v/500203/cover/backdrop/jurassic-world-rebirth.jpg",
-      "categories": [
-        "Aksiyon",
-        "Macera",
-        "Bilim Kurgu"
-      ],
-      "type": [
-        "Aksiyon & Macera",
-        "Gerilim"
-      ],
-      "year": 2025,
-      "imdb": 5.9,
-      "videoUrl": "",
-      "videoSources": [
-        {
-          "name": "Türkçe Dublaj",
-          "url": "https://rumble.com/hls-vod/74i8vy/playlist.m3u8"
-        },
-        {
-          "name": "Altyazılı",
-          "url": ""
-        }
-      ]
-    },
     "film-2": {
       "title": "The Protégé",
       "description": "Efsanevi suikastçı Moody tarafından çocukken kurtarılan ve yetiştirilen Anna, dünyanın en yetenekli kiralık katilidir. Moody'nin vahşice öldürülmesinin ardından Anna, kendisine her şeyi öğreten ve bir baba figürü olan adamın intikamını almak için tehlikeli bir yola girer. Bu arayış onu Vietnam'a kadar sürükler ve geçmişindeki sırlar ile gizemli bir rakiple yüzleşmesine neden olur.",
