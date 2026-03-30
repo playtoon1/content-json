@@ -1,0 +1,1239 @@
+{
+    "series": {
+        "seri-1": {
+            "title": "Star Kötü Güçlere Karşı",
+            "description": "Mewni krallığının prensesi Star Butterfly, 14. doğum gününde aile yadigarı olan büyülü asayı teslim alır. Ancak asayı kullanırken büyük bir karışıklığa sebep olunca, asayı kontrol etmeyi öğrenmesi için Dünya boyutuna gönderilir. Burada Marco Diaz ve ailesiyle yaşamaya başlayan Star, hem Dünya'daki lise hayatına uyum sağlamaya çalışır hem de kötü kalpli Ludo ve canavarlara karşı asasını korumak için Marco ile birlikte boyutlar arası maceralara atılır.",
+            "cover": "https://images.justwatch.com/poster/122700493/s718/sezon-1.jpg",
+            "categories": [
+                "Animasyon",
+                "Macera",
+                "Komedi",
+                "Fantastik",
+                "Aksiyon"
+            ],
+            "year": 2015,
+            "type": [
+                "Aksiyon & Macera",
+                "Komedi",
+                "Animasyon"
+            ],
+            "imdb": 7.9,
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1697191.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 1. Sezon 1. Bölüm - Dünyaya Geliş / Pony Head",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-AiEnLDHo-b0LOJHhBrY5ciuKIEVZ-Ci8RNrC-wm5Z9cP5b87KB_yqjDC36r0_5X2wF0VrLBzZjpo_eblqaKWf_gi0-MCg-6BGUctsKMY_GArVizuycvbPkbfwtoJ1ZgB6qTFyP5a6lVX9lOPizRy43qUsbAjXxAWmK5SlyJJqAD3XvupJzYkCe8JOLd2yBqAjdtPsQ3XNVzlRfEs8k16NULGViJOrgqH_4Ql1oojsVA7jAwNJ4O_140GbEw_4BJi1sKy-OWiC5zkKPGHPaa6PdQDGOYhVA5mykavQ5b4RadX2lpBXHeU_0pF9C2Ao3plPNmDi5y8psP2mnWVq40hY5vEDC6hsh6w/64e519727c760/ec45aebe7997e6f32f03508ab29a63363ca3e455af6bacc3dc4697cadff94452/360p/playlist.m3u8?vsid=2102789f72d9ec364702b2f88d874d0b295034022a94xWEBx3781x1774875783&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774875783907"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886362"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1697737.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 1. Sezon 2. Bölüm - Çöpçatan / Okul Ruhu",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://vod02.cdn.web.tv/cn/fs/cnfsrhpl6mk_,240,360,480,720,.mp4.urlset/playlist-f2-v1-a1.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886381"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1698364.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 1. Sezon 3. Bölüm - Canavar Kol / Diğer Değişim Öğrencisi",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://vod02.cdn.web.tv/19/fe/19fel9om9ic_,240,360,480,720,.mp4.urlset/playlist-f2-v1-a1.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886395"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1699249.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 1. Sezon 4. Bölüm - Neşelen Star / Görev Satın Al",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://vod02.cdn.web.tv/mc/ks/mckseyspwvw_,240,360,480,720,.mp4.urlset/playlist-f2-v1-a1.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886405"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1699688.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 1. Sezon 5. Bölüm - Diaz Ailesi Tatilde / Brittney'nin Partisi",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://vod02.cdn.web.tv/19/fe/19fel9om9ic_,240,360,480,720,.mp4.urlset/playlist-f2-v1-a1.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886414"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1700606.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 1. Sezon 6. Bölüm - Mewberty / Pixie Kasabası",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://vod02.cdn.web.tv/ek/v6/ekv66f4jrmm_,240,360,480,720,.mp4.urlset/playlist-f2-v1-a1.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861589"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1700981.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 1. Sezon 7. Bölüm - Istakoz Pençeleri / Uyku Büyüleri",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://vod02.cdn.web.tv/cm/jt/cmjtdi9ybly_,240,360,480,720,.mp4.urlset/playlist-f2-v1-a1.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886375"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1700983.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 1. Sezon 8. Bölüm - Kanlı Ay Balosu / Şans Kurabiyeleri",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://vod02.cdn.web.tv/xj/ga/xjgaincj6pc_,240,360,480,720,.mp4.urlset/playlist-f2-v1-a1.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886391"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1701660.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 1. Sezon 9. Bölüm - Donma Günü / Kraliyet Zahmeti",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://vod02.cdn.web.tv/za/t4/zat4wezwzam_,240,360,480,720,.mp4.urlset/playlist-f2-v1-a1.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886403"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1702405.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 1. Sezon 10. Bölüm - St. Olga'nın Islah Evi",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://vod02.cdn.web.tv/oj/8k/oj8kikl13us_,240,360,480,720,.mp4.urlset/playlist-f2-v1-a1.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861588"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1703780.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 1. Sezon 11. Bölüm - Mewnipendance Günü / Muzlu Büyü Olayı",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://vod02.cdn.web.tv/ww/zy/wwzyytyijne_,240,360,480,720,.mp4.urlset/playlist-f2-v1-a1.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886364"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1704527.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 1. Sezon 12. Bölüm - Boyutlar Arası Okul Gezisi / Marco'nun Sakalı",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://vod02.cdn.web.tv/7e/bp/7ebpahnwae6_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886378"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1704883.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 1. Sezon 13. Bölüm - Kaleye Baskın",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://vod02.cdn.web.tv/i6/w2/i6w200ukfro_,240,360,480,720,1080,.mp4.urlset/playlist-f3-v1-a1.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886394"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 2,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1705733.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 1. Bölüm - Yeni Asam / Vahşi Doğada Ludo",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-dWBtDcspLHMqjqwq6XITDHa7Y2BnZ4t4bbA3ZJ2dJe_Xo_pAWXa7BSdg9C6axi1yqNhPIWBYcIjZFj6Ns-b3YV2_cG-7b-YB-7eOAPK1s1b-kJkSybn3zSYxOU9mKMd9ULMkG8wokD6OeENn9747oOF8KVjh-0oZu14cr7fCXSSpQEUy1ZQN83jfqY7ya-841q6OM4y7-xIkRzeTmmfuNNiCA3IUeUErrrFPSre_11hIIcceek8fyFaSU4K9auq1YZ1PvNwUtdYZ6-FcxbVkfc21O5NzAYKrTDD0kSBEvRHc5AX5GaDcBUTfNp4t6waDGdsrn4VCEVF1Hzx4qSLlMNdT9aViOEkg/64e51b0275488/8b98c350d9891d1712e3f4cc637e6acb73fcf145a380e6452001361b40ac6783/master-playlist.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886404"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1706111.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 2. Bölüm - Bay Candle İlgileniyor / Kırmızı Kuşak",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-cgOTuAsxTtPMh8Lq4CA1zfHVwgt1lYZ4z80wJko6EZ6Fd8RXqpiiMfQhwzZDKcI5xDJLtR0Y8I4TIVOGHqJ5k_AtF8xkWfk5un3HjHVkbKE82hI35hyzK6WRYQFdxpoQHmhSPfrBpkWc665jsiuUwz2m_qNM6ZqIXnoEAXdcHsztNT4sIGBT8v4mJgabDfRCBFL9FOQYCjoxLLubw56-zR8I82hqJWdWdd-eb7alsqDg9Hj1mpdk5j24ULW6CruvsvHHgNZ37oiggCX64PvTgXiD6xge-qK6XQd8S9OBfXeO-7a2IysAt-678wQ1NPkJaep6j-fIrWyk_msBM72mPeHp_la-JO4k/64e51c3ea32d8/65daba0ea7e68d48fe3674e70bbb16914ccf9c4a53a8f0b1ac468be69e55e739/master-playlist.m3u8?vsid=b227d0b66af02943d03b7091f80bd10d9df642a695b5xWEBx3781x1774876533&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774876534018"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886407"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1707007.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 3. Bölüm - Tekerlekli Star / Getir",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18Di6D47xcE3aIlCJ7QJ3uI948xOJIPuFCLR9mSqUcip6XPXJe8tyPUBRQu4YOpf-B6DxNrmTLdTwyC7IJRX3fG_lq28AM4_BpwBbDq3ONbpRx_xUmWSQIrN7X-UHSwmcqOG0m9dn-zDsxKDEB1V3VLxBDQ11Q_3o5vh1bgqvxsERJgND1Zf52ux-LOzLlKrCdq48HeBacS0SIOaaPWC44fgEoE_S46qfPKIcQaQcRFmTHf2nGn6Qeoz6jIe-Xq2hLsBkFdzcVitEpb-lPhv-n3wpWwnQvPXTZLhAH8AtLRaRAt-8PtQhXxD3-Wmub4yh9tVvBsLhArm5BmXlVaW2fBQilK4y70C6X_CXYXppAExx3K-i_d-thf/64e5206536388/381193c3c4041f321e42d7ee94d2705f097f59f3843530ada31fda0bb33d8f7b/master-playlist.m3u8?vsid=0ca085b4ec71f402caf8585b80d7cc714fc8d926439dxWEBx3781x1774877648&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774877648253"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886365"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1707584.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 4. Bölüm - Star Echo Creek'e Karşı / Asadan Asaya",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-fYe6QCojUnzX9ikr4oCGCTIyeAOxqRdMYEYoHnKh_YO1rmPopvECgjymPpm3Ho7u5SsKbtw4o9nmYjX_SBky9ia4Pvjx-Kb-nLEYSNuAMBVInasp89Kn9SnFV9ngdM4twB_9v8tP8fuDAhGWEqmApUOQvyF6w0nld4jPWGye7LgtqQVgTqS5_c93pbuXA2lvjjk874kAvDuOz9Jj4S_ho69g1NAeFeqqQJhW2jmkCCeb_MYnXAbnegjVH44OVyM2uTZmQExFh5A2w411RCxprnen6eE0alGFTQekT0QUw9okOX7fZnOuIJdh4xk1aUdSkTwfTEzdbe1XX4Ys3qGCUNnGewOf1JhyJuBgJ1Ok60CFBrUWze9u5/64e5207d9e830/3bc29ba6b90b0d4856421dea248ca6b940e769366db72a27106cbb26223ccfac/master-playlist.m3u8?vsid=5568d7f5dc1f6cc218149e51a10436f9777d9e0e0993xWEBx3781x1774877673&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774877673920"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886380"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1708398.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 5. Bölüm - Hayran Kalmak / Kamp Gezisi",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-Ff4RoIrwLZdNBLJbIVlbjNhuiJ-G9QocINJppFjc7SVosB62PwKnWjEUV_XPeCnKfbcUAgm1hN_u7PGXKTKjzPxGj9GGgV0_2bPTNrurUstSRFnpZMuyTbFlrgtAXHMeNfhxOS_-tLAw0H-RsqtnEgTkWMokcYEmipeCWPElriySXY60VVfQ9SJL9sM9V6wrkREO8TQMHsjE7z1ks--Dfit_h9zKpmgUecbGCLhzlO2u5iD5Wo_DYRUCleK_WQ_73QyMnnaCX1bW3aijwvRfVRyHWzIMHCqrXsqglt0ky67RmKtcSO3B3HQy5tG21wqUQVbtIloehjSyIlcd3p9DWKTr-X572IKA/64e5209318508/90a85e3e7d88ba905be42e261baf119559b21880d01b1ebe1ee5314e61965c87/master-playlist.m3u8?vsid=9d3e3038962efa785ec62b708e574da87e58af31ae87xWEBx3781x1774877696&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774877696237"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886393"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1708807.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 6. Bölüm - Star Bebek Bakıcısı / İş Başında",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_hKpEc2y3vog5pWUuj5MCUc6EL4zZldXxtueRpng6SpkNTvykLS5Cf_3XSxN_K9JV3gNJVdtnOrlIPoNZQ1Pcm7vtZlvmB2aJnmbU0o48wlOjwPAVkfR5d2qDmpyR9ib6Ecwm663cHXugOlcextJI4_0gW0FZEu8fqwh6l8rHXeELgmvaqpfG8NbWoenEd1j-QetO7k1OU6Jkb0r9MXVnDg7cCtYo1Mmam2kG60hqgCxdjdmPtulllcCZbQkJOTP4ETVDe_0hRy2Hadz4vO1WnD00gtyxyrl5g8IUfSeqKQwTpLwCXrFtSKqEdUcfJvPXqZYxiA75iZdQ1z59PYl4JewbWqW2NfsQ/64e520aa9c940/f6e86447f8d9bd16358c1f89953667db8869634b3838a0081d63a73ba83ec2a5/master-playlist.m3u8?vsid=ab17586071e54e62a747d6ebae200960fe06e4a7168dxWEBx3781x1774877720&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774877720899"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886402"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1709527.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 7. Bölüm - Goblin Sosisleri / Kitaba Göre",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX181BqfHbjbwQ7jOXwWD40n8FWq3VS7QIojkj2kCNaQZgTmPThN1F45OV8Sq78FhPgLBSNgJxUlR8-ov0Se5_8HBSjeJo-DPzIWCdGY5k2oxF2vw3IpUrot5VtA3DRsJXyRH3rePafhrI91eP6Uk88cNiy2BLp5uXVBeVggKlLxjCrbLNaS59-g5uHo7qZLiIcmFUESoSxOibi2_MWREjJlj6h3bUL2tgqjdy-oKh1OK_YR0cLWWB4C_1Bz37YIkuntNrBA_bu-QnbUF7Cn2lvLqgQHdAg2MHCVVkaNvKz1V_Pr0pTeC-rN0j0qCJo5DsxT-OsVBjZCiqD-nlOJ5zjRfl0dZo3uSVBY/64e52113de228/defa1bab68fba2c96716918e4199f55c8ca20cc1f1cdac0510406bac392b8be7/master-playlist.m3u8?vsid=d09ffbd10f52aca7371cdbdefd22959594e4ed926442xWEBx3781x1774877831&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774877831292"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886412"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1710527.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 8. Bölüm - Bayrak Oyunu / Kızlar Günü",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-NYZvYXodFHnFWfZQ1nbV_NvYwmDaaKEiqM8-muWvIrGJwGzTiLvlYzG7pDWIqq3G-Es7ADbdW9VQxy78p9EZ9DOtysAEVUkY9MVJbam6rQ1sZ6TwWP9-mr9dpAAsu89s9I0IVEx6HQ2o6oOaMfkPK0LxcevPc3vIbiMKKfBbX4PbyWu1Qm0aMpJLILdLQsXMkuFI1ZK3uNyxt4yWH-dVKHaMNaRy9UQkAoSxgQy3eZyRjft7Y9HL0h53XSn1zfS-SPsABbFAM5ZYqGIUuEtSCDBMP2T3-uv_YBUQb1XM023WtCUU4SA2OPpFxtD6RyHHJx8OwFMkd8VTTtsB-pg_8eq11-tDGS3M/64e52140c1970/14c537e9bbd0ddce03b43dec0534495f8c0ede353a92d52acbbf3e0b1d24b8ae/master-playlist.m3u8?vsid=905ea5dd2a45bcd21b06921a07f281bb4975410f51cdxWEBx3781x1774877878&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774877878374"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886366"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1710958.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 9. Bölüm - Pijama Partisi / Hediye Kartı",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18iBshjvhIEXUzaZmOCmZhLkjE9PO5k3uw5fU_Vx3CvbguqlmqcRqNhYSzD_0lY12TxZdvzIt4FbhW3uBhB7Lv1T6qqZj1oQXmx5i0qkQW9DxHCjinrJk8AqVMO8UfQWEJkKGucQUwjVwYNjuXQMspOsx39dyeUPrDGaXWhNkbzX1Hd0m98ro97Byf7FJz2GWtZ8w7O46cjt954AapypRbP6cVypli7SSeDWZjgGaRN91ez3bedTW7JPSuGr96dWrBK6n-iE76q-rx2FUqj8vFXrLz38N-q2PzTlQeln3OoEi1XSjKyKqW49NUQY_0vZYFAeqlXCMFp4IR9XLx3yT6QmcfAHuN0oh4/64e5216c2e888/6ac92cc4da59460181ac6d018517f46d3a4bb29ab6e252ee0751b6cbfe2017e5/master-playlist.m3u8?vsid=d49fab7dcf4e8f7b26003df450eaa081d6e2f10cd005xWEBx3781x1774877923&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774877923924"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886376"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1711619.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 10. Bölüm - Dost-Düşmanlar / Bu Bir Gizem",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX19SbOiJbzhKrC_6PIyVNtihIFYAxZ220zZESDTWtHGu8_V_Hd_3VkciigvjtJfeaAuA2v0lTbNLGNkFNlgi-FndWu_xWDif-jXxilkeE_Ss4IvaAHRvyDHojPjcksfszTIZRUwEkPGu7aSqhxwprqQnYaIV_lq4TqW-fYci98amgNaR8WwfSYe3do_r87SNSQq4EVC091NW0KVYHBhWjtHgmO2iC7O0ap5OB6mWOKZ-pP5ul0HIeZWad3P0BuaWnAXgkjHoIPA3xJpu6OOD8aoDI7QnKY9-DiKgigk3o0jOUkMgOeRfpqFqJBOC6dX5zpRllm-cNVdELIW3r03iZtqtP0bY6QLIOAw/64e5217f486d0/ad62ed5e4ca1b6ab82029f5705345b23babd4331358991651de34e4f12740751/master-playlist.m3u8?vsid=73a3e9ed8dbc0d9fdaff5b0d0d23a09e41542299a537xWEBx3781x1774877943&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774877943918"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886388"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1712590.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 11. Bölüm - Aç Larry / Silindir Şapkalı Örümcek",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-fO6mMOas948oCnMUbV8dRNNzJ0qCpaMhuC5DtVSYiOBIVYurCKyd3F6PvgUECuTepxkcCrZ90TaV2CFUpxoagjAd28sSI2Ax2uuZr6jb0QxSJOW_twLAiL0RexgNb19TB6tSv8Sns9e10EXOnTxrcZ3-fSzC5VCOyjaaiJa9cUm_sr2gkhtOQgjo-464KOwXQo2o5KflIVTiTNpbaAv_-SXbcdDBZTjztrnbbacTPT6zdFP1bGEbcd7EyAT_o7oviYu-e9uzlrHaOr0uzSNOHfeOD_ZcyqCEBQHj1AOHmtLiKgAiFT5quwIuqOloeUalMwU8d3L06cjhxRHnjwvpBNTFIlvV-Nlw/64e521bc7ca38/f5117cb8db9e53e750314dbc1b659a6bdb9967b58059ff77b787b132373888a1/master-playlist.m3u8?vsid=c470b1da7eaba9fe50bfb2bf2212a43e4ad569e7c578xWEBx3781x1774878007&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774878008071"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886398"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1712735.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 12. Bölüm - Asanın İçinde / Sayfa Çevirici",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18ni4iO601nZ9jYC57Y4PViWfdtyDIqHujSx4SwMNkR-5u1XDR_VhlCZftQBEixxAm58N4-bNF7_igPEHmC3z03FA1XGsAEIs-qCFj4LtGr5ubpCdKurFRsLUmXIG4eTB-wgQeDaE8202j25Ml7pE93GrCcFZLNFr53GoHszOBKTz_0YALqWIWGXYVZO-2TM5MJFlxICHabw0yeFSVPMykeYNUdofi3_LvTQOo7vYkhAb91IMIrMHZ0I1fiBH2fidKdlZon6mGHntJbbnSI9CX4XiIEvUj-4APR_812DIylwLnlVg6Pl6s0J_xHtuDNzdPcuI4v03MRLUGwg5s-WmIb0hnGTuQJeO4/64e521de6c620/c29a2ad2a94a7836cf82b13b6db2045c0b5bd7b5e7ec4d32d560610fee19cd18/master-playlist.m3u8?vsid=fba83402bd7dafa94726d32aa9565385e07162c69229xWEBx3781x1774878043&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774878043602"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886409"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1713617.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 13. Bölüm - Naysaya / Doğum Günü Palyaçosu Bon Bon",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-wlaRjzN_ldsJiPrTVBc64-mcekPbcpDZibuQ3Kw3fsWicsoAHXjL62_SFlpDObCk_U7mb6v5c7zrmLzysuui47No68ATkOZ42uCYSoTeyaXbi9p7WLShxinK_7x3tRoVQqPrYCOWSSvTs9FIDr03HPFnW-ZCMe0nW4kjF_UDhr2GvCmFzf_B3Qf5OfOIlH-nEZSo7anVoPWqpROvf7rOdsRElCAq5MYG6W0uFGPiTBgEPJLPHY57xq9bfcdbUQOEw5a2fjRSnAQrmN0cNCit9K-vF2awtBsCxcTYmo8uC9iMBQfL6Ldv5dCv699t1H7GjgS0C8Z41ooNI9rFZrbhotxaegJDMi_M/64e522299f1d8/4abfd8768bd7334c7590d06f44b47eedccf1f8d9afbc393d59d09e3f50810095/360p/playlist.m3u8?vsid=2ed744773617b1356c1d00291323a582eaf1c8ba35a9xWEBx3781x1774878122&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774878122714"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886368"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1714402.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 14. Bölüm - Mağaraya Baskın / Trickstar",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_RmZrfsYDCJt6E3do9H2Izqfg7dMBj_8I0uu2nl-Fngp6ipVSKoIxaJEiBB2Kr-J-5LIwjGd9hlCGnB_pSz2pp9m7PpQcUBTy1Q5bTDziGErwEQd3s9vGX9tS0UNpC576JeU2-aYN4e6k7ENkoiwoMekaLB2jv4z5UDnido7fVcznD6WLXwZ-LzO74-Thz0buNiqGVHAFQHl1ARNRv0v4amA8lYKWNdGCtPafq_yM9gEeTliADM9pzkabxMYpJnFjXFluOimqQtLEjQQFRikPtg7uTARP6G7OqpIrPM8dYhU6a9LoeEWcWPYuA56K5cY5k6ImMUL6XPdyY_E0JW-bvjn6DvsDLxsE/64e5224b9d820/2669fb3aa9ce0edb1ae45388082bb643a98d748ec8ef10eb7bd69aaef338c360/360p/playlist.m3u8?vsid=01b4d8f2cef075d21c0cfd0e083a277ae83d84fa7b67xWEBx3781x1774878158&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774878158280"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886379"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1715231.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 15. Bölüm - Bebek / Makasla Koşmak",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_Z5FUW3dz1bY8NvRICvReZ5QMRUltcYEybpFw6Ou0SBIELWUyGsyjd3cyRsLDgCmkzltVeemL_uTeoQsWus_ur7vUZZi647Gwq32wY-HLAwktEvJUyH1Fd2XbpfIGWHel92C_xp7f8IOLk8E10t8ptDsq9alpuDrzAqLU0OotQ5wLwbzeuRqdg3IF9vPx8z1fDaa2mxsqw56QAu5KGTV8Iz0l5657VKR7RFkjkA3wiv9PyItqR5QjyIbqHel1D_-1jsQGmBY8xj5qUR7bosygC7C0pyIhw3FjnzcS9so5V0QZqs_Rl7ITA2TmVsKL9qflu2jBuFxy40H_wzBPFkJ9Ia2tmnwDH15k/64e522616f338/b8c9fcfb4a5a9597ab235d0816be828e3df4d1d1abeeb15379b60bcc4d555e1e/master-playlist.m3u8?vsid=579448170488a171c8b844412aec51c93da68e071d34xWEBx3781x1774878180&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774878180968"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886392"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1715406.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 16. Bölüm - Matematik Büyüsü / Zıplama Salonu",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX19v8qalqb2qr7ofj0iS-pD8rAIbo0gfc9gVZa20275laCr4IxnXk3nRwpyCiG2Dk5Wc1KBpPRG_-9XGGTZEdIolF-tTKO5FSZBtL4iD48BtHpmRYtlcZcCxaFsSpjXqfHKRHabCGHfwI1VEptPQb-WSeVrKofe28PMWFuTr4zHAVCNBXxzu_Yoc36cmcgImIEzQDE29q7KNhyI1oukYL31ES1A4v_m0RDfsB0RPVyKs_aFDQstFNo4ZgGOTdn-T-d85m3VLB-B5YGq_WFZeH8ZNthWVuXrKpTMeJeJPUdFlM2Qgu8m5wyFtJ-OMKQdbn-1ZYG45KFpIyUn_zknfJcol5r0GTvzQPRo/64e5227fcca38/ac21ad77735d43df6b637fa7829a93916eb9999e4520379f69c413a3e5d6e4a5/360p/playlist.m3u8?vsid=ad712ed571797299d2cf3e7b304f876c3296b1c768d2xWEBx3781x1774878212&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774878213051"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886401"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1716064.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 17. Bölüm - Kristal Berraklığı / Zor Yol",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-lLD6ii_QYBANHFY5HZDeyc5148LfwLFWXeVJrtvGFUxm3aKhO7R1R8s0WIBGQWdK87vPLx1AkO4TRV9V8MC_WFpoygS42V8RzQOEeQZy8GbM19NaX8soNM0wx2rv57bmmnqZ-q4xhn_VjMwylDZx_iOwVoHevDD2KD2bQ-hNCugQNu9fP3akj8Z_S3JIWa2lxwBl-bkOnzLjfiC26lQ8QAsPimTCKD6stIlcKrLE8kKWR97iW2-1PQOGCekfchgiaAZfI_IQBP8PNuRCS68zDsqKMK7e_o0bxL1iJ8HrdZA4hgcMZTzSxI8lNB0FcYBTHM4f6YaDwqkvZaqNKHKWk7F7vLItoAuk/64e522de879d8/08ea2dcb22f8851e8a957e9619b019da6673389304f9edece17671f715a23e94/360p/playlist.m3u8?vsid=17bd84bce786187d4784158e8cea25266dc8623a851axWEBx3781x1774878312&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774878312301"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886408"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1717074.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 18. Bölüm - Heinous / Kemerler Çıkıyor",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18TynqJBW5cM1a8Uqkqjbd2oKzZCc8tZ6LbIwllZb8dh334u1VmrxDy-TM-6MnVunpMW64KUWo7T2jB16CC-QRUkqwglAvKQ5YPIsFipWLlf7T73JRc5gETxciiAKsYwC5VDsgASHbdCNEjV13ShH_65inkrLjNREqIbuY1CcmAvsN306DSh3Jye4MqDAYRJNOynpWjonWZ1u3aW_8C9MXO1m0sPCEawR6LGCnlPZbuVGfCa4Jz1lhRUoNe8bNr-B75VVzqGlv1MLTFEMtvYjWQB9AmF_EhKoSTFwSbnuNZSVAUTLtvSemSXDWx1yV3OthFbx8AGCFnhbH7hDNDMkdRXlwKk7ySLm0/64e522f3e9010/a8dbe8be7c50e2a1157b17c408d74f1ee1240214dc2ded958939b20ae7e57fb6/360p/playlist.m3u8?vsid=2b3b2275ce24ae8cb698ee7413f1507bd3b2abed4114xWEBx3781x1774878334&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774878334780"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886369"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1717448.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 19. Bölüm - Dolaylı Hasar / Sadece Arkadaşlar",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX18fbiE5dQoDuZJebGT6Y3HBRiwTcBx3y4ibIWJkyjTrfw3I-urBldM9ZcMHaCVBD8jehb1FavxHfkNd1S90BHPKUFWbs_gOhfb3TyVL4X6UlvPj6KBwmY1sEUuG8oIcLLdcBiifoF0d9mFOrWxtREME30TnYaB1gdizkkpUqtLr_33yAEk9cEDviGmkw74jS3ZQRHKfC3hwaUt8NEdlY3y76wIrFMCWQlpYGApR_Kfhf-vZ5IM32dSqCDt6X3-vTfzz9l8LAbnRhmwHx3hvzf1rW2aol9CuQCuSXe_LaxcP8OYBmmeWShGnM8QYOSamaiXpIiS2Z4G-kegHQTG460EQlVSbif8S4aA/64e5231e361b0/64747094b9780e583dec7262f3af9e91eddf5953fea131c18795a35e044183c2/360p/playlist.m3u8?vsid=fa3fdeb0adcf030ad06f0da8723471606c66d9c38266xWEBx3781x1774878378&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774878379075"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886377"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1718202.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 20. Bölüm - Müzikle Yüzleş",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-oIvGn2lBqhCUP8JS18C1mbRvU2mChHiN7_-hesWxDN9JutybiXdFBVaQ5HcNuToiZhfxOOmIDQec4Uan0-6PDH-bTXH392fmnjxgiMo5Ktt7-MshL9x36Bcuti2Oe7iswSwsKZIa54kwTekSYIEEN06Vw_nw0wKOyihvnIaxXnr6MmP9q6TzBv-PglF--smyLlGlClWq2HLFM5Cs2it3WUo9WxNNNgikz0olbww7VjLxjwM_aKrDd4RK12PIxvETfUObPmoHCHENuoosyEnavsU4RTi8gBQryDfYDbh4oB3zEPAUKBrA5yMqskba9PrQ3gkR87fc2aMhO-wvG5m3A7_Y5bG9KfDA/64e52349ae478/4a4e1d5fdac6f78e586af4e6a2521e54798e13f27e7243fecb1309d92620552a/360p/playlist.m3u8?vsid=b3793eb8b5968f5e725e3b83149bb18f7542e4708e9fxWEBx3781x1774878424&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774878424679"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886389"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1718747.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 21. Bölüm - Star'ın Aşkı",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX19pEJ6zeeZQSMW2wNKHFpL0tALsY4X7X8ezBe-sRwEj0dsfueXWW7cCQ1EpB6SbiVk_J70otJWK1Bdp30K3BGZyhPBN1CkKP3PG-rdFvoOiwRAdAssosqV9YGWqEksBSEgXhRRzLrbzKcsadaUYPZX3PZQPa3El6rI8xEEsLOV4Z-v5BQIDzRHYGHDy3-AxDnwlMXjbWuRW5PYV5QV4Z4dbzJkvm30urC07wfq9C-gXVdh2noOEqz3xqa8iKiHHtPiUAei-9ul3tkPVluxzTsgullfEIwMzhykvZIoSdbkTRpHqkQNHcrEyAPo4-H-JMXP2NJNpglaF08ZKqLRhDsANLAj0SmVAyDw/64e524b949368/4e1217cfb8d6cc1b6cdf9bccb9a884a522255f958cc43ed0de5a00340cd6c8ab/360p/playlist.m3u8?vsid=749a2d23097dc960e6638486e9b003df59978b00a860xWEBx3781x1774878809&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774878810246"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886399"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1719492.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 2. Sezon 22. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1925Oai1_dSDqeLu34GUqnmmTf2xKN0meAa3xUV-sCPXBh6GcMkdXksZNmQtr08pgzl4NTq4mcOtN_ml4Iq66FwKCFz6-wTmzetd6EALrMsu8f0Eg5B7USyWvKbPXaHQa70ymiAPB9czaULUwxx0SnUvWYYT7yUmxjVaJ2PUXvruAwK9ZVFQKaRmzTNhgv1FwmvWnPGlbiwoXEr9fZLHvALy6NXb9s51BFRI5f4Xh_y7ebAu2mCnZQft1dtp19S2EyT1H13zWtgcI9rifbIWh0TIw6osPhDj_2X2BzTMuFE05UWnAW9YvrAI1RhGMIkGG3CCMZC1eMP8iUImBkr55REie3pP85cKu0/64e524d9c7d10/1b98e0e655920ca2a2d35b32b43aedc66734b4be6e3899f2a22f4de1856915b3/360p/playlist.m3u8?vsid=c6cb8b5c51ca267d5a872c95ab49e23585f78ef02badxWEBx3781x1774878843&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774878844179"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 3,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1720523.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 1. Bölüm - Mewni'ye Dönüş / Cesur Moon",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886410"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1721013.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 2. Bölüm - Kitap Gitti / Marco ve Kral",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886827"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1721491.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 3. Bölüm - Su Birikintisi Savunucusu / Kral Ludo",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886838"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1722597.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 4. Bölüm - Toffee",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886859"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1723089.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 5. Bölüm - Kapüşonlu Kokusu / Huzur İçinde Tatlı",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886872"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1723693.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 6. Bölüm - Reddedilen Kulüp / Yabancı Tehlikesi",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886915"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1724334.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 7. Bölüm - İblis Kovma / Üniversite Çöküşü",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886924"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1725291.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 8. Bölüm - Tiftik Yakalayıcı / Şövalye Yardımcısı Denemesi",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886828"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1725862.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 9. Bölüm - Prenses Turdina / Starfari",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886841"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1726422.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 10. Bölüm - Tatlı Rüyalar / Lav Gölü Plajı",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886861"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1726890.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 11. Bölüm - Ölüm Gagası / Ponymonium",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886874"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1727528.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 12. Bölüm - Gece Hayatı / Derin Dalış",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886916"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1728316.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 13. Bölüm - Canavar Şöleni",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886922"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1728806.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 14. Bölüm - Kütük Günü / Tatil Büyüsü",
+                            "videoSources": [
+                                {
+                                    "name": "Yandex-Toby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886829"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1729609.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 15. Bölüm - Boggabah Canavarı / Moon'un Tutulması",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886840"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1730646.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 16. Bölüm - Kelebek Tuzağı / Ludo, Neredesin?",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886863"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1731037.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 17. Bölüm - Başka Bir Gizem / Küçük Marco",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886875"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1731490.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 18. Bölüm - Eğitilmek! / Kabindeki Dostlar",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886917"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1732801.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 19. Bölüm - Bam Ui Pati! / Sert Sevgi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886830"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1733100.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 20. Bölüm - Bölünmek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886844"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1734143.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 3. Sezon 21. Bölüm - Fethetmek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861587"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 4,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1734303.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 1. Bölüm - Kelebek Hataları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861586"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1735179.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 2. Bölüm - Turta Halkından Kaçış",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886920"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1735835.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 3. Bölüm - Moon Hatırlıyor / Mayo",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886831"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1735960.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 4. Bölüm - Fidye / Göl Evi Ateşi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886846"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1736245.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 5. Bölüm - Yada Yada Meyveleri / Nehrin Aşağısında",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886864"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1736611.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 6. Bölüm - Ponyhead Şov! / Örümcek Isırıklarından Kurtulmak",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886876"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1737195.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 7. Bölüm - İflas / Kelly'nin Dünyası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886911"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1737219.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 8. Bölüm - Kanlı Ayın Laneti",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886832"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1737797.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 9. Bölüm - Prenses Quasar / Kelebek Kalesi Hayaleti",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886843"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1738004.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 10. Bölüm - Cornball! / Meteora'nın Dersi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886862"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1738443.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 11. Bölüm - Şövalye Değişimi / Kraliçe Kaçırıldı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886873"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1738782.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 12. Bölüm - Hurda Janna / Adsız Büyü",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886914"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1739402.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 13. Bölüm - Bir Çocuk ve Ejderhası / Canavar ve Kraliçe",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886833"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1739680.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 14. Bölüm - Taç Giyme Töreni",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886847"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1740014.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 15. Bölüm - Doop-Doop / Britta'nın Tacoları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886866"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1740305.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 16. Bölüm - Plaj Günü / Giden Bebek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886877"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1740782.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 17. Bölüm - Üzgün Genç Hattı / Jannanigans",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886918"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1741145.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 18. Bölüm - Anne Star / Hazır, Nişan, Ateş",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886834"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1741331.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 19. Bölüm - Doğru Yol / Yardıma Hazır",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886849"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1741819.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 20. Bölüm - Pizza Partisi / Çoklu Evrenin Sonundaki Meyhane",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886867"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1741973.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 21. Bölüm - Birleşme",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1742302.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 22. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1742703.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 23. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1743492.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 24. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1743773.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 25. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1744193.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 26. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1744415.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 27. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1744713.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 28. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1745155.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 29. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1745286.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 30. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1745681.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 31. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1746228.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 32. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1746417.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 33. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1746633.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 34. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1747069.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 35. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1747373.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 36. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1747878.jpg",
+                            "title": "Star Kötü Güçlere Karşı | 4. Sezon 37. Bölüm - ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886870"
+                                },
+                                {
+                                    "name": "Player 2",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886912"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
