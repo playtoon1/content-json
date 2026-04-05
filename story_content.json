@@ -14,6 +14,20 @@
                 "thumbnail": "https://ant.fancaps.net/26632007.jpg",
                 "videoUrl": "https://akumaryu-1.asia/file/tau-video/d59e5bb5-ad76-42e6-bdf2-0702e78e6b79.mp4"
             }
+        },
+        {
+            "id": "story_2",
+            "title": "Baykuş Evi",
+            "label": "Yeni Bölüm",
+            "videoUrl": "https://video.sibnet.ru/shell.php?videoid=5861778",
+            "start": "00:02:40",
+            "end": "00:02:55",
+            "thumbnailUrl": "https://example.com/thumbnails/solo-leveling-story.jpg",
+            "episode": {
+                "title": "Baykuş Evi | 1. Sezon 1. Bölüm - Güvenilmez Cadı ve Müdür",
+                "thumbnail": "https://tvt.fancaps.net/2351095.jpg",
+                "videoUrl": "https://video.sibnet.ru/shell.php?videoid=5861778"
+            }
         }
     ]
 }
