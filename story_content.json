@@ -19,14 +19,14 @@
             "id": "story_2",
             "title": "Baykuş Evi",
             "label": "Yeni Bölüm",
-            "videoUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_hKpEc2y3vog5pWUuj5MCUc6EL4zZldXxtueRpng6SpkNTvykLS5Cf_3XSxN_K9JV3gNJVdtnOrlIPoNZQ1Pcm7vtZlvmB2aJnmbU0o48wlOjwPAVkfR5d2qDmpyR9ib6Ecwm663cHXugOlcextJI4_0gW0FZEu8fqwh6l8rHXeELgmvaqpfG8NbWoenEd1j-QetO7k1OU6Jkb0r9MXVnDg7cCtYo1Mmam2kG60hqgCxdjdmPtulllcCZbQkJOTP4ETVDe_0hRy2Hadz4vO1WnD00gtyxyrl5g8IUfSeqKQwTpLwCXrFtSKqEdUcfJvPXqZYxiA75iZdQ1z59PYl4JewbWqW2NfsQ/64e520aa9c940/f6e86447f8d9bd16358c1f89953667db8869634b3838a0081d63a73ba83ec2a5/master-playlist.m3u8?vsid=ab17586071e54e62a747d6ebae200960fe06e4a7168dxWEBx3781x1774877720&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774877720899",
+            "videoUrl": "https://rumble.com/hls-vod/74i8vy/playlist.m3u8",
             "start": "00:02:40",
             "end": "00:02:55",
             "thumbnailUrl": "https://example.com/thumbnails/solo-leveling-story.jpg",
             "episode": {
                 "title": "Baykuş Evi | 1. Sezon 1. Bölüm - Güvenilmez Cadı ve Müdür",
                 "thumbnail": "https://tvt.fancaps.net/2351095.jpg",
-                "videoUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_hKpEc2y3vog5pWUuj5MCUc6EL4zZldXxtueRpng6SpkNTvykLS5Cf_3XSxN_K9JV3gNJVdtnOrlIPoNZQ1Pcm7vtZlvmB2aJnmbU0o48wlOjwPAVkfR5d2qDmpyR9ib6Ecwm663cHXugOlcextJI4_0gW0FZEu8fqwh6l8rHXeELgmvaqpfG8NbWoenEd1j-QetO7k1OU6Jkb0r9MXVnDg7cCtYo1Mmam2kG60hqgCxdjdmPtulllcCZbQkJOTP4ETVDe_0hRy2Hadz4vO1WnD00gtyxyrl5g8IUfSeqKQwTpLwCXrFtSKqEdUcfJvPXqZYxiA75iZdQ1z59PYl4JewbWqW2NfsQ/64e520aa9c940/f6e86447f8d9bd16358c1f89953667db8869634b3838a0081d63a73ba83ec2a5/master-playlist.m3u8?vsid=ab17586071e54e62a747d6ebae200960fe06e4a7168dxWEBx3781x1774877720&vpuid=aj0vorvonz&source_index=0&session_data=1&force_m4s=1&preview=1&t=1774877720899"
+                "videoUrl": "https://rumble.com/hls-vod/74i8vy/playlist.m3u8"
             }
         }
     ]
