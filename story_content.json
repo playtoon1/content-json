@@ -1,5 +1,5 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "stories": [
         {
             "id": "story_1",
@@ -9,7 +9,7 @@
             "startSeconds": 10,
             "endSeconds": 25,
             "thumbnailUrl": "https://example.com/thumbnails/dragonball.jpg",
-            "seriesId": "dragon_ball_daima",
+            "seriesId": "dragon ball daima",
             "episodeId": "dragonball_daima_s1e1",
             "seasonIndex": 0,
             "episodeIndex": 0
@@ -22,7 +22,7 @@
             "startSeconds": 0,
             "endSeconds": 20,
             "thumbnailUrl": "https://example.com/thumbnails/onepiece.jpg",
-            "seriesId": "one_piece",
+            "seriesId": "one piece",
             "episodeId": "onepiece_s1e1110",
             "seasonIndex": 0,
             "episodeIndex": 1109
