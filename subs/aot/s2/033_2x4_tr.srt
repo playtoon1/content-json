@@ -1,0 +1,1260 @@
+2
+00:01:29,980 --> 00:01:34,990
+<b>#29: ASKER</b>
+
+3
+00:02:00,010 --> 00:02:02,250
+Acemiler, geri çekilin!
+
+4
+00:02:02,720 --> 00:02:03,600
+Şimdi...
+
+5
+00:02:05,180 --> 00:02:08,360
+...manevra teçhizatının
+sahneye çıkma sırası.
+
+6
+00:02:10,190 --> 00:02:11,270
+Gidelim!
+
+7
+00:02:20,780 --> 00:02:24,790
+<b>2 SAAT ÖNCE</b>
+
+8
+00:02:28,290 --> 00:02:30,540
+Görünüşe göre yakın zamana kadar
+birileri buradaymış.
+
+9
+00:02:30,540 --> 00:02:33,000
+Sura bu kadar yakın
+olmasına karşın hem de.
+
+10
+00:02:33,000 --> 00:02:35,290
+Haydutlar üs olarak
+kullanmış olsa gerek.
+
+11
+00:02:35,880 --> 00:02:38,970
+Tabelada "Utgard Hisarı Harabeleri"
+yazıyordu.
+
+12
+00:02:39,550 --> 00:02:42,240
+Burada bir hisar olduğunu
+hiç bilmiyordum.
+
+13
+00:02:44,140 --> 00:02:47,060
+Baksana, ne buldum?
+
+14
+00:02:47,060 --> 00:02:49,180
+Gelgar... O elindeki içki mi?
+
+15
+00:02:49,180 --> 00:02:49,730
+Evet.
+
+16
+00:02:51,440 --> 00:02:53,110
+Üstünde ne yazıyor?
+
+17
+00:02:53,110 --> 00:02:55,280
+Sakın şimdi içeceğini söyleme bana?
+
+18
+00:02:56,070 --> 00:02:57,530
+Saçmalama.
+
+19
+00:02:57,530 --> 00:02:58,650
+Şimdi sırası mı?
+
+20
+00:03:00,450 --> 00:03:04,660
+Ancak bu kaçak mallar sayesinde
+keyif çatıyor olmak da...
+
+21
+00:03:05,160 --> 00:03:08,490
+Halimize bakınca kimin haydut olduğu
+anlaşılmıyor, değil mi?
+
+22
+00:03:09,960 --> 00:03:12,540
+Acemiler, iyice dinlenmeye bakın.
+
+23
+00:03:12,790 --> 00:03:15,720
+Bu vakitte artık hareket eden dev olacağını
+sanmıyorum ama...
+
+24
+00:03:15,720 --> 00:03:18,010
+...bizler nöbetleşe gözcülük edeceğiz.
+
+25
+00:03:18,550 --> 00:03:21,040
+Gün ağarmadan 4 saat önce
+yola koyulacağız.
+
+26
+00:03:22,050 --> 00:03:23,510
+Şey...
+
+27
+00:03:23,930 --> 00:03:27,640
+Eğer surlar gerçekten yıkılmamışsa...
+
+28
+00:03:27,640 --> 00:03:31,730
+...devler nereden geliyor olabilirler?
+
+29
+00:03:33,770 --> 00:03:37,500
+Bu sorunun cevabını bulmak
+yarınki görevimiz olacak.
+
+30
+00:03:41,280 --> 00:03:46,990
+Belki de durum en başından beri
+düşündüğümüz kadar kötü değildir.
+
+31
+00:03:48,870 --> 00:03:51,210
+Nasıl desem, bu...
+
+32
+00:03:51,960 --> 00:03:55,710
+Evet. Gerçekten de
+etrafta çok az dev var.
+
+33
+00:03:55,710 --> 00:03:58,500
+Sur gerçekten yarılmış olsaydı...
+
+34
+00:03:58,500 --> 00:04:02,550
+Devleri yalnızca ilk ortaya çıktıkları
+zaman gördük.
+
+35
+00:04:05,760 --> 00:04:07,810
+Conny? Köyünden ne haber?
+
+36
+00:04:08,510 --> 00:04:09,690
+Yok edilmiş.
+
+37
+00:04:10,350 --> 00:04:12,480
+Devler tarafından
+enkaz yığınına çevrilmiş.
+
+38
+00:04:14,520 --> 00:04:16,440
+Demek öyle. Korkunç...
+
+39
+00:04:16,690 --> 00:04:18,070
+Ama kimse yenmemiş.
+
+40
+00:04:19,070 --> 00:04:22,900
+Herkes sağ salim kaçmışa benziyor,
+en azından bu kadarı teselli edici.
+
+41
+00:04:24,030 --> 00:04:25,660
+Köyün yok edilmedi mi?
+
+42
+00:04:26,450 --> 00:04:31,040
+Evler yıkılmış ama
+köylüler kayıp vermemişler.
+
+43
+00:04:31,040 --> 00:04:33,730
+Yenilen olsaydı...
+
+44
+00:04:34,160 --> 00:04:36,420
+...kan ya da geriye
+artıkların kalması gerekirdi.
+
+45
+00:04:37,130 --> 00:04:40,960
+Bunların olmaması
+dediğime çıkar, öyle değil mi?
+
+46
+00:04:44,090 --> 00:04:47,350
+Yalnız aklımı kurcalayan şey...
+
+47
+00:04:48,180 --> 00:04:50,130
+Evimin içinde bir dev vardı.
+
+48
+00:04:51,310 --> 00:04:56,100
+Kendi başına hareket edemiyordu ama
+nasıl olduysa evimin üstünde yatıyordu.
+
+49
+00:04:57,400 --> 00:04:58,850
+Ama asıl tuhaf olan...
+
+50
+00:04:59,440 --> 00:05:03,370
+...nasıl desem, annemi andırıyordu.
+
+51
+00:05:04,320 --> 00:05:05,570
+Bu nasıl olabilir?
+
+52
+00:05:05,700 --> 00:05:09,160
+Conny, hâlâ mı aynı şeyi söylüyorsun?
+
+53
+00:05:09,160 --> 00:05:10,330
+Aptal mısın nesin?
+
+54
+00:05:12,290 --> 00:05:15,080
+Annenin dev olduğunu mu
+düşünüyorsun?
+
+55
+00:05:15,080 --> 00:05:17,830
+Madem öyle sen niye
+böyle bücür kaldın?
+
+56
+00:05:18,210 --> 00:05:24,070
+Söylesene ha Conny? Aptal olduğunu
+biliyordum ama sen aptallıkta çığır açmışsın.
+
+57
+00:05:26,510 --> 00:05:28,720
+Bir sus be!
+
+58
+00:05:28,720 --> 00:05:30,300
+Bu çok mantıksız.
+
+59
+00:05:30,300 --> 00:05:34,850
+Dediklerinin doğru olduğunu varsayarsak
+babanın da bir dev olması gerekmez mi?
+
+60
+00:05:35,640 --> 00:05:38,940
+Yoksa biliyorsun ki şeyi
+yapamazlardı, değil mi?
+
+61
+00:05:38,940 --> 00:05:41,520
+Kapat çeneni de uyu artık paçoz!
+
+62
+00:05:51,830 --> 00:05:53,990
+Ymir, ne yapıyorsun?
+
+63
+00:05:54,370 --> 00:05:56,750
+Sen misin Reiner?
+Beni mi görmeye geldin?
+
+64
+00:05:57,830 --> 00:06:02,500
+Şaşırdım doğrusu. Kadınlara
+ilgin olmadığını düşünmüştüm ama...
+
+65
+00:06:02,920 --> 00:06:06,970
+Evet. Senin de erkeklere
+ilgin varmış gibi görünmüyor.
+
+66
+00:06:08,970 --> 00:06:13,600
+Vaktimi kursağıma girecek bir şeyler
+arayarak değerlendirmeye karar verdim.
+
+67
+00:06:13,600 --> 00:06:16,480
+Büyük ihtimalle bu
+son yemeğim olabilir.
+
+68
+00:06:18,690 --> 00:06:20,440
+Conny'nin köyü hakkında...
+
+69
+00:06:21,770 --> 00:06:23,980
+...işi bilerek mi
+maskaralığa vurdun?
+
+70
+00:06:25,280 --> 00:06:27,480
+Mümkünse bu şekilde devam etmeni
+rica ediyorum.
+
+71
+00:06:28,150 --> 00:06:32,030
+Böylece ailesiyle ilgili endişe etmez.
+
+72
+00:06:32,030 --> 00:06:33,470
+Neden bahsediyorsun sen?
+
+73
+00:06:34,490 --> 00:06:36,330
+Bak iş görür işte.
+
+74
+00:06:36,330 --> 00:06:38,290
+Ringa balığını seviyor değilim ama...
+
+75
+00:06:38,960 --> 00:06:40,420
+Başka var mı?
+
+76
+00:06:40,420 --> 00:06:41,290
+Bakabilir miyim?
+
+77
+00:06:43,840 --> 00:06:44,500
+Al bakalım.
+
+78
+00:06:46,630 --> 00:06:47,840
+Konserve mi?
+
+79
+00:06:50,840 --> 00:06:53,020
+Bu harfler de ne böyle?
+
+80
+00:06:54,010 --> 00:06:55,350
+Ben okuyamıyorum.
+
+81
+00:06:56,680 --> 00:06:58,520
+Ringa balığı mı yazıyor?
+
+82
+00:07:00,850 --> 00:07:05,260
+Sen bu dili iyi biliyorsun anlaşılan.
+
+83
+00:07:08,070 --> 00:07:09,450
+Ymir...
+
+84
+00:07:09,450 --> 00:07:10,610
+Sen...
+
+85
+00:07:13,030 --> 00:07:14,450
+Herkes uyansın!
+
+86
+00:07:14,450 --> 00:07:17,040
+Burca çıkın! Hemen!
+
+87
+00:07:20,540 --> 00:07:22,460
+Benimle kafa bulmayın!
+
+88
+00:07:22,460 --> 00:07:25,290
+Şimdi kafayı çekmek varken...
+
+89
+00:07:25,290 --> 00:07:27,170
+...sizin yüzünüzden buradayım!
+
+90
+00:07:29,420 --> 00:07:30,170
+Gidelim!
+
+91
+00:07:35,600 --> 00:07:39,020
+Çek o pis ellerini seni pislik!
+
+92
+00:07:51,490 --> 00:07:54,400
+Gördün mü? Küçük olanlar altında ezildi.
+
+93
+00:07:55,280 --> 00:07:56,580
+Aptallar.
+
+94
+00:07:57,530 --> 00:07:59,240
+Az önce yaptığın çok pervasızcaydı!
+
+95
+00:07:59,240 --> 00:08:02,500
+Kılıçlarını heba etmeden
+savuşturamaz mıydın?
+
+96
+00:08:02,920 --> 00:08:04,920
+Benim tarzı bu.
+
+97
+00:08:04,920 --> 00:08:07,000
+Az öncekini bir asist olarak haneme yaz.
+
+98
+00:08:07,500 --> 00:08:09,210
+Ne kadar da kahramanca.
+
+99
+00:08:10,170 --> 00:08:11,720
+Bunu düşüneceğim.
+
+100
+00:08:19,220 --> 00:08:20,560
+Geç kaldım...
+
+101
+00:08:22,230 --> 00:08:24,020
+Kapı kırılmış!
+
+102
+00:08:25,440 --> 00:08:26,770
+Devler içeri girdi.
+
+103
+00:08:26,770 --> 00:08:29,650
+İçeri geri dönüp bir barikat kurun.
+
+104
+00:08:29,650 --> 00:08:32,860
+Onları engelleyemezsseniz
+son çare olarak buraya geri gelin.
+
+105
+00:08:33,780 --> 00:08:38,080
+Ama bunun sizi kesin olarak kurtaracağımız
+anlamına gelmediğini bilin.
+
+106
+00:08:39,120 --> 00:08:42,330
+Bizim de hayatta kalıp kalmayacağımız
+belli değil.
+
+107
+00:08:43,250 --> 00:08:45,170
+Ama yapacağımız şey değişmeyecek.
+
+108
+00:08:45,790 --> 00:08:48,340
+Ölene dek tüm gücümüzle savaşacağız!
+
+109
+00:08:48,340 --> 00:08:48,920
+Tamam mı?
+
+110
+00:08:49,500 --> 00:08:50,750
+Emredersiniz!
+
+111
+00:08:53,510 --> 00:08:55,360
+Ben gidip devler ne kadar
+ilerlemiş bakacağım!
+
+112
+00:08:56,140 --> 00:08:59,680
+Siz de tahtadır sopadır, ne bulursanız
+taşıyabildiğiniz her şeyi getirin!
+
+113
+00:09:00,430 --> 00:09:01,270
+Reiner!
+
+114
+00:09:01,270 --> 00:09:02,850
+Hey!
+
+115
+00:09:02,850 --> 00:09:04,730
+Bekle Reiner! Dur!
+
+116
+00:09:05,270 --> 00:09:09,150
+Hep kendini en tehlikeli
+görevlerin ortasına atıyor.
+
+117
+00:09:09,150 --> 00:09:10,320
+Harbiden!
+
+118
+00:09:10,320 --> 00:09:13,070
+Evet. Bu da onun kötü huyu.
+
+119
+00:09:23,750 --> 00:09:25,410
+Hâlâ aşağıdalar demek.
+
+120
+00:09:27,880 --> 00:09:29,540
+Hâlâ kilitli görünüyor ama...
+
+121
+00:09:30,090 --> 00:09:34,840
+...böylesine eski bir tahta kapıyı
+kolayca yarıp geçerler.
+
+122
+00:09:53,360 --> 00:09:54,690
+Buradalar!
+
+123
+00:09:55,150 --> 00:09:57,110
+Çabuk bir şeyler getirin!
+
+124
+00:10:01,700 --> 00:10:02,830
+Buraya kadar mı?
+
+125
+00:10:03,740 --> 00:10:04,800
+Sonum...
+
+126
+00:10:06,330 --> 00:10:07,730
+...geldi mi?
+
+127
+00:10:22,140 --> 00:10:23,010
+Hayır...
+
+128
+00:10:23,810 --> 00:10:25,350
+Değil elbette.
+
+129
+00:10:26,980 --> 00:10:28,770
+Burada değil!
+
+130
+00:10:32,650 --> 00:10:34,440
+Mutlaka eve döneceğim!
+
+131
+00:10:35,400 --> 00:10:36,650
+Reiner!
+
+132
+00:10:43,870 --> 00:10:45,450
+Reiner! İyi misin?
+
+133
+00:10:45,660 --> 00:10:46,830
+Evet!
+
+134
+00:10:46,830 --> 00:10:49,410
+Bertholdt, hayatta kalacak
+ve eve döneceğiz.
+
+135
+00:10:50,370 --> 00:10:52,380
+Mutlaka memleketimize döneceğiz.
+
+136
+00:10:52,840 --> 00:10:55,170
+Evet... Evet!
+
+137
+00:10:55,170 --> 00:10:55,880
+Evimize dönelim!
+
+138
+00:10:56,840 --> 00:10:58,720
+Reiner! Bertholdt!
+
+139
+00:10:59,720 --> 00:11:00,880
+Hey, o şeyin...
+
+140
+00:11:00,880 --> 00:11:02,220
+...barutu, güllesi var mı?
+
+141
+00:11:02,470 --> 00:11:05,680
+Elbette yok! Kendisini kullanacağız!
+
+142
+00:11:05,680 --> 00:11:07,100
+Çekilin oradan!
+
+143
+00:11:24,990 --> 00:11:28,000
+Görünüşe göre işe yaramışa benziyor,
+mucizevi şekilde.
+
+144
+00:11:28,200 --> 00:11:29,200
+Evet...
+
+145
+00:11:29,200 --> 00:11:32,460
+Bir daha ayağa kalkamaz artık
+sınıfını düşünürsek.
+
+146
+00:11:32,830 --> 00:11:35,630
+Ne yapalım? Elimizde bir tek bu bıçak var.
+
+147
+00:11:35,630 --> 00:11:36,880
+Ensesini keseyim mi?
+
+148
+00:11:36,880 --> 00:11:38,300
+Deneme bile.
+
+149
+00:11:38,300 --> 00:11:40,340
+Seni yakalarsa yaralanırsın.
+
+150
+00:11:40,340 --> 00:11:43,890
+Şimdilik üst merdivenlere kadar
+geri çekilelim.
+
+151
+00:11:44,640 --> 00:11:47,510
+İçeri giren bir taneden fazla olmalı.
+
+152
+00:11:52,230 --> 00:11:53,350
+Conny!
+
+153
+00:12:02,110 --> 00:12:03,240
+Conny!
+
+154
+00:12:10,330 --> 00:12:11,460
+Reiner!
+
+155
+00:12:25,430 --> 00:12:27,390
+Reiner...
+
+156
+00:12:28,560 --> 00:12:29,850
+Yoksa...
+
+157
+00:12:30,890 --> 00:12:32,980
+...devle birlikte pencereden
+dışarı mı atlayacaksın?
+
+158
+00:12:32,980 --> 00:12:34,980
+Başka seçeneğim mi var?
+
+159
+00:12:34,980 --> 00:12:35,850
+Bekle!
+
+160
+00:12:37,770 --> 00:12:40,940
+Eğer çenesine kesik atabilirsem...
+
+161
+00:12:42,190 --> 00:12:43,320
+Bıraktı!
+
+162
+00:13:00,380 --> 00:13:02,570
+Bir tane daha gelirse ne yapacağız?
+
+163
+00:13:03,130 --> 00:13:06,300
+Birini daha öldürecek kadar
+şanslı olmayız.
+
+164
+00:13:06,300 --> 00:13:08,430
+Evet, ben de öyle düşünüyorum.
+
+165
+00:13:14,310 --> 00:13:16,320
+Özür dilerim. Affedersin.
+
+166
+00:13:17,020 --> 00:13:18,900
+Sanırım kırılmış.
+
+167
+00:13:18,900 --> 00:13:21,320
+Evet, şansıma bu kadarla kurtuldum.
+
+168
+00:13:21,690 --> 00:13:23,720
+Ayrıca bir destek ve bandaj lazım.
+
+169
+00:13:24,360 --> 00:13:25,610
+Buldum.
+
+170
+00:13:32,160 --> 00:13:33,410
+Affedersin...
+
+171
+00:13:35,710 --> 00:13:37,920
+Bu kirli kıyafetten
+başka bir şeyim yok.
+
+172
+00:13:38,460 --> 00:13:39,840
+Affedersin.
+
+173
+00:13:41,050 --> 00:13:43,130
+Hayır, çok yardımcı oldu.
+
+174
+00:13:43,880 --> 00:13:44,840
+Onunla evlen.
+
+175
+00:13:45,470 --> 00:13:47,510
+İyi misin Reiner?
+
+176
+00:13:47,510 --> 00:13:49,350
+Evet, eh işte.
+
+177
+00:13:50,970 --> 00:13:52,560
+Baksana Christa.
+
+178
+00:13:52,560 --> 00:13:54,770
+...benim elimde de
+küçük bir sıyrık oluştu.
+
+179
+00:13:54,770 --> 00:13:57,320
+Ne? Onun için azıcık
+tükürük sürsen yeter.
+
+180
+00:13:58,810 --> 00:14:01,360
+Reiner, az önce
+olanlar için özür dilerim.
+
+181
+00:14:02,070 --> 00:14:04,850
+Beni hep sen kurtarıyorsun.
+
+182
+00:14:05,490 --> 00:14:08,830
+Aklıma geldi de Annie de beni kurtarmak için
+hayatını riske atmıştı, değil mi?
+
+183
+00:14:09,620 --> 00:14:11,780
+Bir gün borcumu ödemeliyim.
+
+184
+00:14:11,780 --> 00:14:13,910
+Önemli değil. Bu...
+
+185
+00:14:15,580 --> 00:14:17,120
+...hepimizin yapacağı bir şey.
+
+186
+00:14:18,290 --> 00:14:19,720
+Askeriz ne de olsa.
+
+187
+00:14:20,630 --> 00:14:22,210
+Öyle mi dersin?
+
+188
+00:14:22,210 --> 00:14:24,240
+Ben o kadar cesur değilim.
+
+189
+00:14:25,010 --> 00:14:26,010
+Baksana Bertholdt.
+
+190
+00:14:26,590 --> 00:14:28,900
+Reiner hep böyle miydi?
+
+191
+00:14:29,720 --> 00:14:34,430
+Hayır. Reiner geçmişte
+daha çok savaşçıydı.
+
+192
+00:14:35,850 --> 00:14:37,430
+Şimdikinin aksine.
+
+193
+00:14:38,560 --> 00:14:40,060
+Bu da ne demek?
+
+194
+00:14:40,060 --> 00:14:41,770
+Savaşçı da ne demek?
+
+195
+00:14:43,520 --> 00:14:46,940
+Şimdilik bulabildiğimiz işe yarar
+her şeyi toplayalım.
+
+196
+00:14:47,280 --> 00:14:50,320
+Böylece pişmanlık duymadan ölebiliriz.
+
+197
+00:14:52,450 --> 00:14:54,660
+Keşif Birliğinden de bu beklenirdi...
+
+198
+00:14:54,660 --> 00:14:57,710
+Diğer askerlerle aralarında dağlar var.
+
+199
+00:15:07,090 --> 00:15:09,170
+Böylelikle büyüklerin çoğu gitti.
+
+200
+00:15:09,630 --> 00:15:11,340
+Hepsi bu burcun sayesinde.
+
+201
+00:15:11,340 --> 00:15:13,970
+Evet. Kurtulmamız bile mümkün olabilir.
+
+202
+00:15:14,680 --> 00:15:16,430
+Biz gidip acemilere bir bakacağız!
+
+203
+00:15:16,430 --> 00:15:17,430
+Tamam.
+
+204
+00:15:20,190 --> 00:15:21,480
+O ses de ne?
+
+205
+00:15:26,900 --> 00:15:28,020
+Atlar...
+
+206
+00:15:28,610 --> 00:15:29,450
+Ne?
+
+207
+00:15:30,900 --> 00:15:31,860
+Yine mi?
+
+208
+00:15:31,860 --> 00:15:33,540
+Bu ses de neyin nesi?
+
+209
+00:15:39,250 --> 00:15:41,370
+Lynne! Henning!
+
+210
+00:15:47,250 --> 00:15:48,420
+O neydi?
+
+211
+00:15:49,470 --> 00:15:50,670
+Ümit yok.
+
+212
+00:15:50,670 --> 00:15:51,800
+İkisi de anında öldü.
+
+213
+00:15:54,090 --> 00:15:55,680
+Olamaz...
+
+214
+00:15:56,600 --> 00:15:59,750
+Bunu yapan o! Surlara doğru yürüyen!
+
+215
+00:16:00,350 --> 00:16:02,340
+Canavara benzeyen o devin işi bu!
+
+216
+00:16:03,900 --> 00:16:07,270
+Grup halinde devler geliyor.
+Deminkinin iki katından fazlalar!
+
+217
+00:16:07,270 --> 00:16:08,730
+Ne dedin?
+
+218
+00:16:08,730 --> 00:16:12,030
+Devlerin zamanlaması
+bir planı uyguluyormuşcasına mükemmel!
+
+219
+00:16:12,780 --> 00:16:16,280
+En başından beri bizimle
+oynuyorlarmış hissine kapılıyorum.
+
+220
+00:16:44,850 --> 00:16:47,480
+Durum kötü! Yakıtım bitti bitecek!
+
+221
+00:16:53,820 --> 00:16:55,030
+Hakladım mı?
+
+222
+00:17:04,250 --> 00:17:06,060
+Bu burç daha fazla dayanmaz.
+
+223
+00:17:06,750 --> 00:17:08,540
+Yakıtım çok az kaldı.
+
+224
+00:17:09,130 --> 00:17:10,460
+Ya senin?
+
+225
+00:17:10,460 --> 00:17:13,410
+Yakıtım da yok, kılıçlarım da tükendi.
+
+226
+00:17:14,260 --> 00:17:16,550
+O kör kılıçlar da
+senin son kılıçların, değil mi?
+
+227
+00:17:17,850 --> 00:17:18,550
+Evet...
+
+228
+00:17:19,180 --> 00:17:22,220
+Dördümüz kaç tanesini öldürdük acaba?
+
+229
+00:17:22,220 --> 00:17:25,520
+Bilmem. Saymaya fırsatım olmadı.
+
+230
+00:17:26,270 --> 00:17:29,830
+Ben kendi adıma
+iyi iş çıkardığımı düşünüyorum.
+
+231
+00:17:30,820 --> 00:17:32,620
+Ama son olarak...
+
+232
+00:17:33,570 --> 00:17:36,410
+...ölmeden bir içki içmek isterdim.
+
+233
+00:17:37,160 --> 00:17:38,370
+Gelgar...
+
+234
+00:17:40,120 --> 00:17:41,870
+Özür dilerim Nanaba.
+
+235
+00:17:42,580 --> 00:17:44,660
+Kafamı çarptım...
+
+236
+00:17:44,660 --> 00:17:46,290
+...artık gücüm...
+
+237
+00:17:47,120 --> 00:17:48,670
+...kalmadı.
+
+238
+00:17:50,000 --> 00:17:51,420
+Gelgar!
+
+239
+00:18:03,810 --> 00:18:05,020
+Gelgar!
+
+240
+00:18:06,140 --> 00:18:09,020
+Kahretsin! Başka kalmadı mı?
+
+241
+00:18:25,080 --> 00:18:26,440
+Tanrım...
+
+242
+00:18:45,720 --> 00:18:48,600
+Boş.
+
+243
+00:18:48,600 --> 00:18:50,040
+Bu haksızlık.
+
+244
+00:18:51,360 --> 00:18:55,110
+Kim içti lan bunun hepsini?
+
+245
+00:19:00,950 --> 00:19:02,450
+İşini bitirdiler.
+
+246
+00:19:04,280 --> 00:19:05,700
+Kes şunu Christa!
+
+247
+00:19:05,700 --> 00:19:08,660
+Burç parçalanmak üzere!
+Aşağı düşeceksin!
+
+248
+00:19:08,660 --> 00:19:10,920
+Ama onlar bizim yerimize
+can veriyorlar!
+
+249
+00:19:11,750 --> 00:19:14,130
+- Nanaba-san, Gelgar-san...
+- Hayır! Hayır!
+
+250
+00:19:14,130 --> 00:19:15,750
+Baba dur!
+
+251
+00:19:15,750 --> 00:19:16,960
+Baba!
+
+252
+00:19:16,960 --> 00:19:19,720
+Özür dilerim! Özür dilerim!
+Bir daha yapmayacağım!
+
+253
+00:19:19,720 --> 00:19:21,700
+Baba! Yapma!
+
+254
+00:19:22,720 --> 00:19:24,260
+Kahretsin!
+
+255
+00:19:24,930 --> 00:19:30,850
+Baksanıza, burç çöküp de canlı canlı
+yenilene kadar burada mı bekleyeceğiz?
+
+256
+00:19:31,190 --> 00:19:34,110
+Yapabileceğimiz hiçbir şey yok mu?
+
+257
+00:19:34,940 --> 00:19:36,360
+Böyle...
+
+258
+00:19:36,360 --> 00:19:39,990
+...görevimizi bile yerine getiremeden
+ölüp gitmek...
+
+259
+00:19:42,570 --> 00:19:45,490
+Ben de savaşmak istiyorum.
+
+260
+00:19:45,490 --> 00:19:47,950
+Bir silahım olsaydı eğer...
+
+261
+00:19:47,950 --> 00:19:50,620
+...o zaman savaşarak
+onlarla birlikte ölebilirdim.
+
+262
+00:19:50,620 --> 00:19:53,830
+Christa... Hâlâ mı bunları söylüyorsun?
+
+263
+00:19:55,040 --> 00:19:57,210
+Onların ölümlerini
+kendine malzeme etme.
+
+264
+00:19:57,210 --> 00:20:01,630
+Onlar sen kendi intiharına kılıf olarak
+kullan diye ölmediler.
+
+265
+00:20:02,760 --> 00:20:05,640
+Benim... Benim öyle bir amacım yoktu...
+
+266
+00:20:05,640 --> 00:20:08,140
+Sen Conny ve Keşif Birliği
+askerlerinden farklısın!
+
+267
+00:20:09,060 --> 00:20:11,640
+Onlar ölmek istemiyorlardı
+ama bu senin umurunda değil.
+
+268
+00:20:12,190 --> 00:20:16,400
+Senin tek istediğin seni kahraman gibi
+gösterecek bir şekilde ölmek, o kadar.
+
+269
+00:20:16,730 --> 00:20:18,900
+Hayır, bu...
+
+270
+00:20:18,900 --> 00:20:19,900
+Conny.
+
+271
+00:20:20,360 --> 00:20:22,450
+Deminki bıçağı bana verir misin?
+
+272
+00:20:22,450 --> 00:20:24,370
+Ne? Bıçağı mı?
+
+273
+00:20:24,370 --> 00:20:25,740
+Hadi ver.
+
+274
+00:20:25,740 --> 00:20:28,450
+Peki. Al.
+
+275
+00:20:31,080 --> 00:20:32,460
+Teşekkürler.
+
+276
+00:20:32,460 --> 00:20:34,710
+Onunla ne yapacaksın ki?
+
+277
+00:20:35,750 --> 00:20:37,500
+Şey, bunu...
+
+278
+00:20:39,460 --> 00:20:41,010
+Bununla savaşacağım.
+
+279
+00:20:42,300 --> 00:20:44,470
+Ymir... Aklından ne geçiyor?
+
+280
+00:20:44,720 --> 00:20:47,800
+Kim bilir? Ben bile bilmiyorum.
+
+281
+00:20:49,180 --> 00:20:50,640
+Ymir...
+
+282
+00:20:51,810 --> 00:20:52,690
+Christa.
+
+283
+00:20:53,770 --> 00:20:57,220
+Artık hatırlamıyor olabilirsin belki ama...
+
+284
+00:21:02,240 --> 00:21:05,360
+...buna bir daha
+fırsatımız olmayabilir...
+
+285
+00:21:05,360 --> 00:21:09,740
+Hatırla lütfen, o karlı dağda
+eğitim yaparken verdiğimiz sözü...
+
+286
+00:21:12,750 --> 00:21:16,830
+Sana nasıl yaşayacağını
+söylemeye hakkım yok.
+
+287
+00:21:18,040 --> 00:21:21,760
+O yüzden bu yalnızca
+umut ettiğim bir şey...
+
+288
+00:21:24,170 --> 00:21:27,260
+Gurur duyacağın bir hayat sür.
+
+289
+00:21:39,110 --> 00:21:41,480
+Söz verdik Christa.
+
+290
+00:21:43,150 --> 00:21:44,820
+Ymir! Bekle!
+
+291
+00:21:49,240 --> 00:21:50,870
+Ymir!
+
+292
+00:23:41,480 --> 00:23:43,430
+"Gurur duyacağın bir hayat sür."
+
+293
+00:23:44,360 --> 00:23:49,280
+Bu sözlerle Christa'yı geride bırakarak
+dev gücünü serbest bırakan Ymir...
+
+294
+00:23:49,990 --> 00:23:55,520
+Christa'yla aralarında
+geçmişte önemli bir söz vermişlerdi.
+
+295
+00:23:56,910 --> 00:23:59,250
+Canını ortaya koyup savaşan Ymir...
+
+296
+00:23:59,620 --> 00:24:04,790
+Christa da o güne kadar olduğu kişiyi
+bir kenara bırakıp feryat eder.
+
+297
+00:24:05,630 --> 00:24:08,990
+Sonraki Bölüm: "Historia"
