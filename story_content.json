@@ -1,47 +1,51 @@
 {
-  "version": "1.0.0",
-  "stories": [
-    {
-      "id": "story_1",
-      "title": "Dragon Ball Daima",
-      "label": "Yeni Sezon",
-      "videoUrl": "https://akumaryu-1.asia/file/tau-video/d59e5bb5-ad76-42e6-bdf2-0702e78e6b79.mp4",
-      "startSeconds": 100,
-      "endSeconds": 115,
-      "thumbnailUrl": "https://example.com/thumbnails/dragonball.jpg",
-      "seasonIndex": 0,
-      "episodeIndex": 0,
-      "episode": {
-        "title": "Dragon Ball Daima | 1. Sezon 1. Bölüm",
-        "thumbnail": "https://example.com/thumbnails/dragonball_ep1.jpg",
-        "videoSources": [
-          {
-            "name": "Kaynak 1",
-            "url": "https://example.com/videos/dragonball_s1e1.mp4"
-          }
-        ]
-      }
-    },
-    {
-      "id": "story_2",
-      "title": "One Piece",
-      "label": "Yeni Bölüm",
-      "videoUrl": "https://example.com/videos/onepiece_preview.mp4",
-      "startSeconds": 0,
-      "endSeconds": 20,
-      "thumbnailUrl": "https://example.com/thumbnails/onepiece.jpg",
-      "seasonIndex": 0,
-      "episodeIndex": 1109,
-      "episode": {
-        "title": "One Piece | 1. Sezon 1110. Bölüm",
-        "thumbnail": "https://example.com/thumbnails/onepiece_ep1110.jpg",
-        "videoSources": [
-          {
-            "name": "Kaynak 1",
-            "url": "https://example.com/videos/onepiece_s1e1110.mp4"
-          }
-        ]
-      }
-    }
-  ]
+    "version": "1.0.0",
+    "series": [
+        {
+            "id": "solo-leveling",
+            "title": "Solo Leveling",
+            "description": "Dünya, 10 yıl önce aniden açılan (Geçitler) adı verilen portallarla birlikte canavarlarla dolu zindanlara ev sahipliği yapmaya başlar...",
+            "cover": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "categories": [
+                "Animasyon",
+                "Macera",
+                "Fantastik",
+                "Aksiyon"
+            ],
+            "year": 2024,
+            "imdb": 9.5,
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "stories": [
+                        {
+                            "id": "story_1",
+                            "title": "Solo Leveling",
+                            "label": "Yeni Sezon",
+                            "videoUrl": "https://akumaryu-1.asia/file/tau-video/d59e5bb5-ad76-42e6-bdf2-0702e78e6b79.mp4",
+                            "startSeconds": 100,
+                            "endSeconds": 115,
+                            "thumbnailUrl": "https://example.com/thumbnails/solo-leveling-story.jpg",
+                            "episode": {
+                                "title": "Solo Leveling | 1. Sezon 1. Bölüm - Alışkınım",
+                                "thumbnail": "https://ant.fancaps.net/26632007.jpg",
+                                "videoSources": [
+                                    {
+                                        "name": "Sibnet",
+                                        "url": ""
+                                    },
+                                    {
+                                        "name": "TAU",
+                                        "url": "https://akumaryu-1.asia/file/tau-video/d59e5bb5-ad76-42e6-bdf2-0702e78e6b79.mp4"
+                                    }
+                                ]
+                            },
+                            "seasonIndex": 0,
+                            "episodeIndex": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
