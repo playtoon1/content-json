@@ -1,26 +1,19 @@
 {
-  "version": "1.0.0",
-  "stories": [
-    {
-      "id": "story_1",
-      "title": "Solo Leveling",
-      "label": "Yeni Sezon",
-      "videoUrl": "https://akumaryu-1.asia/file/tau-video/d59e5bb5-ad76-42e6-bdf2-0702e78e6b79.mp4",
-      "startSeconds": 100,
-      "endSeconds": 115,
-      "thumbnailUrl": "https://example.com/thumbnails/solo-leveling-story.jpg",
-      "episode": {
-        "title": "Solo Leveling | 1. Sezon 1. Bölüm - Alışkınım",
-        "thumbnail": "https://ant.fancaps.net/26632007.jpg",
-        "videoSources": [
-          {
-            "name": "TAU",
-            "url": "https://akumaryu-1.asia/file/tau-video/d59e5bb5-ad76-42e6-bdf2-0702e78e6b79.mp4"
-          }
-        ]
-      },
-      "seasonIndex": 0,
-      "episodeIndex": 0
-    }
-  ]
+    "version": "1.0.0",
+    "stories": [
+        {
+            "id": "story_1",
+            "title": "Solo Leveling",
+            "label": "Yeni Sezon",
+            "videoUrl": "https://akumaryu-1.asia/file/tau-video/d59e5bb5-ad76-42e6-bdf2-0702e78e6b79.mp4",
+            "start": "00:01:40",
+            "end": "00:01:55",
+            "thumbnailUrl": "https://example.com/thumbnails/solo-leveling-story.jpg",
+            "episode": {
+                "title": "Solo Leveling | 1. Sezon 1. Bölüm - Alışkınım",
+                "thumbnail": "https://ant.fancaps.net/26632007.jpg",
+                "videoUrl": "https://akumaryu-1.asia/file/tau-video/d59e5bb5-ad76-42e6-bdf2-0702e78e6b79.mp4"
+            }
+        }
+    ]
 }
