@@ -1,0 +1,1356 @@
+1
+00:00:01,240 --> 00:00:02,230
+Falco...
+
+2
+00:00:03,300 --> 00:00:05,685
+Bu saatte nereye böyle?
+
+3
+00:00:05,720 --> 00:00:09,730
+Bir şey unuttum da
+birliğe dönüp alayım dedim!
+
+4
+00:00:10,240 --> 00:00:11,440
+Müsaadenizle!
+
+5
+00:00:17,190 --> 00:00:22,750
+<i>- Falco, senden bir ricam var.
+- Nedir, Kruger-san?</i>
+
+6
+00:00:23,820 --> 00:00:25,830
+<i>Mektup göndermek
+istiyorum fakat...</i>
+
+7
+00:00:26,480 --> 00:00:29,960
+<i>...tecrit bölgesinden gönderirsem
+kontrol amaçlı açıp okurlar.</i>
+
+8
+00:00:29,995 --> 00:00:31,625
+<i>Haklısınız.</i>
+
+9
+00:00:31,660 --> 00:00:34,765
+<i>Okurlarsa hasta numarası
+yaptığımı anlarlar, o yüzden...</i>
+
+10
+00:00:34,800 --> 00:00:37,960
+<i>...tecrit bölgesinin dışındaki
+bir posta kutusuna atmanı istiyorum.</i>
+
+11
+00:00:37,995 --> 00:00:40,850
+<i>Elbette.
+Ailenize mi gönderiyorsunuz?</i>
+
+12
+00:00:41,440 --> 00:00:46,920
+<i>Evet, burada iyi olduğumu
+bilsinler istiyorum.</i>
+
+14
+00:02:22,069 --> 00:02:26,682
+#63: Elden Ele
+
+15
+00:02:32,933 --> 00:02:33,880
+Nedir bu yaygara?
+
+16
+00:02:34,140 --> 00:02:37,010
+Tüm Tybur ailesi mensupları
+gelmiş!
+
+17
+00:02:37,045 --> 00:02:39,010
+Ne?
+
+18
+00:02:42,760 --> 00:02:47,960
+Bu askerler bizim ordudan değil.
+Tybur ailesinin özel korumaları.
+
+19
+00:02:49,080 --> 00:02:50,270
+Buyurun.
+
+20
+00:02:51,660 --> 00:02:53,520
+Habersiz geldiğimiz için
+kusura bakmayın.
+
+21
+00:02:53,800 --> 00:02:56,900
+Ben Tybur ailesinin reisi, Willy.
+
+22
+00:02:57,380 --> 00:03:00,280
+Savaşçı Birliği'nin komutanı,
+Theo Magath.
+
+23
+00:03:00,760 --> 00:03:04,280
+Sizinle tanışmak büyük bir şeref,
+Lord Tybur.
+
+24
+00:03:04,315 --> 00:03:06,585
+Bilmukabele, Komutan Magath.
+
+25
+00:03:06,620 --> 00:03:10,660
+O halde seni ailemle tanıştırayım.
+
+26
+00:03:10,695 --> 00:03:13,460
+Kavga etmeyin bakayım!
+
+27
+00:03:17,320 --> 00:03:21,250
+Savaşçı Birliği kurulduğundan beri
+onun başındasınız...
+
+28
+00:03:21,285 --> 00:03:25,180
+O halde söyleyin bakalım,
+hangimiz Savaş Çekiçli Dev?
+
+29
+00:03:25,520 --> 00:03:31,480
+Hiçbir fikrim yok.
+Buraya hangi amaçla geldiğiniz hususunda da.
+
+30
+00:03:32,900 --> 00:03:35,440
+Dedikleri gibi epey ihtiyatlısınız.
+
+31
+00:03:36,240 --> 00:03:38,070
+Lakin burada.
+
+32
+00:03:38,690 --> 00:03:41,820
+Savaş Çekiçli Dev aramızda.
+
+33
+00:03:48,200 --> 00:03:51,210
+Helos Heykeli'ni görmeye geldim.
+
+34
+00:03:51,860 --> 00:03:56,145
+Yüz yıl evvel,
+bir insan şeytanları alt edip...
+
+35
+00:03:56,180 --> 00:04:01,200
+...dünyayı kurtararak
+Marley'in kahramanı oldu. Kahraman Helos.
+
+36
+00:04:01,840 --> 00:04:03,925
+Harikuladeydi.
+
+37
+00:04:03,960 --> 00:04:07,420
+Cesurdu, harikaydı ve
+tek bir yarası dahi yoktu.
+
+38
+00:04:07,455 --> 00:04:10,445
+Marley ruhunun
+şekil almış haliydi adetâ.
+
+39
+00:04:10,480 --> 00:04:14,980
+Doğru söze ne hacet.
+Heykelin içi bomboş gerçi.
+
+40
+00:04:16,580 --> 00:04:20,160
+Siz de epey sivri dilliymişsiniz.
+
+41
+00:04:20,195 --> 00:04:23,705
+Marleyliler için zorunlu askerliği
+geri getirmeye çalıştığınızı duydum.
+
+42
+00:04:23,740 --> 00:04:28,945
+Marleyliler için savaş
+sadece gazetede yazan bir şey.
+
+43
+00:04:28,980 --> 00:04:32,750
+Tek yaptıkları topraklarının
+genişlediğini okuyup bir kenara atmak.
+
+44
+00:04:33,360 --> 00:04:36,555
+Mermileri yiyenler
+evcilleştirilmiş şeytanlar veya...
+
+45
+00:04:36,556 --> 00:04:39,750
+...fethedilen bir ülkenin vatandaşları ise,
+demeyin keyiflerine.
+
+46
+00:04:40,120 --> 00:04:42,630
+Zorunlu askerliği
+geri getirip Marleyliler de...
+
+47
+00:04:42,631 --> 00:04:45,140
+...kulaklarını sıyırıp geçen
+mermilere maruz kalsa da...
+
+48
+00:04:45,175 --> 00:04:50,140
+...ülke çökene dek savaşa girmekten
+vazgeçmeyecekleri aşikâr.
+
+49
+00:04:53,540 --> 00:04:57,760
+Marley'in iplerini elinde tutan
+biri varsa ona lafım hazır.
+
+50
+00:04:57,795 --> 00:04:59,750
+Artık çok geç.
+
+51
+00:05:01,340 --> 00:05:05,660
+Lafınızı hiç esirgemiyorsunuz.
+Ne diyebilirim ki?
+
+52
+00:05:06,240 --> 00:05:10,160
+Kuşkulandığınız gibi
+bu ülkeyi Tybur ailesi yönetiyor.
+
+53
+00:05:11,100 --> 00:05:16,670
+Ancak bu savaş siyasetini
+Marley'in ta kendisi tercih etti.
+
+54
+00:05:17,160 --> 00:05:21,920
+Kefaretimiz gereğince
+biz de bu ülkeye özgürlük ve güç bahşettik.
+
+55
+00:05:22,400 --> 00:05:26,340
+Sonuç olarak,
+Eldia da Marley de karanlığa gömüldü.
+
+56
+00:05:26,375 --> 00:05:29,265
+Bunun sorumlusu da Tybur ailesi.
+
+57
+00:05:29,300 --> 00:05:34,180
+Düzenlenecek festivalde
+dünyaya her şeyi anlatacağım.
+
+58
+00:05:34,860 --> 00:05:37,720
+Kahramanın heykelini
+görmeye gelmem yalan değildi.
+
+59
+00:05:37,755 --> 00:05:41,190
+Marley'e tekrar bir kahraman lazım.
+
+60
+00:05:41,640 --> 00:05:46,450
+Theo Magath, bu gayemde
+bana destek olur musun?
+
+61
+00:05:57,220 --> 00:05:58,620
+Günaydın, Pocco.
+
+62
+00:06:00,740 --> 00:06:02,880
+Pieck, n'apıyorsun sen be?!
+
+63
+00:06:03,300 --> 00:06:07,380
+Böyle yürümek ne rahat bir bilsen.
+Korkuttum mu yoksa?
+
+64
+00:06:08,460 --> 00:06:11,140
+İnsan gibi yürüsene yahu!
+
+65
+00:06:12,020 --> 00:06:14,325
+Devler her zaman güneyden geliyor.
+
+66
+00:06:14,360 --> 00:06:17,880
+O yüzden, surların kuzeyindeki
+sıradağlara yaklaştıkça...
+
+67
+00:06:17,915 --> 00:06:19,625
+...savunma da
+o kadar zayıflıyor.
+
+68
+00:06:19,660 --> 00:06:21,900
+O halde, kuzeyden mi
+saldırmayı öneriyorsun?
+
+69
+00:06:22,340 --> 00:06:24,225
+O da bir seçenek.
+
+70
+00:06:24,260 --> 00:06:29,960
+Ancak büyük gemilerimizin
+yanaşabileceği sadece tek bir rıhtım var.
+
+71
+00:06:29,995 --> 00:06:33,865
+- Tüm gücümüzü kullanmak istiyorsak...
+- Güneyden mi o zaman?
+
+72
+00:06:34,000 --> 00:06:39,940
+Fakat güneyde keşif gemilerimiz kayboldu,
+demek ki düşman orada sıkı önlem alıyor.
+
+73
+00:06:40,140 --> 00:06:42,680
+Rıhtımı dahi yok etmiş olabilirler.
+
+74
+00:06:42,715 --> 00:06:48,960
+- Ne demeye çalışıyorsun o zaman?
+- Edindiğim bilgileri paylaşıyorum sadece.
+
+75
+00:06:48,995 --> 00:06:54,060
+Tamam, anladık.
+Bir Eldialı'yı dinleyende kabahat.
+
+76
+00:06:58,800 --> 00:07:02,060
+Paradis Adası Operasyonu planı
+tıkırında gidiyor resmen.
+
+77
+00:07:02,095 --> 00:07:05,320
+Bizim kodamanlar
+süper zekalarını konuşturuyor.
+
+78
+00:07:05,820 --> 00:07:08,925
+O kafalardan nasıl bir plan çıkacak
+çok merak ediyorum cidden.
+
+79
+00:07:08,960 --> 00:07:13,780
+Operasyonun ana kahramanlarının
+dört çocuk olduğu bir plan mesela.
+
+80
+00:07:20,540 --> 00:07:21,870
+Geçti.
+
+81
+00:07:22,360 --> 00:07:24,380
+Falco, Gabi'yi geçti!
+
+82
+00:07:28,980 --> 00:07:31,585
+Hayatında ilk kez kazandı,
+ne bu heyecan.
+
+83
+00:07:31,620 --> 00:07:34,390
+Hayret bir şey.
+Bizim duygularımızı takan yok tabii.
+
+84
+00:07:34,760 --> 00:07:40,460
+Falco kendini ne kadar
+geliştirirse geliştirsin Gabi hâlâ önde.
+
+85
+00:07:41,390 --> 00:07:43,955
+Sondaki o coşkun fenaydı ya!
+
+86
+00:07:43,990 --> 00:07:46,520
+Çocuklar, ne bu heyecan?
+
+87
+00:07:46,960 --> 00:07:51,280
+- Falco ilk kez Gabi'yi yendi!
+- Hadi ya! Notlarda mı?
+
+88
+00:07:51,315 --> 00:07:55,780
+- Hayır, yarışta kazandı!
+- Yüzyılın geri dönüşü resmen!
+
+89
+00:07:55,815 --> 00:07:59,360
+Susun artık!
+İnsan içinde rezil ediyorsunuz beni.
+
+90
+00:07:59,395 --> 00:08:03,420
+Helal sana!
+Sıradaki Zırhlı Dev belli artık!
+
+91
+00:08:05,860 --> 00:08:09,285
+Beni anca rüyanda geçersin!
+
+92
+00:08:09,320 --> 00:08:12,380
+Savaşta ülkemi
+gururlandırdım ben bir kere!
+
+93
+00:08:13,900 --> 00:08:15,420
+Haklısın.
+
+94
+00:08:16,200 --> 00:08:20,200
+Ama ordu henüz
+Zırhlı Dev'in varisini açıklamadı.
+
+95
+00:08:20,235 --> 00:08:23,390
+O güne dek
+elimden ne geliyorsa yapacağım.
+
+96
+00:08:25,560 --> 00:08:29,405
+Karizma hareketler falan.
+İşini biliyor.
+
+97
+00:08:29,440 --> 00:08:34,530
+Abin Canavar Dev'in varisi seçilerek ailenizi
+onurlu Marleyli yaptı zaten daha ne istiyo'n!
+
+98
+00:08:34,565 --> 00:08:37,280
+Niye keçi inadın tuttu birden?!
+
+99
+00:08:42,240 --> 00:08:44,010
+Senin için!
+
+100
+00:08:45,980 --> 00:08:47,840
+Söyledi valla.
+
+101
+00:08:53,180 --> 00:08:56,590
+Benim için diyorsun da
+işime çomak sokuyorsun ama!
+
+102
+00:08:56,625 --> 00:08:59,100
+Bir şey anladıysam ne olayım!
+
+103
+00:08:59,980 --> 00:09:02,265
+Jetonu düşmedi ya.
+
+104
+00:09:02,300 --> 00:09:05,620
+Derdi ne bu çocuğun?
+Ne saçma sapan hareketler!
+
+105
+00:09:07,260 --> 00:09:10,780
+Hoş geldiniz,
+küçük savaşçılar!
+
+106
+00:09:10,815 --> 00:09:14,300
+Gabi!
+Yaptıklarını duydum, Gabi!
+
+107
+00:09:14,335 --> 00:09:18,980
+Sen bizim kahramanımızsın!
+Gabi!
+
+108
+00:09:19,015 --> 00:09:21,500
+Ben Zofia'yım yalnız.
+
+109
+00:09:22,240 --> 00:09:26,860
+Güpegündüz kafayı çekip küçük bir kıza
+sarkmaya utanmıyor musun?!
+
+110
+00:09:26,895 --> 00:09:30,260
+- Boyun devrilsin senin!
+- Düş yakamdan, ceset suratlı!
+
+111
+00:09:30,295 --> 00:09:32,665
+Bir kahramanı övmenin nesi yanlış?!
+
+112
+00:09:32,700 --> 00:09:36,060
+Sen översen
+şanssızlığını ona da bulaştırırsın!
+
+113
+00:09:36,095 --> 00:09:38,930
+Hadi marş marş annenin yanına!
+
+114
+00:09:40,680 --> 00:09:43,810
+Siz de bunları alın bakayım.
+
+115
+00:09:44,100 --> 00:09:48,440
+Bol bol yiyin de
+Bay Braun gibi kocaman olun!
+
+116
+00:09:48,740 --> 00:09:50,460
+Çok teşekkürler!
+
+117
+00:09:55,760 --> 00:09:59,800
+Bu tecrit bölgesinde
+cidden savaş mı ilan edecekler?
+
+118
+00:09:59,835 --> 00:10:01,450
+Tiyatroya benziyor sanki.
+
+119
+00:10:02,800 --> 00:10:06,255
+Dünyadaki saygıdeğer
+insanları bir araya toplayıp...
+
+120
+00:10:06,256 --> 00:10:09,710
+...festival şeyinden yaparlarsa
+tüm dünya güçlerini bizimle birleştirirmiş.
+
+121
+00:10:10,980 --> 00:10:12,320
+O halde...
+
+122
+00:10:13,300 --> 00:10:16,670
+...Marley'in
+bütün sorunları kökten çözülür! Mis!
+
+123
+00:10:17,140 --> 00:10:20,720
+- Tutmaz mı bu plan yani?
+- Tutar mı sence?
+
+124
+00:10:21,400 --> 00:10:25,720
+Daha yeni savaştığımız
+Orta-Doğu ittifak ülkeleri de burada olacak.
+
+125
+00:10:26,320 --> 00:10:30,660
+Ailem başka bir ülkenin tecrit bölgesinden
+geldiği için gayet iyi biliyorum...
+
+126
+00:10:30,695 --> 00:10:32,220
+...orada hayat kabus gibiydi.
+
+127
+00:10:33,300 --> 00:10:36,860
+Diğer ülkelerdeki Eldia nefretinin
+yanında buradaki hiçbir şey.
+
+128
+00:10:37,240 --> 00:10:41,465
+İşte tam da bu yüzden
+bir şeyler yapmamız lazım, öyle değil mi?
+
+129
+00:10:41,500 --> 00:10:45,940
+İnsanların Eldialılar'ı daha iyi
+anlayabilmesi için bu yeri seçtiler kesin.
+
+130
+00:10:45,975 --> 00:10:48,500
+Şeytan olmadığımızı göstermek için.
+
+131
+00:10:49,000 --> 00:10:51,250
+- İyi de nasıl?
+- Gül!
+
+132
+00:10:51,720 --> 00:10:54,710
+O insanlardan hoşnut
+olmadığını çok iyi biliyorum ama...
+
+133
+00:10:54,745 --> 00:10:57,700
+...onlara hadlerini bildirecek
+konumda değiliz, o yüzden gül biraz!
+
+134
+00:10:57,735 --> 00:11:01,220
+Zofia sen de
+bu tuhaf tavırlarına bir son ver!
+
+135
+00:11:01,255 --> 00:11:03,260
+Her zamanki halim bu benim.
+
+136
+00:11:03,740 --> 00:11:06,640
+Peki sen neyini düzelteceksin?
+
+137
+00:11:08,140 --> 00:11:11,240
+Şu anki halimle harikayım zaten!
+
+138
+00:11:11,275 --> 00:11:13,665
+Çok tatlıyım, zekiyim de...
+
+139
+00:11:13,700 --> 00:11:19,120
+...o aptal kodamanları etkileyip
+daha da göze gireceğim!
+
+140
+00:11:19,155 --> 00:11:21,030
+İçinde şeytan varmış meğer.
+
+141
+00:11:21,820 --> 00:11:25,880
+Bir daha Falco'ya yaltaklık ederseniz
+cenazenizi kaldırırlar!
+
+142
+00:11:25,915 --> 00:11:27,840
+Şeytanın ta kendisi olmuşsun işte!
+
+143
+00:11:29,300 --> 00:11:31,040
+Komutan Magath orada.
+
+144
+00:11:31,700 --> 00:11:32,860
+Buyurun.
+
+145
+00:11:37,320 --> 00:11:41,550
+Büyük bir yıkıma ihtiyacınız var demek.
+
+146
+00:11:42,040 --> 00:11:44,550
+Evim onarılamayacak kadar
+yıprandı çünkü.
+
+147
+00:11:48,310 --> 00:11:52,310
+Tebrikler, Komutan.
+Ordu artık sizin emrinizde.
+
+148
+00:11:52,660 --> 00:11:55,745
+Hayır, ordu tüm ülkenin emrinde.
+
+149
+00:11:55,780 --> 00:11:59,690
+Ve bu ülkenin başkomutanı da sizsiniz.
+
+150
+00:12:01,360 --> 00:12:03,565
+Pek öyle sayılmaz.
+
+151
+00:12:03,600 --> 00:12:06,200
+Ben sadece direksiyonu tutuyorum.
+
+152
+00:12:06,860 --> 00:12:10,780
+Benden önce hiç kimsenin neden
+direksiyonun başına geçmediğini anlıyorum.
+
+153
+00:12:11,920 --> 00:12:13,440
+Çok ağır bir mesuliyet.
+
+154
+00:12:14,680 --> 00:12:17,620
+Hemen şuracıkta
+direksiyonu bırakmak isterim ancak...
+
+155
+00:12:17,655 --> 00:12:20,420
+...bir rehbere ihtiyaç var artık.
+
+156
+00:12:21,640 --> 00:12:24,105
+Çok şanssızım!
+
+157
+00:12:24,140 --> 00:12:27,850
+Taşın altına elini koymak zorunda kalan
+şanssız bir adamım ben.
+
+158
+00:12:28,860 --> 00:12:34,100
+Evimin yıkılma tehlikesi vardı ama
+neyse ki birkaç sütun onu ayakta tuttu.
+
+159
+00:12:34,600 --> 00:12:40,080
+Ve o sütunlara bakarak
+farelerin çoktan evimi bastığını anladım.
+
+160
+00:12:41,520 --> 00:12:43,110
+Adına sevindim, Falco.
+
+161
+00:12:43,620 --> 00:12:46,105
+Sizin sayenizde, Kruger-san.
+
+162
+00:12:46,140 --> 00:12:50,740
+Açıkçası, bu saatten sonra
+Gabi'yi geçebileceğimi sanmıyorum ama...
+
+163
+00:12:50,775 --> 00:12:54,620
+...yine de
+elimden geleni yapacağım.
+
+164
+00:12:54,655 --> 00:12:55,750
+Anladım.
+
+165
+00:12:56,520 --> 00:12:59,485
+Asıl benim teşekkür etmem lazım.
+
+166
+00:12:59,520 --> 00:13:02,840
+O kadar zahmete girip
+mektuplarımı gönderdin.
+
+167
+00:13:03,480 --> 00:13:04,880
+Eksik olma.
+
+168
+00:13:05,240 --> 00:13:07,010
+Ne demek.
+
+169
+00:13:08,720 --> 00:13:12,205
+Onu aileniz mi gönderdi?
+
+170
+00:13:12,240 --> 00:13:15,380
+Hastanede sıkılırım diye
+göndermişler.
+
+171
+00:13:15,415 --> 00:13:18,520
+Bu haldeyken
+bir şeyler yapmak çok zor ama...
+
+172
+00:13:19,520 --> 00:13:22,152
+...yılmadan
+yoluma devam etmeliyim.
+
+173
+00:13:22,252 --> 00:13:26,160
+Festivalden sonra
+evime döneceğim.
+
+174
+00:13:27,400 --> 00:13:28,980
+Öyle demek...
+
+175
+00:13:30,500 --> 00:13:31,910
+Doktor geliyor.
+
+176
+00:13:32,580 --> 00:13:34,180
+Ben kaçar.
+
+177
+00:13:37,380 --> 00:13:41,300
+- Yanına oturabilir miyim?
+- Elbette, buyurun.
+
+178
+00:13:42,540 --> 00:13:44,620
+Oturdum o zaman.
+
+179
+00:13:47,700 --> 00:13:50,680
+Ben Yeager,
+bu tecrit bölgesinde çalışıyorum.
+
+180
+00:13:50,715 --> 00:13:53,560
+Bazen çay içmeye geliyorum buraya.
+
+181
+00:13:54,420 --> 00:14:00,200
+- Memnun oldum, ben de Kruger.
+- Bilmukabele, Kruger-kun.
+
+182
+00:14:00,235 --> 00:14:04,565
+- Demin giden çocukla
+muhabbetin iyi sanırım. - Öyle.
+
+183
+00:14:04,600 --> 00:14:09,025
+Ne güzel. Ben de onunla
+arkadaş olabilirim aslında.
+
+184
+00:14:09,060 --> 00:14:13,450
+Bu banka oturup
+konuşacak birini arıyorum bazen ben de.
+
+185
+00:14:14,380 --> 00:14:19,245
+O çocuğun amcası
+Eldia Restorasyonistleri'nin lideriydi.
+
+186
+00:14:19,280 --> 00:14:24,690
+Restorasyonistler cennete gönderilse de
+aileleri bağışlanmadı bile.
+
+187
+00:14:24,725 --> 00:14:30,100
+O oğlan ve abisi, ailesini korumak için
+Savaşçı olmak istedi ve...
+
+188
+00:14:30,135 --> 00:14:34,710
+...abisi Canavar Dev'in
+varisi olarak seçilmesiyle...
+
+189
+00:14:34,745 --> 00:14:38,360
+...Grice ailesi
+nihayet rahata kavuştu.
+
+190
+00:14:39,520 --> 00:14:43,230
+Bana bunları niye anlatıyorsunuz?
+
+191
+00:14:43,600 --> 00:14:47,425
+İşlerini o çocuğa yaptırmayı bırak.
+
+192
+00:14:47,460 --> 00:14:52,620
+Hareketleriyle şüphe uyandırırsa
+Grice ailesinin onca gayreti heba olur.
+
+193
+00:14:53,340 --> 00:14:58,715
+Ve aklın yerindeyse
+ailenin yanına dönmeni öneririm.
+
+194
+00:14:58,750 --> 00:15:04,750
+Bir gün onları mumla
+arayıp bulamazsan pişmanlık fayda etmez.
+
+195
+00:15:06,520 --> 00:15:08,760
+Pişmanlık demek...
+
+196
+00:15:12,420 --> 00:15:15,590
+Kendi ailenizle ilgili
+pişmanlıklarınız var sanırım.
+
+197
+00:15:18,180 --> 00:15:20,640
+Pişmanlık duymadığım
+tek bir gün yok!
+
+198
+00:15:21,120 --> 00:15:25,650
+O gün, oğlum kardeşini de alıp
+surların dışına çıktı.
+
+199
+00:15:25,685 --> 00:15:31,350
+Ona çok sert davranıyordum.
+Doktor olacaksın diye kafasını ütülüyordum!
+
+200
+00:15:33,660 --> 00:15:37,480
+Benim yüzümden!
+Hepsi benim suçum!
+
+201
+00:15:42,120 --> 00:15:43,290
+Yeager-san!
+
+202
+00:15:43,760 --> 00:15:46,065
+Kafanıza göre çıkıp gitmeyin!
+
+203
+00:15:46,100 --> 00:15:49,240
+Kusura bakmayın,
+bir saniyeliğine gözümüzü ayırmaya gelmedi.
+
+204
+00:15:50,440 --> 00:15:51,930
+Hadi gidelim, Yeager-san.
+
+205
+00:15:52,660 --> 00:15:54,600
+Her şey yolunda.
+
+206
+00:16:13,450 --> 00:16:17,020
+- Muhteşem!
+- Gazetelerde çıkan kişiler!
+
+207
+00:16:17,055 --> 00:16:18,945
+Çene çalmayın.
+
+208
+00:16:18,980 --> 00:16:21,580
+Garsonluk eğitimini boşuna almadık!
+
+209
+00:16:21,860 --> 00:16:24,580
+Şurada boş bardaklar var, fırlayın!
+
+210
+00:16:33,630 --> 00:16:35,640
+- Falco, bir tane daha!
+- Al!
+
+211
+00:16:38,240 --> 00:16:42,160
+Şuna baksana.
+Kanı bozuklardan biri tabakları taşıyor.
+
+212
+00:16:42,195 --> 00:16:45,200
+Demek o yüzden yemeğim
+leş gibi kokuyordu!
+
+213
+00:16:50,190 --> 00:16:52,520
+Çok ama çok özür dilerim!
+
+214
+00:16:53,200 --> 00:16:54,685
+Sessiz ol.
+
+215
+00:16:54,720 --> 00:16:57,415
+Ama şık elbiseniz...
+
+216
+00:16:57,450 --> 00:16:59,950
+Bir sorun mu var, hanımefendi?
+
+217
+00:17:01,000 --> 00:17:02,785
+Olacak iş değil.
+
+218
+00:17:02,820 --> 00:17:07,360
+Kimonoma döktüğüm şarabı temizlememe
+yardım ediyordu bu genç adam.
+
+219
+00:17:07,395 --> 00:17:08,877
+Teşekkür ederim.
+
+220
+00:17:08,912 --> 00:17:11,710
+Kötü olmuş cidden.
+Bu taraftan buyurun.
+
+221
+00:17:12,000 --> 00:17:14,385
+Neden?
+
+222
+00:17:14,420 --> 00:17:17,580
+Başına neler gelirdi kim bilir?
+
+223
+00:17:19,000 --> 00:17:23,120
+- Bir şeyin var mı?!
+- Yok. O kadın hatamı üstlendi.
+
+224
+00:17:23,900 --> 00:17:26,020
+Eldialı olduğumu bilmesine rağmen.
+
+225
+00:17:26,360 --> 00:17:28,150
+O kadın...
+
+226
+00:17:29,060 --> 00:17:32,150
+Doğudaki Hizuru ülkesinden.
+
+227
+00:17:35,540 --> 00:17:37,400
+Willy geldi.
+
+228
+00:17:39,100 --> 00:17:40,625
+Willy!
+
+229
+00:17:40,660 --> 00:17:43,125
+Kahramanın torunu!
+
+230
+00:17:43,160 --> 00:17:45,870
+Büyükelçi Ogwey!
+Ne zamandır görüşmemiştik!
+
+231
+00:17:46,460 --> 00:17:49,505
+Nambia!
+Çocukluğumuzdan beri görüşmedik!
+
+232
+00:17:49,540 --> 00:17:52,920
+Seni hep ağlatırdım, hatırlıyor musun?
+
+233
+00:17:52,955 --> 00:17:55,000
+Bunu hatırlıyor musun, Willy?
+
+234
+00:17:55,980 --> 00:17:58,010
+Ağaçtan düştüğünde olmuştu bu yara!
+
+235
+00:18:03,520 --> 00:18:09,020
+Bayanlar ve baylar, bu gece
+bize eşlik ettiğiniz için teşekkür ederim!
+
+236
+00:18:09,660 --> 00:18:16,030
+Daha düne kadar, doğal kaynakları
+elde etme amacıyla çirkin bir savaşa girmiştik.
+
+237
+00:18:16,065 --> 00:18:19,660
+Ancak dünün düşmanı
+bugünün düşmanıdır!
+
+238
+00:18:20,660 --> 00:18:21,910
+Pardon ya.
+
+239
+00:18:22,180 --> 00:18:24,410
+Dünün düşmanı
+bugünün dostudur!
+
+240
+00:18:24,960 --> 00:18:28,420
+Geçmişi içeceklerimizle birlikte
+tuvalete boşaltıp sifonu çekerek...
+
+241
+00:18:29,040 --> 00:18:32,290
+...yeni bir geleceğe
+kadeh kaldıralım!
+
+242
+00:18:32,760 --> 00:18:35,800
+Ebedi huzura!
+
+243
+00:18:38,260 --> 00:18:39,945
+Çok teşekkürler, Bakanım.
+
+244
+00:18:39,980 --> 00:18:43,845
+Şakanız harikaydı gerçekten de.
+
+245
+00:18:43,880 --> 00:18:48,040
+Ama konuklar
+espriyi anlamadı sanırım, o yüzden...
+
+246
+00:18:48,075 --> 00:18:49,810
+...ben devam edeyim.
+
+247
+00:18:49,845 --> 00:18:51,522
+Yürü be, Willy!
+
+248
+00:18:51,557 --> 00:18:53,200
+Kahramanın torunu!
+
+249
+00:18:57,140 --> 00:19:02,925
+Yarın hepinizi
+Liberio Tecrit Bölgesi'ne davet edeceğim.
+
+250
+00:19:02,960 --> 00:19:06,450
+Bir zamanlar sayısız ülkenin
+vatandaşını katletmiş...
+
+251
+00:19:07,460 --> 00:19:10,585
+...benimle aynı kanı paylaşan
+insanların, yani...
+
+252
+00:19:10,620 --> 00:19:13,710
+...şeytan olarak bilinen
+Eldialılar'ın evine.
+
+253
+00:19:14,180 --> 00:19:18,260
+O şeytanlar tarafından
+en çok ezilen ülke olan Marley...
+
+254
+00:19:18,295 --> 00:19:22,340
+...bu sefer onları kullanıp
+diğer ülkelere zulmetti ve böyle sürdü.
+
+255
+00:19:23,200 --> 00:19:27,100
+Eldialılar'ın kökünü kazımak
+istemenizi gayet iyi anlıyorum.
+
+256
+00:19:27,560 --> 00:19:33,513
+Ve bu sonu gelmeyen soruna karşı
+bir çözümle çıktım karşınıza.
+
+257
+00:19:34,400 --> 00:19:40,310
+Bu çözümü de yarın
+ilk sahne gösterimde açıklayacağım.
+
+258
+00:19:41,540 --> 00:19:45,120
+Yüce yazara ve
+tarihin tanıklarına!
+
+259
+00:19:45,420 --> 00:19:48,120
+Yazara ve
+tarihin tanıklarına!
+
+260
+00:20:02,980 --> 00:20:04,200
+N'oluyor be?!
+
+261
+00:20:16,270 --> 00:20:18,140
+Neler oluyor böyle?
+
+262
+00:20:18,175 --> 00:20:19,075
+Gabi!
+
+263
+00:20:19,110 --> 00:20:22,260
+- Nihayet uyandın ya!
+- Bu vaziyet ne böyle?!
+
+264
+00:20:22,295 --> 00:20:23,325
+Festival işte!
+
+265
+00:20:23,360 --> 00:20:28,520
+Başka ülkelerden bir sürü insan geldi ve
+her yere dükkan açtı!
+
+266
+00:20:28,555 --> 00:20:29,720
+Yesene!
+
+267
+00:20:30,880 --> 00:20:33,920
+- Festival bu muymuş?!
+- Hadi yardırın!
+
+268
+00:21:01,190 --> 00:21:04,185
+Mideme sancılar giriyor!
+
+269
+00:21:04,220 --> 00:21:06,580
+Görmemişler gibi
+yemeseydin sen de.
+
+270
+00:21:07,580 --> 00:21:10,540
+Her gün festival olsa ya.
+
+271
+00:21:12,160 --> 00:21:13,175
+Keşke.
+
+272
+00:21:13,210 --> 00:21:18,210
+Nedense, son zamanlarda
+ilklerimi yaşadığım çok şey oldu.
+
+273
+00:21:18,680 --> 00:21:20,175
+Öyle.
+
+274
+00:21:20,210 --> 00:21:24,470
+Sanki bir şeyler
+değişecekmiş gibime geliyor.
+
+275
+00:21:25,780 --> 00:21:26,840
+Evet...
+
+276
+00:21:27,760 --> 00:21:28,980
+Bence de.
+
+278
+00:22:34,780 --> 00:22:36,560
+Eğlendiniz mi bakalım?
+
+279
+00:22:37,540 --> 00:22:38,780
+Falco nerede?
+
+280
+00:22:39,600 --> 00:22:42,500
+Tanıdık birini görmüş de
+gidiverdi bir yere.
+
+281
+00:22:42,535 --> 00:22:45,325
+Başına bir iş gelmese?
+
+282
+00:22:45,360 --> 00:22:48,510
+Eğleniyoruz şurada,
+gevşe sen de biraz.
+
+283
+00:22:49,000 --> 00:22:50,600
+Ne kalabalık ama.
+
+284
+00:22:50,635 --> 00:22:52,587
+Döndü.
+
+285
+00:22:52,622 --> 00:22:54,540
+Bay Braun!
+
+286
+00:22:55,200 --> 00:22:59,270
+- Nereye kayboldun be?
+- Benimle gelir misiniz?
+
+287
+00:22:59,680 --> 00:23:02,165
+- Şimdi mi?
+- Git ya.
+
+288
+00:23:02,200 --> 00:23:04,650
+Başlamasına daha var.
+
+289
+00:23:05,720 --> 00:23:08,650
+- Buradan!
+- Mevzu ne?
+
+290
+00:23:09,360 --> 00:23:11,160
+Gidince anlarsınız.
+
+291
+00:23:15,700 --> 00:23:16,660
+Burası.
+
+292
+00:23:17,980 --> 00:23:19,290
+Peki.
+
+293
+00:23:22,900 --> 00:23:24,340
+Getirdim!
+
+294
+00:23:25,860 --> 00:23:29,420
+N'aber?
+Tam dört yıl oldu, Reiner.
+
+295
+00:23:35,640 --> 00:23:36,970
+Eren!
+
+296
+00:23:40,440 --> 00:23:43,980
+Reiner karanlık bir yeraltı odasında
+Eren'le yüzleşir.
+
+297
+00:23:44,340 --> 00:23:47,660
+Kalabalık, Willy'in konuşmasıyla
+şaşkına dönmüşken...
+
+298
+00:23:47,695 --> 00:23:49,230
+...Eren'in ağzından
+şu kelimeler dökülür...
+
+299
+00:23:49,520 --> 00:23:51,990
+"Ben de senin gibiyim."
+
+300
+00:23:52,620 --> 00:23:54,990
+Gelecek Bölüm:
+Savaş İlanı

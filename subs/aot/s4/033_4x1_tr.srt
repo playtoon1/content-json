@@ -1,0 +1,985 @@
+1
+00:00:15,240 --> 00:00:18,120
+Burası çok tehlikeli.
+
+2
+00:00:21,160 --> 00:00:23,080
+Uç git...
+
+3
+00:00:24,710 --> 00:00:28,290
+...uzaklara bir yere.
+
+4
+00:00:28,325 --> 00:00:29,305
+Falco!
+
+5
+00:00:29,340 --> 00:00:33,840
+- Senin burada ne işin var, abi?
+- Güzel, güzel! Çenen çalışıyor!
+
+6
+00:00:33,875 --> 00:00:35,595
+Colt!
+
+7
+00:00:35,630 --> 00:00:37,850
+Tabana kuvvet koşacağız!
+Sıkı tutun!
+
+8
+00:00:48,520 --> 00:00:49,690
+Falco!
+
+9
+00:00:56,070 --> 00:00:58,450
+Colt, durum ne?
+
+10
+00:01:00,870 --> 00:01:03,000
+Sert bir darbe aldık ve...
+
+11
+00:01:05,460 --> 00:01:08,960
+...ön cephedeki Eldia Birliği
+havaya uçtu.
+
+12
+00:01:09,880 --> 00:01:14,515
+- Peki hendekler ne durumda?
+- Daha fazla kazmamız imkânsız!
+
+13
+00:01:14,550 --> 00:01:19,220
+İmkânsız mı? Emir sende mi sanıyorsun?!
+Bir Eldialı bana emir mi veriyor?
+
+14
+00:01:19,255 --> 00:01:22,640
+Haddini bil! Komutan Magath ile
+ne biçim konuşuyorsun?!
+
+15
+00:01:22,675 --> 00:01:25,537
+Ama böyle giderse...
+
+16
+00:01:25,572 --> 00:01:30,695
+- Falco, sarhoş falan mı oldun?
+- Kafayı sağlam vurmuş olmalı.
+
+17
+00:01:30,730 --> 00:01:34,900
+Dört senedir savaşta olduğumuzu
+hatırlıyor musun?
+
+18
+00:01:34,935 --> 00:01:40,535
+Siz de kimsiniz?
+Dur biraz...
+
+19
+00:01:40,570 --> 00:01:44,580
+Daha demin bir kılıçla
+ortalıkta kol gezmiyor muydum ya?
+
+20
+00:01:44,615 --> 00:01:48,460
+Fiyuuv diye!
+Sonra bir Dev...
+
+21
+00:01:49,420 --> 00:01:53,750
+Her şeyi en baştan
+anlatmam lazım galiba.
+
+22
+00:01:53,785 --> 00:01:56,595
+Pür dikkat dinle, Falco.
+
+23
+00:01:56,630 --> 00:02:02,550
+Dört senedir süren savaş
+şu an kopma noktasına gelmiş vaziyette.
+
+24
+00:02:02,585 --> 00:02:05,775
+Slava Hisarı'nı
+fethedebilirsek...
+
+25
+00:02:05,810 --> 00:02:11,560
+Daha doğrusu, limandaki Orta-Doğu
+Müttefik Kuvvetler'ini batırabilirsek...
+
+26
+00:02:11,595 --> 00:02:16,365
+...bu savaşı biz Marley'ler
+kazanmış olacak.
+
+27
+00:02:16,400 --> 00:02:21,070
+Ancak yüksek bölgede konumlanmış
+Slava Hisarı'nı fethetmezsek...
+
+28
+00:02:21,105 --> 00:02:23,950
+...limana asla saldıramayız.
+
+29
+00:02:24,870 --> 00:02:27,835
+Marley filosu
+limanı halletse ya?
+
+30
+00:02:27,870 --> 00:02:31,465
+Zofia!
+O filoya güveniyor musun cidden?!
+
+31
+00:02:31,500 --> 00:02:35,500
+O embesillerin denizlerde
+kendine yer edinmesi tam dört yıl sürdü!
+
+32
+00:02:35,535 --> 00:02:40,015
+Ve bunu yapabilmek için
+filolarının yarısını kaybettiler!
+
+33
+00:02:40,050 --> 00:02:43,035
+Şimdi de kalkmış bize...
+
+34
+00:02:43,036 --> 00:02:46,020
+...siz Hisar'ı fethedene dek
+saldıramayız diyorlar!
+
+35
+00:02:46,055 --> 00:02:48,395
+Canı çıkasıcalar!
+
+36
+00:02:48,430 --> 00:02:52,100
+Udo, Falco'nun kafasının
+suyunu çıkarma.
+
+37
+00:02:52,135 --> 00:02:54,905
+Pardon ya!
+
+38
+00:02:54,940 --> 00:03:00,850
+Peki, Savaşçı adayları olarak
+niye bizi ön cepheye gönderdiler?
+
+39
+00:03:00,985 --> 00:03:03,455
+Bizi sınamak için tabii ki de.
+
+40
+00:03:03,490 --> 00:03:07,750
+İçimizden biri sıradaki Savaşçı olacak.
+
+41
+00:03:09,870 --> 00:03:11,835
+Vakit geldi çattı.
+
+42
+00:03:11,870 --> 00:03:16,000
+Komutan Magath son sınavımız olarak
+bu ön cepheyi seçti.
+
+43
+00:03:16,035 --> 00:03:19,515
+İleride olacaklara hitaben.
+
+44
+00:03:19,550 --> 00:03:23,180
+Paradis'i fethetmek için
+kilit taşı olacak...
+
+45
+00:03:23,215 --> 00:03:26,220
+...Zırhlı Dev'in varisi
+seçilecek!
+
+47
+00:04:58,020 --> 00:05:03,030
+#60: Denizin Öbür Tarafı
+
+48
+00:05:07,700 --> 00:05:09,830
+Zırhlı Dev...
+
+49
+00:05:10,620 --> 00:05:13,830
+Hangimiz seçilecek acaba?
+
+50
+00:05:16,000 --> 00:05:21,840
+Ne bu tavırlar, Gabi? Senden başkasının
+o nitelikleri taşımadığını imâ ediyorsun sanki.
+
+51
+00:05:21,875 --> 00:05:24,922
+İyi de öyle değil mi zaten?
+
+52
+00:05:24,957 --> 00:05:29,798
+- Gabi bizden önde zaten.
+- Başarı notlarına bakılırsa öyle.
+
+53
+00:05:29,833 --> 00:05:34,640
+Hayır, her şey not değil, Udo.
+Söylemekten dilimde tüy bitti.
+
+54
+00:05:34,675 --> 00:05:37,827
+Aramızdaki yegâne fark
+kararlılık.
+
+55
+00:05:37,862 --> 00:05:40,945
+Eldialılar'ın kaderini sırtlanıp...
+
+56
+00:05:40,980 --> 00:05:46,950
+...bize zulmeden o adadaki şeytanları
+katledecek kararlılığa sahibim!
+
+57
+00:05:46,985 --> 00:05:49,125
+Ve bu savaşı kazanıp...
+
+58
+00:05:49,160 --> 00:05:54,370
+...geriye sadece iyi yürekli Eldialılar'ın
+kaldığını ispat edeceğim!
+
+59
+00:05:54,405 --> 00:05:59,580
+Asla yenilmeyeceğim!
+Tecrit bölgesindeki herkesi kurtaracağım!
+
+60
+00:06:02,090 --> 00:06:06,340
+Deminden beri
+neyle uğraşıyorsun öyle?
+
+61
+00:06:06,375 --> 00:06:08,180
+Manyak bir şey değil mi ama!
+
+62
+00:06:08,215 --> 00:06:10,895
+İşe yaramaz, Komutan Magath!
+
+63
+00:06:11,030 --> 00:06:17,030
+Makineli silaha maruz kalmadan
+demiryolunu yok etmemizin mümkünâtı yok.
+
+64
+00:06:17,230 --> 00:06:22,098
+Hendeklerin her yerinde
+askerleri olmasının yanında...
+
+65
+00:06:22,099 --> 00:06:24,534
+...Hisar istediği an üstümüze
+bombardıman yağdırabilir.
+
+66
+00:06:24,934 --> 00:06:29,410
+Ve burada daha fazla kalırsak da
+top mermisine boğarlar bizi!
+
+67
+00:06:29,445 --> 00:06:33,262
+Daha iyi bir fikrin var mı, Colt?
+
+68
+00:06:33,297 --> 00:06:37,045
+Çeneli Dev ile Taşıyıcı Dev'i salalım.
+
+69
+00:06:37,080 --> 00:06:40,165
+Galliard ile Pieck
+beraber üstesinden gelirler.
+
+70
+00:06:40,200 --> 00:06:43,250
+Siperleri ve sığınağı
+saniyesinde yerle bir ederler.
+
+71
+00:06:43,285 --> 00:06:45,175
+Olmaz.
+
+72
+00:06:45,210 --> 00:06:48,380
+Kartlarımızı yanlış oynarsak kaybederiz.
+
+73
+00:06:48,415 --> 00:06:52,010
+Komutan Magath, o geldi.
+
+74
+00:06:52,045 --> 00:06:54,645
+O derken?
+
+75
+00:06:54,680 --> 00:06:57,895
+O işte.
+Zırhlı tren.
+
+76
+00:06:57,930 --> 00:07:01,815
+Toplamda dört büyük top ile donatılmış.
+
+77
+00:07:01,850 --> 00:07:05,496
+Onlar Müttefik Kuvvetler'in yeni silahı
+Dev Karşıtı Toplar.
+
+78
+00:07:06,244 --> 00:07:11,910
+O 150mm toplardan biri Dev'e
+isabet ederse tek vuruşta öldürür.
+
+79
+00:07:11,945 --> 00:07:14,295
+Dokuzlu'dan birini bile.
+
+80
+00:07:14,330 --> 00:07:19,660
+Ancak bizim Devler'imiz çok hızlı,
+enselerinden darbe almaları...
+
+81
+00:07:19,695 --> 00:07:22,135
+Ya alırlarsa?
+
+82
+00:07:22,170 --> 00:07:25,755
+Bir Dev ve Savaşçı'yı
+kaybetmemizin yanında...
+
+83
+00:07:25,790 --> 00:07:29,305
+...güçlerini tekrar
+geri alabileceğimizin garantisi olmaz.
+
+84
+00:07:29,340 --> 00:07:34,510
+Aynen öyle. Dokuz yıl önceki Kurucu Dev'i
+geri alma planımızın...
+
+85
+00:07:34,545 --> 00:07:39,645
+...Muazzam Dev ile Dişi Dev'i
+kaybetmemizle sonuçlanması gibi.
+
+86
+00:07:39,680 --> 00:07:45,400
+Marley ordusunun gücüne yapılan darbe
+bu savaşın fitilini ateşledi ve...
+
+87
+00:07:45,435 --> 00:07:48,945
+...Paradis Adası Operasyonu'nu
+duraksattı.
+
+88
+00:07:48,980 --> 00:07:53,240
+Vatanımız Marley'i
+bu denli yüce kılan ne?
+
+89
+00:07:53,275 --> 00:07:55,205
+Devler'in gücü.
+
+90
+00:07:55,240 --> 00:07:59,910
+Öyle. Daha fazla Dev feda edersek
+ülkemiz ayakta duramaz.
+
+91
+00:07:59,945 --> 00:08:05,465
+Devler'in gücü mutlaktır ve
+daima öyle kalmalıdır.
+
+92
+00:08:05,500 --> 00:08:09,300
+- Eldia Birliği saldırı için hazırlansın!
+- Emredersiniz!
+
+93
+00:08:09,335 --> 00:08:11,050
+Komutan Magath, yaptığınız...
+
+94
+00:08:11,085 --> 00:08:13,515
+Ne var, Eldialı?
+
+95
+00:08:13,550 --> 00:08:17,890
+Marley'e sadakât yemini eden
+savaşçılar değil misiniz?
+
+96
+00:08:19,350 --> 00:08:23,290
+800 Eldialı'nın
+yüce vatanımıza...
+
+97
+00:08:23,325 --> 00:08:27,230
+...onuruyla
+hizmet etme fırsatı var işte.
+
+98
+00:08:32,070 --> 00:08:34,915
+Her canlı doğanın kucağında
+sevinçle dolar...
+
+99
+00:08:34,950 --> 00:08:38,240
+Herkes saldırmaya hazırlansın!
+
+100
+00:08:39,660 --> 00:08:42,295
+Hadi kalk!
+
+101
+00:08:42,330 --> 00:08:43,545
+Eldialılar...
+
+102
+00:08:43,580 --> 00:08:49,515
+...göreviniz
+düşman demiryoluna saldırıp yok etmek!
+
+103
+00:08:49,550 --> 00:08:54,680
+İntihar timi ise sığınağa bodoslama dalıp
+makineli silahları etkisiz hale getirecek!
+
+104
+00:08:54,715 --> 00:08:59,850
+Dinleyin! Yapacaklarınız ile
+şeytanın kulu olma utancından kurtulacaksınız!
+
+105
+00:08:59,885 --> 00:09:05,020
+Yüce vatanımız Marley tarafından
+onurlandırılacağınız fırsatlardan biri!
+
+106
+00:09:05,055 --> 00:09:06,770
+Layık olduğunuzu gösterin!
+
+107
+00:09:06,805 --> 00:09:08,325
+Emredersiniz!
+
+108
+00:09:08,360 --> 00:09:11,825
+Savaşçı adayları beklemede kalsın.
+
+109
+00:09:11,860 --> 00:09:18,370
+800 Eldialı kati suretle
+demiryolunu yok etmek zorunda.
+
+110
+00:09:18,405 --> 00:09:22,290
+O zırhlı tren Hisar'ın
+etrafında dört dönerken...
+
+111
+00:09:22,325 --> 00:09:26,540
+...Zırhlı ve Canavar Dev
+işini yapamaz.
+
+112
+00:09:26,575 --> 00:09:28,000
+Ama...
+
+113
+00:09:28,920 --> 00:09:32,550
+Colt, Canavar Dev'in varisi
+seçilen biri olarak...
+
+114
+00:09:32,585 --> 00:09:36,630
+...bir lider gibi davranmayı
+öğren artık.
+
+115
+00:09:44,100 --> 00:09:47,690
+Harika.
+Treni de yok edebiliriz artık.
+
+116
+00:09:47,725 --> 00:09:50,270
+İzin verin de ben yapayım!
+
+117
+00:09:52,730 --> 00:09:57,360
+Müsaade ederseniz
+zırhlı treni tek başıma durdurabilirim!
+
+118
+00:09:58,700 --> 00:10:00,415
+Hey, Gabi!
+
+119
+00:10:00,450 --> 00:10:06,040
+Marley bunca yıl sizi eğitmek için ne kadar
+kaynak harcadı haberin var mı? Katiyen olmaz.
+
+120
+00:10:06,075 --> 00:10:10,385
+Haklısınız, Falco'lara nazaran
+ender biriyim ben.
+
+121
+00:10:10,420 --> 00:10:15,340
+Bir daha benim gibi
+bir hünerli Savaşçı gelmez herhalde.
+
+122
+00:10:15,375 --> 00:10:18,435
+Çok da tatlıyım.
+
+123
+00:10:18,470 --> 00:10:24,310
+Fakat başarılı olursam
+800 Eldialı'yı feda etmek zorunda kalmayız!
+
+124
+00:10:24,345 --> 00:10:25,985
+Ya başaramazsan?
+
+125
+00:10:26,020 --> 00:10:31,860
+O zaman sadece hünerli bir savaşçı adayı ve
+yedi tane bomba feda etmiş olacaksınız.
+
+126
+00:10:35,030 --> 00:10:40,765
+Tabii 800 Eldialı'dan daha değerli
+olduğumu düşünüyorsanız anlarım.
+
+127
+00:10:40,800 --> 00:10:46,500
+Beni feda etmektense 800 askeri
+feda edecek kadar seviliyorsam...
+
+128
+00:10:46,535 --> 00:10:48,120
+Pekâlâ.
+
+129
+00:10:49,080 --> 00:10:50,645
+Git bakalım.
+
+130
+00:10:50,680 --> 00:10:52,175
+Sakın, Gabi...
+
+131
+00:10:52,210 --> 00:10:59,050
+Ant olsun ki, Zırhlı Dev'in varisi olmaya
+layık olduğumu ispatlayacağım!
+
+132
+00:11:02,640 --> 00:11:04,565
+Ne yapıyorsun?
+
+133
+00:11:04,600 --> 00:11:06,770
+Başarılı olabilmem için...
+
+134
+00:11:07,770 --> 00:11:11,100
+...kol bandımı çıkarmamı mazur görün.
+
+135
+00:11:11,135 --> 00:11:12,600
+Peki madem.
+
+136
+00:11:19,360 --> 00:11:22,570
+Baksana, biri geliyor.
+
+137
+00:11:24,740 --> 00:11:29,250
+Bir kadın... Çocuk bu.
+Teslim oluyor galiba.
+
+138
+00:11:29,285 --> 00:11:32,045
+Dur biraz,
+Eldialı olmadığı ne malum!
+
+139
+00:11:32,080 --> 00:11:37,340
+Ama bir tuhaf davranıyor,
+ayağıyla bir şey sürüklüyor.
+
+140
+00:11:39,090 --> 00:11:43,175
+Kesin Eldialı bu ya!
+Dev'e dönüşmeden vur hemen!
+
+141
+00:11:43,210 --> 00:11:47,260
+Deli deli konuşma!
+Vurmak istiyorsan sen vur!
+
+142
+00:11:48,470 --> 00:11:49,890
+Hay içine ettiğim!
+
+143
+00:11:55,020 --> 00:11:56,360
+Ne oluyor?
+
+144
+00:12:07,910 --> 00:12:09,120
+Daha değil...
+
+145
+00:12:11,710 --> 00:12:13,000
+Henüz değil!
+
+146
+00:12:16,670 --> 00:12:17,880
+Henüz değil!
+
+147
+00:12:17,915 --> 00:12:21,010
+- Kıpırdamıyor.
+- Boşversene! Vur hemen!
+
+148
+00:12:25,090 --> 00:12:29,350
+Tam şimdi!
+
+149
+00:12:38,610 --> 00:12:40,655
+Başardı cidden!
+
+150
+00:12:40,690 --> 00:12:42,700
+Galliard, çabuk ol!
+
+151
+00:12:46,240 --> 00:12:50,295
+Lanet olası Marley ödlekleri!
+
+152
+00:12:50,330 --> 00:12:54,160
+Tam da bu yüzden
+sizin gibilerin...
+
+153
+00:12:54,195 --> 00:12:57,210
+...kökünü kurutmak lazım!
+
+154
+00:12:59,590 --> 00:13:00,805
+Gabi!
+
+155
+00:13:00,840 --> 00:13:02,460
+Gitme, Falco!
+
+156
+00:13:20,860 --> 00:13:22,690
+Galliard-san!
+
+157
+00:13:37,880 --> 00:13:40,540
+Zırhlı tren etkisiz hale getirildi.
+
+158
+00:13:40,575 --> 00:13:43,590
+Hava saldırısına başlayacağız.
+
+159
+00:13:43,625 --> 00:13:45,935
+Plana bağlı kalın.
+
+160
+00:13:45,970 --> 00:13:50,510
+Zeke mızrağımız,
+Reiner ise kalkanımız olacak.
+
+161
+00:14:55,620 --> 00:14:57,085
+Çok acıyor be!
+
+162
+00:14:57,120 --> 00:14:59,623
+Niye benim gibi bir Marleyli vuruluyor ki?!
+
+163
+00:14:59,624 --> 00:15:03,840
+- Ne yapıyorsun, Falco?
+- Neye benziyor!
+
+164
+00:15:03,875 --> 00:15:06,960
+Savaşacak durumda değil zaten.
+
+165
+00:15:06,995 --> 00:15:08,562
+Udo, sargı bezi versene.
+
+166
+00:15:08,597 --> 00:15:10,130
+- Al.
+- Aptal veletler.
+
+167
+00:15:10,165 --> 00:15:13,065
+Düşmanı boşversene.
+
+168
+00:15:13,100 --> 00:15:16,275
+Cezbedici yönün bu mu yani?
+
+169
+00:15:16,310 --> 00:15:22,250
+Savaş kanunlarına uyarak Zırhlı Dev'in
+varisi seçileceğini mi sanıyorsun?
+
+170
+00:15:22,350 --> 00:15:26,570
+- Hiçbir artısı yok haberin olsun.
+- Bana ne ya.
+
+171
+00:15:27,900 --> 00:15:29,570
+Sen de bir acayipsin.
+
+172
+00:15:31,320 --> 00:15:33,030
+Bir şeyler söylüyor.
+
+173
+00:15:36,870 --> 00:15:41,370
+Tercüme et, Udo. Kanamasını
+durdurduğumu, iyileşeceğini söyle...
+
+174
+00:15:41,405 --> 00:15:43,255
+"Çek ellerini."
+
+175
+00:15:43,290 --> 00:15:45,875
+"Kirleteceksin beni."
+
+176
+00:15:45,910 --> 00:15:48,460
+"Seni pis şeytan." diyor.
+
+177
+00:15:58,850 --> 00:16:00,370
+Geri çekilin!
+
+178
+00:16:00,405 --> 00:16:01,855
+Çabuk olun!
+
+179
+00:16:01,890 --> 00:16:05,110
+- Hisar'dan uzaklaşın!
+- Ölmek istemiyorsanız kaçın!
+
+180
+00:16:09,900 --> 00:16:11,700
+Başladı.
+
+181
+00:16:42,180 --> 00:16:43,640
+Öhö!
+
+182
+00:17:35,070 --> 00:17:37,610
+Dur, yapma!
+
+183
+00:17:44,540 --> 00:17:48,795
+Saf şeytanlar...
+
+184
+00:17:48,830 --> 00:17:54,420
+Atalarımız Marleyler de
+aynen bu şekilde yiyildi...
+
+185
+00:17:54,455 --> 00:17:56,720
+...siz Eldialılar'ın elinde.
+
+186
+00:17:56,755 --> 00:17:58,260
+Ateş!
+
+187
+00:18:08,150 --> 00:18:10,695
+Canlı bombardıman
+epey etkili oldu...
+
+188
+00:18:10,730 --> 00:18:15,820
+...fakat irtifa nedeniyle
+aşağı yukarı yarısı çakılarak öldü.
+
+189
+00:18:16,950 --> 00:18:21,045
+Çoğu Dev Karşıtı Toplar
+hâlâ aktif.
+
+190
+00:18:21,280 --> 00:18:27,230
+Yirmi sekiz, yirmi dokuz.
+Yerlerini biliyorum artık. Bak şu işe...
+
+191
+00:18:28,620 --> 00:18:30,630
+Yine mi duvar ya?
+
+192
+00:18:32,380 --> 00:18:36,010
+Duvarlardan bıktım usandım artık!
+
+193
+00:18:54,480 --> 00:18:57,110
+- Zırhlı Dev bu!
+- Gebertelim!
+
+194
+00:19:04,910 --> 00:19:06,540
+Ateş!
+
+195
+00:19:09,620 --> 00:19:13,960
+<i>Zırhımı bile delip geçen
+Dev Karşıtı Toplar böyleymiş demek!</i>
+
+196
+00:19:17,050 --> 00:19:19,760
+<i>Ne?!
+Neyle vurdular?</i>
+
+197
+00:19:20,880 --> 00:19:23,970
+<i>Zırhlı tren mi?
+Başka da mı varmış?!</i>
+
+198
+00:19:43,740 --> 00:19:45,095
+<i>Siktir!</i>
+
+199
+00:19:45,130 --> 00:19:46,450
+Ateş...
+
+200
+00:19:51,080 --> 00:19:52,715
+<i>Galliard!</i>
+
+201
+00:19:52,750 --> 00:19:55,000
+Orospunun evladı!
+
+202
+00:20:27,240 --> 00:20:28,490
+<i>Tamamdır!</i>
+
+203
+00:20:36,090 --> 00:20:38,965
+Kontrol altına aldılar demek.
+
+204
+00:20:39,000 --> 00:20:43,300
+Mağlubiyetimiz bu savaşa yol açtı, Reiner.
+
+205
+00:20:53,940 --> 00:20:57,060
+Savaş hiç hoş bir şey değil ya.
+
+206
+00:21:12,200 --> 00:21:16,920
+Sonunda savaş bitiyor.
+
+207
+00:22:01,130 --> 00:22:03,845
+<i>Deniz kuvvetlerinin
+yok edilmesinin ardından...</i>
+
+208
+00:22:03,880 --> 00:22:08,140
+<i>...Orta-Doğu Müttefik Kuvvetleri,
+Marley ile bir barış anlaşması imzaladı.</i>
+
+209
+00:22:08,175 --> 00:22:13,275
+<i>Dört yıl süren savaş
+Marley'in zaferiyle sonuçlanmış oldu.</i>
+
+210
+00:22:13,310 --> 00:22:20,051
+<i>Ancak dünya, Devler'in hakimiyet devrinin
+sona yaklaştığını öğrenince...</i>
+
+211
+00:22:20,941 --> 00:22:25,554
+<i>...Marley, en kısa zamanda
+Kurucu Dev'i ele geçirmek zorunda olduğunu...</i>
+
+212
+00:22:25,555 --> 00:22:27,060
+<i>...hissetmeye başladı.</i>
+
+213
+00:22:28,030 --> 00:22:30,160
+Aman Tanrım!
+
+214
+00:22:33,870 --> 00:22:39,580
+Marley ordusunun yüce cesareti
+sayesinde Slava Hisarı ele geçirildi!
+
+215
+00:22:39,615 --> 00:22:41,135
+Harikasınız be!
+
+216
+00:22:41,170 --> 00:22:44,000
+Marley ordusu çok yaşa!
+
+217
+00:23:40,480 --> 00:23:46,030
+"Devler mutlak değildir."
+Marley bu acı gerçeği gözler önüne serdi.
+
+218
+00:23:46,065 --> 00:23:48,785
+Zaferi kutlayan savaşçılar...
+
+219
+00:23:48,820 --> 00:23:52,398
+...memleketleri
+Liberio'ya doğru yola koyulur.
+
+220
+00:23:52,765 --> 00:23:56,540
+Gelecek Bölüm:
+Gece Yarısı Treni
