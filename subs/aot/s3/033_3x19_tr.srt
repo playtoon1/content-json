@@ -1,0 +1,909 @@
+2
+00:01:29,940 --> 00:01:34,940
+#56: Bodrum Katı
+
+3
+00:01:41,620 --> 00:01:42,870
+Armin, yere yat!
+
+4
+00:01:54,000 --> 00:01:54,920
+Acıyor...
+
+5
+00:01:55,880 --> 00:01:57,250
+Çok acıyor!
+
+6
+00:02:28,120 --> 00:02:29,530
+Bertholdt...
+
+7
+00:02:32,460 --> 00:02:33,290
+Acıyor...
+
+8
+00:02:36,460 --> 00:02:38,300
+Çok acıyor!
+
+9
+00:02:38,550 --> 00:02:39,720
+Sasha?
+
+10
+00:02:40,930 --> 00:02:42,050
+Sasha!
+
+11
+00:02:42,510 --> 00:02:45,810
+Çok kötü yaralanmışsın!
+Ne oldu sana?
+
+12
+00:02:46,600 --> 00:02:47,390
+Armin!
+
+13
+00:02:49,940 --> 00:02:50,770
+Eren!
+
+14
+00:02:57,990 --> 00:03:00,320
+Geri dönmüşsün!
+
+15
+00:03:06,700 --> 00:03:07,980
+Uyandın demek.
+
+16
+00:03:09,290 --> 00:03:10,440
+Kaptan!
+
+17
+00:03:11,620 --> 00:03:14,730
+Neler oldu böyle?
+
+18
+00:03:15,500 --> 00:03:18,570
+En son Bertholdt
+Dev'e dönüşmüştü...
+
+19
+00:03:19,590 --> 00:03:22,550
+Diğerleri nasıl?!
+Herkes iyi mi?
+
+20
+00:03:23,510 --> 00:03:25,970
+Bu kadar mı hatırlıyorsun yani?
+
+21
+00:03:27,770 --> 00:03:30,090
+Eren, her şeyi anlat ona.
+
+22
+00:03:52,000 --> 00:03:54,710
+Anladın mı şimdi, Armin?
+
+23
+00:03:58,550 --> 00:04:05,840
+Keşif Birliği'nden
+sadece buradaki dokuz kişi mi kaldı yani?
+
+24
+00:04:06,260 --> 00:04:07,760
+Şimdilik öyle.
+
+25
+00:04:08,220 --> 00:04:10,290
+Savaş biteli dört saat oldu ve...
+
+26
+00:04:10,600 --> 00:04:13,900
+...her yerde sağ kalan var mı diye
+aradık ama henüz kimseyi bulamadık...
+
+27
+00:04:16,230 --> 00:04:21,240
+O halde, Shiganshina'nın duvarlarını
+muhafaza etmeyi başardık.
+
+28
+00:04:22,070 --> 00:04:25,650
+Reiner, Canavar Dev ve
+diğer Dev kaçtı.
+
+29
+00:04:26,370 --> 00:04:28,240
+Bertholdt'u yakaladık.
+
+30
+00:04:28,950 --> 00:04:32,540
+Sonra da, iğnenin Komutan Erwin'e mi,
+yoksa bana mı...
+
+31
+00:04:32,575 --> 00:04:35,250
+...yapılacağı konusunda
+gerginlik yaşandı ve...
+
+32
+00:04:36,580 --> 00:04:37,450
+...ben...
+
+33
+00:04:38,420 --> 00:04:42,750
+...Dev'e dönüşüp Bertholdt'u yedim.
+
+34
+00:04:48,430 --> 00:04:49,600
+Al.
+
+35
+00:05:04,900 --> 00:05:07,700
+Niye beni seçtiniz?
+
+36
+00:05:09,160 --> 00:05:11,335
+Nerden bakarsan bak...
+
+37
+00:05:11,370 --> 00:05:14,250
+...hayata döndürülmesi gereken kişi
+Komutan Erwin değil miydi?!
+
+38
+00:05:15,160 --> 00:05:18,330
+Kaptan, iğneyi neden bana yaptınız?
+
+39
+00:05:21,000 --> 00:05:22,960
+Her şeyi anlat dedim ya sana!
+
+40
+00:05:23,710 --> 00:05:28,290
+Arkadaşların seninle
+aynı fikirde değildi.
+
+41
+00:05:29,010 --> 00:05:33,020
+Kan akıtacak derecede
+bana kafa tuttular.
+
+42
+00:05:34,220 --> 00:05:36,840
+Her türlü cezaya razıyız.
+
+43
+00:05:38,060 --> 00:05:41,000
+Karşı gelmekten ötürü
+ceza alacağınız kesin ama...
+
+44
+00:05:41,520 --> 00:05:44,070
+Ceza alsan da her şeyi
+yapabileceğini mi düşünüyorsun?
+
+45
+00:05:45,280 --> 00:05:46,320
+Hayır...
+
+46
+00:05:47,740 --> 00:05:48,620
+Şöyle ki...
+
+47
+00:05:49,700 --> 00:05:52,380
+...son kararı ben verdim.
+
+48
+00:05:53,200 --> 00:05:54,260
+Daha doğrusu...
+
+49
+00:05:55,000 --> 00:05:58,410
+...Erwin'in ölümünün
+burada olmasını ben seçtim.
+
+50
+00:06:02,800 --> 00:06:04,690
+Aklım almıyor...
+
+51
+00:06:05,260 --> 00:06:08,020
+Komutan Erwin'in ölmesi hiç mantıklı değil.
+
+52
+00:06:08,840 --> 00:06:14,150
+Komutan olmadan
+nasıl yol katedeceğiz?
+
+53
+00:06:15,810 --> 00:06:19,810
+Ben de iğnenin Erwin'e
+yapılmasını istiyordum...
+
+54
+00:06:20,310 --> 00:06:21,770
+...dürüst olmak gerekirse.
+
+55
+00:06:23,020 --> 00:06:27,000
+Keşke hiç bu hale gelmeseydik.
+
+56
+00:06:30,240 --> 00:06:34,160
+Olan oldu artık, Erwin iğneyi kullanma
+yetkisini Levi'ye vermişti ve...
+
+57
+00:06:34,740 --> 00:06:36,980
+...Levi de seni seçti.
+
+58
+00:06:37,620 --> 00:06:39,210
+Artık söylenecek bir şey yok.
+
+59
+00:06:40,080 --> 00:06:43,780
+Erwin'in hayatı ve Dev gücü
+sana emanet edildi.
+
+60
+00:06:44,590 --> 00:06:49,930
+Kim ne derse desin
+sen artık böyle birisin, Armin.
+
+61
+00:06:53,550 --> 00:06:58,480
+Komutan Erwin'in
+yerine mi geçeceğim yani?
+
+62
+00:06:59,390 --> 00:07:01,840
+Bu nasıl saçmalık!
+
+63
+00:07:04,820 --> 00:07:06,360
+Yanlış fikirlere kapılma.
+
+64
+00:07:07,070 --> 00:07:09,330
+Erwin'in yerini asla dolduramazsın.
+
+65
+00:07:10,950 --> 00:07:11,810
+Fakat...
+
+66
+00:07:12,450 --> 00:07:16,570
+...başkalarında olmayan
+bir güce sahip olduğun aşikar.
+
+67
+00:07:18,410 --> 00:07:20,640
+Kararımdan pişmanlık duymayacağım.
+
+68
+00:07:21,330 --> 00:07:24,500
+Ama bu çocukları pişman etme.
+
+69
+00:07:25,380 --> 00:07:26,500
+Başka kimseyi de.
+
+70
+00:07:28,510 --> 00:07:30,770
+Ve kendini de pişman etme.
+
+71
+00:07:32,220 --> 00:07:33,970
+Senin görevin bu işte.
+
+72
+00:07:42,520 --> 00:07:43,680
+Sus ya!
+
+73
+00:07:53,990 --> 00:07:56,190
+Sasha'nın dünya umurumda değil.
+
+74
+00:07:56,830 --> 00:08:01,460
+Ben de Keşif Birliği'nin komutan adaylarından biri,
+yani Erwin'in varisi olduğumdan...
+
+75
+00:08:01,495 --> 00:08:03,340
+...aynı konumdayız yani.
+
+76
+00:08:04,210 --> 00:08:07,000
+Beraber varımızı yoğumuzu
+ortaya koymamız lazım.
+
+77
+00:08:09,000 --> 00:08:10,160
+Evet.
+
+78
+00:08:11,510 --> 00:08:12,630
+Pekâlâ o zaman...
+
+79
+00:08:13,260 --> 00:08:16,260
+Armin kendine geldiyse
+biz gidelim.
+
+80
+00:08:17,390 --> 00:08:20,890
+Levi, Eren, Mikasa ve ben
+araştırmaya çıkıyoruz.
+
+81
+00:08:21,430 --> 00:08:25,400
+Siz de buradan etrafı gözetleyin.
+
+82
+00:08:25,435 --> 00:08:26,630
+Anlaşıldı.
+
+83
+00:08:26,900 --> 00:08:29,730
+Eren, anahtar hâlâ sende mi?
+
+84
+00:08:31,400 --> 00:08:32,560
+Evet.
+
+85
+00:08:34,530 --> 00:08:35,310
+Tam burada!
+
+86
+00:08:37,490 --> 00:08:38,270
+<i>Eren...</i>
+
+87
+00:08:38,870 --> 00:08:39,920
+<i>...döndüğümde...</i>
+
+88
+00:08:40,330 --> 00:08:43,450
+<i>...bu zamana kadar senden sakladığım
+bodrum katını göstereceğim sana.</i>
+
+89
+00:08:44,710 --> 00:08:45,420
+<i>Bana bak, Eren!</i>
+
+90
+00:08:46,380 --> 00:08:49,140
+<i>Oraya girmek yasak demiyor muyum ben sana?!</i>
+
+91
+00:08:49,420 --> 00:08:51,200
+<i>Niyeymiş ya?</i>
+
+92
+00:08:51,550 --> 00:08:54,380
+<i>Babanın önemli
+iş malzemeleri var orada çünkü.</i>
+
+93
+00:08:54,415 --> 00:08:55,340
+<i>İlaç da var.</i>
+
+94
+00:08:55,970 --> 00:08:57,610
+<i>Çocuklara göre değil yani!</i>
+
+95
+00:09:10,110 --> 00:09:11,780
+<i>Niyetiniz sizin anahtarınızdır.</i>
+
+96
+00:09:12,860 --> 00:09:16,410
+<i>Bu karanlıktan insanlığı
+kurtaracak olan anahtar.</i>
+
+97
+00:09:17,240 --> 00:09:20,080
+<i>Shiganshina'daki evinin
+bodrum katında...</i>
+
+98
+00:09:20,530 --> 00:09:23,130
+<i>...onun dahi bilmediği Devler'e ait sırlar
+olduğuna inanıyoruz.</i>
+
+99
+00:09:23,870 --> 00:09:26,514
+<i>O bodrum katına ulaşabilirsek...</i>
+
+100
+00:09:27,249 --> 00:09:33,259
+<i>...yüzlerce yıl süren Devler'in hakimiyetinden
+kurtulmamızı sağlayacak bilgiler elde edebiliriz.</i>
+
+101
+00:10:02,410 --> 00:10:04,700
+Evin nerede?
+
+102
+00:11:59,440 --> 00:12:00,690
+Burası mı?
+
+103
+00:12:24,680 --> 00:12:25,510
+<i>Baksana, Baba!</i>
+
+104
+00:12:26,050 --> 00:12:28,340
+<i>Bodrumu ne zaman göstereceksin?</i>
+
+105
+00:12:28,970 --> 00:12:29,970
+<i>Bilmem ki.</i>
+
+106
+00:12:30,890 --> 00:12:34,510
+<i>En önemli şeyi fark ettiğinde sanırım.</i>
+
+107
+00:12:56,880 --> 00:13:00,340
+Şansımıza alevler buraya sıçramamış.
+
+108
+00:13:21,610 --> 00:13:22,720
+Burası.
+
+109
+00:13:22,990 --> 00:13:25,310
+Bunun altında
+bodruma inen merdivenler var.
+
+110
+00:13:25,650 --> 00:13:26,770
+Güzel.
+
+111
+00:13:49,800 --> 00:13:52,930
+Neyse ki su basmamış burayı.
+
+112
+00:13:54,930 --> 00:13:55,870
+İnelim.
+
+113
+00:14:16,410 --> 00:14:17,450
+Eren.
+
+114
+00:14:18,330 --> 00:14:19,470
+Tamam.
+
+115
+00:14:29,470 --> 00:14:30,230
+N'oldu?
+
+116
+00:14:30,840 --> 00:14:32,890
+- Eren?
+- Çabuk ol.
+
+117
+00:14:35,220 --> 00:14:39,520
+Anahtar kilide uymuyor.
+
+118
+00:14:41,310 --> 00:14:45,550
+Bay Yeager sürekli
+o anahtarı taşıyordu ama.
+
+119
+00:14:46,030 --> 00:14:47,285
+Çekil.
+
+120
+00:14:47,320 --> 00:14:48,550
+Ben açarım.
+
+121
+00:14:48,585 --> 00:14:49,780
+Dur biraz...
+
+122
+00:14:53,740 --> 00:14:55,010
+Dur dedik ama...
+
+123
+00:15:15,760 --> 00:15:19,105
+Laboratuvara benziyor.
+
+124
+00:15:19,140 --> 00:15:24,060
+Babam doktordu, o yüzden
+sık sık buraya inip ilaç karışımları yapardı.
+
+125
+00:15:24,520 --> 00:15:26,070
+Mantıklı o zaman.
+
+126
+00:15:27,400 --> 00:15:34,375
+Bu ilacın adı doğru ise
+yaygın olarak kullanılan bir şey.
+
+127
+00:15:34,410 --> 00:15:36,765
+Bütün kitaplar ilaçlarla
+alakalı olduğundan...
+
+128
+00:15:36,766 --> 00:15:39,520
+...ilk bakışta sadece bir doktorun
+çalışmaları gibi duruyor.
+
+129
+00:15:39,710 --> 00:15:42,190
+"Şüpheli bir şey yok."
+
+130
+00:15:42,580 --> 00:15:45,130
+İnsanların böyle düşünmesini
+istemiş belli ki.
+
+131
+00:15:45,460 --> 00:15:46,490
+Evet...
+
+132
+00:15:46,750 --> 00:15:51,820
+Polisten sakladığın şeylerin
+açığa çıkmasını istemezsin sonuçta.
+
+133
+00:15:53,720 --> 00:15:56,390
+Dikilip durmayın orada veletler.
+
+134
+00:15:56,680 --> 00:15:58,790
+Erwin'in hisleri şaşmaz.
+
+135
+00:15:59,890 --> 00:16:00,970
+Tamam.
+
+136
+00:16:20,750 --> 00:16:23,900
+<i>Çok sağ ol, Mikasa.
+Bugün de gececiyim.</i>
+
+137
+00:16:30,670 --> 00:16:31,850
+Eren...
+
+138
+00:16:33,380 --> 00:16:35,440
+Burada anahtar deliği var.
+
+139
+00:16:41,560 --> 00:16:42,720
+Eren.
+
+140
+00:16:48,730 --> 00:16:49,620
+Açıldı.
+
+141
+00:16:56,120 --> 00:16:57,245
+Bomboş!
+
+142
+00:16:57,280 --> 00:16:58,370
+İyi bak.
+
+143
+00:17:00,080 --> 00:17:01,220
+Gizli bölme var.
+
+144
+00:17:07,420 --> 00:17:09,980
+Bu şey nane yağı ve kömür gibi kokuyor.
+
+145
+00:17:10,590 --> 00:17:13,550
+Nemden ve böceklerden
+korumak için herhalde.
+
+146
+00:17:14,010 --> 00:17:16,010
+Aradığımız şey...
+
+147
+00:17:16,590 --> 00:17:17,660
+...bunlar olsa gerek.
+
+148
+00:17:26,230 --> 00:17:30,090
+Babam bana ne göstermek istemişti acaba?
+
+149
+00:17:53,130 --> 00:17:56,510
+İşte o zaman, Erwin şunu sordu...
+
+150
+00:17:57,510 --> 00:18:02,290
+"Duvarların dışında insan olmadığını
+nasıl bileceğiz?"
+
+151
+00:18:03,520 --> 00:18:08,065
+Duvarların dışını özgürce
+keşfetmediğimiz sürece...
+
+152
+00:18:08,100 --> 00:18:13,030
+...Devler'in insanlığı tamamen yok ettiğini
+bilemeyiz derdi hep.
+
+153
+00:18:13,780 --> 00:18:17,660
+<i>Buna rağmen tarih kitaplarında
+insanlığın geri kalanının yok olduğu yazıyor.</i>
+
+154
+00:18:18,740 --> 00:18:22,290
+<i>Tarih kitaplarının objektif bir bakış
+açısına sahip olması gerekiyorsa...</i>
+
+155
+00:18:22,620 --> 00:18:26,280
+<i>"Yok olduğu düşünülüyor."
+diye yazması gerekir.</i>
+
+156
+00:18:26,790 --> 00:18:29,940
+<i>Her şeyde bir sorun arıyorsun sen de.</i>
+
+157
+00:18:29,975 --> 00:18:33,090
+<i>Öyle değil!
+Kasten yapılmış bir şey bu!</i>
+
+158
+00:18:33,630 --> 00:18:34,765
+<i>Misal...</i>
+
+159
+00:18:34,800 --> 00:18:38,620
+<i>Duvarların dışında insan olmadığına
+inandırmak...</i>
+
+160
+00:18:39,090 --> 00:18:43,170
+<i>Kitapları basan kraliyet hükümeti
+bunu istiyor işte.</i>
+
+161
+00:18:43,970 --> 00:18:45,510
+<i>Fazla kafa yoruyorsun.</i>
+
+162
+00:18:45,930 --> 00:18:48,330
+<i>Ne evhamlı çıktın sen de.</i>
+
+163
+00:18:50,150 --> 00:18:53,520
+O zamanlar dalgaya alırdım
+ama şu an anlıyorum...
+
+164
+00:18:54,070 --> 00:18:57,010
+Bizzat özür dilersin artık.
+
+165
+00:19:00,240 --> 00:19:02,790
+Şafak sökmek üzere.
+
+166
+00:19:03,530 --> 00:19:06,490
+Kahramanlarımız
+dönmek üzeredir.
+
+167
+00:19:08,000 --> 00:19:10,790
+Keşif Birliği döndü!
+
+168
+00:19:11,500 --> 00:19:14,050
+Wall Maria'yı geri almışlar!
+
+169
+00:19:37,110 --> 00:19:39,430
+Resim mi bu?
+
+170
+00:19:40,700 --> 00:19:41,770
+Bir bakayım.
+
+171
+00:19:43,490 --> 00:19:48,040
+Hayır, çizilemeyecek kadar çok detay var.
+
+172
+00:19:48,370 --> 00:19:50,380
+Bay Yeager'ın yazısı var arkada.
+
+173
+00:19:52,370 --> 00:19:54,140
+"Bu bir resim değil."
+
+174
+00:19:54,540 --> 00:19:58,265
+"Bir objeden yansıyan ışığı kullanıp...
+
+175
+00:19:58,300 --> 00:20:01,300
+...görüntüyü özel bir kağıt üzerine
+yakarak işler."
+
+176
+00:20:01,510 --> 00:20:03,360
+"Buna fotoğraf denir."
+
+177
+00:20:04,140 --> 00:20:08,980
+<i>Duvarların dışında insanların
+lüks içinde yaşadığı bir yerden geliyorum.</i>
+
+178
+00:20:10,730 --> 00:20:13,200
+<i>İnsanlık yok olmadı.</i>
+
+179
+00:20:13,940 --> 00:20:18,490
+<i>Vatansever bir kişinin
+bu fotoğrafı bulması için dua ediyorum.</i>
+
+180
+00:21:38,810 --> 00:21:41,940
+Çabuk, Fay!
+Yoksa göremeyiz!
+
+181
+00:21:41,975 --> 00:21:43,630
+Bekle, Ağabey!
+
+182
+00:21:44,240 --> 00:21:46,320
+Durun bakalım.
+
+183
+00:21:47,610 --> 00:21:51,250
+Dışarı çıktığınızda
+kol bantlarınızı takmayı unutmayın.
+
+184
+00:21:51,910 --> 00:21:55,710
+Grisha, duvarların dışına
+çıkmayın sakın.
+
+185
+00:21:55,745 --> 00:21:56,830
+Dur!
+
+186
+00:21:58,420 --> 00:22:00,025
+Anladım, Anne!
+
+187
+00:22:00,060 --> 00:22:01,630
+Hemen döneriz!
+
+188
+00:22:02,960 --> 00:22:04,020
+Hadi!
+
+189
+00:22:11,430 --> 00:22:15,540
+<i>Hikayeme nasıl başlasam diye
+düşünürken...</i>
+
+190
+00:22:16,190 --> 00:22:18,170
+<i>...birden o günü hatırladım.</i>
+
+191
+00:22:21,390 --> 00:22:24,900
+- Çok pardon!
+- Grisha, dikkat etsene! Önüne bak!
+
+192
+00:22:27,990 --> 00:22:30,030
+Kaçırdık...
+
+193
+00:22:31,700 --> 00:22:32,880
+Ne güzel.
+
+194
+00:22:33,160 --> 00:22:37,750
+Ben de bir gün zengin olunca
+ona binebilir miyim acaba?
+
+195
+00:22:39,170 --> 00:22:43,420
+Ne zırvalıyorsun?
+Zengin olmamıza imkan yok.
+
+196
+00:22:44,050 --> 00:22:45,080
+Haklısın.
+
+197
+00:22:45,340 --> 00:22:46,670
+Ama yine de çok güzel.
+
+198
+00:22:47,550 --> 00:22:50,060
+Oradan neler görünür kim bilir.
+
+199
+00:22:55,720 --> 00:22:56,860
+Gitti.
+
+200
+00:23:11,410 --> 00:23:12,490
+Hadi gel, Fay!
+
+201
+00:23:13,580 --> 00:23:17,710
+Zeplinlerin buraya yakın bir yere
+inip kalktıklarını söylemişti hocam!
+
+202
+00:23:17,745 --> 00:23:18,800
+Oraya gidelim!
+
+203
+00:23:18,960 --> 00:23:22,380
+İyi de annem duvarların dışına
+çıkmayın demişti!
+
+204
+00:23:22,670 --> 00:23:24,960
+Birazcık çıksak bir şey olmaz!
+
+205
+00:23:25,090 --> 00:23:27,970
+- Hemen döneceğiz!
+- Durun!
+
+206
+00:23:28,880 --> 00:23:30,520
+<i>Saf çocukluğumun o gününde...</i>
+
+207
+00:23:31,180 --> 00:23:32,060
+<i>...ben...</i>
+
+208
+00:23:32,890 --> 00:23:35,510
+<i>...bu dünyanın gerçeğiyle yüzleştim.</i>
+
+210
+00:23:40,560 --> 00:23:46,530
+Kardeşinin elinden tutup
+gökyüzüne baktığında hikayesi başlamış oldu.
+
+211
+00:23:47,150 --> 00:23:52,360
+Onun gözlerinden yansıyan nefret ve umut
+Eren'e zalim dünyayı gösterir.
+
+212
+00:23:52,990 --> 00:23:56,540
+Gelecek Bölüm:
+Malum Gün

@@ -1,0 +1,917 @@
+1
+00:00:02,230 --> 00:00:06,480
+Dokuz Dev'in her birinin bir adı var.
+
+2
+00:00:06,515 --> 00:00:09,530
+Senin devralacağın Dev'in de.
+
+3
+00:00:10,690 --> 00:00:14,995
+Bu Dev hangi devirde
+olursa olsun...
+
+4
+00:00:15,030 --> 00:00:18,280
+...özgürlük arayışını sürdürerek
+yılmadan yoluna devam etti.
+
+5
+00:00:19,080 --> 00:00:21,910
+Özgürlük uğruna savaştı.
+
+6
+00:00:24,120 --> 00:00:24,920
+Onun adı...
+
+7
+00:00:25,870 --> 00:00:27,710
+Saldırgan Dev.
+
+8
+00:00:32,210 --> 00:00:38,060
+<i>Geçmişte Eren, Saf Devler'i kontrol
+ederek felaket bir durumdan bizi kurtarmıştı.</i>
+
+9
+00:00:40,310 --> 00:00:44,100
+<i>Kraliyet kanına sahip biri
+Dev'e dönüşüp benimle temas ederse...</i>
+
+10
+00:00:44,135 --> 00:00:48,180
+<i>...Kurucu Dev'in gücünü
+kullanabilme ihtimalim var.</i>
+
+11
+00:00:48,900 --> 00:00:54,320
+<i>Ancak bu ihtimali bilseler
+ordu Historia'ya ne yapar acaba?</i>
+
+12
+00:00:57,200 --> 00:00:58,630
+Bir aile kur kendine.
+
+13
+00:01:00,080 --> 00:01:03,580
+Eşin, çocuğun ya da komşun,
+fark etmez.
+
+14
+00:01:03,615 --> 00:01:05,600
+Duvarların arasında birini sev.
+
+15
+00:01:07,960 --> 00:01:10,620
+Bunu yapamazsan
+aynı şeyler tekrarlanacak.
+
+16
+00:01:11,000 --> 00:01:15,300
+Aynı tarih, aynı hatalar...
+Defalarca.
+
+17
+00:01:16,010 --> 00:01:20,800
+Mikasa'yı, Armin'i ve diğer herkesi
+kurtarmak istiyorsan görevini yerine getir.
+
+18
+00:01:21,720 --> 00:01:24,560
+Mikasa? Armin?
+Onlar da kim?
+
+19
+00:01:26,440 --> 00:01:29,190
+Bilmem ki.
+
+20
+00:01:29,980 --> 00:01:31,550
+Kimin anıları acaba?
+
+22
+00:03:10,960 --> 00:03:15,960
+#59: Duvarın Öbür Tarafı
+
+23
+00:03:17,210 --> 00:03:19,150
+Düşmanımız tüm dünya mı?
+
+24
+00:03:20,590 --> 00:03:25,340
+Fakat bunu halka açıklarsak
+duvarlar kaosa sürüklenir.
+
+25
+00:03:25,890 --> 00:03:30,890
+Çok haklı! Biz bile henüz bu durumun
+ne denli tehlikeli olabileceğini kavrayabilmiş değiliz!
+
+26
+00:03:31,390 --> 00:03:33,650
+O halde halkı yine mi kandıralım?
+
+27
+00:03:34,980 --> 00:03:37,115
+Kral Reiss'in yaptığı gibi siz de...
+
+28
+00:03:37,150 --> 00:03:40,970
+...duvarlar arasındaki insanlığın
+uysal ve cahil kalmasını mı istiyorsunuz?
+
+29
+00:03:42,660 --> 00:03:49,538
+O zaman Kral Reiss'i
+hiç tahttan indirmeseydik?
+
+30
+00:03:53,370 --> 00:03:54,660
+Açıklayalım.
+
+31
+00:03:56,000 --> 00:04:00,135
+Kral Reiss'in
+halktan çaldığı anıları...
+
+32
+00:04:00,170 --> 00:04:02,560
+...yüz yıl sonra sahiplerine
+geri veriyoruz sadece.
+
+33
+00:04:03,470 --> 00:04:07,010
+Duvarların arasındaki insanlar
+olarak aynı kaderi paylaşıyoruz.
+
+34
+00:04:07,810 --> 00:04:11,610
+Artık güçlerimizi birleştirip
+tek yumruk olmamız lazım.
+
+35
+00:04:19,440 --> 00:04:23,450
+"Herkesin huzurunu bozan Devler'in
+asıl hali insanlardır."
+
+36
+00:04:23,900 --> 00:04:28,080
+"Bizimle aynı soydan olan
+Ymir'in Kulları hepsi."
+
+37
+00:04:28,950 --> 00:04:32,370
+"Kralımız yüz sene önce
+bu duvarları dikti ve...
+
+38
+00:04:32,405 --> 00:04:35,080
+...Dev güçleriyle anılarımızı değiştirip...
+
+39
+00:04:35,460 --> 00:04:39,370
+...duvarların dışındaki insanlığın
+tamamen yok olduğuna inandırdı herkesi."
+
+40
+00:04:40,170 --> 00:04:42,740
+"Ancak yok olmamıştı."
+
+41
+00:04:43,170 --> 00:04:49,010
+"Ayrıca, Ymir'in Kulları'na şöyle diyorlar,
+Şeytan Irkı."
+
+42
+00:04:51,140 --> 00:04:56,770
+"Yakın gelecekte düşmanlar bu adanın yeraltı
+kaynaklarını elde etmek için saldırıya geçecek."
+
+43
+00:04:56,805 --> 00:05:01,840
+"Beş yıl önce Muazzam Dev'in
+saldırmasıyla planlarına başlamışlardı."
+
+44
+00:05:04,900 --> 00:05:10,110
+Çoktan yayınlandı ama
+istediğiniz gibi inandırıcı oldu mu?
+
+45
+00:05:10,620 --> 00:05:15,770
+En azından bunca zaman
+duyduğumuz şüphelerle örtüşüyor.
+
+46
+00:05:16,750 --> 00:05:20,500
+Ben de inanmak
+istemiyorum bunlara.
+
+47
+00:05:22,800 --> 00:05:23,600
+Sağ ol.
+
+48
+00:05:24,340 --> 00:05:26,510
+Peki, halkın tepkisi nasıl?
+
+49
+00:05:27,050 --> 00:05:28,510
+Karışık.
+
+50
+00:05:28,970 --> 00:05:32,315
+Bazıları direkt kabullendi.
+Bazıları güldü geçti.
+
+51
+00:05:32,350 --> 00:05:37,020
+Bazıları orduya sallıyor ve bunun
+bir komplo teorisi olduğunu iddia ediyor.
+
+52
+00:05:37,900 --> 00:05:40,980
+Korktuğunuz gibi
+kaos her yeri sarmış durumda.
+
+53
+00:05:41,480 --> 00:05:44,325
+Öyle ama yapacak bir şey yok.
+
+54
+00:05:44,360 --> 00:05:46,820
+Haberler yediğimiz yemekler gibidir.
+
+55
+00:05:47,320 --> 00:05:49,950
+Onu ne yapacakları mükelleflere kalmış.
+
+56
+00:05:53,490 --> 00:05:56,210
+Eski Kral'dan daha iyi
+yaptığımız bir şey bu.
+
+57
+00:05:57,710 --> 00:06:00,250
+Sizinle gurur duyuyorum.
+
+58
+00:06:01,340 --> 00:06:06,970
+Duvarların arasında yaşayan bir vatandaş
+olarak ve çalışma arkadaşı olarak.
+
+59
+00:06:08,970 --> 00:06:09,685
+Eksik olmayın.
+
+60
+00:06:09,720 --> 00:06:14,240
+Evet... Bir dahakine
+bize övgüler yağdıran bir makale yazıver.
+
+61
+00:06:18,520 --> 00:06:21,480
+Bize ne olacak peki?
+
+62
+00:06:23,980 --> 00:06:27,880
+Bizlerin Devler'den korkup
+nefret ettiği ve...
+
+63
+00:06:27,915 --> 00:06:31,780
+...onların tamamen yok olmasını
+istediği gibi...
+
+64
+00:06:32,660 --> 00:06:39,290
+...dünyadaki diğer insanlar da bizi
+insan değil de, canavar olarak görüyor.
+
+65
+00:06:40,250 --> 00:06:45,300
+Ve bunun sonucunda da
+bu cehennem tekrarlanırsa?
+
+66
+00:06:49,680 --> 00:06:55,550
+Tamamen yok olana dek
+bu cehennem son bulmayacak.
+
+67
+00:07:04,900 --> 00:07:07,440
+N'aber, duvarın kahramanları?
+
+68
+00:07:09,110 --> 00:07:11,450
+Hitch, geldin demek.
+
+69
+00:07:12,030 --> 00:07:15,010
+Madalya töreninizi
+izlemeye geldim sadece.
+
+70
+00:07:15,490 --> 00:07:16,440
+Anladım.
+
+71
+00:07:20,210 --> 00:07:21,370
+Marlo...
+
+72
+00:07:22,790 --> 00:07:25,180
+...son ana kadar cesurca savaştı.
+
+73
+00:07:29,840 --> 00:07:32,530
+Öyle değil mi, Floch?
+Söylesene.
+
+74
+00:07:33,260 --> 00:07:34,360
+Evet.
+
+75
+00:07:37,060 --> 00:07:41,800
+Marlo Freudenberg benim gibi
+zamansız katılan bir acemiydi ve...
+
+76
+00:07:42,480 --> 00:07:45,360
+...bizi bir arada tutmayı başardı.
+
+77
+00:07:46,820 --> 00:07:52,290
+Çok felaket bir durumdaydık ve
+Keşif Birliği yok olmanın eşiğindeydi.
+
+78
+00:07:53,160 --> 00:07:56,110
+Herkes korkudan titreyip
+öleceğini düşündüğünde...
+
+79
+00:07:56,660 --> 00:08:00,050
+...o bizi cesaretlendirdi.
+
+80
+00:08:01,620 --> 00:08:02,690
+Öyle mi?
+
+81
+00:08:03,920 --> 00:08:05,465
+Muhteşem biriydi!
+
+82
+00:08:05,500 --> 00:08:07,880
+Biliyorum.
+O yüzden...
+
+83
+00:08:09,590 --> 00:08:12,250
+...bana hiç kulak asmıyordu.
+
+84
+00:08:15,180 --> 00:08:16,410
+Ama son anlarında...
+
+85
+00:08:17,430 --> 00:08:19,740
+...oraya gittiğine
+pişman olmuştur muhtemelen.
+
+86
+00:08:26,310 --> 00:08:27,410
+Sağ ol.
+
+87
+00:08:27,900 --> 00:08:30,230
+Töreni mahvederseniz
+kahkahayı patlatırım bilesiniz.
+
+88
+00:08:32,280 --> 00:08:34,610
+Lan! Niye böyle bir şey dedin?!
+
+89
+00:08:36,320 --> 00:08:40,760
+Çünkü birinin doğruyu söylemesi lazım!
+
+90
+00:08:49,920 --> 00:08:55,430
+Komutan Erwin'i ne denli
+hayata döndürmek istediğini biliyorum.
+
+91
+00:08:55,840 --> 00:08:56,870
+Aynen öyle.
+
+92
+00:08:57,390 --> 00:09:00,750
+Komutanın hayata döndürülmesi
+gerektiğini düşünüyorum.
+
+93
+00:09:01,520 --> 00:09:03,680
+Ve bunu düşünen sadece ben değilim.
+
+94
+00:09:03,715 --> 00:09:05,130
+Herkes öyle düşünüyor.
+
+95
+00:09:05,640 --> 00:09:08,440
+Haberleri okuyan herkes
+şöyle düşündü...
+
+96
+00:09:09,320 --> 00:09:11,510
+Niye Erwin'i seçmediler?!
+
+97
+00:09:16,860 --> 00:09:20,740
+Armin hakkında ne biliyorsun ki?
+Söyle hele!
+
+98
+00:09:20,775 --> 00:09:22,105
+Hiçbir şey!
+
+99
+00:09:22,140 --> 00:09:25,860
+Çocukluk arkadaşı değilim,
+sıkı fıkı da değilim.
+
+100
+00:09:26,500 --> 00:09:29,380
+Ama Armin'in niye seçildiğini
+anlayabiliyorum!
+
+101
+00:09:30,130 --> 00:09:33,710
+Siz ikiniz ve Kaptan Levi
+duygularını karıştırdı bu işe ve...
+
+102
+00:09:34,010 --> 00:09:38,800
+...iğnenin sadece size ait olduğunu
+düşünüp mantıksız bir karar verdiniz!
+
+103
+00:09:39,140 --> 00:09:43,350
+Kısaca, sevdiğiniz birini ölüme
+terk edemediğiniz için seçtiniz!
+
+104
+00:09:46,270 --> 00:09:49,020
+Sussan diyorum artık!
+
+105
+00:09:51,570 --> 00:09:57,230
+Eren, her yaptığının
+doğru olduğunu düşünüyorsun eminim!
+
+106
+00:09:57,490 --> 00:09:59,870
+O yüzden son ana kadar vazgeçmedin.
+
+107
+00:09:59,905 --> 00:10:02,230
+Laf dinlemeyen veletler gibi.
+
+108
+00:10:05,080 --> 00:10:07,670
+Eren, boşver onu.
+
+109
+00:10:08,290 --> 00:10:10,880
+Diğer yandan Mikasa
+daha olgun davrandı.
+
+110
+00:10:11,790 --> 00:10:14,090
+Hiç olmazsa vazgeçmeyi bildi.
+
+111
+00:10:18,380 --> 00:10:20,930
+Derdiniz ne lan sizin?!
+
+112
+00:10:21,350 --> 00:10:25,980
+Floch, şehit olan yoldaşlarımızın
+cenazesinde yapma bunu bari.
+
+113
+00:10:26,640 --> 00:10:29,440
+Olup bitmiş şeyleri
+gündeme getirmenin ne anlamı var?
+
+114
+00:10:29,730 --> 00:10:33,440
+Siz orada kaptanlarınızı bile
+savunmadınız...
+
+115
+00:10:33,900 --> 00:10:36,610
+...Eren ile Mikasa'yı
+durdurmaya da çalışmadınız!
+
+116
+00:10:36,645 --> 00:10:39,100
+Sadece izlemekle yetindiniz!
+
+117
+00:10:39,740 --> 00:10:41,260
+Neyin madalyası bu?
+
+118
+00:10:41,870 --> 00:10:43,450
+Kimin cenazesi?
+
+119
+00:10:44,120 --> 00:10:48,430
+Bundan sonra yeni acemiler
+alacağınız zaman onlara doğruları söyleyin bari!
+
+120
+00:10:49,080 --> 00:10:52,440
+Hiç olmazsa benim gibi korkaklar
+kazara katılmasın!
+
+121
+00:10:53,040 --> 00:10:56,270
+Erwin olmadan ne halt yiyeceğiz ki biz?!
+
+122
+00:10:56,670 --> 00:10:59,110
+Benim gibi bir korkak...
+
+123
+00:10:59,550 --> 00:11:02,480
+Kolayca feda edilebilir
+olduğumu biliyorum ama...
+
+124
+00:11:03,100 --> 00:11:05,030
+...benim gibi korkağın bile...
+
+125
+00:11:06,350 --> 00:11:09,450
+...bir şeyin uğruna ölmeye
+değip değmediğini seçme hakkı var!
+
+126
+00:11:15,150 --> 00:11:17,100
+Floch haklı.
+
+127
+00:11:18,610 --> 00:11:21,250
+Yaşaması gereken kişi
+Komutan Erwin'di.
+
+128
+00:11:21,990 --> 00:11:25,530
+Bu durumdan
+bizi kurtaracak kişi ben değilim.
+
+129
+00:11:30,500 --> 00:11:32,750
+Nerden biliyorsun ki?!
+
+130
+00:11:38,920 --> 00:11:43,470
+Verdiğimiz kararın
+doğru olup olmadığını bilmiyorum.
+
+131
+00:11:43,505 --> 00:11:45,880
+Geleceğin bize ne göstereceğini bilemeyiz.
+
+132
+00:11:46,510 --> 00:11:51,020
+Hem, duvarın öbür tarafını gördün mü?
+
+133
+00:11:52,060 --> 00:11:54,340
+Duvarların ötesinde ne var?
+
+134
+00:11:58,320 --> 00:11:59,430
+Deniz.
+
+135
+00:11:59,690 --> 00:12:02,080
+Aynen öyle, deniz var!
+
+136
+00:12:02,490 --> 00:12:04,160
+Ama henüz görmedin!
+
+137
+00:12:04,570 --> 00:12:06,955
+Hiçbirimiz bir şey bilmiyoruz!
+
+138
+00:12:06,990 --> 00:12:11,020
+Ateşli su, buz diyarları,
+kumlu kar arazileri!
+
+139
+00:12:11,660 --> 00:12:14,110
+Sonsuz olasılık var!
+
+140
+00:12:15,710 --> 00:12:18,420
+Eminim duvarın öbür tarafında
+özgürlük...
+
+141
+00:12:26,180 --> 00:12:27,470
+Veletler.
+
+142
+00:12:27,930 --> 00:12:29,950
+Vakit geldi, dizilin.
+
+143
+00:12:56,540 --> 00:12:58,980
+<i>Bodrum katında bulduğumuz neydi?</i>
+
+144
+00:13:00,630 --> 00:13:02,920
+<i>Umut muydu?</i>
+
+145
+00:13:03,920 --> 00:13:05,860
+<i>Yoksa umutsuzluk mu?</i>
+
+146
+00:13:07,340 --> 00:13:09,750
+<i>Düşmanımız
+inanılmaz derecede güçlüydü.</i>
+
+147
+00:13:10,810 --> 00:13:15,600
+<i>Bir şeyler değişmezse
+korkunç şeyler tekrar yaşanacak.</i>
+
+148
+00:13:17,270 --> 00:13:23,160
+<i>Bir şeyler değiştirebileceğimi bilsem
+canımı seve seve verirdim.</i>
+
+149
+00:13:28,530 --> 00:13:33,130
+<i>Ama Historia'yı
+feda etmeye göz yumamam.</i>
+
+150
+00:13:35,330 --> 00:13:36,800
+<i>Ne yapmam lazım?</i>
+
+151
+00:13:37,250 --> 00:13:40,030
+<i>Bundan kimseye bahsedemem.</i>
+
+152
+00:13:46,680 --> 00:13:49,220
+Ben duvarların dışından
+gelen bir Eldialı'yım!
+
+153
+00:13:50,720 --> 00:13:53,210
+Sizin gibi Ymir'in Kulu'yum!
+
+154
+00:13:54,600 --> 00:13:55,890
+Duvarların Kralı!
+
+155
+00:13:56,480 --> 00:14:00,020
+Duvarlara saldıran
+bütün Devler'i öldürün!
+
+156
+00:14:00,055 --> 00:14:02,070
+Karım, çocuğum...
+
+157
+00:14:02,730 --> 00:14:05,640
+İnsanlar yiyilmeden önce!
+
+158
+00:14:22,090 --> 00:14:22,990
+Eren?
+
+159
+00:14:40,480 --> 00:14:45,270
+<i>Trost'un dev kızağının ezdiği
+Devler'in sesi kesildi...</i>
+
+160
+00:14:46,150 --> 00:14:48,330
+<i>...kar yağmaya başladığında.</i>
+
+161
+00:14:52,990 --> 00:14:55,350
+<i>Karlar erimeye başladığında...</i>
+
+162
+00:14:55,950 --> 00:15:01,420
+<i>...ordu, Wall Maria'nın Devler'den
+temizlendiğini duyurdu.</i>
+
+163
+00:15:04,090 --> 00:15:07,305
+<i>Trost'daki asansörler söküldü ve...</i>
+
+164
+00:15:07,340 --> 00:15:10,520
+<i>...ana yol çalışmaları başladığında...</i>
+
+165
+00:15:10,970 --> 00:15:14,520
+<i>...çiçekler tomurcuklanıyor,
+kelebekler dans ediyordu.</i>
+
+166
+00:15:17,020 --> 00:15:20,770
+<i>Trost'a saldırı gerçekleştikten
+yaklaşık bir yıl sonra...</i>
+
+167
+00:15:21,400 --> 00:15:26,220
+<i>...halk evlerine geri dönebildi.</i>
+
+168
+00:15:32,450 --> 00:15:37,500
+<i>Ve, Muazzam Dev'in saldırısından
+altı yıl sonra...</i>
+
+169
+00:15:40,540 --> 00:15:45,790
+<i>...Keşif Birliği yeniden
+Wall Maria'nın ötesine keşfe çıktı.</i>
+
+170
+00:15:48,840 --> 00:15:50,970
+Haklıymışsın, Hange.
+
+171
+00:15:51,550 --> 00:15:55,140
+Devler'in çoğu Wall Maria'ya girmişti.
+
+172
+00:15:55,175 --> 00:15:58,730
+Bir yılda sayılarını epey azaltmışız.
+
+173
+00:15:59,390 --> 00:16:02,980
+O halde, hedefimize doğru gidelim!
+
+174
+00:16:33,260 --> 00:16:34,265
+Bir Dev!
+
+175
+00:16:34,300 --> 00:16:37,180
+Sonunda geldi demek!
+Dikkat edin!
+
+176
+00:16:42,350 --> 00:16:43,510
+Orada.
+
+177
+00:16:48,320 --> 00:16:50,600
+Kımıldayamıyor mu?
+
+178
+00:16:51,650 --> 00:16:57,470
+Böyle bir bedenle sürüne sürüne
+duvarlara mı gitmeye çalışıyordu?
+
+179
+00:17:12,880 --> 00:17:17,300
+Cennete gönderilen
+vatansever bir yoldaşımız.
+
+180
+00:17:22,930 --> 00:17:24,200
+Gidelim.
+
+181
+00:17:24,480 --> 00:17:25,650
+Yakınız.
+
+182
+00:17:34,070 --> 00:17:37,990
+Böyle bırakacak mıyız onu?!
+Öldürmeyecek miyiz?
+
+183
+00:17:39,120 --> 00:17:40,160
+Hay lanet!
+
+184
+00:18:15,780 --> 00:18:16,950
+Hiç şüphe yok.
+
+185
+00:18:17,740 --> 00:18:21,450
+Eldialıları burada Dev'e
+dönüştürüyorlardı.
+
+186
+00:18:22,450 --> 00:18:25,050
+Ve bu duvarın ardında...
+
+187
+00:19:40,740 --> 00:19:43,700
+- Gözlerim!
+- Çok tuzlu be!
+
+188
+00:19:46,078 --> 00:19:48,620
+Hepsi tuzlu su mu cidden?!
+
+189
+00:19:48,655 --> 00:19:50,465
+Bu da nesi?
+
+190
+00:19:50,500 --> 00:19:53,710
+Hange, zehirli falan olabilir,
+dokunayım deme.
+
+191
+00:20:16,150 --> 00:20:17,590
+Demedim mi ben, Eren?
+
+192
+00:20:18,400 --> 00:20:21,780
+Tüccarların hayatları boyunca
+bitiremeyecekleri kadar tuz barındıran...
+
+193
+00:20:21,815 --> 00:20:24,240
+...koca bir göl olduğunu söylemiştim.
+
+194
+00:20:25,070 --> 00:20:28,750
+Söylediklerim çıktı bak!
+
+195
+00:20:31,410 --> 00:20:32,550
+Evet...
+
+196
+00:20:33,290 --> 00:20:35,890
+Kocamanmış cidden.
+
+197
+00:20:40,130 --> 00:20:43,180
+Baksana, Eren!
+Duvarın öbür tarafında...
+
+198
+00:20:43,215 --> 00:20:44,450
+Deniz var.
+
+199
+00:20:47,890 --> 00:20:51,540
+Deniz ötesinde de özgürlük var.
+
+200
+00:20:54,310 --> 00:20:56,630
+Hep buna inanmıştım.
+
+201
+00:21:01,690 --> 00:21:03,550
+Ama yanılmışım.
+
+202
+00:21:05,160 --> 00:21:07,540
+Denizin ötesinde...
+
+203
+00:21:08,270 --> 00:21:09,670
+...düşman var.
+
+204
+00:21:10,580 --> 00:21:15,470
+Her şey babamın anılarında
+gördüklerimle aynı.
+
+205
+00:21:24,090 --> 00:21:25,040
+Baksanıza...
+
+206
+00:21:27,680 --> 00:21:32,070
+Oradaki bütün düşmanları öldürürsek...
+
+207
+00:21:32,810 --> 00:21:36,470
+...özgür kalabilir miyiz?
