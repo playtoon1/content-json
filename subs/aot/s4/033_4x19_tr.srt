@@ -1,0 +1,980 @@
+2
+00:01:30,010 --> 00:01:34,980
+#78: İki Kardeş
+
+3
+00:02:06,360 --> 00:02:07,360
+Galliard!
+
+4
+00:02:26,810 --> 00:02:29,660
+Kurucu Dev vuruldu!
+Olduğu yere yığıldı!
+
+5
+00:02:29,750 --> 00:02:30,645
+Çok güzel!
+
+6
+00:02:30,680 --> 00:02:32,280
+Canavar Dev'e bir tane daha gönderelim!
+
+7
+00:02:33,100 --> 00:02:34,620
+Engel olun!
+
+8
+00:02:36,330 --> 00:02:38,590
+Ne kafa ütülediniz ya!
+
+9
+00:02:40,750 --> 00:02:42,360
+Taşıyıcı Dev!
+
+10
+00:02:42,740 --> 00:02:44,810
+Onun icabına bakmamız lazım!
+
+11
+00:02:44,840 --> 00:02:46,100
+Armin!
+
+12
+00:02:51,280 --> 00:02:52,920
+Evler düşman kaynıyor!
+
+13
+00:02:52,940 --> 00:02:55,320
+Geri çekiliyoruz!
+Burası çok kötü!
+
+14
+00:02:57,450 --> 00:02:59,730
+Önce Marley askerini
+halletmemiz lazım!
+
+15
+00:03:00,090 --> 00:03:01,090
+Haklısın!
+
+16
+00:03:01,220 --> 00:03:02,660
+Etraflarını sarın!
+
+17
+00:03:03,190 --> 00:03:05,060
+Arkalarından saldıracağız!
+
+18
+00:03:10,070 --> 00:03:11,915
+Komutan haklı.
+
+19
+00:03:11,950 --> 00:03:14,990
+Marley ile kafa kafaya
+savaşacak vaktimiz yok.
+
+20
+00:03:15,025 --> 00:03:16,670
+Arkalarına geçip saldırmamız lazım.
+
+21
+00:03:42,270 --> 00:03:45,950
+Yere mi düştüm?
+
+22
+00:03:47,440 --> 00:03:50,870
+Vuruldum mu?
+
+23
+00:03:56,280 --> 00:03:57,530
+Eren...
+
+24
+00:04:01,670 --> 00:04:03,050
+Kendine gel, Porco!
+
+25
+00:04:04,950 --> 00:04:06,710
+Gücünü topla!
+
+26
+00:04:07,510 --> 00:04:08,840
+Galliard!
+
+27
+00:04:14,630 --> 00:04:15,935
+<i>Özür dilerim.</i>
+
+28
+00:04:15,970 --> 00:04:17,370
+<i>Reiner, özür dilerim!</i>
+
+29
+00:04:18,050 --> 00:04:21,880
+<i>Normalde Savaşçı olarak
+seçilmeyecektin...</i>
+
+30
+00:04:22,980 --> 00:04:29,440
+<i>Bilerek orduya seni iyi gösterip
+kardeşimi kötü göstererek fikirlerini değiştirdim.</i>
+
+31
+00:04:30,390 --> 00:04:33,740
+<i>Kardeşimi korumak istedim sadece.</i>
+
+32
+00:04:38,640 --> 00:04:39,660
+General Magath!
+
+33
+00:04:41,000 --> 00:04:43,780
+Yaşıyor musun hâlâ, Zeke?!
+
+34
+00:04:48,760 --> 00:04:52,950
+Devler'i çağırıyorum şimdi.
+
+35
+00:04:55,470 --> 00:04:56,750
+Yapma!
+
+36
+00:05:00,160 --> 00:05:01,430
+Dur n'olur!
+
+37
+00:05:03,430 --> 00:05:07,310
+Falco, omurilik sıvından içti!
+
+38
+00:05:07,590 --> 00:05:10,250
+Yalvarırım çığlık atma, Zeke-san!
+
+39
+00:05:13,440 --> 00:05:15,510
+Ne?!
+
+40
+00:05:15,650 --> 00:05:17,130
+Unutmadın, değil mi?!
+
+41
+00:05:17,160 --> 00:05:21,410
+Ailemi cennete göndermesinler diye
+Canavar Dev'in varisi olmaya hak kazandım!
+
+42
+00:05:21,440 --> 00:05:22,365
+Ağabey, bırak beni!
+
+43
+00:05:22,400 --> 00:05:27,960
+Açıkçası, bize ihanet etmeden önce bile
+aklından neler geçtiğini anlayamıyordum bir türlü!
+
+44
+00:05:27,995 --> 00:05:29,082
+Hem de hiç!
+
+45
+00:05:29,117 --> 00:05:30,135
+Fakat...
+
+46
+00:05:30,170 --> 00:05:33,510
+...çocukları böyle bir şeye
+bulaştıracak biri olmadığına eminim!
+
+47
+00:05:33,545 --> 00:05:37,090
+Öylece öl git demiyorum sana!
+
+48
+00:05:37,120 --> 00:05:41,080
+Hiç olmazsa Falco,
+çığlık menzilinden çıkana dek bekle!
+
+49
+00:05:41,470 --> 00:05:43,935
+Ondan sonra istediğin kadar kan dök!
+
+50
+00:05:43,970 --> 00:05:47,060
+İstediğin kadar Marleyli veya
+Eldialı öldür!
+
+51
+00:05:47,095 --> 00:05:48,260
+Ama n'olur...
+
+52
+00:05:48,360 --> 00:05:50,750
+...kardeşimi bu işe bulaştırma!
+
+53
+00:05:51,900 --> 00:05:52,945
+Falco!
+
+54
+00:05:52,980 --> 00:05:54,325
+Çabuk atla!
+
+55
+00:05:54,360 --> 00:05:55,670
+Yaklaşma, Gabi!
+
+56
+00:05:59,470 --> 00:06:00,850
+Colt...
+
+57
+00:06:02,430 --> 00:06:06,120
+Kardeşini koruma içgüdünü
+çok iyi anlıyorum.
+
+58
+00:06:13,170 --> 00:06:14,340
+Zeke-san...
+
+59
+00:06:14,630 --> 00:06:15,690
+O yüzden...
+
+60
+00:06:18,630 --> 00:06:19,840
+...yazık olacak.
+
+61
+00:06:32,190 --> 00:06:33,155
+Bırak beni!
+
+62
+00:06:33,190 --> 00:06:36,100
+Her şey yolunda, Falco!
+Ağabeyin yanında!
+
+63
+00:07:08,180 --> 00:07:09,485
+Ne oldu böyle?
+
+64
+00:07:09,520 --> 00:07:13,270
+Düşman Dev'e mi dönüştü?
+
+65
+00:07:13,710 --> 00:07:15,590
+Hemen Dev öldüren tüfeklerden...
+
+66
+00:07:39,640 --> 00:07:42,060
+Öldür, Falco.
+
+67
+00:07:56,290 --> 00:07:58,810
+Colt...
+
+68
+00:08:09,450 --> 00:08:10,890
+Falco...
+
+69
+00:08:11,830 --> 00:08:13,670
+<i>Aynı anda ikisiyle başa çıkamam!</i>
+
+70
+00:08:14,500 --> 00:08:16,300
+<i>Eren elimden kaçacak!</i>
+
+71
+00:08:17,920 --> 00:08:19,760
+<i>Falco'yu öldürecek kişi...</i>
+
+72
+00:08:22,370 --> 00:08:24,380
+<i>...ben mi olacağım yani?</i>
+
+73
+00:08:34,140 --> 00:08:35,350
+Eren!
+
+74
+00:08:37,480 --> 00:08:38,680
+Falco!
+
+75
+00:08:39,250 --> 00:08:40,800
+<i>Ensemi ısırıyor!</i>
+
+76
+00:08:53,860 --> 00:08:55,670
+Bu sefer geberttik!
+
+77
+00:08:55,880 --> 00:08:57,220
+Kesinkes!
+
+78
+00:08:57,860 --> 00:08:59,805
+Şimdilik güvendeyiz.
+
+79
+00:08:59,840 --> 00:09:03,440
+Kahretsin! Yaşayan yok mu?
+Herkes öldü mü?!
+
+80
+00:09:04,470 --> 00:09:06,540
+Geriye Kurucu Dev kaldı!
+
+81
+00:09:07,030 --> 00:09:12,110
+Kafan lazım değil bize!
+Omurilik sıvından alsak yeter!
+
+82
+00:09:14,890 --> 00:09:16,620
+Biraz geciktim!
+
+83
+00:09:16,640 --> 00:09:18,170
+Vurun şunu!
+
+84
+00:09:22,710 --> 00:09:24,060
+Bitti artık!
+
+85
+00:09:24,080 --> 00:09:26,080
+İşiniz bitti!
+
+86
+00:09:35,090 --> 00:09:36,790
+<i>Bitti mi cidden?!</i>
+
+87
+00:09:37,980 --> 00:09:40,760
+<i>Eren, Kurucu'nun gücünü
+kullanamaz artık.</i>
+
+88
+00:09:41,530 --> 00:09:43,710
+<i>Görevimizi yerine getirdik.</i>
+
+89
+00:09:45,130 --> 00:09:48,990
+<i>Artık gerisini bizimkilere
+bıraksam olur, değil mi?</i>
+
+90
+00:09:50,230 --> 00:09:55,050
+<i>Zırhımı kaldırdığım an
+yolun sonuna gelmiş olacağım.</i>
+
+91
+00:10:03,620 --> 00:10:05,770
+<i>Zırhlı Dev'i devralacak kişi...</i>
+
+92
+00:10:06,780 --> 00:10:08,150
+<i>...Falco.</i>
+
+93
+00:10:24,040 --> 00:10:28,130
+Kendimi iyileştirecek
+gücüm bile kalmamış.
+
+94
+00:10:29,790 --> 00:10:33,380
+Ama öyle boşu boşuna ölmem.
+
+95
+00:10:35,710 --> 00:10:38,080
+Ağabeyimin anılarını gördüm.
+
+96
+00:10:39,080 --> 00:10:43,660
+Senin gibi bir eziği Savaşçı yapmak
+için orduyu bile kandırmış.
+
+97
+00:10:45,190 --> 00:10:47,130
+Beni korumak uğruna.
+
+98
+00:10:47,690 --> 00:10:49,690
+Dur! Yapma!
+
+99
+00:10:50,730 --> 00:10:53,030
+Porco!
+
+100
+00:10:54,450 --> 00:10:56,780
+Artık netlik kazandı.
+
+101
+00:10:57,450 --> 00:11:00,320
+Son ana kadar senden
+katbekat daha iyiydim.
+
+102
+00:11:06,230 --> 00:11:07,900
+Galliard-san?
+
+103
+00:11:24,790 --> 00:11:25,840
+<i>Yoksa...</i>
+
+104
+00:11:28,260 --> 00:11:30,995
+Neyse ki fark ettin, Eren!
+
+105
+00:11:31,030 --> 00:11:35,690
+Pieck-chan'dan kopya çektim ama
+ölü numarası işe yaradı!
+
+106
+00:11:36,260 --> 00:11:37,970
+Çok az kaldı!
+
+107
+00:11:51,570 --> 00:11:52,760
+Gel hadi!
+
+108
+00:11:53,010 --> 00:11:54,340
+Eren!
+
+109
+00:12:32,840 --> 00:12:34,420
+<i>Öncelikle, Eren...</i>
+
+110
+00:12:34,510 --> 00:12:38,070
+<i>Benimle buluşmayı kabul edip buralara
+kadar geldiğin için teşekkür ederim.</i>
+
+111
+00:12:38,970 --> 00:12:42,090
+<i>Yelena sana
+bütün düşündüklerimi anlatmıştır.</i>
+
+112
+00:12:43,530 --> 00:12:47,460
+<i>Eldia Ötenazi Planı'na var mısın?</i>
+
+113
+00:12:48,490 --> 00:12:49,820
+<i>Tam dört yıl önce...</i>
+
+114
+00:12:50,400 --> 00:12:53,820
+<i>...ne olduysa
+babamızın anıları gün ışığına çıktı.</i>
+
+115
+00:12:54,740 --> 00:12:58,910
+<i>Duvarların kraliyet ailesini
+katlettiği zamanki anılarıydı.</i>
+
+116
+00:12:59,870 --> 00:13:03,940
+<i>Küçük çocukları böcek misali eziyordu.</i>
+
+117
+00:13:05,120 --> 00:13:06,860
+<i>Yaşattığı his hâlâ geçmedi.</i>
+
+118
+00:13:07,630 --> 00:13:09,755
+<i>O çocuklar hayatta olsaydı...</i>
+
+119
+00:13:09,790 --> 00:13:12,545
+<i>...Kurucu Dev kraliyet ailesine
+devredilecekti ve...</i>
+
+120
+00:13:12,580 --> 00:13:15,265
+<i>...savaştan cayma yemini
+hâlâ geçerliliğini koruyacaktı.</i>
+
+121
+00:13:15,300 --> 00:13:19,330
+<i>Ve biz, duvarların arasındaki insanlık
+öylece ölüp gidecekti.</i>
+
+122
+00:13:20,050 --> 00:13:23,320
+<i>O çocukların ölümü
+bizi hayatta tuttu.</i>
+
+123
+00:13:24,570 --> 00:13:29,600
+<i>Anladım. Babamızın yaptıklarını
+doğru buluyorsun o zaman.</i>
+
+124
+00:13:30,080 --> 00:13:33,080
+<i>Hayır, babam hatalıydı.</i>
+
+125
+00:13:33,690 --> 00:13:38,400
+<i>Ve beni yetiştirerek
+bir hata daha yaptı.</i>
+
+126
+00:13:39,070 --> 00:13:41,455
+<i>Eldialılar doğmamış olsaydı...</i>
+
+127
+00:13:41,490 --> 00:13:47,110
+<i>...bu şehirdeki insanlar da dahil hiç kimse, devreye
+sokacağımız plan yüzünden can vermeyecekti.</i>
+
+128
+00:13:48,230 --> 00:13:52,710
+<i>Bu dünyada doğmamaktan
+daha iyi bir kurtuluş yok sanırım.</i>
+
+129
+00:13:53,420 --> 00:13:54,885
+<i>Yapacağım.</i>
+
+130
+00:13:54,920 --> 00:13:59,760
+<i>Kendi ellerimle, Devler'in hüküm sürdüğü
+2,000 yıllık tarihe bir son vereceğim.</i>
+
+131
+00:14:00,550 --> 00:14:03,720
+<i>O günü görene dek
+yoluma devam edeceğim.</i>
+
+132
+00:14:03,755 --> 00:14:06,180
+<i>Öyle değil mi, Ağabey?</i>
+
+133
+00:14:09,060 --> 00:14:10,190
+<i>Evet!</i>
+
+134
+00:14:10,610 --> 00:14:13,965
+<i>Evet, öyle!
+Yapalım şu işi.</i>
+
+135
+00:14:14,000 --> 00:14:17,285
+<i>El sıkışmak isterdim ama...</i>
+
+136
+00:14:17,320 --> 00:14:21,170
+<i>...şu an temasta bulunmak
+pek hayırlı olmaz.</i>
+
+137
+00:14:21,700 --> 00:14:24,540
+<i>Onun yerine bunu al.</i>
+
+138
+00:14:25,440 --> 00:14:29,900
+<i>Eren, ne pahasına olursa olsun
+herkesi kurtaracağız.</i>
+
+139
+00:14:36,390 --> 00:14:37,900
+<i>Düşürdüm.</i>
+
+140
+00:14:38,840 --> 00:14:42,430
+<i>Hastanede kala kala
+hantallaştım sanırım.</i>
+
+141
+00:16:10,020 --> 00:16:11,690
+Burası da neresi?
+
+142
+00:16:12,150 --> 00:16:16,690
+Bütün Geçitler'in
+birleştiği Koordine yeri sanırım.
+
+143
+00:16:17,360 --> 00:16:22,200
+Kurucu'yu devralan kraliyet ailesi
+buraya gelmiş olmalı...
+
+144
+00:16:22,235 --> 00:16:25,150
+...gücü kullandıklarında.
+
+145
+00:16:26,030 --> 00:16:27,120
+Ağabey...
+
+146
+00:16:27,620 --> 00:16:30,510
+Beklemekten ağaç oldum, Eren.
+
+147
+00:16:31,120 --> 00:16:37,090
+İyileşip gözlerini açana dek
+yıllar geçti sanki.
+
+148
+00:16:38,290 --> 00:16:41,920
+Yıllar mı geçti?
+
+149
+00:16:42,590 --> 00:16:44,645
+Pek emin değilim ama...
+
+150
+00:16:44,680 --> 00:16:48,140
+...dışarıya göre
+burada zaman çok yavaş işliyor galiba.
+
+151
+00:16:48,175 --> 00:16:51,080
+Gabi kafanı uçurdu fakat...
+
+152
+00:16:51,390 --> 00:16:55,490
+...tamamen kendinden geçmeden
+temas edebildik.
+
+153
+00:16:56,350 --> 00:16:58,170
+Başardık.
+
+154
+00:16:58,680 --> 00:17:02,540
+Kurucu'nun gücünü elde ettik.
+
+155
+00:17:07,300 --> 00:17:08,660
+Orada birisi var.
+
+156
+00:17:08,695 --> 00:17:09,990
+Dert etme.
+
+157
+00:17:10,025 --> 00:17:11,100
+O...
+
+158
+00:17:12,040 --> 00:17:13,860
+...Kurucu Ymir.
+
+159
+00:17:15,080 --> 00:17:18,520
+Kurucu Ymir mi?
+Nerden biliyorsun?
+
+160
+00:17:18,540 --> 00:17:24,440
+Kurucu Ymir dışında başka kim
+buralarda dolaşır?
+
+161
+00:17:25,550 --> 00:17:27,305
+Hem...
+
+162
+00:17:27,340 --> 00:17:30,560
+...bir keresinde bu toprağı yoğurup
+bedenimi yaparak...
+
+163
+00:17:30,595 --> 00:17:32,340
+...beni hayata döndürdü.
+
+164
+00:17:33,390 --> 00:17:36,810
+Kurucu burada Devler'i
+yapıyordu muhtemelen.
+
+165
+00:17:37,810 --> 00:17:41,690
+Dev güçlerimizi
+kullanabilelim diye...
+
+166
+00:17:42,190 --> 00:17:44,610
+...sonsuz zaman harcayarak
+bizim bedenlerimizi yapıyordu.
+
+167
+00:17:47,790 --> 00:17:51,370
+Onca zaman bir başına mıydı yani?
+
+168
+00:17:52,240 --> 00:17:55,810
+Eren, Kurucu Ymir'e emret.
+
+169
+00:17:58,170 --> 00:18:01,700
+Hayalimizi gerçekleştirmemizin
+vakti geldi.
+
+170
+00:18:04,300 --> 00:18:09,590
+- O zincirler de neyin nesi?
+- Daha yeni mi fark ettin?
+
+171
+00:18:10,250 --> 00:18:13,200
+Endişelendiğin için sağ ol.
+
+172
+00:18:14,920 --> 00:18:17,950
+Özgürlüğümü kısıtlıyorlar.
+
+173
+00:18:18,410 --> 00:18:20,680
+Savaştan cayma yemini yani.
+
+174
+00:18:21,320 --> 00:18:25,690
+Düşündüğüm gibi, burada özgürce
+hareket edebilen tek kişi sensin.
+
+175
+00:18:25,725 --> 00:18:29,590
+O yüzden sadece sen Kurucu Ymir'e
+emir verebilirsin.
+
+176
+00:18:32,280 --> 00:18:36,440
+Benim, Ksaver-san'ın ve
+senin hayalin...
+
+177
+00:18:36,910 --> 00:18:39,820
+Dünyayı kurtar lütfen.
+
+178
+00:18:43,790 --> 00:18:44,930
+Eren?
+
+179
+00:18:47,550 --> 00:18:49,645
+Ona şunu söyle...
+
+180
+00:18:49,680 --> 00:18:54,650
+"Bütün Eldialıları kısırlaştır."
+
+181
+00:18:55,200 --> 00:18:58,680
+Daha sonra Bozgun ile Birleşik İttifak'ın
+icabına bakarız.
+
+182
+00:19:00,600 --> 00:19:03,980
+Bütün Eldialıları ötenazi ile öldürmek...
+
+183
+00:19:05,230 --> 00:19:06,480
+Eren...
+
+184
+00:19:06,650 --> 00:19:11,330
+Böyle saçma sapan bir planı
+kabul edeceğimi mi sandın?!
+
+185
+00:19:11,700 --> 00:19:13,285
+Kusura bakma, Ağabey.
+
+186
+00:19:13,320 --> 00:19:17,910
+Buraya gelebilmek için
+size ayak uydurdum sadece.
+
+187
+00:19:27,380 --> 00:19:31,880
+Eldialılar olduğu müddetçe
+bu cehennem son bulmayacak ama.
+
+188
+00:19:32,640 --> 00:19:37,310
+Bunu yapmazsan
+kanlar dökülmeye devam edecek.
+
+189
+00:19:38,100 --> 00:19:42,140
+Sürekli tekrarladığımız şeyler
+yine tekrarlanacak!
+
+190
+00:19:43,480 --> 00:19:47,330
+Neden, Eren?!
+Söylesene!
+
+191
+00:19:47,960 --> 00:19:50,480
+Ben bu dünyada doğdum çünkü!
+
+192
+00:19:52,570 --> 00:19:54,020
+Kurucu Ymir...
+
+193
+00:19:54,870 --> 00:19:56,870
+...gücünü bana ver.
+
+194
+00:20:04,790 --> 00:20:07,400
+Korktuğum başıma geldi, Eren.
+
+195
+00:20:07,840 --> 00:20:11,720
+Beni anlayacağına inanmak istemiştim.
+
+196
+00:20:12,360 --> 00:20:16,260
+Bunu da babamız beynini yıkadığı için mi
+yapıyorsun?!
+
+197
+00:20:23,600 --> 00:20:26,910
+Ne oluyor böyle?
+
+198
+00:20:27,690 --> 00:20:33,000
+Uyanmanı beklerken
+ben de epey bir şey öğrendim.
+
+199
+00:20:33,570 --> 00:20:36,370
+Kurucu her şeyi yapabiliyor.
+
+200
+00:20:36,405 --> 00:20:39,380
+Topraktan zincir bile.
+
+201
+00:20:40,470 --> 00:20:43,650
+Kraliyet kanına sahip biri olarak
+istemem yeterli.
+
+202
+00:20:46,290 --> 00:20:48,965
+Tarihteki Duvarların Kralları'nın
+aksine...
+
+203
+00:20:49,000 --> 00:20:53,260
+...ilk kralın ideolojisinden
+soyutlanarak geldim buraya.
+
+204
+00:20:53,840 --> 00:20:55,055
+Ve...
+
+205
+00:20:55,090 --> 00:20:59,015
+...Kurucu ile uzun zaman
+geçirdikten sonra...
+
+206
+00:20:59,050 --> 00:21:02,670
+...savaştan cayma yeminini
+etkisiz kılmayı başardım.
+
+207
+00:21:03,930 --> 00:21:07,115
+Kurucu Ymir inanılmaz bir güce
+sahip...
+
+208
+00:21:07,150 --> 00:21:11,180
+...ama gel gör ki, kendi iradesi bile
+olmayan bir köle sadece.
+
+209
+00:21:11,820 --> 00:21:15,490
+Kraliyet kanını taşıyan herkesi
+efendisi olarak görüyor ve...
+
+210
+00:21:15,525 --> 00:21:17,280
+...onlara itaat ediyor.
+
+211
+00:21:17,990 --> 00:21:21,280
+Kurucu'nun gücü artık benim.
+
+212
+00:21:22,810 --> 00:21:23,860
+Olamaz...
+
+213
+00:21:24,390 --> 00:21:28,020
+Sen sadece bir anahtardın, Eren.
+
+214
+00:21:30,970 --> 00:21:34,630
+İyi ki asıl duygularını
+öğrenene kadar beklemişim.
+
+215
+00:21:36,840 --> 00:21:38,560
+Senin bir suçun yok!
+
+216
+00:21:39,350 --> 00:21:44,420
+Canavar babamızın dünyaya getirdiği
+zavallı kurbanlarız sadece!
+
+217
+00:21:45,260 --> 00:21:49,520
+Ama beni kurtaran
+başka bir babam vardı!
+
+218
+00:21:50,060 --> 00:21:53,530
+Senin de seni kurtaracak birine
+ihtiyacın vardı!
+
+219
+00:21:54,110 --> 00:21:56,910
+Seni asla terk etmeyeceğim!
+
+220
+00:21:57,200 --> 00:22:00,160
+Kurucu'nun gücüyle
+düzelteceğim seni!
+
+221
+00:22:00,195 --> 00:22:01,835
+Yapma, işe yaramaz!
+
+222
+00:22:01,870 --> 00:22:03,785
+Dünyayı kurtardığımda...
+
+223
+00:22:03,820 --> 00:22:05,700
+...sen de yanımda olacaksın!
+
+225
+00:23:41,470 --> 00:23:46,140
+Küçük olan ağabeyini dışlar ancak
+ağabey, kardeşini terk etmez.
+
+226
+00:23:46,560 --> 00:23:51,310
+İlerledikleri yolun sonunda
+gerçekle karşılaşırlar.
+
+227
+00:23:51,880 --> 00:23:54,980
+Gelecek Bölüm:
+Geleceğin Anıları
