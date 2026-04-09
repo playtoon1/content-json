@@ -154,11 +154,11 @@
       "videoSources": [
         {
           "name": "Türkçe Dublaj",
-          "url": "https://player.odycdn.com/v6/streams/4fc298621874f21082598e3da975524603628ad0/1df07d.mp4"
+          "url": "https://video.sibnet.ru/shell.php?videoid=5395559The_Seven_Deadly_Sins_the_Movie__Prisoners_of_the_Sky"
         },
         {
           "name": "Altyazılı",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5395559The_Seven_Deadly_Sins_the_Movie__Prisoners_of_the_Sky"
+          "url": ""
         }
       ]
     },
