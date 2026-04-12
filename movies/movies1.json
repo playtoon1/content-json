@@ -422,7 +422,7 @@
     "film-16": {
       "title": "Garfield: Komedi Festivali",
       "description": "Garfield'ın 29 kez üst üste kazandığı yıllık yetenek yarışması Fun Fest bu yıl da düzenlenmektedir. Her zamanki komedi rutinini tekrarlamaya hazırlanan Garfield, sevgilisi Arlene'in kendisiyle dans etmek istemesini umursamaz. Ancak Arlene, yakışıklı Rakun Ramone ile dans etmeye başlayınca Garfield hem yarışmayı hem de Arlene'i geri kazanmak için komik ve macera dolu bir yolculuğa çıkar.",
-      "cover": "https://upload.wikimedia.org/wikipedia/en/5/50/Garfield%27s_Fun_Fest_Cover.jpg",
+      "cover": "https://image.tmdb.org/t/p/original/tqvw67cuTxYdsDjOKyeNloxokcR.jpg",
       "categories": [
         "Animasyon",
         "Komedi",
@@ -436,12 +436,21 @@
       "year": 2008,
       "imdb": 5.3,
       "videoUrl": "",
-      "videoSources": []
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5318978"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
     },
     "film-17": {
       "title": "Sevimli Kahramanlar: Yılbaşı",
       "description": "200 yılı aşkın süredir yeraltında, insanlardan uzak yaşayan Elfkinlerin (Heinzelmännchen) hikayesini anlatır. Maceracı Elfkin kızı Helvi, yeraltındaki sıkıcı hayattan sıkılır ve iki arkadaşıyla birlikte yeryüzüne çıkar. Burada, huysuz bir pastacı olan Theo ile tanışır ve ona yardım etmeye karar verir. Helvi'nin bu iyilikseverliği, tüm Elfkinlere gerçek amaçlarının başkalarına yardım etmek olduğunu hatırlatacak bir maceranın başlangıcı olur.",
-      "cover": "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Elfkins_–_Baking_a_Difference_poster.jpg",
+      "cover": "https://images.justwatch.com/poster/335944155/s718/bah-humduck-a-looney-tunes-christmas.jpg",
       "categories": [
         "Animasyon",
         "Aile",
@@ -455,12 +464,21 @@
       "year": 2019,
       "imdb": 5.6,
       "videoUrl": "",
-      "videoSources": []
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5318632"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
     },
     "film-18": {
       "title": "Scooby Doo: Kurt Adam",
       "description": "Emekliye ayrılan bir kurt adamın yerine yarışması için Kont Drakula, Shaggy'i bir kurt adama dönüştürür. Shaggy'nin tekrar insana dönüşebilmesinin tek yolu, Drakula'nın Transilvanya'da düzenlediği ve Frankenstein, Mumya gibi diğer ünlü canavarların da katıldığı ölümcül bir canavar araba yarışını kazanmaktır. Scooby, Scrappy ve Shaggy'nin kız arkadaşı Googie, bu tüyler ürpertici yarışı kazanıp arkadaşlarını kurtarmak için ellerinden geleni yaparlar.",
-      "cover": "https://m.media-amazon.com/images/M/MV5BMjE5ZTU3MzktYjVhZi00MjA4LTk2ZmYtYmI5N2U5ZjI5ZmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "cover": "https://cdn.sinemalar.com/images/movie/227571/poster/scooby-doo-ve-gonulsuz-kurtadam-1660923726_225x336.jpg",
       "categories": [
         "Animasyon",
         "Komedi",
@@ -474,12 +492,21 @@
       "year": 1988,
       "imdb": 6.7,
       "videoUrl": "",
-      "videoSources": []
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5319200"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
     },
     "film-19": {
       "title": "Scooby Doo: Korsanın Sırrı",
       "description": "Scooby-Doo ve Mystery Inc. ekibi, Fred'in ailesinin hediyesi olan gizemli bir gemi yolculuğuna çıkar. Ancak bu keyifli tatil, ekip kendilerini efsanevi Bermuda Şeytan Üçgeni'nde bulduğunda kabusa dönüşür. Kaptan Kokarca ve hayalet korsan mürettebatı tarafından saldırıya uğrayan ekip, kendilerini ürkütücü olayların içinde bulur. Scooby ve arkadaşları, bu korsanların ardındaki sırrı çözmek ve bu lanetli bölgeden sağ salim kurtulmak için zamana karşı yarışır.",
-      "cover": "https://m.media-amazon.com/images/M/MV5BMTU0NjY5MjUxNl5BMl5BanBnXkFtZTgwNjA5OTU2MjE@._V1_.jpg",
+      "cover": "https://image.tmdb.org/t/p/w500/iZSLfiXv1e0szunp0CQY2yWwtHb.jpg",
       "categories": [
         "Animasyon",
         "Macera",
@@ -494,12 +521,21 @@
       "year": 2006,
       "imdb": 6.6,
       "videoUrl": "",
-      "videoSources": []
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5318583"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
     },
     "film-20": {
       "title": "Scooby Doo: 13. Hayaletin Gizemi",
       "description": "1985'teki 'The 13 Ghosts of Scooby-Doo' dizisinin yarım kalan hikayesini tamamlayan bu filmde, Scooby, Shaggy, Daphne, Flim-Flam ve büyücü Vincent Van Ghoul, yıllar önce peşine düştükleri 13 hayaletten sonuncusunu yakalamak için yeniden bir araya gelirler. Ancak bu sefer, hayaleti yakalamak için sadece eski dostlarını değil, aynı zamanda yeni arkadaşları Velma ve Fred'i de yardıma çağırmak zorundadırlar. Ekip, son hayaleti de Lanetli Sandığa hapsederek dünyayı büyük bir tehlikeden kurtarmaya çalışır.",
-      "cover": "https://m.media-amazon.com/images/M/MV5BMjE5ZTU3MzktYjVhZi00MjA4LTk2ZmYtYmI5N2U5ZjI5ZmM4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "cover": "https://cdn.sinemalar.com/images/movie/261835/poster/scooby-doo-ve-13-hayaletin-laneti-1660927133.jpg",
       "categories": [
         "Animasyon",
         "Aksiyon",
@@ -515,12 +551,21 @@
       "year": 2019,
       "imdb": 6.3,
       "videoUrl": "",
-      "videoSources": []
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://video.sibnet.ru/shell.php?videoid=4954500"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
     },
     "film-21": {
       "title": "Batman ve Mr. Freeze",
       "description": "Bay Dondurucu olarak bilinen bilim insanı Victor Fries, ölümcül bir hastalığa yakalanan karısı Nora'yı kurtarmak için çaresizdir. Nora'nın hayatta kalabilmesi için acil bir organ nakline ihtiyacı vardır ve uygun tek donör Barbara Gordon, namı diğer Batgirl'dir. Bay Dondurucu, Barbara'yı kaçırarak onu ameliyat masasına yatırmaya hazırlanır. Bunu öğrenen Batman ve Robin, Gotham'ın buz gibi sularında ve dondurucu laboratuvarlarında hem Barbara'yı kurtarmak hem de Bay Dondurucu'nun planını durdurmak için zamana karşı amansız bir mücadeleye girişir.",
-      "cover": "https://upload.wikimedia.org/wikipedia/en/3/3a/Batman_%26_Mr._Freeze_SubZero_poster.jpg",
+      "cover": "https://cdn.sinemalar.com/images/movie/60500/poster/batman-mr-freeze-subzero-1660917169_225x336.jpg",
       "categories": [
         "Animasyon",
         "Aksiyon",
@@ -536,7 +581,16 @@
       "year": 1998,
       "imdb": 7.1,
       "videoUrl": "",
-      "videoSources": []
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5318565"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
     }
   }
 }
