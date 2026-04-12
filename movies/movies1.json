@@ -1,7 +1,7 @@
 {
   "movies": {
     "film-1": {
-      "title": "Ben 10: Uzaylı Kovanı1",
+      "title": "Ben 10: Uzaylı Kovanı",
       "description": "Büyükbabasının emirlerine karşı gelen Ben Tennyson, dünyayı tehdit eden bir uzaylı istilasını durdurmak için eski bir düşmanının kızı Elena ile güçlerini birleştirir. Nanoçip adı verilen teknolojinin kontrolü ele geçirmesiyle ortaya çıkan 'uzaylı kovanı' tehdidine karşı Ben, Gwen ve Kevin, dünyayı kurtarmak için zamana karşı amansız bir mücadeleye girişir.",
       "cover": "https://upload.wikimedia.org/wikipedia/tr/6/67/Ben_10_Alien_Swarm_film_afi%C5%9Fi.jpg",
       "categories": [
