@@ -85,113 +85,6 @@
       ]
     },
     "film-4": {
-      "title": "Prisoner Of War",
-      "description": "2025 yılında izleyiciyle buluşması planlanan bu animasyon yapımı, distopik bir gelecekteki küresel çatışma sırasında geçmektedir. Hikaye, yüksek güvenlikli ve gizemli bir esir kampına hapsedilen bir grup askerin etrafında döner. Karakterler, sadece kampın acımasız koşullarıyla değil, aynı zamanda kendi aralarındaki güven sorunları ve savaşın ardındaki büyük komployla da yüzleşmek zorundadır. Kaçış için planlar yapılırken, savaşın gidişatını tamamen değiştirebilecek yasaklı bir teknolojinin varlığı keşfedilir.",
-      "cover": "https://m.media-amazon.com/images/M/MV5BZDIzZjVhYTktZDA3YS00M2NjLTkzZTItYzNkMTZjMjY2MmIzXkEyXkFqcGc@._V1_.jpg",
-      "categories": [
-        "Aksiyon",
-        "Dram",
-        "Savaş"
-      ],
-      "type": [
-        "Animasyon",
-        "Bilim Kurgu"
-      ],
-      "year": 2025,
-      "imdb": 0,
-      "videoUrl": "",
-      "videoSources": [
-        {
-          "name": "Türkçe Dublaj",
-          "url": ""
-        },
-        {
-          "name": "Altyazılı",
-          "url": "https://player.odycdn.com/v6/streams/09104934a82090263d04fa2e0eeca7ec78688cae/3740dc.mp4"
-        }
-      ]
-    },
-    "film-5": {
-      "title": "Kapıdaki Düşman (Enemy at the Gates)",
-      "description": "2. Dünya Savaşı'nın en kritik dönüm noktalarından biri olan Stalingrad kuşatması sırasında geçen film, efsanevi Rus keskin nişancı Vassili Zaitsev'in hikayesini konu alıyor. Sovyet propagandası tarafından bir kahraman haline getirilen Vassili, Almanların en yetenekli nişancısı olan Binbaşı König ile ölümcül bir kedi-fare oyununa girer. Savaşın yıkımı ve kaosunun ortasında bu iki keskin zekalı nişancı arasındaki psikolojik ve fiziksel düello, savaşın kaderini etkileyen sembolik bir mücadeleye dönüşür.",
-      "cover": "https://upload.wikimedia.org/wikipedia/tr/5/57/Kap%C4%B1daki_D%C3%BC%C5%9Fman_%28film%29_posteri.jpg",
-      "categories": [
-        "Savaş",
-        "Dram",
-        "Tarih"
-      ],
-      "type": [
-        "Aksiyon & Macera",
-        "Dram"
-      ],
-      "year": 2001,
-      "imdb": 7.6,
-      "videoUrl": "",
-      "videoSources": [
-        {
-          "name": "Türkçe Dublaj",
-          "url": "https://player.odycdn.com/v6/streams/188ce19a8d56583ab06e8d012460a5920ccaad48/63162f.mp4"
-        },
-        {
-          "name": "Altyazılı",
-          "url": ""
-        }
-      ]
-    },
-    "film-6": {
-      "title": "Trail of Blood",
-      "description": "Trail of Blood, derin bir ormanda kamp yapmaya giden bir grup gencin hikayesini konu alan 2011 yapımı bir gerilim filmidir. Huzurlu geçmesi planlanan hafta sonu gezisi, ormanda vahşice katledilmiş cesetlerin bulunmasıyla korkunç bir kabusa dönüşür. Hayatta kalma eğitimi alan iki askeri aday ile yolları kesişen gençler, kendilerini gizemli ve acımasız bir katilin hedefinde bulurlar. Issız doğanın derinliklerinde geçen bu kedi-fare oyununda, karakterler hayatta kalabilmek için hem fiziksel hem de psikolojik sınırlarını zorlamak zorundadır.",
-      "cover": "https://m.media-amazon.com/images/M/MV5BMjc2Mjk4NjcyOV5BMl5BanBnXkFtZTgwMjY0NTk1MDE@._V1_FMjpg_UX1000_.jpg",
-      "categories": [
-        "Korku",
-        "Gerilim",
-        "Aksiyon"
-      ],
-      "type": [
-        "Aksiyon & Macera",
-        "Gerilim"
-      ],
-      "year": 2011,
-      "imdb": 4.1,
-      "videoUrl": "",
-      "videoSources": [
-        {
-          "name": "Türkçe Dublaj",
-          "url": "https://player.odycdn.com/v6/streams/b28c20ab88bd9ce5b54649723754332c1d72c5b9/08d1b3.mp4"
-        },
-        {
-          "name": "Altyazılı",
-          "url": ""
-        }
-      ]
-    },
-    "film-7": {
-      "title": "Beyaz Köpekbalığı (Great White)",
-      "description": "Beş yolcuyu taşıyan bir deniz uçağı, ıssız bir adaya yaptıkları yolculuk sırasında kaza yaparak okyanusun ortasında batar. Kıyıdan millerce uzakta, küçük bir can salına mahsur kalan grup, karaya ulaşmaya çalışırken suyun derinliklerinde pusuda bekleyen dev bir beyaz köpekbalığı tarafından avlanmaya başlar. Kısıtlı kaynakları ve artan panikleriyle hayatta kalanlar, doğanın en tehlikeli yırtıcısına karşı zamana karşı ölümcül bir mücadele verir.",
-      "cover": "https://cdn.sinemalar.com/images/movie/266546/poster/buyuk-beyaz-1660927184.jpg",
-      "categories": [
-        "Korku",
-        "Gerilim"
-      ],
-      "type": [
-        "Aksiyon & Macera",
-        "Gerilim"
-      ],
-      "year": 2021,
-      "imdb": 4.2,
-      "videoUrl": "",
-      "videoSources": [
-        {
-          "name": "Türkçe Dublaj",
-          "url": ""
-        },
-        {
-          "name": "Altyazılı",
-          "url": "https://player.odycdn.com/v6/streams/3da5dcea78f111f18240a7d6e921f3fbf39c974a/2820c7.mp4"
-        }
-      ]
-    },
-    "film-8": {
       "title": "Yedi Ölümcül Günah: Gökyüzünün Mahkumları",
       "description": "Meliodas ve Yedi Ölümcül Günah üyeleri, nadir bir malzeme olan gökyüzü balığını ararken bulutların üzerindeki Sky Palace'a ulaşırlar. Burada, mühürlenmiş korkunç bir canavarı uyandırmaya çalışan 'Altı Siyah Şövalye' adlı iblis grubuyla karşı karşıya gelirler. Meliodas, halk tarafından beklenen kahramanla karıştırılırken, ekip gökyüzü dünyasını yıkımdan kurtarmak için amansız bir savaşa girer.",
       "cover": "https://filmmakinesi.to/uploads/postlar/afis/the-seven-deadly-sins-prisoners-of-the-sky-2018.jpg-thumb-detay.webp",
@@ -219,7 +112,7 @@
         }
       ]
     },
-    "film-9": {
+    "film-5": {
       "title": "Yedi Ölümcül Günah: Işık Laneti",
       "description": "The Seven Deadly Sins: Dragon's Judgement olaylarının sonrasını konu alan bu filmde, Meliodas ve arkadaşları dünyayı tehdit eden yeni bir tehlikeye karşı birleşiyor. Meliodas ve Elizabeth'in evlilik hazırlıkları yaptığı bir sırada, kutsal savaşın sona ermesinden memnun olmayan gizemli güçler ortaya çıkar. Yedi Ölümcül Günah üyeleri, barışı korumak ve Yüce Tanrıça ile bağlantılı bu kadim tehdidi ortadan kaldırmak için son bir maceraya atılır.",
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/ef/Seven_Deadly_Sins_Movie_2.png",
@@ -247,7 +140,7 @@
         }
       ]
     },
-    "film-10": {
+    "film-6": {
       "title": "Yedi Ölümcül Günah: Edinburgh'un Kini Bölüm 1",
       "description": "Meliodas ve Elizabeth'in oğlu Tristan, tanrıça klanının iyileştirme gücünü ve iblis klanının yıkıcı gücünü miras almıştır. Ancak, kontrol edemediği bu güçler yüzünden başkalarına zarar vermekten korkmaktadır. Annesi Elizabeth'in hayatı gizemli bir lanet yüzünden tehlikeye girdiğinde, Tristan bu laneti durdurmanın yolunu bulmak ve annesini kurtarmak için eski Kutsal Şövalye Deathpierce'ın kalesi olan Edinburgh'a doğru bir yolculuğa çıkar. Bu süreçte hem kendi geçmişiyle yüzleşecek hem de yeni dostluklar kuracaktır.",
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/ea/Seven_Deadly_Sins_Grudge.jpg",
@@ -274,7 +167,7 @@
         }
       ]
     },
-    "film-11": {
+    "film-7": {
       "title": "Mucize: Uğur Böceği İle Kara Kedi Filmi",
       "description": "Marinette, Paris'te yaşayan ve sakarlıklarıyla bilinen sıradan bir genç kızdır. Ancak şehri tehdit eden yeni bir tehlike ortaya çıktığında, Marinette 'Uğur Böceği'ne dönüşerek süper güçler kazanır. Kendi zıttı olan ve yıkım gücüne sahip 'Kara Kedi' ile tanışan Marinette, Paris'i kurtarmak için onunla ortaklık kurmak zorunda kalır. İkili, Hawk Moth'un kötü planlarını durdurmaya çalışırken hem kahramanlık sorumluluklarını hem de birbirlerine karşı olan gizli duygularını keşfedecekleri epik bir maceraya atılır.",
       "cover": "https://f.woowoowoowoo.net/resize/250x400/14/7b/147b3805a3dbcd91d4c1326d0c43cb3d/147b3805a3dbcd91d4c1326d0c43cb3d.jpg",
@@ -304,7 +197,7 @@
         }
       ]
     },
-    "film-12": {
+    "film-8": {
       "title": "Mucize: Mucizevi New York",
       "description": "Marinette ve Adrien'ın sınıfları, Fransız-Amerikan Dostluk Haftası'nı kutlamak için New York'a bir gezi düzenler. Paris'te Uğur Böceği ve Kara Kedi olarak şehri koruyan kahramanlarımız, bu yolculukta kimliklerini gizli tutmaya çalışırken kendilerini büyük bir tehlikenin içinde bulurlar. Hawk Moth, Amerika'nın efsanevi süper kahramanlarının koruduğu güçlü bir mücevheri ele geçirmek için sinsi bir plan yapar. Uğur Böceği ve Kara Kedi, New York'un yerel kahramanlarıyla güçlerini birleştirerek dünyayı tehdit eden bu büyük komployu durdurmak zorundadır.",
       "cover": "https://f.woowoowoowoo.net/resize/250x400/3a/01/3a0113d2b9f9a6ef3bf453eae8d6dd9c/3a0113d2b9f9a6ef3bf453eae8d6dd9c.jpg",
@@ -333,7 +226,7 @@
         }
       ]
     },
-    "film-13": {
+    "film-9": {
       "title": "Mucizevi Şangay: Ejderha Efsanesi",
       "description": "Marinette, Adrien'in Şangay'a gittiğini öğrenince amcası Wang'in doğum günü kutlamalarını bahane ederek Çin'e gider. Ancak şehre vardığında çantası ve içinde Tikki'nin bulunduğu mucizesi çalınır. Şangay'ın kalabalık sokaklarında kaybolan ve çaresiz kalan Marinette, ona yardım etmeyi kabul eden Fei adında gizemli bir kızla tanışır. İkili, Hawk Moth'un peşinde olduğu ve 'Kutsal Mağara'da saklanan, 'Prodigious' adı verilen kadim bir gücü korumak için güçlerini birleştirir. Bu macera sırasında Marinette, yeni bir kahraman olan Lady Dragon ile tanışacak ve dostluğun sınırlarını keşfedecektir.",
       "cover": "https://f.woowoowoowoo.net/resize/250x400/39/9f/399febfee2fc61362009056d2262c430/399febfee2fc61362009056d2262c430.jpg",
@@ -362,7 +255,7 @@
         }
       ]
     },
-    "film-14": {
+    "film-10": {
       "title": "Mucizevi Paris: Gölge Böcek ve Kara Pençe",
       "description": "Marinette ve Adrien, her şeyin tersine döndüğü paralel bir dünyaya yolculuk ederler. Bu alternatif evrende Uğur Böceği ve Kara Kedi güçlerini kötülük için kullanan Shadybug ve Claw Noir adında iki tehlikeli süper kötüdür. Kendi dünyalarındaki kahramanlar, bu evrende Hesperia (İyi kalpli Gabriel) ile iş birliği yaparak hem Shadybug ve Claw Noir'ı doğru yola getirmek hem de mucizelerin yanlış ellere geçmesini engellemek için epik bir mücadeleye girişirler.",
       "cover": "https://images.justwatch.com/poster/315732180/s718/miraculous-world-paris-tales-of-shadybug-and-claw-noir.jpg",
@@ -390,7 +283,7 @@
         }
       ]
     },
-    "film-15": {
+    "film-11": {
       "title": "Mucizevi Londra: Zamanın Sınırında",
       "description": "Marinette, geleceğin Bunnyx'i ile güçlerini birleştirerek zamanda yolculuk yapar ve Hawk Moth'un geçmişi değiştirme planlarını durdurmak için Londra'da tehlikeli bir maceraya atılır. Geçmişteki olayların seyrini korumaya çalışan Ladybug, hem kendi kimliğini gizli tutmalı hem de mucizelerin gücünü kötü emellerden kurtarmalıdır.",
       "cover": "https://f.woowoowoowoo.net/resize/250x400/a0/44/a044873be29dde685661e2046ec6234a/a044873be29dde685661e2046ec6234a.jpg",
@@ -419,7 +312,7 @@
         }
       ]
     },
-    "film-16": {
+    "film-12": {
       "title": "Garfield: Komedi Festivali",
       "description": "Garfield'ın 29 kez üst üste kazandığı yıllık yetenek yarışması Fun Fest bu yıl da düzenlenmektedir. Her zamanki komedi rutinini tekrarlamaya hazırlanan Garfield, sevgilisi Arlene'in kendisiyle dans etmek istemesini umursamaz. Ancak Arlene, yakışıklı Rakun Ramone ile dans etmeye başlayınca Garfield hem yarışmayı hem de Arlene'i geri kazanmak için komik ve macera dolu bir yolculuğa çıkar.",
       "cover": "https://image.tmdb.org/t/p/original/tqvw67cuTxYdsDjOKyeNloxokcR.jpg",
@@ -447,7 +340,7 @@
         }
       ]
     },
-    "film-17": {
+    "film-13": {
       "title": "Sevimli Kahramanlar: Yılbaşı",
       "description": "200 yılı aşkın süredir yeraltında, insanlardan uzak yaşayan Elfkinlerin (Heinzelmännchen) hikayesini anlatır. Maceracı Elfkin kızı Helvi, yeraltındaki sıkıcı hayattan sıkılır ve iki arkadaşıyla birlikte yeryüzüne çıkar. Burada, huysuz bir pastacı olan Theo ile tanışır ve ona yardım etmeye karar verir. Helvi'nin bu iyilikseverliği, tüm Elfkinlere gerçek amaçlarının başkalarına yardım etmek olduğunu hatırlatacak bir maceranın başlangıcı olur.",
       "cover": "https://images.justwatch.com/poster/335944155/s718/bah-humduck-a-looney-tunes-christmas.jpg",
@@ -475,7 +368,7 @@
         }
       ]
     },
-    "film-18": {
+    "film-14": {
       "title": "Scooby Doo: Kurt Adam",
       "description": "Emekliye ayrılan bir kurt adamın yerine yarışması için Kont Drakula, Shaggy'i bir kurt adama dönüştürür. Shaggy'nin tekrar insana dönüşebilmesinin tek yolu, Drakula'nın Transilvanya'da düzenlediği ve Frankenstein, Mumya gibi diğer ünlü canavarların da katıldığı ölümcül bir canavar araba yarışını kazanmaktır. Scooby, Scrappy ve Shaggy'nin kız arkadaşı Googie, bu tüyler ürpertici yarışı kazanıp arkadaşlarını kurtarmak için ellerinden geleni yaparlar.",
       "cover": "https://cdn.sinemalar.com/images/movie/227571/poster/scooby-doo-ve-gonulsuz-kurtadam-1660923726_225x336.jpg",
@@ -503,7 +396,7 @@
         }
       ]
     },
-    "film-19": {
+    "film-15": {
       "title": "Scooby Doo: Korsanın Sırrı",
       "description": "Scooby-Doo ve Mystery Inc. ekibi, Fred'in ailesinin hediyesi olan gizemli bir gemi yolculuğuna çıkar. Ancak bu keyifli tatil, ekip kendilerini efsanevi Bermuda Şeytan Üçgeni'nde bulduğunda kabusa dönüşür. Kaptan Kokarca ve hayalet korsan mürettebatı tarafından saldırıya uğrayan ekip, kendilerini ürkütücü olayların içinde bulur. Scooby ve arkadaşları, bu korsanların ardındaki sırrı çözmek ve bu lanetli bölgeden sağ salim kurtulmak için zamana karşı yarışır.",
       "cover": "https://image.tmdb.org/t/p/w500/iZSLfiXv1e0szunp0CQY2yWwtHb.jpg",
@@ -532,7 +425,7 @@
         }
       ]
     },
-    "film-20": {
+    "film-16": {
       "title": "Scooby Doo: 13. Hayaletin Gizemi",
       "description": "1985'teki 'The 13 Ghosts of Scooby-Doo' dizisinin yarım kalan hikayesini tamamlayan bu filmde, Scooby, Shaggy, Daphne, Flim-Flam ve büyücü Vincent Van Ghoul, yıllar önce peşine düştükleri 13 hayaletten sonuncusunu yakalamak için yeniden bir araya gelirler. Ancak bu sefer, hayaleti yakalamak için sadece eski dostlarını değil, aynı zamanda yeni arkadaşları Velma ve Fred'i de yardıma çağırmak zorundadırlar. Ekip, son hayaleti de Lanetli Sandığa hapsederek dünyayı büyük bir tehlikeden kurtarmaya çalışır.",
       "cover": "https://cdn.sinemalar.com/images/movie/261835/poster/scooby-doo-ve-13-hayaletin-laneti-1660927133.jpg",
@@ -562,7 +455,7 @@
         }
       ]
     },
-    "film-21": {
+    "film-17": {
       "title": "Batman ve Mr. Freeze",
       "description": "Bay Dondurucu olarak bilinen bilim insanı Victor Fries, ölümcül bir hastalığa yakalanan karısı Nora'yı kurtarmak için çaresizdir. Nora'nın hayatta kalabilmesi için acil bir organ nakline ihtiyacı vardır ve uygun tek donör Barbara Gordon, namı diğer Batgirl'dir. Bay Dondurucu, Barbara'yı kaçırarak onu ameliyat masasına yatırmaya hazırlanır. Bunu öğrenen Batman ve Robin, Gotham'ın buz gibi sularında ve dondurucu laboratuvarlarında hem Barbara'yı kurtarmak hem de Bay Dondurucu'nun planını durdurmak için zamana karşı amansız bir mücadeleye girişir.",
       "cover": "https://cdn.sinemalar.com/images/movie/60500/poster/batman-mr-freeze-subzero-1660917169_225x336.jpg",
