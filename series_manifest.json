@@ -1,11 +1,11 @@
 {
-  "version": "1.0.33",
+  "version": "1.0.32",
   "files": [
-    "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series/series.json",
-    "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series/series2.json",
-    "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series/series3.json",
-    "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series/series4.json",
-    "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series/series5.json",
-    "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series/series6.json"
+    "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/series/series.json",
+    "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/series/series2.json",
+    "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/series/series3.json",
+    "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/series/series4.json",
+    "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/series/series5.json",
+    "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/series/series6.json"
   ]
 }
