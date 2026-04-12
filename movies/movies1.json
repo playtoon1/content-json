@@ -1,25 +1,54 @@
 {
   "movies": {
-    "film-2": {
-      "title": "The Protégé",
-      "description": "Efsanevi suikastçı Moody tarafından çocukken kurtarılan ve yetiştirilen Anna, dünyanın en yetenekli kiralık katilidir. Moody'nin vahşice öldürülmesinin ardından Anna, kendisine her şeyi öğreten ve bir baba figürü olan adamın intikamını almak için tehlikeli bir yola girer. Bu arayış onu Vietnam'a kadar sürükler ve geçmişindeki sırlar ile gizemli bir rakiple yüzleşmesine neden olur.",
-      "cover": "https://play-lh.googleusercontent.com/0twcuW2C3DvA5F0ZCOKE_5vrfv8TlepRRvwWsiHa22WxcHSaWm3T4aJeRQKhHgniv_MxTnIIDCaRq6Dw2v7s",
+    "film-1": {
+      "title": "Ben 10: Uzaylı Kovanı",
+      "description": "Büyükbabasının emirlerine karşı gelen Ben Tennyson, dünyayı tehdit eden bir uzaylı istilasını durdurmak için eski bir düşmanının kızı Elena ile güçlerini birleştirir. Nanoçip adı verilen teknolojinin kontrolü ele geçirmesiyle ortaya çıkan 'uzaylı kovanı' tehdidine karşı Ben, Gwen ve Kevin, dünyayı kurtarmak için zamana karşı amansız bir mücadeleye girişir.",
+      "cover": "https://upload.wikimedia.org/wikipedia/tr/6/67/Ben_10_Alien_Swarm_film_afi%C5%9Fi.jpg",
       "categories": [
         "Aksiyon",
-        "Gerilim",
-        "Suç"
+        "Macera",
+        "Bilim Kurgu",
+        "Aile"
       ],
       "type": [
         "Aksiyon & Macera",
-        "Gerilim"
+        "Bilim Kurgu"
       ],
-      "year": 2021,
-      "imdb": 6.1,
+      "year": 2009,
+      "imdb": 4.6,
       "videoUrl": "",
       "videoSources": [
         {
           "name": "Türkçe Dublaj",
-          "url": "https://player.odycdn.com/v6/streams/cdec22274d20ac10a17eb85c3ea5323f2ca7b17f/8a806f.mp4"
+          "url": "https://video.sibnet.ru/shell.php?videoid=5852474"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
+    },
+    "film-2": {
+      "title": "Ben 10: Zamana Karşı Yarış",
+      "description": "Ben, Gwen ve Büyükbaba Max, yaz tatilinin ardından sıradan hayatlarına dönmeye çalışırken, Bellwood kasabası gizemli bir tehditle karşı karşıya kalır. Yüzyıllar önce Tesisatçılar tarafından yakalanan ve hızla yaşlanan uzaylı suçlu Eon, eski bir uzaylı eserini kullanarak kasabayı yok etmeyi planlamaktadır. Ben, Omnitrix'in gücünü kullanarak bu yeni düşmana karşı zamana karşı ölümcül bir yarışa girer.",
+      "cover": "https://upload.wikimedia.org/wikipedia/tr/9/91/Ben_10_Zamana_Kar%C5%9F%C4%B1_Yar%C4%B1%C5%9F_%28Ben_10_Race_Against_Time%29_posteri.jpg",
+      "categories": [
+        "Aksiyon",
+        "Macera",
+        "Bilim Kurgu",
+        "Aile"
+      ],
+      "type": [
+        "Aksiyon & Macera",
+        "Bilim Kurgu"
+      ],
+      "year": 2007,
+      "imdb": 4.2,
+      "videoUrl": "",
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5050135"
         },
         {
           "name": "Altyazılı",
@@ -28,6 +57,34 @@
       ]
     },
     "film-3": {
+      "title": "Garfield Geri Dönüyor",
+      "description": "Çizgi bant yıldızı olmanın tekdüzeliğinden sıkılan Garfield, gazete sayfasından firar ederek 'gerçek dünyanın' yolunu tutar. Gerçek bir ev kedisi olarak düşük profilli bir hayat yaşarken, gazete baskıya girmeden geri dönmediği takdirde çizgi serinin iptal edileceğini öğrenir. Ancak bugüne kadar gerçek dünyaya kaçan hiçbir çizgi karakter geri dönmeyi başaramamıştır. Üstelik şeytani güçler onun çizgi roman dünyasına geri dönüşüne engel olmaktadır.",
+      "cover": "https://m.media-amazon.com/images/M/MV5BYzNmMjE3ZTAtYzE5ZC00YzE5LThlMDktMjUwYzU5ZTk0YzQ4XkEyXkFqcGc@._V1_.jpg",
+      "categories": [
+        "Animasyon",
+        "Komedi",
+        "Aile",
+        "Macera"
+      ],
+      "type": [
+        "Animasyon",
+        "Komedi"
+      ],
+      "year": 2007,
+      "imdb": 4.3,
+      "videoUrl": "",
+      "videoSources": [
+        {
+          "name": "Türkçe Dublaj",
+          "url": "https://video.sibnet.ru/shell.php?videoid=5318972"
+        },
+        {
+          "name": "Altyazılı",
+          "url": ""
+        }
+      ]
+    },
+    "film-4": {
       "title": "Prisoner Of War",
       "description": "2025 yılında izleyiciyle buluşması planlanan bu animasyon yapımı, distopik bir gelecekteki küresel çatışma sırasında geçmektedir. Hikaye, yüksek güvenlikli ve gizemli bir esir kampına hapsedilen bir grup askerin etrafında döner. Karakterler, sadece kampın acımasız koşullarıyla değil, aynı zamanda kendi aralarındaki güven sorunları ve savaşın ardındaki büyük komployla da yüzleşmek zorundadır. Kaçış için planlar yapılırken, savaşın gidişatını tamamen değiştirebilecek yasaklı bir teknolojinin varlığı keşfedilir.",
       "cover": "https://m.media-amazon.com/images/M/MV5BZDIzZjVhYTktZDA3YS00M2NjLTkzZTItYzNkMTZjMjY2MmIzXkEyXkFqcGc@._V1_.jpg",
@@ -54,7 +111,7 @@
         }
       ]
     },
-    "film-4": {
+    "film-5": {
       "title": "Kapıdaki Düşman (Enemy at the Gates)",
       "description": "2. Dünya Savaşı'nın en kritik dönüm noktalarından biri olan Stalingrad kuşatması sırasında geçen film, efsanevi Rus keskin nişancı Vassili Zaitsev'in hikayesini konu alıyor. Sovyet propagandası tarafından bir kahraman haline getirilen Vassili, Almanların en yetenekli nişancısı olan Binbaşı König ile ölümcül bir kedi-fare oyununa girer. Savaşın yıkımı ve kaosunun ortasında bu iki keskin zekalı nişancı arasındaki psikolojik ve fiziksel düello, savaşın kaderini etkileyen sembolik bir mücadeleye dönüşür.",
       "cover": "https://upload.wikimedia.org/wikipedia/tr/5/57/Kap%C4%B1daki_D%C3%BC%C5%9Fman_%28film%29_posteri.jpg",
@@ -81,7 +138,7 @@
         }
       ]
     },
-    "film-5": {
+    "film-6": {
       "title": "Trail of Blood",
       "description": "Trail of Blood, derin bir ormanda kamp yapmaya giden bir grup gencin hikayesini konu alan 2011 yapımı bir gerilim filmidir. Huzurlu geçmesi planlanan hafta sonu gezisi, ormanda vahşice katledilmiş cesetlerin bulunmasıyla korkunç bir kabusa dönüşür. Hayatta kalma eğitimi alan iki askeri aday ile yolları kesişen gençler, kendilerini gizemli ve acımasız bir katilin hedefinde bulurlar. Issız doğanın derinliklerinde geçen bu kedi-fare oyununda, karakterler hayatta kalabilmek için hem fiziksel hem de psikolojik sınırlarını zorlamak zorundadır.",
       "cover": "https://m.media-amazon.com/images/M/MV5BMjc2Mjk4NjcyOV5BMl5BanBnXkFtZTgwMjY0NTk1MDE@._V1_FMjpg_UX1000_.jpg",
@@ -108,7 +165,7 @@
         }
       ]
     },
-    "film-6": {
+    "film-7": {
       "title": "Beyaz Köpekbalığı (Great White)",
       "description": "Beş yolcuyu taşıyan bir deniz uçağı, ıssız bir adaya yaptıkları yolculuk sırasında kaza yaparak okyanusun ortasında batar. Kıyıdan millerce uzakta, küçük bir can salına mahsur kalan grup, karaya ulaşmaya çalışırken suyun derinliklerinde pusuda bekleyen dev bir beyaz köpekbalığı tarafından avlanmaya başlar. Kısıtlı kaynakları ve artan panikleriyle hayatta kalanlar, doğanın en tehlikeli yırtıcısına karşı zamana karşı ölümcül bir mücadele verir.",
       "cover": "https://cdn.sinemalar.com/images/movie/266546/poster/buyuk-beyaz-1660927184.jpg",
@@ -134,7 +191,7 @@
         }
       ]
     },
-    "film-7": {
+    "film-8": {
       "title": "Yedi Ölümcül Günah: Gökyüzünün Mahkumları",
       "description": "Meliodas ve Yedi Ölümcül Günah üyeleri, nadir bir malzeme olan gökyüzü balığını ararken bulutların üzerindeki Sky Palace'a ulaşırlar. Burada, mühürlenmiş korkunç bir canavarı uyandırmaya çalışan 'Altı Siyah Şövalye' adlı iblis grubuyla karşı karşıya gelirler. Meliodas, halk tarafından beklenen kahramanla karıştırılırken, ekip gökyüzü dünyasını yıkımdan kurtarmak için amansız bir savaşa girer.",
       "cover": "https://filmmakinesi.to/uploads/postlar/afis/the-seven-deadly-sins-prisoners-of-the-sky-2018.jpg-thumb-detay.webp",
@@ -154,15 +211,15 @@
       "videoSources": [
         {
           "name": "Türkçe Dublaj",
-          "url": "https://video.sibnet.ru/shell.php?videoid=5395559The_Seven_Deadly_Sins_the_Movie__Prisoners_of_the_Sky"
+          "url": "https://player.odycdn.com/v6/streams/4fc298621874f21082598e3da975524603628ad0/1df07d.mp4"
         },
         {
           "name": "Altyazılı",
-          "url": ""
+          "url": "https://video.sibnet.ru/shell.php?videoid=5395559The_Seven_Deadly_Sins_the_Movie__Prisoners_of_the_Sky"
         }
       ]
     },
-    "film-8": {
+    "film-9": {
       "title": "Yedi Ölümcül Günah: Işık Laneti",
       "description": "The Seven Deadly Sins: Dragon's Judgement olaylarının sonrasını konu alan bu filmde, Meliodas ve arkadaşları dünyayı tehdit eden yeni bir tehlikeye karşı birleşiyor. Meliodas ve Elizabeth'in evlilik hazırlıkları yaptığı bir sırada, kutsal savaşın sona ermesinden memnun olmayan gizemli güçler ortaya çıkar. Yedi Ölümcül Günah üyeleri, barışı korumak ve Yüce Tanrıça ile bağlantılı bu kadim tehdidi ortadan kaldırmak için son bir maceraya atılır.",
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/ef/Seven_Deadly_Sins_Movie_2.png",
@@ -190,7 +247,7 @@
         }
       ]
     },
-    "film-9": {
+    "film-10": {
       "title": "Yedi Ölümcül Günah: Edinburgh'un Kini Bölüm 1",
       "description": "Meliodas ve Elizabeth'in oğlu Tristan, tanrıça klanının iyileştirme gücünü ve iblis klanının yıkıcı gücünü miras almıştır. Ancak, kontrol edemediği bu güçler yüzünden başkalarına zarar vermekten korkmaktadır. Annesi Elizabeth'in hayatı gizemli bir lanet yüzünden tehlikeye girdiğinde, Tristan bu laneti durdurmanın yolunu bulmak ve annesini kurtarmak için eski Kutsal Şövalye Deathpierce'ın kalesi olan Edinburgh'a doğru bir yolculuğa çıkar. Bu süreçte hem kendi geçmişiyle yüzleşecek hem de yeni dostluklar kuracaktır.",
       "cover": "https://upload.wikimedia.org/wikipedia/en/e/ea/Seven_Deadly_Sins_Grudge.jpg",
@@ -217,7 +274,7 @@
         }
       ]
     },
-    "film-10": {
+    "film-11": {
       "title": "Mucize: Uğur Böceği İle Kara Kedi Filmi",
       "description": "Marinette, Paris'te yaşayan ve sakarlıklarıyla bilinen sıradan bir genç kızdır. Ancak şehri tehdit eden yeni bir tehlike ortaya çıktığında, Marinette 'Uğur Böceği'ne dönüşerek süper güçler kazanır. Kendi zıttı olan ve yıkım gücüne sahip 'Kara Kedi' ile tanışan Marinette, Paris'i kurtarmak için onunla ortaklık kurmak zorunda kalır. İkili, Hawk Moth'un kötü planlarını durdurmaya çalışırken hem kahramanlık sorumluluklarını hem de birbirlerine karşı olan gizli duygularını keşfedecekleri epik bir maceraya atılır.",
       "cover": "https://f.woowoowoowoo.net/resize/250x400/14/7b/147b3805a3dbcd91d4c1326d0c43cb3d/147b3805a3dbcd91d4c1326d0c43cb3d.jpg",
@@ -247,7 +304,7 @@
         }
       ]
     },
-    "film-11": {
+    "film-12": {
       "title": "Mucize: Mucizevi New York",
       "description": "Marinette ve Adrien'ın sınıfları, Fransız-Amerikan Dostluk Haftası'nı kutlamak için New York'a bir gezi düzenler. Paris'te Uğur Böceği ve Kara Kedi olarak şehri koruyan kahramanlarımız, bu yolculukta kimliklerini gizli tutmaya çalışırken kendilerini büyük bir tehlikenin içinde bulurlar. Hawk Moth, Amerika'nın efsanevi süper kahramanlarının koruduğu güçlü bir mücevheri ele geçirmek için sinsi bir plan yapar. Uğur Böceği ve Kara Kedi, New York'un yerel kahramanlarıyla güçlerini birleştirerek dünyayı tehdit eden bu büyük komployu durdurmak zorundadır.",
       "cover": "https://f.woowoowoowoo.net/resize/250x400/3a/01/3a0113d2b9f9a6ef3bf453eae8d6dd9c/3a0113d2b9f9a6ef3bf453eae8d6dd9c.jpg",
@@ -276,7 +333,7 @@
         }
       ]
     },
-    "film-12": {
+    "film-13": {
       "title": "Mucizevi Şangay: Ejderha Efsanesi",
       "description": "Marinette, Adrien'in Şangay'a gittiğini öğrenince amcası Wang'in doğum günü kutlamalarını bahane ederek Çin'e gider. Ancak şehre vardığında çantası ve içinde Tikki'nin bulunduğu mucizesi çalınır. Şangay'ın kalabalık sokaklarında kaybolan ve çaresiz kalan Marinette, ona yardım etmeyi kabul eden Fei adında gizemli bir kızla tanışır. İkili, Hawk Moth'un peşinde olduğu ve 'Kutsal Mağara'da saklanan, 'Prodigious' adı verilen kadim bir gücü korumak için güçlerini birleştirir. Bu macera sırasında Marinette, yeni bir kahraman olan Lady Dragon ile tanışacak ve dostluğun sınırlarını keşfedecektir.",
       "cover": "https://f.woowoowoowoo.net/resize/250x400/39/9f/399febfee2fc61362009056d2262c430/399febfee2fc61362009056d2262c430.jpg",
@@ -305,7 +362,7 @@
         }
       ]
     },
-    "film-13": {
+    "film-14": {
       "title": "Mucizevi Paris: Gölge Böcek ve Kara Pençe",
       "description": "Marinette ve Adrien, her şeyin tersine döndüğü paralel bir dünyaya yolculuk ederler. Bu alternatif evrende Uğur Böceği ve Kara Kedi güçlerini kötülük için kullanan Shadybug ve Claw Noir adında iki tehlikeli süper kötüdür. Kendi dünyalarındaki kahramanlar, bu evrende Hesperia (İyi kalpli Gabriel) ile iş birliği yaparak hem Shadybug ve Claw Noir'ı doğru yola getirmek hem de mucizelerin yanlış ellere geçmesini engellemek için epik bir mücadeleye girişirler.",
       "cover": "https://images.justwatch.com/poster/315732180/s718/miraculous-world-paris-tales-of-shadybug-and-claw-noir.jpg",
@@ -333,7 +390,7 @@
         }
       ]
     },
-    "film-14": {
+    "film-15": {
       "title": "Mucizevi Londra: Zamanın Sınırında",
       "description": "Marinette, geleceğin Bunnyx'i ile güçlerini birleştirerek zamanda yolculuk yapar ve Hawk Moth'un geçmişi değiştirme planlarını durdurmak için Londra'da tehlikeli bir maceraya atılır. Geçmişteki olayların seyrini korumaya çalışan Ladybug, hem kendi kimliğini gizli tutmalı hem de mucizelerin gücünü kötü emellerden kurtarmalıdır.",
       "cover": "https://f.woowoowoowoo.net/resize/250x400/a0/44/a044873be29dde685661e2046ec6234a/a044873be29dde685661e2046ec6234a.jpg",
