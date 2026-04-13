@@ -32,7 +32,7 @@
                                 },
                                 {
                                     "name": "Sibnet",
-                                    "url": "https://vs17.pictureflix.org/v/Generator.Rex.S01E04.1080p.BluRay.x264.TR/master.m3u8"
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4886362"
                                 }
                             ]
                         },
@@ -1116,6 +1116,2511 @@
                             ]
                         }
                     ]
+                }
+            ]
+        },
+        "seri-2": {
+            "title": "Generator Rex",
+            "description": "Rex Salazar, vücudundaki nanitleri kontrol ederek çeşitli makinelere dönüştürebilen 15 yaşında bir gençtir. Rex, insanları 'Evo' adı verilen canavarlara dönüştüren mutasyona uğramış nanitlerle savaşmak için Providence adlı gizli bir organizasyonda çalışır. Kendi geçmişinin sırlarını çözerken dünyayı bu küresel tehditten korumaya çalışır.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTAwNDFjYTEtMjc0Yi00OTg5LThmMDEtOThkZjVlNTVjNzc0XkEyXkFqcGc@._V1_.jpg",
+            "categories": [
+                "Animasyon",
+                "Aksiyon",
+                "Macera",
+                "Bilim Kurgu"
+            ],
+            "year": 2010,
+            "type": [
+                "Aksiyon & Macera",
+                "Bilim Kurgu",
+                "Animasyon"
+            ],
+            "imdb": 7.6,
+            "seasons": [
+                {
+                    "episodes": [
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9732780.jpg",
+                            "title": "Generator Rex | 1. Sezon 1. Bölüm - Her Şeyin Değiştiği Gün",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169176"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9733370.jpg",
+                            "title": "Generator Rex | 1. Sezon 2. Bölüm - Sicim Teorisi",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": "https://vs17.pictureflix.org/v/Generator.Rex.S01E02.1080p.BluRay.x264.TR/master.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169195"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9733943.jpg",
+                            "title": "Generator Rex | 1. Sezon 3. Bölüm - Denizin Ötesinde",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169208"
+                                },
+                                {
+                                    "name": "Tobby",
+                                    "url": "https://vs17.pictureflix.org/v/Generator.Rex.S01E04.1080p.BluRay.x264.TR/master.m3u8"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9734745.jpg",
+                            "title": "Generator Rex | 1. Sezon 4. Bölüm - Karantina",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169220"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9735369.jpg",
+                            "title": "Generator Rex | 1. Sezon 5. Bölüm - Mimar",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": "https://vs17.photoflax.org/v/Generator.Rex.S01E05.1080p.BluRay.x264.TR/master.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169228"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9736064.jpg",
+                            "title": "Generator Rex | 1. Sezon 6. Bölüm - Soğuk Isırığı",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": "https://vs17.photoflix.org/v/Generator.Rex.S01E06.1080p.BluRay.x264.TR/master.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169232"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9736527.jpg",
+                            "title": "Generator Rex | 1. Sezon 7. Bölüm - Sürünün Lideri",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169241"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9737713.jpg",
+                            "title": "Generator Rex | 1. Sezon 8. Bölüm - Yarık",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": "https://vs13.photoflix.org/v/Generator.Rex.S01E08.1080p.BluRay.x264.TR/master.m3u8"
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169667"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9738322.jpg",
+                            "title": "Generator Rex | 1. Sezon 9. Bölüm - Karanlık Geçit",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169682"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9738664.jpg",
+                            "title": "Generator Rex | 1. Sezon 10. Bölüm - Unutulanlar",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169703"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9739427.jpg",
+                            "title": "Generator Rex | 1. Sezon 11. Bölüm - Operasyon: Kanat Adam",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169722"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9740455.jpg",
+                            "title": "Generator Rex | 1. Sezon 12. Bölüm - Çorak Topraklar",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169745"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9740957.jpg",
+                            "title": "Generator Rex | 1. Sezon 13. Bölüm - Avcı",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169762"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9741407.jpg",
+                            "title": "Generator Rex | 1. Sezon 14. Bölüm - Yerçekimi",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169781"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9742135.jpg",
+                            "title": "Generator Rex | 1. Sezon 15. Bölüm - Altında Ne Yatıyor?",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169892"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9742768.jpg",
+                            "title": "Generator Rex | 1. Sezon 16. Bölüm - Sürü",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169913"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9743729.jpg",
+                            "title": "Generator Rex | 1. Sezon 17. Bölüm - Veba",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169924"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9744392.jpg",
+                            "title": "Generator Rex | 1. Sezon 18. Bölüm - Sözler, Sözler",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169944"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9745010.jpg",
+                            "title": "Generator Rex | 1. Sezon 19. Bölüm - Geride Kalanlar",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169959"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9745954.jpg",
+                            "title": "Generator Rex | 1. Sezon 20. Bölüm - İntikam",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6169993"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9746385.jpg",
+                            "title": "Generator Rex | 1. Sezon 21. Bölüm - Kuma Yazılmış",
+                            "videoSources": [
+                                {
+                                    "name": "Tobby",
+                                    "url": ""
+                                },
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170009"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 1
+                },
+                {
+                    "episodes": [
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4442097.jpg",
+                            "title": "Generator Rex | 2. Sezon 1. Bölüm - Öfke",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170100"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4443105.jpg",
+                            "title": "Generator Rex | 2. Sezon 2. Bölüm - Atık Topraklar",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170135"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4443470.jpg",
+                            "title": "Generator Rex | 2. Sezon 3. Bölüm - Kayıp Hafta Sonu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170150"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4444496.jpg",
+                            "title": "Generator Rex | 2. Sezon 4. Bölüm - İttifak",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170166"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4445194.jpg",
+                            "title": "Generator Rex | 2. Sezon 5. Bölüm - Robo-Bob",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170177"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4445610.jpg",
+                            "title": "Generator Rex | 2. Sezon 6. Bölüm - Karışık Sinyaller",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170208"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4446219.jpg",
+                            "title": "Generator Rex | 2. Sezon 7. Bölüm - Karakol",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6171013"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4446635.jpg",
+                            "title": "Generator Rex | 2. Sezon 8. Bölüm - Hayaletli",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6171043"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4447523.jpg",
+                            "title": "Generator Rex | 2. Sezon 9. Bölüm - Ek İş",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6171085"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4448213.jpg",
+                            "title": "Generator Rex | 2. Sezon 10. Bölüm - Küreksiz",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6171089"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4448810.jpg",
+                            "title": "Generator Rex | 2. Sezon 11. Bölüm - Altı Eksi Altı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6171123"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4449781.jpg",
+                            "title": "Generator Rex | 2. Sezon 12. Bölüm - Aslanlar ve Kuzular",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6171151"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4450246.jpg",
+                            "title": "Generator Rex | 2. Sezon 13. Bölüm - Baskın",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6171265"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4451082.jpg",
+                            "title": "Generator Rex | 2. Sezon 14. Bölüm - Gece Çöküyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6171348"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4451873.jpg",
+                            "title": "Generator Rex | 2. Sezon 15. Bölüm - Zor Hedef",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6171413"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4452161.jpg",
+                            "title": "Generator Rex | 2. Sezon 16. Bölüm - Bir Aile Meselesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6171458"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4452844.jpg",
+                            "title": "Generator Rex | 2. Sezon 17. Bölüm - Av",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6171500"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4453814.jpg",
+                            "title": "Generator Rex | 2. Sezon 18. Bölüm - Yıldız Kanadı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6171529"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4454379.jpg",
+                            "title": "Generator Rex | 2. Sezon 19. Bölüm - Ben 10 / Generator Rex: Kahramanlar Birleşiyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6171549"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 2
+                },
+                {
+                    "episodes": [
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4455240.jpg",
+                            "title": "Generator Rex | 3. Sezon 1. Bölüm - Siyahlara Dönüş",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4455825.jpg",
+                            "title": "Generator Rex | 3. Sezon 2. Bölüm - Çarp ve Yan",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4456507.jpg",
+                            "title": "Generator Rex | 3. Sezon 3. Bölüm - Pembe Dizideki Hayalet",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4457595.jpg",
+                            "title": "Generator Rex | 3. Sezon 4. Bölüm - Sfenks'in Bilmecesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4458550.jpg",
+                            "title": "Generator Rex | 3. Sezon 5. Bölüm - Çift Görüş",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4458946.jpg",
+                            "title": "Generator Rex | 3. Sezon 6. Bölüm - Adam Adama Karşı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4459850.jpg",
+                            "title": "Generator Rex | 3. Sezon 7. Bölüm - Siyah ve Beyaz",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4460672.jpg",
+                            "title": "Generator Rex | 3. Sezon 8. Bölüm - Ölü Bölge",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4461353.jpg",
+                            "title": "Generator Rex | 3. Sezon 9. Bölüm - Abysus'a Saldırı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4461947.jpg",
+                            "title": "Generator Rex | 3. Sezon 10. Bölüm - Uzaktan Kumanda",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4462784.jpg",
+                            "title": "Generator Rex | 3. Sezon 11. Bölüm - Zamanın Kısa Tarihi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4462965.jpg",
+                            "title": "Generator Rex | 3. Sezon 12. Bölüm - Zihin Oyunları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4464079.jpg",
+                            "title": "Generator Rex | 3. Sezon 13. Bölüm - Kardeşler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4464470.jpg",
+                            "title": "Generator Rex | 3. Sezon 14. Bölüm - Hedef: Ayin",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4465179.jpg",
+                            "title": "Generator Rex | 3. Sezon 15. Bölüm - Dünyamı Salla",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4465747.jpg",
+                            "title": "Generator Rex | 3. Sezon 16. Bölüm - Hayvan Kontrolü",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4466466.jpg",
+                            "title": "Generator Rex | 3. Sezon 17. Bölüm - Ambar ve Soylu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4467068.jpg",
+                            "title": "Generator Rex | 3. Sezon 18. Bölüm - Benim Düşmanlarım",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/4468016.jpg",
+                            "title": "Generator Rex | 3. Sezon 19. Bölüm - Oyunun Sonu, Bölüm 1",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/9732656.jpg",
+                            "title": "Generator Rex | 3. Sezon 20. Bölüm - Oyunun Sonu, Bölüm 2",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Saro",
+                                    "url": ""
+                                }
+                            ]
+                        }
+                    ],
+                    "active": false,
+                    "seasonNumber": 3
+                }
+            ]
+        },
+        "Seri-3": {
+            "title": "Kamp Lazlo",
+            "description": "Lazlo, neşeli ve özgür ruhlu bir Brezilya maymunudur. Arkadaşları Raj (Hint fili) ve Clam (cüce gergedan) ile birlikte kurallara fazlasıyla bağlı Kamp Böbrek'te (Camp Kidney) başlarından geçen maceraları anlatır. İzci Lideri Lumpus'un disiplinli kampında, bu üç kafadarın komik ve eğlenceli olayları eksik olmaz.",
+            "cover": "https://i.ytimg.com/vi/O3Rej5Xr3V4/maxresdefault.jpg",
+            "categories": [
+                "Animasyon",
+                "Aile",
+                "Komedi",
+                "Macera"
+            ],
+            "year": 2005,
+            "type": [
+                "Animasyon",
+                "Komedi",
+                "Macera"
+            ],
+            "imdb": 7.1,
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/SOTJUfBmUG4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDuY7bn_Cuss8Uxr7dNaS4V0Mo9Bg",
+                            "title": "Kamp Lazlo | 1. Sezon 1. Bölüm - Balık Tutmak",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155701"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/2pg4UJfRVFE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDT8Jz1C6TpJIWg8IFQp5LwcFMRtg",
+                            "title": "Kamp Lazlo | 1. Sezon 2. Bölüm - Marslı Fasulyeler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456152"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/JxafIDoDXkc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDKMZycw5pZ7M3JvfDPOtfmZDhKkA",
+                            "title": "Kamp Lazlo | 1. Sezon 3. Bölüm - Yılancık",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456153"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ddB0-XvdcA4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCy2aK1l-D5w2c3DwQtriiFgzRGlQ",
+                            "title": "Kamp Lazlo | 1. Sezon 4. Bölüm - Yarış",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456154"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/wBHw78Rw7C0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBzlQVnmO_5WdlIFUWuuacPuBQ03A",
+                            "title": "Kamp Lazlo | 1. Sezon 5. Bölüm - Işıklar Sönsün",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155705"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ngXD6y3oRo8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAgs8U1O9CgKm8zYx9ikqWiDT1MKQ",
+                            "title": "Kamp Lazlo | 1. Sezon 6. Bölüm - Yüzme Dostluğu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155707"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/DUtf-C_40QU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBpoyf8UMiYW3NM4kx3ZjMErW9gLg",
+                            "title": "Kamp Lazlo | 1. Sezon 7. Bölüm - Parazit",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155708"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/J7Wg_sIAO_Y/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAU2DVbwv6T48G-6SShtZ_E_Dz1NA",
+                            "title": "Kamp Lazlo | 1. Sezon 8. Bölüm - Piknik Yok",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456155"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/gsB49EKPH0Q/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDh7FFRmFeGSTrezCiXkZDOtyh4Ug",
+                            "title": "Kamp Lazlo | 1. Sezon 9. Bölüm - En Zayıf Halka",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155715"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/i_EkJ3frdFs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC9QtwqSC7ole6eeKLuivMMxiwTJw",
+                            "title": "Kamp Lazlo | 1. Sezon 10. Bölüm - Lumpy'nin Hazinesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456156"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/D2a7CvpdI58/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD46J-LTkHT8woh6u4t72gaA_v8Uw",
+                            "title": "Kamp Lazlo | 1. Sezon 11. Bölüm - Ağaç Kaçakçısı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456157"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/8xGNwFec1VA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCLDsVn8CLcjhcTCuiNdzQVgWhxtg",
+                            "title": "Kamp Lazlo | 1. Sezon 12. Bölüm - Şeker Jones",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456159"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/qzYiaTgT2bQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLC87EVQCo1ZfDamBkAvCOFFsNOc4A",
+                            "title": "Kamp Lazlo | 1. Sezon 13. Bölüm - Bayan Doe",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155721"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/2W8OMNNnJ74/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB5Oc6OKQpFQk1UvbfrD7ci_WBMsQ",
+                            "title": "Kamp Lazlo | 1. Sezon 14. Bölüm - Muhteşem Clam",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155722"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/RfyFIHk02SM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBawk5gzk5XDymetZchLFkUWiuqeA",
+                            "title": "Kamp Lazlo | 1. Sezon 15. Bölüm - Hiçbir Şey Kulübü",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155723"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/-LYLUS8gAKg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDgHPlkOI-VQMJPosLI94DPELaM9Q",
+                            "title": "Kamp Lazlo | 1. Sezon 16. Bölüm - Binek Hayvanlar",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155745"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/VZ60117Vpng/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDPdkUB3bJEnd0aJdZ2dm1bQFR1hg",
+                            "title": "Kamp Lazlo | 1. Sezon 17. Bölüm - Kano Gezisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456160"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/rjXXa8GjGf8/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYfyAcKBMwDw==&rs=AOn4CLD0DjaSweT0aO6RJFbz1lqIv1clcw",
+                            "title": "Kamp Lazlo | 1. Sezon 18. Bölüm - Sihirli Değnek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155773"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ofwBlgoG60g/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCVic_ChadFCrEChqj6OamBoprDnA",
+                            "title": "Kamp Lazlo | 1. Sezon 19. Bölüm - Öğle Yemeği",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456161"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/_FPN6FwmCRo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBPTdnyCfkiWzuNxYVhrq4QqZXeOw",
+                            "title": "Kamp Lazlo | 1. Sezon 20. Bölüm - Kamp Kokuyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155779"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/N6_NDgiVqWg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDP2PCC6Js6_L_MDFcvWnzXwdiHbg",
+                            "title": "Kamp Lazlo | 1. Sezon 21. Bölüm - Sümüklü Böcek Festivali",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155780"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/9N6hFKsbji0/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBKKEYwDw==&rs=AOn4CLBGTfqEhMz0mTdxcEEwrRrzrmjgjg",
+                            "title": "Kamp Lazlo | 1. Sezon 22. Bölüm - Sosisli Sandviç",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155782"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/VJy6pJWVkH8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDfgiHCjVt-YZQzTwFsK_jWaG5W1A",
+                            "title": "Kamp Lazlo | 1. Sezon 23. Bölüm - Fasulyeler ve Şakalar",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155783"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/NsibCOrEAgs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCJmbB3QqEHh7E6VFTjqUN6wefR5Q",
+                            "title": "Kamp Lazlo | 1. Sezon 24. Bölüm - Film Gecesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456162"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/scnZXTGIid8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDu6i2yofEJ9AGAX02b4oSMjhOdfw",
+                            "title": "Kamp Lazlo | 1. Sezon 25. Bölüm - Yuvarlak Peynir",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155785"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/0_-3v_8bdzE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBDpLW-OrMpdVxuuUYGrV7pVaZocw",
+                            "title": "Kamp Lazlo | 1. Sezon 26. Bölüm - Şort İndirme",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456163"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 2,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/WjOLnnpAa6Q/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCMCuq5QSpzvGyvSntWUi3xvGPzuA",
+                            "title": "Kamp Lazlo | 2. Sezon 1. Bölüm - Cadılar Bayramı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155787"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Unwr0QyURBM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDfnFs4dLi03d23g0hMCrlLhTlT1w",
+                            "title": "Kamp Lazlo | 2. Sezon 2. Bölüm - Et Adam",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456164"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/hKX0m8iz2Rc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBsfWDSyN5HpkVGK-OjHkqtKb2llQ",
+                            "title": "Kamp Lazlo | 2. Sezon 3. Bölüm - Boncuk Yoksa İş de Yok",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456189"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/IcEQejo67Ug/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCgBUcCfIjJEmAU_mH-fcJpKNDXgg",
+                            "title": "Kamp Lazlo | 2. Sezon 4. Bölüm - Bayan Uçuş",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456165"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/w8mKXYJOGiA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBBjWBEdBJ_CAkfnLgxg9eYfGXL7A",
+                            "title": "Kamp Lazlo | 2. Sezon 5. Bölüm - Aileler Günü",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155794"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/RgInCAvoB6s/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLA7bdqimGhBoKeDxSbGX25QdULqKw",
+                            "title": "Kamp Lazlo | 2. Sezon 6. Bölüm - Barbunya Kampı Oteli",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155798"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/67EPWlZI4Y8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLASdmL5sMsuwbPpIcZ_amTyVPABYw",
+                            "title": "Kamp Lazlo | 2. Sezon 7. Bölüm - Becerikli Yardımcı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456166"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/O5WCFTIGQsg/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4EgALgA4oCDAgAEAEYfyBRKBgwDw==&rs=AOn4CLBkPVcDAGoGL-yxtWAh7g-P1KA2bw",
+                            "title": "Kamp Lazlo | 2. Sezon 8. Bölüm - Aşk Hastalığı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155801"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/_rZ8VbptlFc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCR-tYkdUDagElszZheS8Oob_zTVQ",
+                            "title": "Kamp Lazlo | 2. Sezon 9. Bölüm - Sevgili Oyuncak",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155807"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ejtSc244fVY/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCd1FH4jCeJmIHnV7yPfrXYXJVItA",
+                            "title": "Kamp Lazlo | 2. Sezon 10. Bölüm - Çok Pişmiş Fasulyeler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456167"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/XOX2IiDUrec/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCejpwFs5c70zMNvN2QND0IpTA2vA",
+                            "title": "Kamp Lazlo | 2. Sezon 11. Bölüm - Sivilce Suratlı Dağ Savaşı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155811"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/mlyuLx04J_w/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDFQBQ6R5Bc17KhgCzZMnb68cshXA",
+                            "title": "Kamp Lazlo | 2. Sezon 12. Bölüm - Kokuşmuş Fasulye Vadisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456168"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/5J1QzSSPMDA/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCAaLGtZ7uacwj_qbmsik_Zfoy7bw",
+                            "title": "Kamp Lazlo | 2. Sezon 13. Bölüm - Hiç Deniz Altıya Binmedim",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155816"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Qj_dYdPyn94/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLANYyg6iHIk56xk-GoO0GR6bibjdg",
+                            "title": "Kamp Lazlo | 2. Sezon 14. Bölüm - Muhteşem Çulluk Avı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456169"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/BagbAIXaTJs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLArNk7LKLC-1XpkZb2qfI6SzaloiQ",
+                            "title": "Kamp Lazlo | 2. Sezon 15. Bölüm - Geğiremeyen Fasulye",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155820"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/vZNHTTuQL3o/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCR0TMJwdhB6F4YIS976UNkMZkAuA",
+                            "title": "Kamp Lazlo | 2. Sezon 16. Bölüm - Gizli Selamlaşma",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456171"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/5TUe0Ts82Ow/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBJDsAR8iUxdK7b-xgWdrqcrkVcSA",
+                            "title": "Kamp Lazlo | 2. Sezon 17. Bölüm - Fasulyeler Kayakta",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456172"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/f-33a7GCcWs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCkFlRxKh0ykX8UV-zjALWO--Stpw",
+                            "title": "Kamp Lazlo | 2. Sezon 18. Bölüm - Barıştırılamayan Böcükler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456173"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/XERpJT4Pec8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAahNGyeSOoxTFgXHq3sci9R0zlCA",
+                            "title": "Kamp Lazlo | 2. Sezon 19. Bölüm - Çılgın Maskot",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155828"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/GIVmyZrbpMg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAvm57SKer5l5zJUlHFAWhUdsCz1A",
+                            "title": "Kamp Lazlo | 2. Sezon 20. Bölüm - Domates Savaşı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456174"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/evpuxp6UF-U/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYLSBlKFowDw==&rs=AOn4CLAZTa5RVUJjMC5w0l-OpGFF2_4T4g",
+                            "title": "Kamp Lazlo | 2. Sezon 21. Bölüm - Samson Kampı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155831"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/W9O7FCfXF_U/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLARBxITF2e07I6jGEXZV4uf9-KUNA",
+                            "title": "Kamp Lazlo | 2. Sezon 22. Bölüm - Minik Fasulyecikler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456175"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/38aKCQZvVKo/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBhAxjz_iirXcmFzKvQyvnwJK3Daw",
+                            "title": "Kamp Lazlo | 2. Sezon 23. Bölüm - Cüceler Gibisi Yok",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155844"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/bULQW57PRIM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAvZTT9OXxBeLRoqciaHgCyxrKonw",
+                            "title": "Kamp Lazlo | 2. Sezon 24. Bölüm - Paylaşılamayan Kaplıca",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155888"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 3,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/_VKmbQsdyCQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD9P6D___heizc50RKzTWK9xzXeQA",
+                            "title": "Kamp Lazlo | 3. Sezon 1. Bölüm - Minik Kuş",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155907"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/9YnoCf7n1zs/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYZSBiKBswDw==&rs=AOn4CLCjPJt1MFFUtdwMWvkP4Uo2-KtWUA",
+                            "title": "Kamp Lazlo | 3. Sezon 2. Bölüm - Samson İçin Zor Bir Gün",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456176"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/mp0UTh85M94/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYfyBbKB8wDw==&rs=AOn4CLB0FUcIqjS7zyNNg0WIzm904g2e8A",
+                            "title": "Kamp Lazlo | 3. Sezon 3. Bölüm - Edward'ı Bekliyoruz",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155971"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/HLmXa9VpeJc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBxtKidIMDvMfyeMRCzCwlTZeROrQ",
+                            "title": "Kamp Lazlo | 3. Sezon 4. Bölüm - Fasulyeler Oyuncakçıda",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456177"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Gtrwk9ryWGs/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCOs8RYXpmPG5KEHLQW400RCzIpWg",
+                            "title": "Kamp Lazlo | 3. Sezon 5. Bölüm - Clam Nerede?",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155976"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/aSxLjeiTqHE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDK7XhJdK7HBpWO6PyC_i03UBARpQ",
+                            "title": "Kamp Lazlo | 3. Sezon 6. Bölüm - Bowling ve Dinozor Kemikleri",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456178"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZksNtQxL5_I/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4AdQGgALgA4oCDAgAEAEYXyBlKEkwDw==&rs=AOn4CLDOl3uzv-LZraXtAr9gepNAF324SQ",
+                            "title": "Kamp Lazlo | 3. Sezon 7. Bölüm - Sincap Koltukları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456179"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/5I2sI3vQoms/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCWjLfbzeHHoc6VayVeQqqiBo4d4A",
+                            "title": "Kamp Lazlo | 3. Sezon 8. Bölüm - Ürkütücü Kamp",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155981"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/tuwioxDCcZg/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB5AeumR83VLrEdNs8xk6wgYxwj8A",
+                            "title": "Kamp Lazlo | 3. Sezon 9. Bölüm - Tatlı Rüyalar",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155982"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/o035og8WbeM/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCfUS1MGpVVY-hGqD-gbvXNv_jceA",
+                            "title": "Kamp Lazlo | 3. Sezon 10. Bölüm - Çamur Banyosu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456180"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/28O6IQaVP2c/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCo248zrZz4P_LMncQzvexWvlSPmg",
+                            "title": "Kamp Lazlo | 3. Sezon 11. Bölüm - Ruh Eşleri",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155984"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/tlAgIHHJt1o/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYciBhKCwwDw==&rs=AOn4CLBn89zsx8EPqTnLYWv3Ltd7cpmx1A",
+                            "title": "Kamp Lazlo | 3. Sezon 12. Bölüm - Öfke Çadırı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456181"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Go_gw9y8xeE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBF5kgSGmmWWE3X6h7VsPTOcH4JIg",
+                            "title": "Kamp Lazlo | 3. Sezon 13. Bölüm - Lazlo ve Festival Arabası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155988"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/iXYfQXFIkx0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDFFn9GGCF2nizCZMdD-BaIH4kuMQ",
+                            "title": "Kamp Lazlo | 3. Sezon 14. Bölüm - Orada mısın Gökyüzündeki İzci Lideri? Benim Samson",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456182"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/CjfnfMe0AC4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLApydG-Ot6VWKXnQU1CAovAzeuUyA",
+                            "title": "Kamp Lazlo | 3. Sezon 15. Bölüm - Diş Perisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155990"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/OkvPkdYZ0tQ/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBhiJKqV7zD-Dqcp_1kAiC0AowRvw",
+                            "title": "Kamp Lazlo | 3. Sezon 16. Bölüm - İzci Sincap Salyanman",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155991"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/L8iM5TRqFwU/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYVyBlKC8wDw==&rs=AOn4CLAbiVyGwwYQxjUggH3QtthyZ2ly5g",
+                            "title": "Kamp Lazlo | 3. Sezon 17. Bölüm - Ne Tatil Ama!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155992"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/aEfTUR4St2k/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLASiOx-suDQ6PZ22twoHXgQqr8ESw",
+                            "title": "Kamp Lazlo | 3. Sezon 18. Bölüm - Edward, Radyo ve Canavarlar",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155993"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/fgQWvOtRFyg/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYWiBlKDEwDw==&rs=AOn4CLBCX9lsg6mtiMohixlJrnCql7sqFA",
+                            "title": "Kamp Lazlo | 3. Sezon 19. Bölüm - Sevgililer Günü",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155994"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/XmAJybeQv6U/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCR4FqAZCrouXbuzPTMhI2W2veINA",
+                            "title": "Kamp Lazlo | 3. Sezon 20. Bölüm - İşini İyi Yapan",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155997"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/CRqWqI5J0dU/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD8czLdkR86mn0Nr7Eag5f4gSg2mw",
+                            "title": "Kamp Lazlo | 3. Sezon 21. Bölüm - Fasulye Ağacı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155998"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/kSzBifFFQto/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYfyBZKCAwDw==&rs=AOn4CLA1EtAclBeRItMaeRV0NoBBFtSheQ",
+                            "title": "Kamp Lazlo | 3. Sezon 22. Bölüm - Gretchen ile İlgilenmek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456183"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/915312hX9Qw/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLBCOKUYt_mQbTGuHjK31-X5O2kSig",
+                            "title": "Kamp Lazlo | 3. Sezon 23. Bölüm - Yüzyılın Haberi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456184"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/NQ0REJfYIwo/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYfyBdKCAwDw==&rs=AOn4CLC5uf46Uwm1pARjXQVDEbHZcNYFlA",
+                            "title": "Kamp Lazlo | 3. Sezon 24. Bölüm - Edward Kutunun İçinde",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5156002"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 4,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/rWNJnWQtNps/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCnMw1WgujsRnK8s3FrOVU6Y452Ug",
+                            "title": "Kamp Lazlo | 4. Sezon 1. Bölüm - Uzaylılar",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5156004"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/CRqWqI5J0dU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA7qoTO34tJ2KxhIHzgggFLOESEDQ",
+                            "title": "Kamp Lazlo | 4. Sezon 2. Bölüm - Peynir Balosu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456185"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/CmzFoAf_CIo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCkNA0plkEW6I27cvK_lHpXsfl6-Q",
+                            "title": "Kamp Lazlo | 4. Sezon 3. Bölüm - Sık Kendini Lazlo",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5156006"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/u0y-k-lob5I/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgYygdMA8=&rs=AOn4CLBn6Ma79i0VGZ_SiJaC_FSPmfqbPQ",
+                            "title": "Kamp Lazlo | 4. Sezon 4. Bölüm - Edward Olmak",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5156009"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/lVkQYkv2eE8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAaw-BoYT5Zj1LTIsVo5MrtZtatWQ",
+                            "title": "Kamp Lazlo | 4. Sezon 5. Bölüm - En Çok Ödül Kimde?",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5156010"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/fHEqg_NJtik/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD6YXaDVcB4acIYvVtdAmKgGRzOZA",
+                            "title": "Kamp Lazlo | 4. Sezon 6. Bölüm - Koca Çeneli",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5156013"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/dZ8qmtT3vxI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBoWKyHX1z3SmL7QAaaCulKQGfzCg",
+                            "title": "Kamp Lazlo | 4. Sezon 7. Bölüm - Ed'in Muhtesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5156015"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/5NavNGTXFFU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBRUVM9nyxRBfNcuaHcU-78HLVPdA",
+                            "title": "Kamp Lazlo | 4. Sezon 8. Bölüm - Salyanman'ın Kitabı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456186"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/pCJVhdsXG4E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTX8jL8PU43eWiWKtiEttTJUhf_w",
+                            "title": "Kamp Lazlo | 4. Sezon 9. Bölüm - Barbunya Kampı Haritada Yok",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5156018"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/bhQvW0OPbbo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_31Nt_eCgs0cCn7w07vrngo63wA",
+                            "title": "Kamp Lazlo | 4. Sezon 10. Bölüm - Harold ve Raj",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5156019"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/S0wCSZbIaVA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCltnxYftWIcTbnudbODecVqtiaeQ",
+                            "title": "Kamp Lazlo | 4. Sezon 11. Bölüm - Lumpus Yanardağa Karşı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456190"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/18RnU6yrDEg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDphY55h4YtPrFQP51k53_owLGFaQ",
+                            "title": "Kamp Lazlo | 4. Sezon 12. Bölüm - Baş Hemşire",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456191"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/peOA-1XXfJQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD4cS7SxXkgqIEIrG3CNXGYYHIpCg",
+                            "title": "Kamp Lazlo | 4. Sezon 13. Bölüm - Şekerleme Deneyi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5253244"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/JM0gWeekjLA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCp2MszCvoV0X4uHDE-gJAyATCuxg",
+                            "title": "Kamp Lazlo | 4. Sezon 14. Bölüm - Tur Savaşları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456187"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/rAyDKsR6QHU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBeso0loxU8HPxS5guggzzu2C0ebQ",
+                            "title": "Kamp Lazlo | 4. Sezon 15. Bölüm - Lazlo'nun İlk Aşkı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5253239"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/rWNJnWQtNps/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClKq1D5o8W2bMmVWsEIdTdcV98rg",
+                            "title": "Kamp Lazlo | 4. Sezon 16. Bölüm - Lumpus Gibi Yaşamak",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5253237"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/NQ0REJfYIwo/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gXSggMA8=&rs=AOn4CLCJg8PaA_hn_TK2cjs_yuoX8Cyb3A",
+                            "title": "Kamp Lazlo | 4. Sezon 17. Bölüm - Samson'un Posta Dolandırıcılığı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5156023"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/915312hX9Qw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAbGA_mJroWOM4TIxXNMqwqP2NVQA",
+                            "title": "Kamp Lazlo | 4. Sezon 18. Bölüm - Perili Kahve Masası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5156024"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/kSzBifFFQto/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gWSggMA8=&rs=AOn4CLDGBJp71nhXQSc8JsA2-7laiZTUBw",
+                            "title": "Kamp Lazlo | 4. Sezon 19. Bölüm - Arkadaşlık",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5456188"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/XmAJybeQv6U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBO6N7pUcsoYnUJ5orGDUaJBXVp0g",
+                            "title": "Kamp Lazlo | 4. Sezon 20. Bölüm - Barbunya Kampı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5156026"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/fgQWvOtRFyg/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGFogZSgxMA8=&rs=AOn4CLCMA7d8qE9BwjPptUc0Z4R4klKQkw",
+                            "title": "Kamp Lazlo | 4. Sezon 21. Bölüm - Sevecen Geyik Bayan Doe",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5156028"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/aEfTUR4St2k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCZuklWVHXW6mSlAF1ziUNipKHQyQ",
+                            "title": "Kamp Lazlo | 4. Sezon 22. Bölüm - Palyaço Kampı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5156029"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "seri-4": {
+            "title": "Jetgiller",
+            "description": "George Jetgil, eşi Jane, çocukları Judy ve Elroy, robot hizmetçileri Rosie ve köpekleri Astro'nun yüksek teknolojiyle dolu, uçan arabaların ve tuhaf icatların olduğu fantastik dünyadaki günlük yaşamlarını ve komik maceralarını konu alır.",
+            "cover": "https://cdn.sinemalar.com/images/movie/88157/poster/jetgiller-1660917925.jpg",
+            "categories": [
+                "Animasyon",
+                "Komedi",
+                "Bilimkurgu",
+                "Aile"
+            ],
+            "year": 1962,
+            "type": [
+                "Animasyon",
+                "Komedi",
+                "Bilimkurgu"
+            ],
+            "imdb": 7.5,
+            "seasons": [
+                {
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/csScvgq4X4U/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 1 - Robot Rosey",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5238341"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/9cJICMtMUg4/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 2 - Jet Çığlık Atar ile Bir Randevu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5238343"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/GIWHl0cfQuc/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 3 - Uzay Arabası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5238345"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/cnWDXA4MQHE/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 4 - Astro'nun Gelişi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5238348"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/wBHw78Rw7C0/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 5 - Dışarıda Bir Gece",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5238352"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/O2NDgEAf34k/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 6 - İyi Küçük İzciler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5238354"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/x2Y2Qv31HDs/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 7 - Uçan Takım Elbise",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5238355"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/imUv7JcaAYo/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 8 - Rosey'nin Erkek Arkadaşı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5238359"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ayWyniqrT3w/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 9 - Elroy'un Televizyon Gösterisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5253235"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/J7Wg_sIAO_Y/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 10 - Uniblab",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5238367"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/iqv5BQSF7Gc/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 11 - Büyükbaba'dan Bir Ziyaret",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5240081"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/tigq_U5-UiA/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 12 - Gizli Astro",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5240082"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/uPnZpENoypo/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 13 - Las Venüs",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5240083"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/wb46p0Lgaus/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 14 - Elroy'un Arkadaşı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5241343"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/i_EkJ3frdFs/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 15 - Test Pilotu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5240084"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/eY3jfNAscZk/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 16 - Milyoner Astro",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5240085"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/AtkGaFKs2rY/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 17 - Küçük Adam",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5240086"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/gJeBqLFKOg4/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 18 - Jane'nin Sürüş Dersi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5240087"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/bc-rdwvjLcY/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 19 - Asker Jetgil",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5240088"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ofwBlgoG60g/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 20 - Bayan Güneş Sistemi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5240089"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/hVB1Kij9nZw/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 21 - Özel Mülk",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5240090"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/7-zmUdtl2wA/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 22 - Dostum Gezegeni",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5240091"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/h2ltyj6NjfU/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 23 - TV ya da Değil",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5241344"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/wHo-DVh6Q0c/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 1 Bölüm 24 - Elroy'un Çetesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5241345"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 1
+                },
+                {
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/NsibCOrEAgs/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 1 - Elroy Orbitty ile Buluşuyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5241348"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/-0S3Jf-NxdI/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 2 - Eve Gel Rosie",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5241349"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/8SHRFDD-1UE/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 3 - Robot Köpek Sentro",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5241350"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/D4GvTyzYjOk/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 4 - Judy'nin Doğum Günü Sürprizi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5241351"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/UDu7Ns6rzhs/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 5 - SüperGeorge",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243194"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/67EPWlZI4Y8/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 6 - Aileler Yarışıyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243197"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/0JQbeCAlF6s/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 7 - Anında Tekrar Oynat",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243199"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/OXOgRY_oNrw/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 8 - Kaçak Pireler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243202"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/tTq6Tofmo7E/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 9 - ÇARPMAK",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243204"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/bG0kCnWL32Q/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 10 - Bir Vuruş, ve Dışarı!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243207"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/XOX2IiDUrec/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 11 - Rosie için Anneler Günü",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243210"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/xiPpYl3qzfg/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 12 - Kayıp",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243213"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/q1n8RU13S4c/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 13 - Dans Zamanı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243217"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/02gOB-JB1PY/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 14 - Judy Gidiyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243220"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZAbx2fp_q4A/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 15 - Kazanan Tümünü Alır",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243224"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/BagbAIXaTJs/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 16 - Aynamorph",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243228"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/KMPG54lGNL8/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 17 - George ve Jane'in Kozmik İlişkisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243238"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/0idWiHiasKg/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 18 - Yüksek Ay",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243241"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/VBk6o1JgEKI/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 19 - Yüksek Teknoloji Batması",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243247"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/zyYfGZSRcv4/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 20 - Küçük Bela Paketi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243252"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/5TUe0Ts82Ow/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 21 - Elroy Harikalar Diyarı'nda",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243260"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/r5WPQIMcW_s/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 22 - İsviçreli Aile Jetgil",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5243268"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/sU44IKH5e8g/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 23 - Hırsız Rosie",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245010"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/lFc2S_Yceq8/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 24 - Fantastik Gezegen",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245012"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/_FPN6FwmCRo/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 25 - Uzay Bong",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245016"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/hXsYtiGMRSc/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 26 - Hayaletli Cadılar Bayramı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245017"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Xx6J7sft1FE/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 27 - Köpek Yarışması",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245019"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/F0Z4towvGFs/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 28 - Jetgiller'in Milyonları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245021"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/EQlIqkR96UQ/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 29 - Yanlış Şeyler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245024"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/VVP5A0f8eZM/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 30 - Tatil",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245026"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/0dVxGIfo398/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 31 - Takım Ruhu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245028"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/qCXgXfIMVtE/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 32 - Gelecekten Haber",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245030"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/QrpQ-pdSBUI/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 33 - Baba",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245031"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/VN2jyZUkCdc/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 34 - Köpek Şaşkınlığı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245032"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/GKvkuGhZI2Q/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 35 - Büyükbaba ve Galaktik Altın Arayıcı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245033"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/fa_PamT_kWk/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 36 - Robot'un İntikamı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245034"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/2AmzhdPMFCI/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 37 - Gerçeği Söylemek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245036"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/PxBUWWb0mFo/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 38 - Çocuk George",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245045"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/WqcyKWNMjLI/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 39 - Judy'nin Kaçışı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245049"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/TNEZsruEBqE/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 40 - Yüzyılın En İyisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245050"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/1pphyvgd7-k/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 2 Bölüm 41 - Bir Jetgil Noel Şarkısı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245051"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 2
+                },
+                {
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/vuYESbSj3G4/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 3 Bölüm 1 - Suç Oyunları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245053"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/FyinD6ZDqeg/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 3 Bölüm 2 - ASTROnomik IQ",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245054"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/WjKBWz09wZY/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 3 Bölüm 3 - 9, 5, 9",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245056"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/U15rzqfSofo/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 3 Bölüm 4 - Görünmez George",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245057"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/GdUWkvt7uGY/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 3 Bölüm 5 - Baba/Kız Dansı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245058"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/uqpd16T6Pyg/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 3 Bölüm 6 - Diş Sorunu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245059"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/5DxDEoDojJ4/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 3 Bölüm 7 - Rosie için Düğün Çanları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245062"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/aAwT6fv2Otk/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 3 Bölüm 8 - Tuhaf Bitki",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245063"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/eQgcLYXKNSA/hqdefault.jpg",
+                            "title": "Jetgiller | Sezon 3 Bölüm 9 - İki Tane George",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245066"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0VCeOWB-nhW_M5AsQeZ4UpQkSeJb_zYlhJQ&s",
+                            "title": "Jetgiller | Sezon 3 Bölüm 10 - Bir Günlük Spacely",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5245068"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 3
                 }
             ]
         }
