@@ -3499,6 +3499,12 @@
                   "name": "Sibnet",
                   "url": "https://video.sibnet.ru/shell.php?videoid=4873390"
                 }
+              ],
+              "subtitles": [
+                {
+                  "label": "İngilizce",
+                  "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/subs/miraculous/s1/037_1x1_e.srt"
+                }
               ]
             },
             {
