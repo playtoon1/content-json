@@ -1,6 +1,51 @@
 {
   "movies": {
     "film-1": {
+      "title": "The Legend Of Aang",
+      "description": "Aang, Katara, Sokka, Toph ve Zuko artık 20'li yaşlarındadır. Film, orijinal serinin bitişinden yıllar sonrasına odaklanarak, ekibin dünyada barışı korumaya çalışırken karşılaştıkları yeni ve tehlikeli bir tehdidi ele alacaktır. Bu filmle ilk kez 'Erişkin Aang' dönemini detaylıca izleyeceğiz.",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0kLQvvaC3TXAGVM0gzP9Sm7Bc7EgiEEVOtw&s",
+      "categories": [
+        "Animasyon",
+        "Aksiyon",
+        "Suç",
+        "Dram",
+        "Bilim Kurgu"
+      ],
+      "type": [
+        "Animasyon",
+        "Aksiyon",
+        "Macera"
+      ],
+      "year": 2026,
+      "imdb": "-",
+      "videoUrl": "",
+      "videoSources": [
+        {
+          "name": "Saro",
+          "url": "https://rumble.com/hls-vod/76bkdw/playlist.m3u8?key=6UtlxgftK6ot8F66Ui8aleF47m78L9AFw4KtesBs-KwM_9mHrQzffg&u=0&b=0"
+        },
+        {
+          "name": "BC-Tobby",
+          "parts": [
+            "https://seed307.bitchute.com/zMJJYOp9ovkI/4rnCF2nQrmJ1.mp4",
+            "https://zb10-7gsop1v78.bitchute.com/zMJJYOp9ovkI/9jnxBfaYyq2Z.mp4",
+            "https://zb10-7gsop1v78.bitchute.com/zMJJYOp9ovkI/3on3vlkC1eBw.mp4",
+            "https://seed132.bitchute.com/zMJJYOp9ovkI/mXH8teWvSSSJ.mp4"
+          ]
+        }
+      ],
+      "subtitles": [
+        {
+          "label": "Türkçe",
+          "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/movieSubs/100_1/101_tr.srt"
+        },
+        {
+          "label": "İngilizce",
+          "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/movieSubs/100_1/101_e.srt"
+        }
+      ]
+    },
+    "film-18": {
       "title": "Ben 10: Uzaylı Kovanı",
       "description": "Büyükbabasının emirlerine karşı gelen Ben Tennyson, dünyayı tehdit eden bir uzaylı istilasını durdurmak için eski bir düşmanının kızı Elena ile güçlerini birleştirir. Nanoçip adı verilen teknolojinin kontrolü ele geçirmesiyle ortaya çıkan 'uzaylı kovanı' tehdidine karşı Ben, Gwen ve Kevin, dünyayı kurtarmak için zamana karşı amansız bir mücadeleye girişir.",
       "cover": "https://upload.wikimedia.org/wikipedia/tr/6/67/Ben_10_Alien_Swarm_film_afi%C5%9Fi.jpg",
