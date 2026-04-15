@@ -1,0 +1,9 @@
+{
+    "version": "1.0.0",
+    "title": "Yeni Afiş",
+    "description": "Hemen izlemeye başla!",
+    "imageUrl": "https://i.redd.it/xhcomclyn6vg1.png",
+    "actionType": "series",
+    "actionId": "AlevlerinIcinden",
+    "expiryDate": "2026-12-31T23:59:59Z"
+}
