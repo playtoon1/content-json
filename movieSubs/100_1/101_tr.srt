@@ -1,4543 +1,4131 @@
 1
-00:00:54,855 --> 00:00:56,800
+00:00:55,184 --> 00:00:57,037
 Tapınağa ilk varan kazanır!
 
 2
-00:00:57,040 --> 00:00:57,457
+00:00:57,061 --> 00:00:58,037
 Ne?
 
 3
-00:00:57,481 --> 00:00:57,980
-Aang!
+00:00:58,061 --> 00:01:01,037
+Aang, hiç adil değil!
 
 4
-00:00:58,200 --> 00:00:59,200
-Haksızlık!
+00:01:01,061 --> 00:01:02,037
+Yakalayın şunu!
 
 5
-00:01:01,380 --> 00:01:02,380
-Yakalayın onu!
+00:01:02,061 --> 00:01:03,061
+Çabuk olun!
 
 6
-00:01:02,460 --> 00:01:03,460
-Hadi, acele et!
+00:01:04,080 --> 00:01:12,080
+♪♪ Merhaba Nima.
 
 7
-00:01:22,020 --> 00:01:23,240
-Ah, mükemmel zamanlama!
+00:01:13,081 --> 00:01:14,057
+Günaydın Aang.
 
 8
-00:01:24,200 --> 00:01:25,960
-Beni taşımana itirazım yok.
+00:01:14,081 --> 00:01:15,081
+Ah, merhaba Aang.
 
 9
-00:01:26,080 --> 00:01:26,420
-Gyatso!
+00:01:22,081 --> 00:01:24,057
+Tam zamanında geldin.
 
 10
-00:01:26,749 --> 00:01:27,860
-Şu an hiç sırası değil.
+00:01:24,081 --> 00:01:26,057
+Beni biraz yukarı taşımanın sakıncası yok.
 
 11
-00:01:28,080 --> 00:01:29,520
-Yaşlanıyorum, biliyorsun değil mi?
+00:01:26,081 --> 00:01:28,057
+Gyatso, şu an pek iyi bir zaman değil.
 
 12
-00:01:29,660 --> 00:01:32,080
-Vücudum eskisi gibi hareket etmiyor.
+00:01:28,081 --> 00:01:30,057
+Yaşlanıyorum, biliyorsun.
 
 13
-00:01:32,300 --> 00:01:33,940
-Tam da bir şeyin ortasındayım.
+00:01:30,081 --> 00:01:32,077
+Vücudum eskisi gibi hareket etmiyor.
 
 14
-00:01:34,529 --> 00:01:35,620
-Çok ağırsın!
+00:01:32,101 --> 00:01:34,097
+Şu an biraz meşgulüm.
 
 15
-00:01:35,940 --> 00:01:36,320
-Ağır mı?
+00:01:34,121 --> 00:01:35,097
+Çok ağırsın.
 
 16
-00:01:36,480 --> 00:01:36,920
-Ben mi?
+00:01:35,121 --> 00:01:37,077
+Ağır mı? Ben mi?
 
 17
-00:01:37,160 --> 00:01:38,820
+00:01:37,101 --> 00:01:39,100
 Sebzeden başka bir şey yemem.
 
 18
-00:01:39,229 --> 00:01:40,440
-Turta bir sebze değildir!
+00:01:39,249 --> 00:01:41,077
+Turta sebze değildir.
 
 19
-00:01:41,229 --> 00:01:42,357
-Yarışı kaybedeceğim!
+00:01:41,101 --> 00:01:42,077
+Yarışı kaybedeceğim.
 
 20
-00:01:42,381 --> 00:01:43,080
-Yarış mı?
+00:01:42,101 --> 00:01:44,077
+Yarış mı? Ne yarışı?
 
 21
-00:01:43,320 --> 00:01:44,320
-Ne yarışı?
+00:01:44,101 --> 00:01:46,077
+Sonunda kazandık!
 
 22
-00:01:48,200 --> 00:01:49,200
-Hang.
+00:01:46,101 --> 00:01:48,100
+Kazandık! Kazandık!
 
 23
-00:01:54,969 --> 00:01:58,520
-Bir hava bükücü olarak, ne zaman kendini tutman gerektiğini bilmen önemlidir.
+00:02:03,121 --> 00:02:08,097
+Aang, bir hava bükücü olarak ne zaman itidal
+göstermen gerektiğini bilmen önemlidir.
 
 24
-00:02:00,219 --> 00:02:02,000
-Kazanacak gücün olsa bile.
+00:02:08,121 --> 00:02:13,117
+Kazanacak güce sahip olsan
+bile sen Avatar'sın.
 
 25
-00:02:03,029 --> 00:02:04,040
-Sen Avatar'sın.
+00:02:13,141 --> 00:02:16,117
+Birçok insan sana güvenecek.
 
 26
-00:02:04,919 --> 00:02:07,960
-Pek çok insan sana bel bağlayacak.
+00:02:16,141 --> 00:02:21,077
+♪♪ Gitti!
 
 27
-00:02:20,480 --> 00:02:21,140
-Gitmiş!
+00:02:21,101 --> 00:02:22,117
+Kaçtı!
 
 28
-00:02:21,340 --> 00:02:22,340
-Kaçmış!
+00:02:22,141 --> 00:02:24,117
+Ne? Buradayım!
 
 29
-00:02:22,700 --> 00:02:23,700
-Buradayım!
+00:02:24,141 --> 00:02:26,117
+Avatar nerede?
 
 30
-00:02:41,110 --> 00:02:42,110
-Buradayım.
-
-31
-00:02:46,190 --> 00:02:47,190
-Selam, Momo.
-
-32
-00:02:48,650 --> 00:02:49,650
-Selam, Appa.
-
-33
-00:02:49,890 --> 00:02:51,030
-Çok mu uzun uyudum?
-
-34
-00:02:51,590 --> 00:02:52,590
-Tamam, tamam.
-
-35
-00:02:52,740 --> 00:02:53,740
-Uyandım bile.
-
-36
-00:02:54,050 --> 00:02:55,050
-Biliyorum, biliyorum.
-
-37
-00:02:55,260 --> 00:02:56,620
-Bitirmemiz gereken bir işimiz var.
-
-38
-00:02:58,340 --> 00:02:59,420
-Yolculuğumuza devam edelim.
-
-39
-00:03:00,550 --> 00:03:01,670
-Eski evimize geri dönüyoruz.
-
-40
-00:03:49,670 --> 00:03:51,753
-Bu en iyi yolculuğumuz olmayabilir, ama bulduğumuz her
-
-41
-00:03:51,777 --> 00:03:54,431
-hava bükücü yadigârı her şeye değer.
-
-42
-00:04:00,250 --> 00:04:02,380
-Bu koleksiyonumuzdaki en eski parça olabilir.
-
-43
-00:04:08,390 --> 00:04:09,390
-Sonam.
-
-44
-00:04:22,029 --> 00:04:23,030
-Seni özledim.
-
-45
-00:04:29,860 --> 00:04:31,860
-Momo, Appa ile dışarı çık.
-
-46
-00:04:33,680 --> 00:04:34,680
-Hemen!
-
-47
-00:04:34,800 --> 00:04:34,840
-Ah!
-
-48
-00:04:35,720 --> 00:04:36,720
-Ah!
-
-49
-00:04:36,760 --> 00:04:37,760
-Neden
-
-50
-00:04:45,240 --> 00:04:46,240
-bunu yapıyorsun?
-
-51
-00:04:46,600 --> 00:04:47,600
-Ah!
-
-52
-00:04:47,840 --> 00:04:48,140
-Ah!
-
-53
-00:04:48,360 --> 00:04:49,360
-Ah!
-
-54
-00:04:50,320 --> 00:04:50,880
-Dur!
-
-55
-00:04:51,300 --> 00:04:52,700
-Seni incitmek istemiyorum!
-
-56
-00:04:56,360 --> 00:04:57,560
-Nerede o?
-
-57
-00:04:57,600 --> 00:04:58,180
-Nerede o?
-
-58
-00:04:58,300 --> 00:04:59,540
-Hayır, bu o değil.
-
-59
-00:04:59,600 --> 00:04:59,740
-Hey!
-
-60
-00:04:59,880 --> 00:05:00,880
-Onlar antika!
-
-61
-00:05:01,800 --> 00:05:02,800
-!!!
-
-62
-00:05:08,840 --> 00:05:09,840
-Buldum
-
-63
-00:05:18,440 --> 00:05:18,740
-onu!
-
-64
-00:05:19,060 --> 00:05:20,060
-Ah!
-
-65
-00:05:21,440 --> 00:05:22,000
-Sonam.
-
-66
-00:05:22,320 --> 00:05:23,320
-Neden senin peşindeler?
-
-67
-00:05:24,500 --> 00:05:25,037
-Hassiktir!!!!
-
-68
-00:05:25,061 --> 00:05:26,180
-Bu
-
-69
-00:05:47,420 --> 00:05:48,497
-Bin yıllık!
-
-70
-00:05:48,521 --> 00:05:49,521
-Dur!
-
-71
-00:05:50,820 --> 00:05:51,820
-Ha.
-
-72
-00:05:55,670 --> 00:05:56,670
-Belki yardım edebilirim.
-
-73
-00:05:56,710 --> 00:05:58,310
-Senin yardımına ihtiyacımız yok, Avatar.
-
-74
-00:05:59,350 --> 00:06:03,306
-Satıcıların tüm güce sahip olduğu ve bizim hiçbir
-gücümüzün olmadığı bir dünyada yaşamaktan bıktık.
-
-75
-00:06:03,330 --> 00:06:04,330
-Kimsiniz?
-
-76
-00:06:04,390 --> 00:06:05,390
-Biz Reddedilenleriz.
-
-77
-00:06:05,530 --> 00:06:06,530
-Reddedilenler mi?
-
-78
-00:06:06,810 --> 00:06:08,050
-Öldürün şunu artık!
-
-79
-00:06:08,370 --> 00:06:08,706
-Hayır!
-
-80
-00:06:08,730 --> 00:06:10,050
-Bütün burayı başımıza yıkacak!
-
-81
-00:06:37,460 --> 00:06:38,720
-Beni... kurtardın.
-
-82
-00:06:41,120 --> 00:06:41,600
-Kaleek!
-
-83
-00:06:41,660 --> 00:06:42,400
-Haritayı bırak!
-
-84
-00:06:42,540 --> 00:06:43,540
-Hadi gidelim!
-
-85
-00:08:01,510 --> 00:08:02,870
-Cumhuriyet Şehri'ne ulaşmalıyız.
-
-86
-00:08:04,330 --> 00:08:05,007
-Appa!
-
-87
-00:08:05,031 --> 00:08:06,031
-Yip yip!
-
-88
-00:08:23,340 --> 00:08:24,340
-Su.
-
-89
-00:08:24,650 --> 00:08:27,190
-Kabileleri gücünü aydan alır.
-
-90
-00:08:28,570 --> 00:08:30,390
-Ve gelgitlerle akar.
-
-91
-00:08:32,549 --> 00:08:33,227
-Toprak.
-
-92
-00:08:33,251 --> 00:08:35,710
-Sarsılmaz bir iradenin krallığı.
-
-93
-00:08:36,470 --> 00:08:38,530
-Güvenilir ve güçlü.
-
-94
-00:08:42,150 --> 00:08:43,150
-Ateş.
-
-95
-00:08:43,789 --> 00:08:46,430
-Büyük yıkımlara muktedir bir ulus.
-
-96
-00:08:47,490 --> 00:08:51,030
-Ama aynı zamanda... büyük bir sıcaklığın.
-
-97
-00:08:53,970 --> 00:08:54,727
-Hava.
-
-98
-00:08:54,751 --> 00:08:57,550
-Kasırga gücüne sahip barışçıl göçebeler.
-
-99
-00:08:57,890 --> 00:09:00,390
-Ama hafif bir esintinin ruhuna sahip.
-
-100
-00:09:02,450 --> 00:09:06,872
-Nesiller boyu, Avatar, dört elementin de
-
-101
-00:09:06,896 --> 00:09:10,370
-tek efendisi, ulusları dengede tuttu.
-
-102
-00:09:11,910 --> 00:09:16,650
-Fakat bu sorumluluk bir çocuk olarak bana düştüğünde, kaçtım.
-
-103
-00:09:17,524 --> 00:09:19,390
-Ölümcül bir fırtınaya yakalandım.
-
-104
-00:09:19,650 --> 00:09:22,923
-Ancak Avatar ruhum yüz yıl boyunca kaldığım
-
-105
-00:09:22,947 --> 00:09:26,131
-bir enerji küresinin içinde beni korudu.
-
-106
-00:09:27,010 --> 00:09:29,860
-Uyandığımda Avatar tarafından korunan dengenin
-
-107
-00:09:29,884 --> 00:09:33,251
-savaşla yok edildiğini keşfettim.
-
-108
-00:09:34,030 --> 00:09:36,370
-Hava Göçebeleri yok olmuştu.
-
-109
-00:09:37,160 --> 00:09:38,307
-Biri hariç hepsi.
-
-110
-00:09:38,331 --> 00:09:39,390
-Ben.
-
-111
-00:09:40,330 --> 00:09:44,010
-Avatar olarak sorumluluğumdan artık kaçamazdım.
-
-112
-00:09:45,150 --> 00:09:47,950
-Her ulustan müttefikler buldum.
-
-113
-00:09:48,290 --> 00:09:49,290
-Bükücüler.
-
-114
-00:09:49,330 --> 00:09:50,570
-Ve bükücü olmayanlar.
-
-115
-00:09:52,430 --> 00:09:54,630
-Katara bana su bükmeyi öğretti.
-
-116
-00:09:55,190 --> 00:09:57,910
-Toph beni toprak bükücülerin yolunda eğitti.
-
-117
-00:09:58,890 --> 00:10:03,050
-Bir zamanlar en büyük düşmanım olan Zuko, ateş bükme öğretmenim oldu.
-
-118
-00:10:04,230 --> 00:10:08,306
-Sokka bana cesaretin, bir erkek olmanın en önemli parçası olduğunu gösterdi.
-
-119
-00:10:08,330 --> 00:10:09,330
-Bir lider olmanın.
-
-120
-00:10:09,630 --> 00:10:11,710
-Bir aile olduk.
-
-121
-00:10:13,030 --> 00:10:16,050
-Ve birlikte, Yüz Yıl Savaşı'nı bitirdik.
-
-122
-00:10:17,799 --> 00:10:22,010
-Ardından, dünyayı yeniden inşa etmenin zorlu işine başladık.
-
-123
-00:10:33,470 --> 00:10:37,210
-Uzun bir süre boyunca ulus ayrı düştü, yalnız kaldı.
-
-124
-00:10:37,969 --> 00:10:39,510
-Ve sonuç olarak hepimiz acı çektik.
-
-125
-00:10:40,369 --> 00:10:45,547
-Fakat burada, bu antik alanda, tüm insanların hoş karşılandığı bir yer yarattık.
-
-126
-00:10:45,571 --> 00:10:47,970
-Bükücü olsun, bükücü olmasın, herkesi.
-
-127
-00:10:48,694 --> 00:10:51,770
-Geleceği inşa etmek için barış içinde birlikte çalışarak.
-
-128
-00:10:52,350 --> 00:10:57,110
-Hâlâ bizi bölmek isteyenler olsa da, biz birleşik kalmaya devam ediyoruz.
-
-129
-00:10:58,294 --> 00:11:02,947
-Bir Konsey temsilcisi olarak, bugün burada olmaktan, Cumhuriyet Şehri'nin yıl dönümünü ve.
-
-130
-00:11:02,971 --> 00:11:06,770
-Birlik Kulesi'nin açılışını kutlamaktan onur duyuyorum.
-
-131
-00:11:07,519 --> 00:11:09,370
-Tüm insanlar için bir sembol.
-
-132
-00:11:12,350 --> 00:11:13,350
-Ben
-
-133
-00:11:37,310 --> 00:11:38,710
-de seni özledim, eski dostum.
-
-134
-00:11:41,190 --> 00:11:41,830
-Hey!
-
-135
-00:11:42,110 --> 00:11:43,110
-Katara!
-
-136
-00:11:48,080 --> 00:11:49,080
-Yaralanmışsın.
-
-137
-00:11:57,140 --> 00:11:58,400
-Derin bir nefes al.
-
-138
-00:12:02,040 --> 00:12:03,320
-Ve... nefes ver.
-
-139
-00:12:05,139 --> 00:12:07,179
-Reddedilenlerin (Denied) sayısının arttığını duydum.
-
-140
-00:12:07,359 --> 00:12:09,199
-Ama daha önce hiç böyle bir şey yapmamışlardı.
-
-141
-00:12:09,524 --> 00:12:10,524
-Avatar'a saldırmak mı?
-
-142
-00:12:10,640 --> 00:12:11,640
-Evet.
-
-143
-00:12:12,259 --> 00:12:13,459
-İnanılmaz savaşçılardı.
-
-144
-00:12:14,669 --> 00:12:15,869
-Bükme yetenekleri olmasa bile.
-
-145
-00:12:17,340 --> 00:12:17,820
-Hop.
-
-146
-00:12:18,120 --> 00:12:18,420
-Ah.
-
-147
-00:12:18,720 --> 00:12:19,720
-Nefes alarak atlat.
-
-148
-00:12:20,120 --> 00:12:20,920
-Dürüst ol.
-
-149
-00:12:21,140 --> 00:12:22,140
-Bundan keyif alıyorsun.
-
-150
-00:12:22,480 --> 00:12:23,920
-Aang, bu ciddi.
-
-151
-00:12:24,809 --> 00:12:27,684
-Aldıkları o harita her neyse, onu ele geçirmek için Avatar'ı öldürmeyi
-
-152
-00:12:27,784 --> 00:12:30,720
-göze aldılarsa, başka neler yapmaya hazırlardır?
-
-153
-00:12:31,340 --> 00:12:32,340
-Bilmiyorum.
-
-154
-00:12:34,219 --> 00:12:35,299
-Senin için endişeleniyorum.
-
-155
-00:12:36,119 --> 00:12:38,319
-Hava Tapınağı'nda gitgide daha fazla vakit geçiriyorsun.
-
-156
-00:12:38,780 --> 00:12:39,780
-Yalnız başına.
-
-157
-00:12:42,169 --> 00:12:43,489
-Bu... geçmişime tutunma şeklim.
-
-158
-00:12:45,839 --> 00:12:47,799
-Bunun senin için ne kadar zor olduğunu biliyorum.
-
-159
-00:12:52,289 --> 00:12:58,450
-Saldırıya uğradığımda, tek düşünebildiğim her şeyin buraya kadar olabileceğiydi.
-
-160
-00:13:00,549 --> 00:13:02,550
-Ben son Hava Bükücüyüm.
-
-161
-00:13:04,639 --> 00:13:07,990
-Eğer ölürsem, kültürüm de benimle birlikte ölür.
-
-162
-00:13:11,299 --> 00:13:14,450
-Son Hava Bükücü olabilirsin, ama yalnız değilsin.
-
-163
-00:13:17,429 --> 00:13:19,389
-Aang, bunların hiçbiri sen olmasaydın var olmazdı.
-
-164
-00:13:21,039 --> 00:13:24,270
-Kalbinle ve zihninle bu şehri mümkün kıldın.
-
-165
-00:13:26,619 --> 00:13:29,550
-Senin sayende, bütün uluslar burada yaşıyor.
-
-166
-00:13:29,870 --> 00:13:30,870
-Birlikte.
-
-167
-00:13:33,659 --> 00:13:34,659
-Benimki hariç hepsi.
-
-168
-00:13:44,710 --> 00:13:45,730
-Biliyorum.
-
-169
-00:13:47,799 --> 00:13:49,786
-Ama buradaki insanların hâlâ senin korumana ihtiyacı var.
-
-170
-00:13:49,810 --> 00:13:51,087
-Sen bir Hava Bükücüsün.
-
-171
-00:13:51,111 --> 00:13:52,111
-Asıl Hava Bükücü.
-
-172
-00:13:52,859 --> 00:13:54,150
-Ama aynı zamanda Avatar'sın.
-
-173
-00:13:56,590 --> 00:13:57,590
-Haklısın.
-
-174
-00:13:59,569 --> 00:14:02,610
-Bu Sonam denen kişi her kimse, daha fazlasını öğrenmem gerek.
-
-175
-00:14:29,070 --> 00:14:30,070
-Aang.
-
-176
-00:14:30,150 --> 00:14:31,150
-Avatar Roku.
-
-177
-00:14:31,779 --> 00:14:33,330
-Seni tekrar görmek güzel.
-
-178
-00:14:34,139 --> 00:14:35,379
-Sana nasıl yardımcı olabilirim?
-
-179
-00:14:35,609 --> 00:14:39,487
-Hayatın boyunca, Sonam adında kadim bir Hava Bükücü'yü hiç duydun mu?
-
-180
-00:14:39,511 --> 00:14:40,730
-Duymadım.
-
-181
-00:14:41,539 --> 00:14:43,950
-Ama yardımına başvurabileceğin pek çok geçmiş yaşamın var.
-
-182
-00:14:44,809 --> 00:14:48,350
-Belki Avatar döngüsünde daha gerideki biri sana yardım edebilir.
-
-183
-00:14:49,509 --> 00:14:50,509
-Teşekkürler, Avatar Roku.
-
-184
-00:14:52,890 --> 00:14:53,990
-Üzgünüm.
-
-185
-00:14:54,190 --> 00:14:55,230
-Sonam ismini hiç duymadım.
-
-186
-00:14:56,009 --> 00:14:57,110
-Belki daha öncekiler.
-
-187
-00:14:57,270 --> 00:14:58,270
-Burada değil.
-
-188
-00:14:58,410 --> 00:14:59,410
-Burada değil.
-
-189
-00:14:59,630 --> 00:15:01,570
-Avatar döngüsünde geriye doğru.
-
-190
-00:15:02,110 --> 00:15:04,250
-Oturmak için daha iyi bir yer bulacağından eminim.
-
-191
-00:15:08,470 --> 00:15:09,467
-Üzgünüm.
-
-192
-00:15:09,491 --> 00:15:10,491
-Merhaba?
-
-193
-00:15:12,079 --> 00:15:13,079
-Burada kimse var mı?
-
-194
-00:15:13,970 --> 00:15:14,970
-Merhaba?
-
-195
-00:15:17,150 --> 00:15:22,230
-Avatar Xion'un engin bilgi hazinesine kim sesleniyor?
-
-196
-00:15:26,819 --> 00:15:27,819
-Oh, merhaba.
-
-197
-00:15:27,910 --> 00:15:31,550
-Benimkinden oldukça uzak bir zamandan bir Avatar gibi görünüyorsun.
-
-198
-00:15:32,079 --> 00:15:34,670
-Lütfen, lütfen, bana döneminden bahset.
-
-199
-00:15:34,870 --> 00:15:36,150
-İnsanlar ne giyiyor?
-
-200
-00:15:36,929 --> 00:15:37,807
-Sandaletler hâlâ moda mı?
-
-201
-00:15:37,831 --> 00:15:39,070
-Şey, evet.
-
-202
-00:15:39,510 --> 00:15:40,510
-Ah, neden?
-
-203
-00:15:41,139 --> 00:15:46,970
-Neden, bunca yıldan sonra açık parmak uçları,
-başkasının kabuk bağlamış tırnak etlerini görmek?
-
-204
-00:15:48,110 --> 00:15:48,630
-İğrenç!
-
-205
-00:15:48,910 --> 00:15:49,910
-Haklısın.
-
-206
-00:15:50,309 --> 00:15:52,070
-Her neyse, rehberliğin için geldim.
-
-207
-00:15:52,370 --> 00:15:53,710
-Görüyorsun ya, saldırıya uğradım.
-
-208
-00:15:54,209 --> 00:15:55,350
-Ben değildim, tamam mı?
-
-209
-00:15:55,490 --> 00:15:56,110
-Ben değildim.
-
-210
-00:15:56,250 --> 00:15:57,250
-Biliyorum.
-
-211
-00:15:57,629 --> 00:16:00,470
-Sanırım Sonam adında bir Hava Bükücü ile bir ilgisi olabilir.
-
-212
-00:16:01,870 --> 00:16:02,386
-Sonam.
-
-213
-00:16:02,410 --> 00:16:03,790
-Kulağa tanıdık geliyor.
-
-214
-00:16:04,550 --> 00:16:05,070
-Sonam.
-
-215
-00:16:05,130 --> 00:16:07,147
-Bu ismi daha önce nerede duymuştum?
-
-216
-00:16:07,171 --> 00:16:07,770
-Aha!
-
-217
-00:16:08,130 --> 00:16:10,213
-Sonam, dükkan sahibinin en küçük kızıydı
-
-218
-00:16:10,237 --> 00:16:12,070
-köşe pazarındaki opossum tavukçusunun.
-
-219
-00:16:12,410 --> 00:16:14,870
-Bekle, o eski sevgilim Soniam'dı.
-
-220
-00:16:15,479 --> 00:16:18,330
-Keşke o devasa ayak tırnakları olmasaydı.
-
-221
-00:16:19,290 --> 00:16:19,890
-İğrenç.
-
-222
-00:16:20,130 --> 00:16:21,130
-Bu hiçbir yere varmıyor.
-
-223
-00:16:21,510 --> 00:16:21,970
-Sonam?
-
-224
-00:16:22,190 --> 00:16:22,790
-Sonam?
-
-225
-00:16:22,870 --> 00:16:23,870
-Sonam?
-
-226
-00:16:23,919 --> 00:16:25,479
-Vaktinizi ayırdığınız için teşekkürler.
-
-227
-00:16:26,039 --> 00:16:27,470
-Aramama devam etmeliyim.
-
-228
-00:16:27,839 --> 00:16:29,567
-Ah, Sonam.
-
-229
-00:16:29,591 --> 00:16:33,110
-Kayıp Avatar efsanesini soruyorsun.
-
-230
-00:16:34,230 --> 00:16:35,387
-Sonam bir Avatar mıydı?
-
-231
-00:16:35,411 --> 00:16:37,210
-Gerçekten de öyleydi.
-
-232
-00:16:37,630 --> 00:16:42,050
-Hava Bükücülerin altın çağındaki Avatar oydu.
-
-233
-00:16:42,330 --> 00:16:47,307
-Efsaneye göre, ruhlar dünyasının muazzam enerjisini kanalize edebilen,
-
-234
-00:16:47,331 --> 00:16:50,910
-sahibine sınırsız güç bahşeden bir asası vardı.
-
-235
-00:16:51,470 --> 00:16:53,850
-Bu... bu mümkün mü gerçekten?
-
-236
-00:16:54,270 --> 00:16:56,330
-Eh, hiçbir zaman kesin olarak bilemeyeceğiz.
-
-237
-00:16:56,550 --> 00:17:00,210
-Birçok Avatar onunla iletişim kurmaya çalıştı ama başaramadılar.
-
-238
-00:17:00,809 --> 00:17:04,470
-O kadar tamamen ortadan kayboldu ki sanki hiç var olmamış gibiydi.
-
-239
-00:17:06,159 --> 00:17:07,479
-Ve belki de böylesi daha iyidir.
-
-240
-00:17:08,339 --> 00:17:11,869
-Belki de böyle bir asa, herhangi birinin sahip olması için fazla tehlikeliydi.
-
-241
-00:17:12,879 --> 00:17:14,030
-Avatar için bile.
-
-242
-00:17:14,864 --> 00:17:16,869
-Ama... ama tam da bu yüzden onu bulmam gerekiyor.
-
-243
-00:17:17,569 --> 00:17:19,410
-Bana saldıranlar bir harita buldular.
-
-244
-00:17:19,979 --> 00:17:21,219
-Bu harita asaya çıkıyor olmalı.
-
-245
-00:17:22,129 --> 00:17:25,950
-Avatar Shion, lütfen, nerede olduğunu bana söylemelisin.
-
-246
-00:17:28,904 --> 00:17:34,230
-Efsane, Sonam'ın asasıyla birlikte Baihu Dağı'nın zirvesinde kaybolduğunu söyler.
-
-247
-00:17:37,550 --> 00:17:39,670
-Katara, böyle aniden ayrıldığım için üzgünüm.
-
-248
-00:17:40,314 --> 00:17:42,274
-Ama Denider'ların neyin peşinde olduğunu öğrendim.
-
-249
-00:17:43,339 --> 00:17:45,210
-Sonam'ın muazzam güce sahip bir asası vardı.
-
-250
-00:17:46,129 --> 00:17:48,770
-Ve onların elinde, yıkıcı bir silah olabilir.
-
-251
-00:17:49,879 --> 00:17:50,990
-Bir adım öndeler.
-
-252
-00:17:51,550 --> 00:17:52,790
-Kaybedecek vakit yok.
-
-253
-00:17:54,150 --> 00:17:56,850
-Sen Appa ve Momo'yu al ve ekibin geri kalanını topla.
-
-254
-00:17:57,439 --> 00:17:58,519
-Yardıma ihtiyacımız olacak.
-
-255
-00:18:05,190 --> 00:18:07,313
-Gündemdeki sıradaki madde...
-
-255
-00:18:07,325 --> 00:18:09,436
-Bir Ateş Ulusu donanma gemisi şununla çatışmaya girdi:
-
-256
-00:18:09,486 --> 00:18:12,326
-"Reddedilenler" denilen, bükücü olmayanlardan oluşan aşırılıkçı bir grup.
-
-257
-00:18:12,519 --> 00:18:14,067
-Antik alanları yağmalıyorlar... Majesteleri!
-
-258
-00:18:14,091 --> 00:18:15,091
-Majesteleri!
-
-259
-00:18:15,529 --> 00:18:17,750
-Cumhuriyet Şehri'nden acil bir mesaj geldi.
-
-260
-00:18:18,079 --> 00:18:19,079
-Ne büyük küstahlık.
-
-261
-00:18:19,429 --> 00:18:21,971
- Ateş Lordu Zuko'nun sözünü... 
-
-262
-00:18:23,269 --> 00:18:24,939
-Ateş Lordu'nun konseyini bölecek kadar acil bir mesaj gönderebilecek
-
-263
-00:18:24,963 --> 00:18:27,180
-tek bir kişi var.
-
-264
-00:18:27,819 --> 00:18:28,819
-Avatar'dan mı?
-
-265
-00:18:28,890 --> 00:18:29,370
-Evet, efendim.
-
-266
-00:18:29,570 --> 00:18:30,290
-Oku bana.
-
-267
-00:18:30,370 --> 00:18:31,370
-Evet, efendim.
-
-268
-00:18:34,410 --> 00:18:35,410
-Şey...
-
-269
-00:18:35,790 --> 00:18:36,970
-Ne yapıyorsun?
-
-270
-00:18:37,130 --> 00:18:38,130
-Çabuk oku!
-
-271
-00:18:39,519 --> 00:18:40,750
-Evet, Başmabeyinci.
-
-272
-00:18:42,389 --> 00:18:44,810
-Flamio Hartman, Ateş Ulusu'nu yönetmek nasıl gidiyor?
-
-273
-00:18:45,050 --> 00:18:51,150
-Umarım mektuplarında bahsettiğin o sıkıcı Mabeyinci hâlâ canını sıkmıyordur.
-
-274
-00:18:51,914 --> 00:18:54,590
-Her neyse, sadede gelmek gerekirse, yardımına ihtiyacım var.
-
-275
-00:18:55,199 --> 00:18:56,479
-Lütfen hemen gelebilir misin?
-
-276
-00:18:57,259 --> 00:19:00,330
-Ha, bir de gelirken biraz maytaplı çörek getirmeyi unutma.
-
-277
-00:19:02,970 --> 00:19:04,630
-Takdim etmeme izin verin...
-
-278
-00:19:04,930 --> 00:19:05,930
-Sokka Aracı.
-
-279
-00:19:06,130 --> 00:19:09,950
-Alevler seni gökyüzüne fırlatıyor, oradan düşmanlarının üzerine su bombaları bırakabiliyorsun.
-
-280
-00:19:10,539 --> 00:19:13,366
-Sonra inişi sağlam yapmana yardımcı olmak için kayaklar dışarı fırlıyor.
-
-281
-00:19:13,390 --> 00:19:14,510
-Bayağı harika, değil mi?
-
-282
-00:19:14,790 --> 00:19:15,790
-Eh, sıkıcı.
-
-283
-00:19:16,199 --> 00:19:18,319
-Su bükebiliyorken neden bir kızağa ihtiyaç duyasın ki?
-
-284
-00:19:18,389 --> 00:19:19,789
-Ah, ah, ah, benim gibi, benim gibi!
-
-285
-00:19:20,670 --> 00:19:24,310
-Unutma ki, hâlâ benim gibi bükemeyen pek çok insan var.
-
-286
-00:19:24,589 --> 00:19:26,989
-Avatar Aang neden bükücü olmayan biriyle ortaklık kursun ki?
-
-287
-00:19:27,270 --> 00:19:28,270
-Of, neden?
-
-288
-00:19:28,550 --> 00:19:29,550
-Nedenini size söyleyeyim.
-
-289
-00:19:29,690 --> 00:19:31,050
-Onu buzdağından ben kurtardım.
-
-290
-00:19:31,310 --> 00:19:34,887
-Ben sadık yayımla düşmanları bertaraf ederken, bumerangım onun yanında uçuyordu.
-
-291
-00:19:34,911 --> 00:19:38,290
-Bütün Ateş Ulusu hava gemisi donanmasını bile ben indirdim.
-
-292
-00:19:40,250 --> 00:19:43,310
-Ve tüm bunların üstüne, ondan daha popülerdim.
-
-293
-00:19:45,159 --> 00:19:46,199
-Tam bir yalancısın, Sokka.
-
-294
-00:19:49,570 --> 00:19:50,570
-Avatar'dan gelmiş.
-
-295
-00:19:50,850 --> 00:19:51,270
-Vay canına!
-
-296
-00:19:51,430 --> 00:19:52,430
-Gerçekten mi?
-
-297
-00:19:52,490 --> 00:19:54,450
-Oh, yani şimdi mi havalı olduğumu düşünüyorsunuz?
-
-298
-00:19:55,884 --> 00:19:57,270
-Pekala, metal bükücüler.
-
-299
-00:19:58,159 --> 00:20:01,530
-Bakalım siz çömezlerden biri en azından ellerimi kullanmamı sağlayabilecek mi?
-
-300
-00:20:36,350 --> 00:20:37,530
-Dünyadaki toprak bükücü!
-
-301
-00:20:39,010 --> 00:20:40,230
-Ve canım sıkılıyor.
-
-302
-00:20:41,289 --> 00:20:43,510
-Usta Toph, kafanızda bir kuş var.
-
-303
-00:20:43,690 --> 00:20:44,090
-Ee?
-
-304
-00:20:44,589 --> 00:20:45,829
-Görünüşe göre bir mesajı var.
-
-305
-00:20:45,970 --> 00:20:46,970
-Oku.
-
-306
-00:20:48,129 --> 00:20:49,175
-Şey, Avatar Aang'den gelmiş.
-
-307
-00:20:49,199 --> 00:20:50,199
-Yardımına ihtiyacı var.
-
-308
-00:20:50,290 --> 00:20:51,290
-Bu Reddedilen mı?
-
-309
-00:20:51,750 --> 00:20:52,750
-Nerede o?
-
-310
-00:20:53,309 --> 00:20:54,309
-Baihu Dağı.
-
-311
-00:23:49,720 --> 00:23:50,720
-Sonam?
-
-312
-00:23:55,520 --> 00:23:56,780
-Bu sen olabilir misin?
-
-313
-00:23:58,460 --> 00:23:59,100
-Ha?
-
-314
-00:23:59,360 --> 00:24:00,360
-Siktir!
-
-315
-00:25:00,400 --> 00:25:01,580
-Kimsin sen?
-
-316
-00:25:02,860 --> 00:25:03,860
-Ha?
-
-317
-00:28:16,590 --> 00:28:17,590
-Takım.
-
-318
-00:28:23,680 --> 00:28:25,200
-Avatar kurtarmaya geldi!
-
-319
-00:28:27,240 --> 00:28:28,240
-Aang!
-
-320
-00:28:28,339 --> 00:28:29,760
-Geldin!
-
-321
-00:28:30,309 --> 00:28:33,149
-Kendini öldürtmek için kaçıp gitmeden önce bir gün bile bekleyemedin mi?
-
-322
-00:28:33,464 --> 00:28:35,184
-Burada bir asa aradığını sanıyordum.
-
-323
-00:28:35,939 --> 00:28:36,939
-Bu adam da kim?
-
-324
-00:28:44,209 --> 00:28:45,209
-Bir hava bükücü.
-
-325
-00:29:06,409 --> 00:29:08,270
-Koca bir dağı nasıl havada tuttu?
-
-326
-00:29:09,009 --> 00:29:11,730
-Çisi çok güçlü, daha önce hiç hissetmediğim kadar.
-
-327
-00:29:13,130 --> 00:29:14,130
-Hey, Avatar.
-
-328
-00:29:14,779 --> 00:29:17,930
-Bu adamın, en uzun süre donmuş hava bükücü rekorunu kırdığını mı düşünüyorsun?
-
-329
-00:29:18,150 --> 00:29:18,527
-Evet.
-
-330
-00:29:18,551 --> 00:29:20,870
-Sence o buzun içinde ne kadar süre kaldı?
-
-331
-00:29:21,210 --> 00:29:22,210
-Bilmiyorum.
-
-332
-00:29:23,239 --> 00:29:24,870
-Dövmeleri... kadim görünüyor.
-
-333
-00:29:26,069 --> 00:29:27,450
-Uzun zamandır oradaymış.
-
-334
-00:29:28,349 --> 00:29:29,486
-Yaşlı bir adama göre güzel kokuyor.
-
-335
-00:29:29,510 --> 00:29:29,650
-Iyy.
-
-336
-00:29:30,010 --> 00:29:30,290
-Ne?
-
-337
-00:29:30,599 --> 00:29:32,526
-Duyularım bu çocuğun oldukça çekici olduğunu söylüyor.
-
-338
-00:29:32,550 --> 00:29:32,770
-Konuş!
-
-339
-00:29:32,810 --> 00:29:33,690
-Başkası da onaylasın.
-
-340
-00:29:33,770 --> 00:29:34,470
-Bu ciddi.
-
-341
-00:29:34,509 --> 00:29:35,826
-Çekici ne demek ki?
-
-342
-00:29:35,850 --> 00:29:37,286
-Sadece bana net bir onay ver.
-
-343
-00:29:37,310 --> 00:29:38,310
-O çekici mi?
-
-344
-00:29:38,410 --> 00:29:39,410
-O çok çekici.
-
-345
-00:29:39,510 --> 00:29:40,510
-Ha?
-
-346
-00:29:41,190 --> 00:29:41,630
-Ne?
-
-347
-00:29:42,070 --> 00:29:43,070
-Öyle.
-
-348
-00:29:43,509 --> 00:29:44,789
-Her şey kemik yapısında bitiyor.
-
-349
-00:29:44,890 --> 00:29:45,890
-Ha?
-
-350
-00:29:49,630 --> 00:29:50,790
-Hop, hop, hop.
-
-351
-00:29:51,050 --> 00:29:52,050
-Hey.
-
-352
-00:29:52,250 --> 00:29:52,707
-Sakin.
-
-353
-00:29:52,731 --> 00:29:53,731
-Güvendesin.
-
-354
-00:29:56,520 --> 00:29:57,000
-Toprak bükücü!
-
-355
-00:29:57,180 --> 00:29:57,580
-Hayır, hayır, hayır.
-
-356
-00:29:57,680 --> 00:29:58,760
-Burada hepimiz arkadaşız.
-
-357
-00:29:58,940 --> 00:29:59,940
-Sorun yok.
-
-358
-00:30:00,589 --> 00:30:02,549
-Birileri dağın ters tarafında uyanmış.
-
-359
-00:30:03,540 --> 00:30:04,540
-O nerede?
-
-360
-00:30:06,649 --> 00:30:07,740
-Avatar Sonam nerede?
-
-361
-00:30:08,739 --> 00:30:09,739
-Sonam'ı tanıyor muydun?
-
-362
-00:30:10,840 --> 00:30:11,840
-Kimsin sen?
-
-363
-00:30:13,669 --> 00:30:17,237
-Nasıl açıklayacağımı bilmiyorum, ama çok uzun zamandır uyuyordun.
-
-364
-00:30:17,261 --> 00:30:20,020
-Artık Avatar benim.
-
-365
-00:30:20,660 --> 00:30:21,660
-Ben Aang.
-
-366
-00:30:23,329 --> 00:30:27,420
-Eğer Avatar sensen, o zaman Sonam...
-
-367
-00:30:31,060 --> 00:30:33,595
-Şey, Sonam çoktan gitmiş olabilir ama iyi
-
-368
-00:30:33,695 --> 00:30:36,679
-tarafından bakarsak, tam zamanında uyandın.
-
-369
-00:30:37,139 --> 00:30:39,420
-Herkes başka bir hava bükücü gördüğüne çok şaşıracak.
-
-370
-00:30:39,779 --> 00:30:41,180
-Aang artık sonuncu değil.
-
-371
-00:30:43,379 --> 00:30:44,820
-Ne demek istiyorsun, sonuncu derken?
-
-372
-00:30:45,460 --> 00:30:46,460
-Oh.
-
-373
-00:30:49,420 --> 00:30:50,420
-Hava göçebeleri.
-
-374
-00:30:52,199 --> 00:30:53,199
-Hepsi yok edildi.
-
-375
-00:30:54,840 --> 00:30:55,840
-Sadece ben kaldım.
-
-376
-00:31:00,000 --> 00:31:01,000
-Sonam'ın asası.
-
-377
-00:31:01,520 --> 00:31:02,520
-O sende mi?
-
-378
-00:31:03,689 --> 00:31:04,689
-Şu anki tek umudumuz o.
-
-379
-00:31:05,220 --> 00:31:06,220
-Ne demek istiyorsun?
-
-380
-00:31:07,129 --> 00:31:08,489
-Onun bir silah olduğunu sanmıştım.
-
-381
-00:31:09,929 --> 00:31:10,929
-Asa bir silah değildir.
-
-382
-00:31:11,820 --> 00:31:12,840
-O bir hediyedir.
-
-383
-00:31:15,580 --> 00:31:20,320
-Onunla Sonam, ruhlar dünyasının muazzam gücünü yönlendirebiliyordu.
-
-384
-00:31:21,639 --> 00:31:24,420
-Jorana'nın gelişip serpilmesini sağlayan bu güçtü.
-
-385
-00:31:25,040 --> 00:31:27,460
-Dünyadaki en büyük şehir.
-
-386
-00:31:28,129 --> 00:31:29,400
-Bir hava göçebesi ütopyası.
-
-387
-00:31:30,104 --> 00:31:33,060
-Sonam'ın altın bir denge çağına önderlik ettiği yer.
-
-388
-00:31:33,600 --> 00:31:36,900
-Ve hayatımı ona hizmet etmeye adadığım yerde.
-
-389
-00:31:37,809 --> 00:31:43,460
-Karşılığında beni yüceltti ve asasını kullanarak bana, aciz bir bükücü olmayana,
-
-390
-00:31:44,249 --> 00:31:46,220
-havayı bükme gücünü verdi.
-
-391
-00:31:47,674 --> 00:31:49,897
-İlk bendim, ama sonuncu olmayacaktım.
-
-392
-00:31:49,921 --> 00:31:53,280
-Gökyüzünü hava bükücülerle doldurdu.
-
-393
-00:31:54,389 --> 00:31:57,640
-Ve onun yanında uçtuk, dünyaya barış yayarak.
-
-394
-00:32:06,650 --> 00:32:07,210
-Aang?
-
-395
-00:32:07,530 --> 00:32:08,530
-İyi misin?
-
-396
-00:32:10,819 --> 00:32:13,299
-Sonam asayı insanlara hava bükme yeteneği vermek için kullandı.
-
-397
-00:32:14,514 --> 00:32:19,590
-Eğer onu bulursak, hava bükmeyi dünyaya geri getirebilirim.
-
-398
-00:32:20,569 --> 00:32:21,690
-Bu inanılmaz!
-
-399
-00:32:21,930 --> 00:32:24,087
-Yüz yılı aşkın bir süredir hava bükücü değiliz!
-
-400
-00:32:24,111 --> 00:32:27,670
-Bu senin şimdiye kadar istediğin her şey, Aang.
-
-401
-00:32:29,859 --> 00:32:33,330
-Ulusumun savaşta işlediği en büyük vahşeti telafi edebiliriz.
-
-402
-00:32:34,799 --> 00:32:37,030
-Bu, dünyayı yeniden inşa etmenin son adımı olabilir.
-
-403
-00:32:37,999 --> 00:32:39,506
-Eğer Reddedilenler oraya önce varırsa olmaz.
-
-404
-00:32:39,530 --> 00:32:40,530
-Harita onlarda.
-
-405
-00:32:42,329 --> 00:32:43,329
-Reddedilenler de kim?
-
-406
-00:32:43,639 --> 00:32:45,719
-Şiddet yanlısı bükücü olmayanlardan oluşan bir grup.
-
-407
-00:32:46,050 --> 00:32:49,750
-Onlar... kendilerine hava bükme yeteneği vermek için asanın peşinde olmalılar.
-
-408
-00:32:50,459 --> 00:32:51,659
-O halde kaybedecek zaman yok.
-
-409
-00:32:52,279 --> 00:32:53,679
-Olabileceği tek bir yer var.
-
-410
-00:32:54,110 --> 00:32:55,110
-Bizonunu hazırla.
-
-411
-00:32:55,409 --> 00:32:57,690
-Uçsuz bucaksız okyanusu aşmamız gerekecek.
-
-412
-00:32:58,254 --> 00:32:59,494
-Dünyanın öbür ucuna mı?
-
-413
-00:33:00,099 --> 00:33:01,126
-Ama orada hiçbir şey yok.
-
-414
-00:33:01,150 --> 00:33:02,150
-Bir ada var.
-
-415
-00:33:02,979 --> 00:33:06,110
-Yolculuk kolay olmayacak ama başarabiliriz.
-
-416
-00:33:07,499 --> 00:33:08,499
-O zaman yola koyulalım.
-
-417
-00:33:09,929 --> 00:33:12,070
-Gökyüzü bir su çocuğu için uygun bir yer değil.
-
-418
-00:33:12,749 --> 00:33:13,790
-Su çocuğu mu?
-
-419
-00:33:14,879 --> 00:33:19,930
-Şey, binlerce yıl sonra yeni uyandığını biliyorum ama biz bu işleri birlikte yaparız.
-
-420
-00:33:20,250 --> 00:33:21,250
-Bana güven.
-
-421
-00:33:21,689 --> 00:33:22,487
-Bu şekilde daha güçlüyüz.
-
-422
-00:33:22,511 --> 00:33:24,050
-Avatar Takımı'na hoş geldin.
-
-423
-00:33:24,930 --> 00:33:25,930
-Adın ne?
-
-424
-00:33:26,750 --> 00:33:27,750
-Taga.
-
-425
-00:33:28,030 --> 00:33:29,670
-Benim adım Taga.
-
-426
-00:33:39,440 --> 00:33:42,340
-Sadece onu devasa, metal bir hava bizonu gibi düşün.
-
-427
-00:33:50,320 --> 00:33:53,380
-Gökyüzündeki kadim yollarda seyahat edeceğiz.
-
-428
-00:33:55,200 --> 00:33:58,218
-Halkımızın, çok uzun zaman önce bize hava bükmeyi öğreten o büyük
-
-429
-00:33:58,242 --> 00:34:00,880
-hava bizonu sürülerinin peşinden giderek öğrendiği yollar.
-
-430
-00:34:01,569 --> 00:34:03,920
-Sadece bizim tarafımızdan bilinen hava akımları.
-
-431
-00:34:04,749 --> 00:34:06,940
-Varoluşun o büyük küresini çevreleyen.
-
-432
-00:34:08,020 --> 00:34:10,060
-İstediğimiz yere seyahat etmemize olanak tanıyan.
-
-433
-00:34:10,780 --> 00:34:12,199
-Bize adımızı veren.
-
-434
-00:34:12,380 --> 00:34:14,659
-Hava Göçebeleri.
-
-435
-00:34:44,420 --> 00:34:45,460
-Ne yapıyor o?
-
-436
-00:34:46,920 --> 00:34:48,400
-Havayı gerçekten hissediyor.
-
-437
-00:34:49,780 --> 00:34:51,199
-İçgüdüleriyle yolunu buluyor.
-
-438
-00:34:51,875 --> 00:34:53,620
-Ya içgüdüleri düpedüz yanlışsa?
-
-439
-00:34:54,140 --> 00:34:56,176
-Böyle kasların varken içgüdülere kimin ihtiyacı olur ki?
-
-440
-00:34:56,200 --> 00:34:58,940
-Ya da ya donup kaldığı için beyni hasar görmüşse?
-
-441
-00:34:59,160 --> 00:35:00,160
-Benimki gibi mi?
-
-442
-00:35:00,310 --> 00:35:01,860
-Şey, hayır, hayır!
-
-443
-00:35:02,060 --> 00:35:04,940
-O 5.000 yıl boyunca donmuştu, tamam mı?
-
-444
-00:35:05,230 --> 00:35:06,560
-Sen ise ne kadar, 100 yıl mı?
-
-445
-00:35:07,220 --> 00:35:08,100
-Tamam, bu hiçbir şey.
-
-446
-00:35:08,200 --> 00:35:10,480
-Senin beynin... taze.
-
-447
-00:35:11,870 --> 00:35:14,480
-Belki biraz eski kafalıdır, ama şuna bir bak.
-
-448
-00:35:15,160 --> 00:35:20,300
-Elementiyle o kadar uyumlu ki, hiçbir harita olmadan tüm okyanusu aşabilir.
-
-449
-00:35:20,420 --> 00:35:21,420
-Hiçbir cihaz kullanmadan.
-
-450
-00:35:24,380 --> 00:35:26,060
-Ondan öğrenebileceğim çok şey var.
-
-451
-00:35:38,000 --> 00:35:41,000
-Hava Bizonumu tekrar görebilmek için her şeyi verirdim.
-
-452
-00:35:44,520 --> 00:35:48,360
-Ve şimdi, geriye sadece bir tane kaldığını görmek.
-
-453
-00:35:53,220 --> 00:35:54,900
-.
-
-454
-00:35:55,760 --> 00:35:56,760
-.
-
-455
-00:35:57,140 --> 00:36:00,140
-Aang, halkımızın yok edildiğini söyledin. Yine de sen hayatta kaldın. Nasıl?
-
-456
-00:36:00,650 --> 00:36:02,320
-Avatar olduğumu henüz yeni öğrenmiştim.
-
-457
-00:36:04,770 --> 00:36:07,140
-Ama sorumluluk... çok fazlaydı.
-
-458
-00:36:08,840 --> 00:36:09,940
-Bu yüzden kaçtım.
-
-459
-00:36:12,060 --> 00:36:14,760
-Ve ben yokken Ateş Ulusu saldırdı.
-
-460
-00:36:16,920 --> 00:36:18,480
-Beni arıyorlardı.
-
-461
-00:36:23,350 --> 00:36:24,830
-Eğer... eğer sadece orada olsaydım...
-
-462
-00:36:25,290 --> 00:36:29,180
-Sonam, Hava Göçebeleri'nin sisten oluştuğunu söylerdi.
-
-463
-00:36:30,260 --> 00:36:32,160
-Dünyada kısa bir anlığına yürürüz.
-
-464
-00:36:33,160 --> 00:36:35,860
-Sonra ebedi rüzgara döneriz.
-
-465
-00:36:37,980 --> 00:36:39,220
-Keşiş Yahtso bana bunu öğretti.
-
-466
-00:36:40,710 --> 00:36:41,780
-Aynı yükü taşıyoruz.
-
-467
-00:36:42,690 --> 00:36:44,920
-Başka hiç kimsenin muhtemelen kavrayamayacağı bir keder.
-
-468
-00:36:46,020 --> 00:36:48,020
-Ama sen ve ben geçmişi iyileştirebiliriz.
-
-469
-00:36:49,170 --> 00:36:52,100
-Elementimizin ne kadar güçlü olabileceğini sana göstermeme izin ver.
-
-470
-00:36:52,750 --> 00:36:54,240
-Hava Bükücüler birlikte çalıştığında.
-
-471
-00:37:00,400 --> 00:37:02,500
-Sonam bana böyle öğretti.
-
-472
-00:37:02,820 --> 00:37:05,040
-Bizi birbirimize bağlayan enerjiyi hisset.
-
-473
-00:37:10,280 --> 00:37:12,440
-Aramızdaki bağı.
-
-474
-00:37:12,580 --> 00:37:13,740
-Hissedebiliyor musun?
-
-475
-00:37:13,860 --> 00:37:14,860
-Kullan onu.
-
-476
-00:37:15,020 --> 00:37:16,240
-Bu harika!
-
-477
-00:37:17,720 --> 00:37:18,720
-Evet!
-
-478
-00:37:21,980 --> 00:37:22,980
-Vu-hu!
-
-479
-00:37:23,240 --> 00:37:24,260
-Ah evet!
-
-480
-00:37:24,660 --> 00:37:25,457
-İnsan bumerang!
-
-481
-00:37:25,481 --> 00:37:27,260
-Gerçekten uçuyor.
-
-482
-00:37:27,420 --> 00:37:28,420
-Biz de öyle.
-
-483
-00:37:28,560 --> 00:37:29,100
-Vay canına!
-
-484
-00:37:29,240 --> 00:37:30,020
-Bu benim en iyi arkadaşım!
-
-485
-00:37:30,160 --> 00:37:31,160
-O benim en iyi arkadaşım!
-
-486
-00:37:32,160 --> 00:37:33,360
-Şimdi beni fırlat!
-
-487
-00:37:35,520 --> 00:37:36,520
-Benim
-
-488
-00:38:03,060 --> 00:38:04,080
-canım, bu mümkündü!
-
-489
-00:38:04,400 --> 00:38:05,840
-Bu sadece başlangıç.
-
-490
-00:38:13,540 --> 00:38:14,880
-İnanamıyorum.
-
-491
-00:38:16,270 --> 00:38:17,990
-Hava bükücüler gökyüzünü tekrar dolduracak.
-
-492
-00:38:18,610 --> 00:38:20,200
-Bize büyük bir hediye verildi.
-
-493
-00:38:21,430 --> 00:38:22,670
-Kendimizi affettirme şansı.
-
-494
-00:38:23,820 --> 00:38:25,980
-O dağda beni bulman kaderindi, Aang.
-
-495
-00:38:28,680 --> 00:38:29,680
-Oraya nasıl düştün?
-
-496
-00:38:34,380 --> 00:38:35,940
-Toprak Bükücüler Turana'ya saldırmıştı.
-
-497
-00:38:37,230 --> 00:38:39,510
-Sonam ve ben korkusuzca, yan yana savaştık.
-
-498
-00:38:40,570 --> 00:38:42,050
-Onları Baihu Dağı'na geri püskürttük.
-
-499
-00:38:42,880 --> 00:38:44,120
-Ve hatırladığım son şey bu.
-
-500
-00:38:46,750 --> 00:38:47,950
-Hayatını kurtarmış olmalı.
-
-501
-00:38:48,890 --> 00:38:50,890
-Sadece bir Avatar seni o kürenin içine koyabilirdi.
-
-502
-00:38:56,720 --> 00:38:57,786
-Aang, sana bir şey sorabilir miyim?
-
-503
-00:38:57,810 --> 00:38:58,810
-Elbette.
-
-504
-00:38:59,800 --> 00:39:03,081
-Eğer Ateş Ulusu Hava Göçebelerini yok ettiyse, nasıl.
-
-505
-00:39:03,105 --> 00:39:06,191
-Ateş Lordu'nun varlığına katlanabilir misin?
-
-506
-00:39:09,270 --> 00:39:10,690
-Zuko bir dost ve müttefiktir.
-
-507
-00:39:11,830 --> 00:39:14,270
-Savaşı bitirmeme yardım etmek için kendi babasına karşı geldi.
-
-508
-00:39:15,330 --> 00:39:17,270
-Yine de şimdi tacı kendisi takıyor.
-
-509
-00:39:18,650 --> 00:39:21,050
-Ateş doğası gereği yakar, Aang.
-
-510
-00:39:22,310 --> 00:39:25,250
-Bizim türümüz diğer elementlerin elinden hep acı çekti.
-
-511
-00:39:27,240 --> 00:39:28,720
-Cumhuriyet Şehri'ni bu yüzden kurduk.
-
-512
-00:39:29,760 --> 00:39:33,090
-Dünyaya, birbirimizi dinlersek hep birlikte yaşayabileceğimizi göstermek için.
-
-513
-00:39:33,550 --> 00:39:34,550
-Barış içinde.
-
-514
-00:39:36,240 --> 00:39:39,730
-Ve Hava Bükücüleri geri getirdiğimizde, tamamlanmış olacak.
-
-515
-00:39:43,780 --> 00:39:47,600
-Herkes kendi tarafına çekildiğinde, tüm dünya neredeyse parçalanıyordu.
-
-516
-00:39:49,090 --> 00:39:54,520
-Ve ayrıca Katara, Sokka, Zuko, Toph, onlar artık benim ailem.
-
-517
-00:39:56,490 --> 00:39:58,850
-Hepimizin birlikte olabildiği bir dünyada yaşamak istiyorum.
-
-518
-00:40:00,910 --> 00:40:02,720
-Bana Sonam'ı çok hatırlatıyorsun.
-
-519
-00:40:07,780 --> 00:40:08,780
-Bu Avatar.
-
-520
-00:40:09,220 --> 00:40:11,280
-Ve bu sefer yanında arkadaşları da var.
-
-521
-00:40:11,850 --> 00:40:13,090
-Bu Ateş Lordu'nun hava gemisi.
-
-522
-00:40:13,610 --> 00:40:14,480
-Önümüze nasıl geçtiler?
-
-523
-00:40:14,560 --> 00:40:15,840
-Haritaları bile yok.
-
-524
-00:40:16,310 --> 00:40:18,320
-Asaya önce onun ulaşması riskini göze alamayız.
-
-525
-00:40:18,560 --> 00:40:19,260
-Onu öldürün.
-
-526
-00:40:19,380 --> 00:40:20,500
-Ama o canımızı bağışladı.
-
-527
-00:40:21,320 --> 00:40:24,760
-Peki onun dönüşünü beklerken geçen o yüz yılda kaç kişi öldü?
-
-528
-00:40:25,060 --> 00:40:26,636
-Ailen öldüğünde o neredeydi?
-
-529
-00:40:26,660 --> 00:40:27,660
-Onun ailesi yok edildi.
-
-530
-00:40:27,760 --> 00:40:31,240
-Eğer bir şeylerin değişmesini istiyorsak, bükücülerin sahip olduğu şeye ihtiyacımız var.
-
-531
-00:40:31,480 --> 00:40:32,480
-Güç.
-
-532
-00:41:10,620 --> 00:41:11,620
-Gemiyi mi eziyorsun?
-
-533
-00:41:13,640 --> 00:41:14,640
-Taga?
-
-534
-00:41:15,480 --> 00:41:16,480
-Taga, dur!
-
-535
-00:41:42,030 --> 00:41:43,030
-Buradayız.
-
-536
-00:41:45,290 --> 00:41:46,650
-Ölümsüz Fırtına.
-
-537
-00:41:47,710 --> 00:41:48,710
-Olamaz.
-
-538
-00:41:54,450 --> 00:41:56,430
-Etrafından dolaşacak başka bir yol olmalı.
-
-539
-00:41:56,610 --> 00:41:56,950
-Hayır.
-
-540
-00:41:57,110 --> 00:41:59,370
-Seninle birlikte gemi için bir yol açabiliriz.
-
-541
-00:41:59,530 --> 00:42:00,670
-Ama şimdi gitmemiz gerek.
-
-542
-00:42:01,850 --> 00:42:02,850
-Aang.
-
-543
-00:42:02,890 --> 00:42:03,890
-Bana güven.
-
-544
-00:42:07,630 --> 00:42:09,350
-Belki de geri dönmek için iyi bir zamandır.
-
-545
-00:42:09,610 --> 00:42:11,330
-Bunun artık bir seçenek olduğunu sanmıyorum.
-
-546
-00:42:11,970 --> 00:42:12,970
-Nereye gidiyorlar?
-
-547
-00:42:21,740 --> 00:42:22,757
-Motor durdu.
-
-548
-00:42:22,781 --> 00:42:24,120
-Hava basıncını kaybediyoruz.
-
-549
-00:42:30,320 --> 00:42:31,660
-Katara, Toph, benimle gelin.
-
-550
-00:42:31,780 --> 00:42:32,260
-Ya ben?
-
-551
-00:42:32,480 --> 00:42:33,080
-Dümenin başına geç.
-
-552
-00:42:33,280 --> 00:42:33,680
-Ne?
-
-553
-00:42:34,060 --> 00:42:36,480
-Ben şimdiye kadar sadece Ateş Ulusu hava gemilerini düşürdüm.
-
-554
-00:42:38,140 --> 00:42:38,960
-Tamam, bakalım.
-
-555
-00:42:39,000 --> 00:42:39,616
-İşte dümenimiz.
-
-556
-00:42:39,640 --> 00:42:40,280
-Bu irtifa dümeni.
-
-557
-00:42:40,480 --> 00:42:41,140
-İşte saframız.
-
-558
-00:42:41,280 --> 00:42:43,640
-Ve işte hepimizi öldürecek olan devasa hortum.
-
-559
-00:42:47,140 --> 00:42:48,180
-Beni takip et.
-
-560
-00:42:59,920 --> 00:43:00,936
-Benimle birlikte hareket et.
-
-561
-00:43:00,960 --> 00:43:02,237
-Sana gösterdiğim gibi.
-
-562
-00:43:02,261 --> 00:43:04,140
-Onu dizginleyebiliriz.
-
-563
-00:43:25,840 --> 00:43:26,840
-Aang
-
-564
-00:43:36,220 --> 00:43:37,897
-ve Tog hortumları yok ediyor.
-
-565
-00:43:37,921 --> 00:43:38,921
-Ama çok fazlalar.
-
-566
-00:43:39,100 --> 00:43:40,100
-Ve her yerdeler.
-
-567
-00:43:40,780 --> 00:43:41,640
-Sadece gemiyi sür.
-
-568
-00:43:41,780 --> 00:43:42,700
-Aang'i gözden kaçırma.
-
-569
-00:43:42,800 --> 00:43:43,940
-O kadar kolay değil.
-
-570
-00:43:44,120 --> 00:43:45,920
-Özellikle de her şey yan yatmışken.
-
-571
-00:43:46,560 --> 00:43:47,120
-Tamam.
-
-572
-00:43:47,340 --> 00:43:47,820
-Sol.
-
-573
-00:43:48,180 --> 00:43:48,460
-Yukarı.
-
-574
-00:43:48,540 --> 00:43:49,100
-Yukarı.
-
-575
-00:43:49,300 --> 00:43:49,860
-Yukarı.
-
-576
-00:43:49,900 --> 00:43:50,460
-Yukarı.
-
-577
-00:43:50,600 --> 00:43:51,120
-Yukarı.
-
-578
-00:43:51,200 --> 00:43:51,737
-Yukarı.
-
-579
-00:43:51,761 --> 00:43:52,761
-Yukarı.
-
-580
-00:43:55,900 --> 00:43:56,460
-Yukarı.
-
-581
-00:43:56,640 --> 00:43:57,640
-Yukarı.
-
-582
-00:44:11,640 --> 00:44:12,940
-Onları gözden kaybediyorum.
-
-583
-00:44:13,040 --> 00:44:14,240
-Geri dönmeliyiz.
-
-584
-00:44:14,420 --> 00:44:15,700
-Arkadaşlarına güven.
-
-585
-00:44:15,920 --> 00:44:17,840
-Biz bir yol açmazsak başaramayacaklar.
-
-586
-00:44:31,700 --> 00:44:32,140
-Zuko!
-
-587
-00:44:32,260 --> 00:44:33,700
-Denize çakılacağız.
-
-588
-00:44:34,000 --> 00:44:36,400
-Sana işareti verdiğimde, dümenin yanındaki kolu çek.
-
-589
-00:44:43,720 --> 00:44:44,160
-Katara?
-
-590
-00:44:44,380 --> 00:44:45,380
-Hayır.
-
-591
-00:44:45,800 --> 00:44:46,800
-Hayır.
-
-592
-00:44:49,140 --> 00:44:49,580
-Hayır.
-
-593
-00:44:49,900 --> 00:44:50,900
-Hayır.
-
-594
-00:45:04,430 --> 00:45:05,290
-Bana işareti ver.
-
-595
-00:45:05,410 --> 00:45:06,410
-Bana işareti ver.
-
-596
-00:45:13,550 --> 00:45:13,990
-Sokka!
-
-597
-00:45:14,210 --> 00:45:14,650
-Şimdi!
-
-598
-00:45:15,190 --> 00:45:16,190
-İşte başlıyoruz!
-
-599
-00:45:17,650 --> 00:45:18,650
-Ne
-
-600
-00:45:42,500 --> 00:45:43,500
-Düşünüyordun?
-
-601
-00:45:43,560 --> 00:45:45,320
-Yol açmak için hortumları temizliyordum.
-
-602
-00:45:45,540 --> 00:45:47,016
-Gemi neredeyse çakılıyordu, Aang.
-
-603
-00:45:47,040 --> 00:45:47,760
-Ölebilirdik.
-
-604
-00:45:47,960 --> 00:45:49,420
-Peki ya kendini öldürtseydin?
-
-605
-00:45:49,520 --> 00:45:50,520
-Sen Avatar'sın!
-
-606
-00:45:50,980 --> 00:45:52,360
-Bu çok riskli.
-
-607
-00:45:52,500 --> 00:45:53,780
-Şimdi geri dönmemiz lazım.
-
-608
-00:45:54,100 --> 00:45:54,300
-Hayır.
-
-609
-00:45:55,040 --> 00:45:56,260
-Neredeyse vardık.
-
-610
-00:45:56,560 --> 00:45:58,840
-Sadece fırtınanın gözüne ulaşmamız gerekiyor.
-
-611
-00:45:59,900 --> 00:46:00,336
-Aang.
-
-612
-00:46:00,360 --> 00:46:00,800
-Hayır.
-
-613
-00:46:01,020 --> 00:46:02,360
-Bu çok tehlikeli.
-
-614
-00:46:02,660 --> 00:46:03,680
-Asa orada.
-
-615
-00:46:03,760 --> 00:46:04,316
-Orada olduğumuzu bilmiyorlardı.
-
-616
-00:46:04,340 --> 00:46:07,800
-Fırtınayı aşabileceklerine gerçekten inanıyor musun?
-
-617
-00:46:07,940 --> 00:46:09,000
-Neredeyse vardık!
-
-618
-00:46:09,240 --> 00:46:11,120
-O asa halkımı geri getirebilir!
-
-619
-00:46:11,280 --> 00:46:13,660
-Bunu ne kadar çok istediğini anlıyorum ama... Anlamıyorsun!
-
-620
-00:46:13,820 --> 00:46:14,860
-Hiçbiriniz anlamıyorsunuz!
-
-621
-00:46:16,700 --> 00:46:17,700
-Aang...
-
-622
-00:46:19,340 --> 00:46:20,580
-İleri gidiyoruz!
-
-623
-00:46:24,140 --> 00:46:27,200
-Yeterince hava üretirsek, yolumuzu açıp geçebiliriz.
-
-624
-00:47:12,680 --> 00:47:13,680
-Hayattayız?
-
-625
-00:47:14,060 --> 00:47:15,060
-Başardık!
-
-626
-00:47:15,600 --> 00:47:16,600
-Teşekkürler, Taga.
-
-627
-00:47:17,110 --> 00:47:18,110
-Sendin, Aang.
-
-628
-00:47:18,540 --> 00:47:19,580
-Senin sayende buradayız.
-
-629
-00:47:20,000 --> 00:47:21,600
-Evet, biz de harika vakit geçiriyoruz.
-
-630
-00:47:21,760 --> 00:47:24,200
-Bize Ölümsüz Fırtına'nın içine uçtuğumuzu söyleyebilirdin.
-
-631
-00:47:24,260 --> 00:47:26,880
-Tehlikeli olduğunu biliyorum ama bunu göze almalıydık.
-
-632
-00:47:26,960 --> 00:47:27,080
-Biz mi?
-
-633
-00:47:27,710 --> 00:47:30,260
-Bu konuda ne zaman oylama yaptığımızı hatırlamıyorum.
-
-634
-00:47:30,380 --> 00:47:31,380
-Vakit yoktu.
-
-635
-00:47:31,570 --> 00:47:32,377
-Bir karar vermem gerekiyordu.
-
-636
-00:47:32,401 --> 00:47:33,921
-Arkadaşlar, lütfen, Aang'i suçlamayın.
-
-637
-00:47:34,920 --> 00:47:35,920
-Hepsi benim hatam.
-
-638
-00:47:36,310 --> 00:47:37,550
-Bunun zor olacağını biliyordum.
-
-639
-00:47:38,930 --> 00:47:40,860
-Ama Aang bir takım olarak gücünüze inandı.
-
-640
-00:47:41,720 --> 00:47:43,480
-Ve bunun bir parçası olmaktan onur duyuyorum.
-
-641
-00:47:49,570 --> 00:47:50,570
-Seni affediyorum, Taga.
-
-642
-00:47:51,680 --> 00:47:52,960
-Herkes baksın.
-
-643
-00:47:54,020 --> 00:47:55,240
-Bu adalar.
-
-644
-00:47:56,430 --> 00:47:58,300
-Bunlar... aslan kaplumbağalardı.
-
-645
-00:48:00,180 --> 00:48:01,180
-Vay canına!
-
-646
-00:48:02,780 --> 00:48:03,920
-Çok güzel.
-
-647
-00:48:07,090 --> 00:48:11,940
-Benim zamanımdan çok önce, aslan kaplumbağalar insanlara bükme yeteneğini bahşetmişti.
-
-648
-00:48:13,110 --> 00:48:15,200
-Buralar onların son dinlenme yerleri.
-
-649
-00:48:16,240 --> 00:48:18,780
-Sonam, onların öğretilerini öğrenmek için buraya gelmişti.
-
-650
-00:48:20,315 --> 00:48:22,860
-Asasını burada bıraktığından eminim.
-
-651
-00:48:23,730 --> 00:48:24,930
-Aramaya nereden başlamalıyız?
-
-652
-00:48:26,680 --> 00:48:28,000
-Aang, onunla bağlantı kurmalısın.
-
-653
-00:48:30,330 --> 00:48:31,930
-Ama... kimse Sonam ile bağlantı kuramaz.
-
-654
-00:48:32,210 --> 00:48:35,140
-Aslan kaplumbağaların ruhsal gücü hâlâ burada yoğunlaşmış durumda.
-
-655
-00:48:36,100 --> 00:48:37,180
-Bırak sana rehberlik etsin.
-
-656
-00:48:37,520 --> 00:48:38,640
-Hemen yola çıkacağız.
-
-657
-00:48:39,290 --> 00:48:42,100
-Aslında Taga, burada yardımına gerçekten ihtiyacımız olabilir.
-
-658
-00:48:42,680 --> 00:48:45,340
-Eğer Reddedilenler hemen arkamızdaysa, hazır olmamız gerek.
-
-659
-00:48:45,720 --> 00:48:49,200
-Evet ve bunu düzeltmek için Toph'un metal bükmesinden daha fazlasına ihtiyacımız olacak.
-
-660
-00:48:49,460 --> 00:48:51,040
-Benim bükmem bizi o fırtınadan çıkardı.
-
-661
-00:48:51,240 --> 00:48:52,240
-Ne yaptın?
-
-662
-00:48:52,460 --> 00:48:53,460
-Ayaklarıyla yön verdi.
-
-663
-00:48:54,020 --> 00:48:55,020
-Tamirat bekleyebilir.
-
-664
-00:48:55,510 --> 00:48:56,550
-Aang'in bana ihtiyacı var.
-
-665
-00:48:56,760 --> 00:48:58,100
-Taga, lütfen.
-
-666
-00:48:59,250 --> 00:49:00,490
-Kal ve arkadaşlarıma yardım et.
-
-667
-00:49:01,160 --> 00:49:02,160
-Kendi başıma iyi olurum.
-
-668
-00:49:03,040 --> 00:49:04,040
-Nasıl istersen.
-
-669
-00:49:05,220 --> 00:49:07,340
-Eve dönüş yolculuğumuz için tamiratlara başlayacağız.
-
-670
-00:49:10,280 --> 00:49:14,577
-Herkes, bu yolculukta sizden çok şey istediğimi biliyorum ama dünyayı
-
-671
-00:49:14,601 --> 00:49:17,200
-değiştirecek bir şeyi başarmak üzereyiz.
-
-672
-00:49:30,480 --> 00:49:38,480
-Yeni bir dünyaya gidiyoruz.
-
-673
-00:50:27,440 --> 00:50:28,440
-Sonam?
-
-674
-00:50:29,200 --> 00:50:30,200
-Ah,
-
-675
-00:50:46,860 --> 00:50:49,120
-bu güzel, küçük bir tatile dönüşüyor.
-
-676
-00:50:50,615 --> 00:50:53,800
-Bizi öldürmeye çalışan tüm o insanlar... ve hortumlar dışında.
-
-677
-00:50:54,070 --> 00:50:56,160
-Şey... gemiyi tamir ediyor olmamız gerekmiyor mu?
-
-678
-00:50:56,380 --> 00:50:57,420
-Harika gidiyorsun dostum!
-
-679
-00:50:59,270 --> 00:51:00,270
-Taga'yı gören oldu mu?
-
-680
-00:51:00,720 --> 00:51:02,160
-Evet, hepimiz Taga'yı gördük.
-
-681
-00:51:02,560 --> 00:51:03,560
-O kadar yakışıklı ki.
-
-682
-00:51:03,670 --> 00:51:04,670
-Tanrım, anladım.
-
-683
-00:51:05,600 --> 00:51:06,960
-Ah, ne demek istediğini anlıyorum.
-
-684
-00:51:07,250 --> 00:51:08,276
-Şu tarafa doğru uzaklaştı.
-
-685
-00:51:08,300 --> 00:51:10,520
-Hayır, belki de... şu tarafa?
-
-686
-00:51:44,400 --> 00:51:45,400
-Taga!
-
-687
-00:51:46,620 --> 00:51:47,620
-Nereye gidiyorsun?
-
-688
-00:51:48,520 --> 00:51:49,640
-Aang'in korunması gerekiyor.
-
-689
-00:51:50,160 --> 00:51:51,160
-Katılıyorum.
-
-690
-00:51:54,470 --> 00:51:56,840
-Yöntemlerimin sana tuhaf gelebileceğini biliyorum.
-
-691
-00:51:57,280 --> 00:52:01,320
-Ama seni temin ederim ki yaptığım her şeyi, Aang için yapıyorum.
-
-692
-00:52:01,520 --> 00:52:02,520
-Aang için mi?
-
-693
-00:52:02,620 --> 00:52:03,840
-Yoksa asa için mi?
-
-694
-00:52:05,950 --> 00:52:08,040
-Neler kaybettiğimiz hakkında hiçbir fikrin yok.
-
-695
-00:52:08,720 --> 00:52:10,680
-Hava bükücülerin olduğu bir dünyayı hiç tanımadın.
-
-696
-00:52:11,440 --> 00:52:12,640
-Aang'i tanıyorum.
-
-697
-00:52:13,780 --> 00:52:15,340
-O, türünün son örneği olabilir.
-
-698
-00:52:16,140 --> 00:52:18,040
-Ama bu dünyanın barışı tanımasının sebebi o.
-
-699
-00:52:21,740 --> 00:52:25,540
-Bir hava göçebesi olarak değerleri kaosa denge getirdi.
-
-700
-00:52:28,180 --> 00:52:31,482
-Aang sayesinde Su Kabileleri,
-
-701
-00:52:31,506 --> 00:52:34,697
-Toprak Krallığı ve Ateş Ulusu artık birlikte çalışıyor.
-
-702
-00:52:34,721 --> 00:52:36,740
-Uyum için çabalıyorlar.
-
-703
-00:52:37,100 --> 00:52:39,740
-Bir zamanlar ulaşılamaz sandığımız bir barış.
-
-704
-00:52:42,040 --> 00:52:43,740
-Barıştan bahsediyorsun.
-
-705
-00:52:44,080 --> 00:52:46,620
-Elementler arasında asla barış olmayacak.
-
-706
-00:52:46,940 --> 00:52:47,960
-Hiçbir zaman olmadı.
-
-707
-00:52:48,390 --> 00:52:51,340
-Senin o değerli Cumhuriyet Şehrin yalanlar üzerine kurulu.
-
-708
-00:52:51,820 --> 00:52:53,540
-Umut üzerine kurulu.
-
-709
-00:52:53,860 --> 00:52:55,620
-Umudun var mı, Taga?
-
-710
-00:52:55,880 --> 00:52:58,580
-Halkımı kurtarmak umuttan fazlasını gerektiriyor.
-
-711
-00:52:58,780 --> 00:53:00,260
-Fedakarlık gerektiriyor.
-
-712
-00:53:00,860 --> 00:53:03,720
-Denied'ların hava gemilerini ezmeye çalıştığını gördüm.
-
-713
-00:53:04,095 --> 00:53:05,215
-Onları öldürmeye hazırdın.
-
-714
-00:53:07,540 --> 00:53:10,160
-Aang'in nasıl bir hava bükücü olduğunu biliyorum.
-
-715
-00:53:12,500 --> 00:53:14,500
-Ama sen nasıl bir hava bükücüsün?
-
-716
-00:53:15,800 --> 00:53:16,800
-Aang
-
-717
-00:53:44,280 --> 00:53:45,760
-bizi buraya getirerek iyi iş çıkardı.
-
-718
-00:53:45,920 --> 00:53:47,700
-Onda büyük bir güç var.
-
-719
-00:53:48,160 --> 00:53:49,900
-Ama aynı zamanda zayıflık da.
-
-720
-00:53:50,340 --> 00:53:50,860
-Zayıflık mı?
-
-721
-00:53:51,300 --> 00:53:52,300
-Evet.
-
-722
-00:53:52,500 --> 00:53:53,500
-Sen.
-
-723
-00:56:04,660 --> 00:56:05,660
-Kardeşim.
-
-724
-00:56:09,400 --> 00:56:10,017
-Taga.
-
-725
-00:56:10,041 --> 00:56:11,041
-Bu gerçek.
-
-726
-00:56:15,480 --> 00:56:17,820
-Sonunda hava bükmeyi geri getirebiliriz.
-
-727
-00:56:21,160 --> 00:56:22,640
-Hadi gidip diğerlerine haber verelim.
-
-728
-00:56:23,020 --> 00:56:24,240
-Bunu yapabiliriz.
-
-729
-00:56:24,380 --> 00:56:25,780
-Sen ve ben.
-
-730
-00:56:26,990 --> 00:56:28,500
-Bunu arkadaşlarım olmadan yapamam.
-
-731
-00:56:30,620 --> 00:56:32,280
-Toprak benim halkımı öldürdü.
-
-732
-00:56:32,480 --> 00:56:33,700
-Ateş seninkileri öldürdü.
-
-733
-00:56:34,040 --> 00:56:37,880
-Yeni bir hava imparatorluğu kurmamızın tek yolu bu asa.
-
-734
-00:56:38,430 --> 00:56:40,380
-Kendini savunabilecek bir imparatorluk.
-
-735
-00:56:40,880 --> 00:56:41,880
-Hayır.
-
-736
-00:56:42,085 --> 00:56:43,645
-Yeni bir gelecek inşa edebiliriz, Taga.
-
-737
-00:56:44,205 --> 00:56:45,580
-Ama bu herkes için olmalı.
-
-738
-00:56:46,090 --> 00:56:47,800
-Asa herkese ait değil.
-
-739
-00:56:48,325 --> 00:56:49,580
-Bize ait.
-
-740
-00:56:49,920 --> 00:56:50,320
-Ne?
-
-741
-00:56:50,410 --> 00:56:51,410
-Ne yaptın sen?
-
-742
-00:56:51,840 --> 00:56:54,920
-Onlar buralarda olduğu sürece, onları her zaman halkımızın önünde tutacaktın.
-
-743
-00:56:55,540 --> 00:56:56,540
-Görmüyor musun?
-
-744
-00:56:56,780 --> 00:56:58,520
-Kendimizi bu şekilde temize çıkaracağız.
-
-745
-00:56:59,240 --> 00:57:01,200
-O zaman kaçmış olman önemli değil.
-
-746
-00:57:01,400 --> 00:57:03,560
-Şimdi yanımda olduğun sürece.
-
-747
-00:57:03,780 --> 00:57:04,040
-Şimdi mi?
-
-748
-00:57:04,200 --> 00:57:05,477
-Aang, beni dinle.
-
-749
-00:57:05,501 --> 00:57:07,820
-Katara... Tek yol bu.
-
-750
-00:57:21,620 --> 00:57:23,500
-Kendi halkına ihanet ediyorsun.
-
-751
-00:57:23,680 --> 00:57:25,340
-Tıpkı Sona gibi.
-
-752
-00:58:00,910 --> 00:58:05,830
-Bunu yanımda sen varken yapmak istiyordum.
-
-753
-00:58:06,970 --> 00:58:09,950
-Ama eğer yeni bir hava imparatorluğunu tek başıma kurmam gerekiyorsa...
-
-754
-00:58:10,570 --> 00:58:11,570
-Öyle olsun.
-
-755
-00:58:22,030 --> 00:58:23,430
-Geri dönmeliyiz!
-
-756
-00:58:23,750 --> 00:58:24,070
-Hayır!
-
-757
-00:58:24,270 --> 00:58:26,130
-Yarıp geçmeye çalışmaya devam ediyoruz!
-
-758
-00:58:39,590 --> 00:58:40,630
-Sonim'in asası...
-
-759
-00:58:41,730 --> 00:58:42,730
-Reddedildi.
-
-760
-00:58:42,830 --> 00:58:44,550
-Avatar öldü.
-
-761
-00:58:45,010 --> 00:58:49,707
-Eğer gücün sende olduğu yeni bir dünya kurmak istiyorsan... Bunu sana verebilirim.
-
-762
-00:58:49,731 --> 00:58:50,731
-Aang!
-
-763
-00:59:04,940 --> 00:59:05,940
-Appa!
-
-764
-00:59:06,660 --> 00:59:07,660
-Katara!
-
-765
-00:59:08,700 --> 00:59:09,700
-KATARA!
-
-766
-00:59:12,720 --> 00:59:13,720
-Gittiler.
-
-767
-00:59:15,120 --> 00:59:16,120
-Hepsi benim hatamdı.
-
-768
-00:59:17,275 --> 00:59:18,420
-Her zaman benim hatamdı.
-
-769
-00:59:19,660 --> 00:59:20,680
-Kaçtığımdan beri.
-
-770
-00:59:23,390 --> 00:59:26,480
-Hiçbir Avatar böylesine bir utanca düşmemişti...
-
-771
-00:59:27,080 --> 00:59:28,600
-Kederimde burada bana katılacak kadar.
-
-772
-00:59:31,410 --> 00:59:32,810
-Neden böyle yas tutuyorsun, dostum?
-
-773
-00:59:33,700 --> 00:59:34,700
-Avatar Zonam?
-
-774
-00:59:38,310 --> 00:59:39,440
-Taga arkadaşlarımı katletti.
-
-775
-00:59:40,570 --> 00:59:41,570
-Ve şimdi asa onda.
-
-776
-00:59:41,860 --> 00:59:42,460
-Taga mı?
-
-777
-00:59:42,760 --> 00:59:43,760
-Hayır.
-
-778
-00:59:44,190 --> 00:59:46,220
-Hayır, ben... Onu durdurdum.
-
-779
-00:59:47,170 --> 00:59:48,170
-Asaya vurdum.
-
-780
-00:59:49,180 --> 00:59:50,260
-Ne yaptın sen?
-
-781
-00:59:52,015 --> 00:59:53,620
-Ona hava bükme gücünü veren sendin!
-
-782
-00:59:54,540 --> 00:59:56,420
-Bir canavara nasıl güç verebilirsin?
-
-783
-00:59:57,530 --> 01:00:00,760
-Bükme gücü verdiğim Taga farklı bir adamdı.
-
-784
-01:00:02,100 --> 01:00:03,620
-Farklı bir zamandı.
-
-785
-01:00:04,640 --> 01:00:07,500
-Hava bükücüler dört elementin barış koruyucularıydı.
-
-786
-01:00:08,680 --> 01:00:12,200
-Gücümüzü tüm çatışmalarda şiddet içermeyen yollarla arabuluculuk yapmak için kullanırdık.
-
-787
-01:00:13,200 --> 01:00:14,560
-Ama sayıca en az olandık.
-
-788
-01:00:16,130 --> 01:00:20,360
-Uzun yıllar boyunca, büyük bir refahın getirdiği güzel bir denge içinde var olduk.
-
-789
-01:00:21,410 --> 01:00:22,920
-Fakat dünya değişmeye başladı.
-
-790
-01:00:23,610 --> 01:00:28,881
-Toprak bükücüler, diğer element kabilelerinden ayrılarak kendi krallıklarını kurdular.
-
-791
-01:00:29,290 --> 01:00:30,736
-Dünyanın dengesi değişmişti.
-
-792
-01:00:30,760 --> 01:00:31,760
-Dünya risk altındaydı.
-
-793
-01:00:32,220 --> 01:00:33,880
-Harekete geçmek benim görevimdi.
-
-794
-01:00:34,920 --> 01:00:36,865
-Bu yüzden... enerjisini nasıl yönlendireceğimi öğrendim
-
-795
-01:00:36,889 --> 01:00:40,101
-tıpkı aslan kaplumbağalar gibi ruhlar dünyasından.
-
-796
-01:00:40,270 --> 01:00:42,680
-İnsanlara hava bükme gücünü vermek için.
-
-797
-01:00:43,560 --> 01:00:48,100
-En sadık öğrencim Taga, bunu alan ilk kişiydi.
-
-798
-01:00:49,520 --> 01:00:53,200
-Büyüyen huzursuzluğu yatıştırmaya yardımcı
-olmaları için yeni barış koruyucularımı gönderdim.
-
-799
-01:00:54,650 --> 01:00:58,120
-Ancak yeni toprak krallığının gaddarlığına hazırlıklı değillerdi.
-
-800
-01:01:00,840 --> 01:01:05,760
-Taga, tüm kardeşlerinin katledilmesini izledi.
-
-801
-01:01:07,690 --> 01:01:09,740
-Savaşın şiddetiyle kalbi karardı.
-
-802
-01:01:10,705 --> 01:01:14,560
-Artık hava göçebesi olmayan herkesi düşman olarak görüyordu.
-
-803
-01:01:16,240 --> 01:01:18,351
-Taga, bir ordu kurmak ve bize zarar verecek herkesi
-
-804
-01:01:18,375 --> 01:01:20,440
-öldürmek için asayı kullanmam için bana yalvardı.
-
-805
-01:01:21,160 --> 01:01:22,200
-Reddettim.
-
-806
-01:01:23,835 --> 01:01:24,835
-Bu yüzden onu çaldı.
-
-807
-01:01:25,440 --> 01:01:30,677
-Asayı tapınağa bağladığında, enerjisi keder, acı ve
-
-808
-01:01:30,701 --> 01:01:33,900
-öfkeyle o kadar yozlaşmıştı ki, ruhlar dünyasının gücü onu yiyip bitirdi.
-
-809
-01:01:35,060 --> 01:01:38,080
-Taga insandan öte bir şeye dönüştü.
-
-810
-01:01:38,260 --> 01:01:39,940
-Öldürülemeyecek kadar güçlüydü.
-
-811
-01:01:40,680 --> 01:01:43,756
-Onu sonunda bulutların çok üzerinde, kimsenin
-
-812
-01:01:43,780 --> 01:01:47,441
-bulamayacağı bir yerde hapsetmek tüm enerjimi aldı.
-
-813
-01:01:48,465 --> 01:01:49,860
-Asayı geri aldım.
-
-814
-01:01:50,860 --> 01:01:52,220
-Ama ölümcül şekilde yaralanmıştım.
-
-815
-01:01:53,280 --> 01:01:55,818
-Toprak Krallığı Jorana'yı istila edemeden önce, ben
-
-816
-01:01:55,868 --> 01:01:58,430
-kalan hava göçebelerini dağlara gönderdi.
-
-817
-01:01:59,060 --> 01:02:00,736
-Ve onlara karşı öfkemi gizledim.
-
-818
-01:02:00,760 --> 01:02:03,520
-Hiç kimsenin onun gücüne erişemediği ruhlar dünyasında.
-
-819
-01:02:06,160 --> 01:02:10,460
-Sonra asayı, sadece Avatar'ın bulabileceği bir yere kilitledim.
-
-820
-01:02:11,560 --> 01:02:16,300
-Öldüm, bir gün başka bir Avatar'ın yaratacağı umuduyla
-
-821
-01:02:16,324 --> 01:02:19,320
-daha fazla hava bükücü ve bu dünyaya dengeyi yeniden getirmek.
-
-822
-01:02:20,480 --> 01:02:22,900
-Ve o Avatar sensin, Aang.
-
-823
-01:02:23,060 --> 01:02:26,640
-Taga asamı tapınağa bağlamadan önce onu almalısın.
-
-824
-01:02:27,490 --> 01:02:28,490
-Hala vakit var.
-
-825
-01:02:28,990 --> 01:02:31,270
-Benim pişmanlığımın senin pişmanlığın olmasına izin verme.
-
-826
-01:02:31,810 --> 01:02:33,720
-Arkadaşlarım ve ben bu barış için çok savaştık.
-
-827
-01:02:34,885 --> 01:02:36,725
-Başka bir savaş başlatmasına izin vermeyeceğim.
-
-828
-01:02:37,040 --> 01:02:38,640
-Geri dönüş yolunu bulmama yardım et.
-
-829
-01:02:40,440 --> 01:02:41,440
-Soto?
-
-830
-01:02:42,560 --> 01:02:43,560
-Neler oluyor?
-
-831
-01:02:44,220 --> 01:02:45,220
-Hayır!
-
-832
-01:02:47,320 --> 01:02:47,800
-Hayır!
-
-833
-01:02:48,300 --> 01:02:48,780
-Lütfen!
-
-834
-01:02:48,920 --> 01:02:50,140
-Bunu düzeltmem lazım!
-
-835
-01:02:50,380 --> 01:02:51,460
-Bu böyle bitemez!
-
-836
-01:02:51,620 --> 01:02:52,620
-Henüz ölemem!
-
-837
-01:02:55,820 --> 01:02:56,260
-Katara?
-
-838
-01:02:56,440 --> 01:02:57,080
-Gitmem lazım!
-
-839
-01:02:57,320 --> 01:02:58,297
-Hadi, Aang!
-
-840
-01:02:58,321 --> 01:02:59,321
-Hadi!
-
-841
-01:02:59,640 --> 01:03:00,097
-Aang!
-
-842
-01:03:00,121 --> 01:03:01,121
-Dayan!
-
-843
-01:03:01,860 --> 01:03:02,860
-Aang!
-
-844
-01:03:04,500 --> 01:03:05,100
-Katara!
-
-845
-01:03:05,300 --> 01:03:06,780
-Çok endişelendim.
-
-846
-01:03:07,320 --> 01:03:08,320
-Aang!
-
-847
-01:03:08,500 --> 01:03:09,500
-Sokka!
-
-848
-01:03:09,880 --> 01:03:11,960
-Başaracağını biliyordum, dostum.
-
-849
-01:03:12,180 --> 01:03:13,180
-Hey, Aang.
-
-850
-01:03:13,300 --> 01:03:13,900
-Zuko!
-
-851
-01:03:14,320 --> 01:03:15,320
-Mamo!
-
-852
-01:03:16,530 --> 01:03:17,740
-Hoş geldin, Hafif Ayak.
-
-853
-01:03:17,920 --> 01:03:18,440
-Toph!
-
-854
-01:03:18,620 --> 01:03:19,620
-İyisin.
-
-855
-01:03:19,760 --> 01:03:20,760
-Ben...
-
-856
-01:03:21,650 --> 01:03:22,340
-Hepinizin öldüğünü sanmıştım.
-
-857
-01:03:22,560 --> 01:03:23,560
-Öyleydik.
-
-858
-01:03:23,600 --> 01:03:24,600
-Ama...
-
-859
-01:03:24,700 --> 01:03:25,700
-Katara bizi kurtardı.
-
-860
-01:03:26,490 --> 01:03:29,860
-Bu suların ruhani gücü iyileştirme yeteneklerimi güçlendirdi.
-
-861
-01:03:33,160 --> 01:03:34,200
-İnanılmazsın, Katara!
-
-862
-01:03:35,520 --> 01:03:36,777
-Sizinle tanışmak bir zevk.
-
-863
-01:03:36,801 --> 01:03:37,801
-Opah nerede?
-
-864
-01:03:39,440 --> 01:03:40,520
-Katara onu götürmüş olmalı.
-
-865
-01:03:41,140 --> 01:03:42,140
-Üzgünüm.
-
-866
-01:03:42,740 --> 01:03:43,740
-Hayır.
-
-867
-01:03:45,810 --> 01:03:47,180
-Ona güvendiğime inanamıyorum.
-
-868
-01:03:49,760 --> 01:03:50,840
-Bunun üstesinden geleceğiz!
-
-869
-01:03:53,620 --> 01:03:55,640
-Yani... şunu doğru mu anladım...
-
-870
-01:03:55,990 --> 01:04:00,100
-Sınırsız güç elde etmek için Son'em'in tapınağını ruhlar dünyasından mı çekip çıkarıyor?
-
-871
-01:04:14,960 --> 01:04:18,340
-Bunu pek sık söylemem ama Sokka haklı.
-
-872
-01:04:18,620 --> 01:04:19,620
-Teşekkürler.
-
-873
-01:04:19,780 --> 01:04:20,800
-Evet, mahsur kaldık.
-
-874
-01:04:21,240 --> 01:04:24,240
-Ve hepimizin kendi adasına sahip olması için yeterince aslan kaplumbağa yok.
-
-875
-01:04:24,600 --> 01:04:25,840
-O yüzden buna ben el koyuyorum.
-
-876
-01:04:26,175 --> 01:04:27,320
-Adını Snappy koyuyorum.
-
-877
-01:04:27,460 --> 01:04:29,337
-Ah, Snappy en iyisi.
-
-878
-01:04:29,361 --> 01:04:30,361
-Biliyorum.
-
-879
-01:04:31,250 --> 01:04:33,784
-Taga'nın nerede olduğunu bilmiyor olabiliriz ama biliyoruz ki.
-
-880
-01:04:33,808 --> 01:04:36,441
-Aradığı şey ruhlar dünyasında.
-
-881
-01:04:37,445 --> 01:04:41,540
-Ve şansımıza, gezegenin ruhsal açıdan en yüklü yerinde mahsur kaldık.
-
-882
-01:04:42,780 --> 01:04:44,980
-Bu yüzden bizi oraya götürecek bir portal açabilirim.
-
-883
-01:04:45,840 --> 01:04:47,960
-Eğer eski bir dostu çağırabilirsem.
-
-884
-01:04:58,600 --> 01:04:59,840
-Okyanus Ruhu.
-
-885
-01:05:08,340 --> 01:05:11,020
-Bu portal fena halde balık pazarı gibi kokuyor.
-
-886
-01:05:11,260 --> 01:05:12,800
-Gidip Snappy'ye bakacağım.
-
-887
-01:05:13,130 --> 01:05:14,320
-Ölümünü onurla karşıla.
-
-888
-01:05:14,880 --> 01:05:15,880
-Üzgünüm.
-
-889
-01:05:16,060 --> 01:05:20,000
-Bizi bu duruma sokanın ben olduğumu biliyorum ama söz veriyorum bunu düzelteceğim.
-
-890
-01:05:20,420 --> 01:05:21,420
-Düzelteceğiz.
-
-891
-01:05:22,580 --> 01:05:23,580
-Birlikte.
-
-892
-01:05:39,850 --> 01:05:40,330
-Ne?
-
-893
-01:05:40,630 --> 01:05:41,630
-Güç midillim nerede?
-
-894
-01:05:42,390 --> 01:05:44,330
-Ellerim hep bu kadar küçük müydü?
-
-895
-01:05:45,250 --> 01:05:46,250
-Bu Bebek Toph!
-
-896
-01:05:46,410 --> 01:05:47,410
-Bebek Toph!
-
-897
-01:05:48,850 --> 01:05:49,410
-Ne?
-
-898
-01:05:49,570 --> 01:05:50,570
-Domuz maymunu mu?
-
-899
-01:05:50,850 --> 01:05:51,850
-Oh, insanlar!
-
-900
-01:05:52,150 --> 01:05:53,150
-Gran Gran?
-
-901
-01:05:53,515 --> 01:05:55,090
-O senin kız kardeşin, seni et kafa!
-
-902
-01:05:55,590 --> 01:05:56,590
-Toph'u bana ver.
-
-903
-01:05:56,950 --> 01:05:57,950
-Tamam, tamam, Toph.
-
-904
-01:05:57,990 --> 01:05:59,070
-Oh hayır, Zuko!
-
-905
-01:05:59,640 --> 01:06:01,170
-Güzel yüzüne ne oldu?
-
-906
-01:06:01,740 --> 01:06:03,580
-Kurutulmuş deniz mürekkep balığına benziyorsun.
-
-907
-01:06:03,790 --> 01:06:05,030
-Hayır, Zuko!
-
-908
-01:06:06,090 --> 01:06:07,270
-Burada neler oluyor?
-
-909
-01:06:07,770 --> 01:06:10,310
-Ruhlar dünyasının dengesi bozuldu.
-
-910
-01:06:11,230 --> 01:06:12,410
-Ve bizim de öyle.
-
-911
-01:06:15,250 --> 01:06:16,250
-Bu Taka olmalı.
-
-912
-01:06:39,740 --> 01:06:42,160
-Sonam'ın tapınağını bizim dünyamıza çekiyor!
-
-913
-01:06:42,420 --> 01:06:43,600
-Zamanımız tükeniyor!
-
-914
-01:06:45,300 --> 01:06:46,300
-Chanaaaaaa!
-
-915
-01:06:51,020 --> 01:06:52,460
-Oldukça iyi bir iniş.
-
-916
-01:06:53,480 --> 01:06:54,480
-Vay canına!
-
-917
-01:06:54,600 --> 01:06:55,140
-İnsanlar!
-
-918
-01:06:55,520 --> 01:06:56,520
-İnsanları severim!
-
-919
-01:06:57,230 --> 01:06:59,820
-İki erkek kardeş, küçük kız kardeşleri ve yaşlı bir çift.
-
-920
-01:07:00,030 --> 01:07:00,640
-Bir çift mi?
-
-921
-01:07:00,700 --> 01:07:01,440
-Çift değil.
-
-922
-01:07:01,660 --> 01:07:01,920
-Vay!
-
-923
-01:07:02,390 --> 01:07:03,670
-Görünüşe göre bam teline bastım.
-
-924
-01:07:04,160 --> 01:07:05,720
-Şuna bak!
-
-925
-01:07:05,800 --> 01:07:06,160
-Merhaba!
-
-926
-01:07:06,640 --> 01:07:07,640
-Toph, hayır!
-
-927
-01:07:07,790 --> 01:07:08,520
-Kötü Toph!
-
-928
-01:07:08,690 --> 01:07:10,380
-Yabancıları ısırmıyoruz.
-
-929
-01:07:11,760 --> 01:07:12,760
-Yüce ruh!
-
-930
-01:07:12,920 --> 01:07:13,440
-Affedersiniz!
-
-931
-01:07:13,840 --> 01:07:15,640
-Az önce gökyüzündeki o tapınaktan mı geldin?
-
-932
-01:07:15,960 --> 01:07:16,960
-Kesinlikle öyle.
-
-933
-01:07:17,700 --> 01:07:19,420
-En sevdiğim saklanma yerimdi.
-
-934
-01:07:19,620 --> 01:07:22,620
-O karanlık, iğrenç enerji tüm burayı yozlaştırmaya başlayana kadar.
-
-935
-01:07:23,540 --> 01:07:24,100
-Lütfen.
-
-936
-01:07:24,510 --> 01:07:26,320
-Oraya çıkmak için yardımına ihtiyacımız var.
-
-937
-01:07:26,900 --> 01:07:28,340
-Bunu durdurmak benim görevim.
-
-938
-01:07:29,235 --> 01:07:30,235
-Ben Avatar'ım.
-
-939
-01:07:31,720 --> 01:07:32,720
-Oooh!
-
-940
-01:07:33,440 --> 01:07:34,440
+00:02:26,141 --> 00:02:27,117
 Avatar!
 
-941
-01:07:35,180 --> 01:07:36,500
-Seni şöyle bir mıncıklayayım.
+31
+00:02:27,141 --> 00:02:29,117
+Aang, neredesin?
 
-942
-01:07:36,700 --> 01:07:37,060
-Tamam.
+32
+00:02:29,141 --> 00:02:31,117
+Gyatso, buradayım!
 
-943
-01:07:37,260 --> 01:07:38,260
-Şimdi bu gözle.
+33
+00:02:31,141 --> 00:02:37,137
+♪♪ Tam buradayım!
 
-944
-01:07:38,540 --> 01:07:39,540
-Ve bu gözle.
+34
+00:02:37,161 --> 00:02:39,137
+Buradayım!
 
-945
-01:07:39,600 --> 01:07:40,040
-Mm-hmm.
+35
+00:02:39,161 --> 00:02:41,137
+Buradayım!
 
-946
-01:07:40,080 --> 01:07:40,496
-Ve bu gözle.
+36
+00:02:41,161 --> 00:02:42,161
+Buradayım.
 
-947
-01:07:40,520 --> 01:07:41,200
-Oh, bu gözü unutma.
+37
+00:02:43,860 --> 00:02:48,160
+Merhaba Momo.
 
-948
-01:07:41,320 --> 01:07:41,400
-Hey!
+38
+00:02:49,010 --> 00:02:50,160
+Merhaba Appa.
 
-949
-01:07:41,640 --> 01:07:41,737
-Hey!
+39
+00:02:50,260 --> 00:02:51,137
+Uzun süre uyudum mu?
 
-950
-01:07:41,761 --> 01:07:42,317
-Acele edebilir miyiz?
+40
+00:02:51,161 --> 00:02:52,137
+Ah! Tamam, tamam.
 
-951
-01:07:42,341 --> 01:07:43,876
-Bütün gözlerin bir mıncıklanması lazım.
+41
+00:02:52,161 --> 00:02:54,157
+Uyandım artık.
 
-952
-01:07:43,900 --> 01:07:44,900
-Koklama testi!
+42
+00:02:54,181 --> 00:02:55,181
+Biliyorum, biliyorum.
 
-953
-01:07:47,520 --> 01:07:49,480
-Oh, işte tam bir Avatar kumaşı.
+43
+00:02:55,430 --> 00:02:57,157
+Bitirmemiz gereken bir iş var.
 
-954
-01:07:49,760 --> 01:07:50,760
-Evet, öyle.
+44
+00:02:58,380 --> 00:03:00,180
+Yolculuğumuza devam edelim.
 
-955
-01:07:50,920 --> 01:07:51,920
-Oh!
+45
+00:03:00,555 --> 00:03:02,180
+Eski evimize dönelim.
 
-956
-01:07:52,120 --> 01:07:53,280
-Evet, evet, evet, evet, evet!
+46
+00:03:49,670 --> 00:03:51,220
+Bu en iyi gezimiz olmayabilir,
 
-957
-01:07:53,495 --> 01:07:57,860
-Görünüşe göre evren bizi çok önemli bir görev için bir araya getirdi.
+47
+00:03:51,620 --> 00:03:54,240
+ama bulduğumuz her Hava Göçebesi
+kalıntısı her şeye değer.
 
-958
-01:07:58,960 --> 01:07:59,960
+48
+00:04:00,290 --> 00:04:02,250
+Bu, koleksiyonumuzdaki
+en eski parça olabilir.
+
+49
+00:04:05,040 --> 00:04:09,241
+♪♪ Sonam.
+
+50
+00:04:21,261 --> 00:04:24,260
+Seni özlüyorum.
+
+51
+00:04:29,261 --> 00:04:32,237
+Momo, dışarı çık Appa'yla birlikte.
+
+52
+00:04:32,261 --> 00:04:34,261
+♪♪ Hemen!
+
+53
+00:04:35,280 --> 00:04:43,280
+♪♪ Kimsiniz?
+
+54
+00:04:44,281 --> 00:04:46,257
+Bunu neden yapıyorsunuz?
+
+55
+00:04:46,281 --> 00:04:51,257
+♪♪ Dur.
+
+56
+00:04:51,281 --> 00:04:53,257
+Sana zarar vermek istemiyorum.
+
+57
+00:04:53,281 --> 00:04:58,673
+♪♪ Nerede?
+
+58
+00:04:58,301 --> 00:04:59,277
+Hayır, o değil.
+
+59
+00:04:58,697 --> 00:05:06,697
+Nerede?
+
+60
+00:04:59,301 --> 00:05:01,277
+Hey, onlar antika.
+
+61
+00:05:01,301 --> 00:05:09,301
+♪♪ Yeter!
+
+62
+00:05:13,301 --> 00:05:17,297
+♪♪ Bekle!
+
+63
+00:05:17,321 --> 00:05:19,297
+Buldum!
+
+64
+00:05:21,321 --> 00:05:23,320
+Sonam, neden peşindeler?
+
+65
+00:05:25,320 --> 00:05:33,320
+♪♪ ♪♪ Bekle!
+
+66
+00:05:46,341 --> 00:05:48,317
+Hayır, o 1000 yıllık!
+
+67
+00:05:54,341 --> 00:05:56,317
+Neden konuşmuyoruz? Belki yardım edebilirim.
+
+68
+00:05:56,341 --> 00:05:59,337
+Yardımına ihtiyacımız yok, Avatar.
+
+69
+00:05:59,361 --> 00:06:03,337
+Bükücülerin tüm güce sahip olduğu
+ve bizim hiç sahip olmadığımız bir dünyada yaşamayı bitirdik.
+
+70
+00:06:03,361 --> 00:06:04,337
+Siz kimsiniz?
+
+71
+00:06:04,361 --> 00:06:05,337
+Biz Reddedilmişleriz.
+
+72
+00:06:05,361 --> 00:06:06,337
+Reddedilmişler mi?
+
+73
+00:06:06,361 --> 00:06:08,337
+Öldür şunu artık!
+
+74
+00:06:08,361 --> 00:06:10,337
+Hayır! Tüm yeri başımıza yıkar!
+
+75
+00:06:31,381 --> 00:06:38,377
+♪♪ Sen beni kurtardın.
+
+76
+00:06:40,401 --> 00:06:43,400
+Kalik, haritayı al! Gidelim!
+
+77
+00:06:45,400 --> 00:06:53,400
+♪♪ ♪♪ Hayır!
+
+78
+00:07:52,461 --> 00:07:57,905
+İyiyim.
+
+79
+00:07:58,555 --> 00:08:01,506
+Momo, iyiyim.
+
+80
+00:08:01,530 --> 00:08:04,457
+Cumhuriyet Şehri'ne gitmeliyiz.
+
+81
+00:08:04,481 --> 00:08:06,480
+Appa, yip, yip!
+
+82
+00:08:08,480 --> 00:08:16,480
+♪♪ ♪♪ Su.
+
+83
+00:08:24,650 --> 00:08:31,477
+Kabileleri aydan güç alır
+ve gelgitlerle akar.
+
+84
+00:08:31,501 --> 00:08:35,477
+Toprak, sarsılmaz bir irade krallığı.
+
+85
+00:08:35,501 --> 00:08:38,477
+Güvenilir ve güçlü.
+
+86
+00:08:38,501 --> 00:08:43,497
+♪♪ Ateş.
+
+87
+00:08:43,521 --> 00:08:51,497
+Büyük yıkım yeteneğine sahip
+bir ulus, ama aynı zamanda büyük sıcaklığa da.
+
+88
+00:08:53,521 --> 00:08:56,609
+Hava, bir kasırganın gücüne
+sahip barışçıl göçebeler,
+
+89
+00:08:56,633 --> 00:09:00,517
+ama bir meltemin ruhuna sahipler.
+
+90
+00:09:02,541 --> 00:09:06,717
+Nesiller boyu, dört elementin
+tek hâkimi olan Avatar,
+
+91
+00:09:06,741 --> 00:09:11,517
+ulusları dengede tuttu.
+
+92
+00:09:11,541 --> 00:09:16,517
+Ama o sorumluluk bana çocukken
+düştüğünde, kaçtım.
+
+93
+00:09:16,541 --> 00:09:19,517
+Ölümcül bir fırtınaya yakalandım,
+
+94
+00:09:19,541 --> 00:09:26,537
+ama Avatar ruhum beni 100 yıl kaldığım
+bir enerji küresinde korudu.
+
+95
+00:09:26,561 --> 00:09:29,410
+Uyandığımda Avatar'ın koruduğu dengenin
+
+96
+00:09:29,434 --> 00:09:33,537
+savaş yüzünden yok olduğunu keşfettim.
+
+97
+00:09:33,561 --> 00:09:36,537
+Hava Göçebeleri gitmişti.
+
+98
+00:09:36,561 --> 00:09:38,537
+Biri hariç hepsi.
+
+99
+00:09:38,561 --> 00:09:39,561
+Ben.
+
+100
+00:09:39,659 --> 00:09:44,557
+Artık bir Avatar olarak sorumluluğumdan kaçamazdım.
+
+101
+00:09:44,581 --> 00:09:47,557
+Her ulustan müttefik buldum.
+
+102
+00:09:47,581 --> 00:09:51,557
+Bükücüler ve bükücü olmayanlar.
+
+103
+00:09:51,581 --> 00:09:54,557
+Katara bana su bükmeyi öğretti.
+
+104
+00:09:54,581 --> 00:09:57,557
+Toph beni toprak bükücülerin yöntemleriyle eğitti.
+
+105
+00:09:57,581 --> 00:10:03,577
+Bir zamanlar en büyük düşmanım olan Zuko,
+ateş bükme öğretmenim oldu.
+
+106
+00:10:03,601 --> 00:10:08,577
+Sokka bana cesaretin bir lider olmanın
+en önemli parçası olduğunu gösterdi.
+
+107
+00:10:08,601 --> 00:10:12,577
+Bir aile olduk.
+
+108
+00:10:12,601 --> 00:10:16,577
+Ve birlikte Yüz Yıl Savaşlarını bitirdik.
+
+109
+00:10:16,601 --> 00:10:22,620
+Sonra, dünyayı yeniden inşa
+etmenin zorlu işine başladık.
+
+110
+00:10:33,621 --> 00:10:37,620
+Uzun süre uluslar ayrı, yalnız durdu
+
+111
+00:10:37,969 --> 00:10:39,620
+ve bunun sonucunda hepimiz acı çektik.
+
+112
+00:10:40,369 --> 00:10:42,640
+Ama burada, bu kadim alanda,
+
+113
+00:10:42,789 --> 00:10:47,617
+tüm insanların hoş karşılandığı,
+bükücü ya da değil fark etmeksizin,
+
+114
+00:10:47,641 --> 00:10:51,617
+geleceği inşa etmek için barış içinde
+birlikte çalıştığı bir yer yarattık.
+
+115
+00:10:51,641 --> 00:10:55,640
+Hâlâ bizi bölmeye çalışanlar olsa da,
+
+116
+00:10:56,039 --> 00:10:57,640
+birleşik kaldık.
+
+117
+00:10:58,289 --> 00:10:59,640
+Bir konsey temsilcisi olarak,
+
+118
+00:11:00,139 --> 00:11:04,660
+bugün burada Cumhuriyet Şehri'nin yıldönümünü
+
+119
+00:11:04,734 --> 00:11:09,660
+ve tüm insanlar için bir sembol olan
+Birlik Kulesi'nin açılışını kutlamaktan onur duyuyorum.
+
+120
+00:11:09,959 --> 00:11:17,959
+♪♪ Evet!
+
+121
+00:11:18,661 --> 00:11:20,660
+Bu Avatar!
+
+122
+00:11:23,680 --> 00:11:31,680
+♪♪ Momo!
+
+123
+00:11:32,681 --> 00:11:35,439
+Appa!
+
+124
+00:11:35,463 --> 00:11:38,657
+Ben de seni özledim, eski dostum.
+
+125
+00:11:38,681 --> 00:11:41,657
+♪♪ Aang!
+
+126
+00:11:41,681 --> 00:11:43,657
+Katara!
+
+127
+00:11:46,149 --> 00:11:49,700
+Yaralanmışsın.
+
+128
+00:11:56,701 --> 00:11:58,677
+Derin bir nefes al.
+
+129
+00:11:58,701 --> 00:12:03,677
+Ve ver.
+
+130
+00:12:03,701 --> 00:12:05,697
+Reddedilmişlerin sayısının arttığını duydum,
+
+131
+00:12:05,721 --> 00:12:08,720
+ama daha önce hiç böyle bir şey yapmadılar.
+
+132
+00:12:09,519 --> 00:12:10,697
+Avatar'a saldırmak mı?
+
+133
+00:12:10,721 --> 00:12:11,721
+Evet.
+
+134
+00:12:12,269 --> 00:12:13,720
+İnanılmaz dövüşçülerdi,
+
+135
+00:12:14,669 --> 00:12:15,697
+bükme olmadan bile.
+
+136
+00:12:15,721 --> 00:12:17,328
+Hop!
+
+137
+00:12:17,352 --> 00:12:17,721
+Ah!
+
+138
+00:12:18,319 --> 00:12:19,720
+Nefes alıp ver.
+
+139
+00:12:20,619 --> 00:12:21,697
+Dürüst ol. Bundan keyif alıyorsun.
+
+140
+00:12:21,721 --> 00:12:23,720
+Aang, bu ciddi bir durum.
+
+141
+00:12:24,769 --> 00:12:27,351
+Aldıkları o harita her neyse, onu almak için
+
+142
+00:12:27,375 --> 00:12:30,740
+Avatar'ı öldürmeye razılarsa,
+başka neler yapmaya razılar?
+
+143
+00:12:32,039 --> 00:12:32,717
+Bilmiyorum.
+
+144
+00:12:32,741 --> 00:12:34,740
+Senin için endişeleniyorum.
+
+145
+00:12:36,089 --> 00:12:40,740
+Hava Tapınağı'nda tek başına
+giderek daha fazla zaman geçiriyorsun.
+
+146
+00:12:42,139 --> 00:12:44,740
+Geçmişime bu şekilde tutunuyorum.
+
+147
+00:12:45,839 --> 00:12:48,737
+Bunun senin için ne kadar zor olduğunu biliyorum.
+
+148
+00:12:52,259 --> 00:12:53,760
+Saldırıya uğradığımda,
+
+149
+00:12:54,609 --> 00:12:59,760
+tek düşünebildiğim şey... bu sefer sonum gelebilirdi.
+
+150
+00:13:00,509 --> 00:13:03,760
+Son Hava Bükücü benim.
+
+151
+00:13:04,634 --> 00:13:05,760
+Eğer ölürsem,
+
+152
+00:13:06,684 --> 00:13:08,780
+kültürüm de benimle birlikte ölür.
+
+153
+00:13:11,279 --> 00:13:12,780
+Son Hava Bükücü sen olabilirsin,
+
+154
+00:13:13,729 --> 00:13:15,780
+ama yalnız değilsin.
+
+155
+00:13:17,429 --> 00:13:20,780
+Aang, bunların hiçbiri sensiz var olamazdı.
+
+156
+00:13:21,029 --> 00:13:25,780
+Bu şehri kalbin ve aklınla mümkün kıldın.
+
+157
+00:13:26,629 --> 00:13:30,777
+Senin sayende tüm uluslar
+burada, birlikte yaşıyor.
+
+158
+00:13:33,699 --> 00:13:34,800
+Benimki hariç.
+
+159
+00:13:45,779 --> 00:13:49,757
+Biliyorum, ama buradaki insanların
+hâlâ senin korumana ihtiyacı var.
+
+160
+00:13:49,781 --> 00:13:51,780
+Sen bir Hava Bükücüsün,
+
+161
+00:13:52,879 --> 00:13:54,780
+ama aynı zamanda Avatar'sın.
+
+162
+00:13:56,780 --> 00:13:58,780
+Haklısın.
+
+163
+00:13:59,579 --> 00:14:03,777
+Bu Sonim kişisi her kimse,
+onun hakkında daha fazla şey öğrenmeliyim.
+
+164
+00:14:15,820 --> 00:14:23,820
+♪♪ ♪♪ Aang.
+
+165
+00:14:29,821 --> 00:14:30,797
+Avatar Roku.
+
+166
+00:14:30,821 --> 00:14:33,797
+Seni tekrar görmek güzel.
+
+167
+00:14:33,821 --> 00:14:34,821
+Sana nasıl yardım edebilirim?
+
+168
+00:14:34,944 --> 00:14:39,820
+Hayatın boyunca Sonim adında
+kadim bir Hava Bükücü duydun mu hiç?
+
+169
+00:14:40,169 --> 00:14:43,840
+Ben duymadım, ama başvurabileceğin
+birçok geçmiş yaşamın var.
+
+170
+00:14:44,789 --> 00:14:48,840
+Belki Avatar döngüsünde daha gerideki
+birisi sana yardım edebilir.
+
+171
+00:14:49,514 --> 00:14:50,840
+Teşekkür ederim, Avatar Roku.
+
+172
+00:14:52,840 --> 00:14:55,840
+-Üzgünüm. -Sonim'i hiç duymadım.
+
+173
+00:14:55,989 --> 00:14:57,817
+-Belki daha eskiler. -Onu bulup gitmelisin.
+
+174
+00:14:57,841 --> 00:14:58,817
+Burada değil. Burada değil.
+
+175
+00:14:58,841 --> 00:15:06,841
+[Anlaşılmayan konuşma] ♪♪ Şey, merhaba?
+
+176
+00:15:12,109 --> 00:15:13,860
+Orada kimse var mı?
+
+177
+00:15:14,509 --> 00:15:15,860
+Merhaba?
+
+178
+00:15:17,861 --> 00:15:22,857
+Avatar Seon'un engin bilgi
+hazinesine iki çekirdek.
+
+179
+00:15:24,881 --> 00:15:27,857
+Ah, merhaba.
+
+180
+00:15:27,881 --> 00:15:31,880
+Benimkinden oldukça uzak bir
+zamandan bir Avatar'a benziyorsun.
+
+181
+00:15:32,079 --> 00:15:34,857
+Lütfen, lütfen, bana çağından bahset.
+
+182
+00:15:34,881 --> 00:15:36,857
+İnsanlar ne giyiyor?
+
+183
+00:15:36,881 --> 00:15:37,921
+Sandaletler hâlâ moda mı?
+
+184
+00:15:38,279 --> 00:15:39,880
+Şey, evet.
+
+185
+00:15:40,279 --> 00:15:41,880
+Neden? Neden?
+
+186
+00:15:41,979 --> 00:15:47,877
+Bunca yıl sonra, açık parmaklar,
+başkasının kirli tırnak etleri.
+
+187
+00:15:47,901 --> 00:15:48,877
+İğrenç.
+
+188
+00:15:48,901 --> 00:15:49,901
+Doğru.
+
+189
+00:15:50,299 --> 00:15:51,877
+Neyse, rehberlik için geldim.
+
+190
+00:15:51,901 --> 00:15:53,900
+Gördüğün gibi, saldırıya uğradım.
+
+191
+00:15:54,199 --> 00:15:55,877
+Ben değildim, tamam mı? Ben yapmadım.
+
+192
+00:15:55,901 --> 00:15:56,901
+Biliyorum.
+
+193
+00:15:57,599 --> 00:16:00,900
+Bunun Sonim adında bir Hava Bükücü
+ile ilgili olabileceğini düşünüyorum.
+
+194
+00:16:00,949 --> 00:16:03,900
+Sonim. Tanıdık geliyor.
+
+195
+00:16:04,799 --> 00:16:06,900
+Sonim. Bu ismi nerede duymuştum?
+
+196
+00:16:07,199 --> 00:16:09,807
+Aha! Sonim, köşedeki pazaryerindeki
+keseli tavuk dükkanının sahibinin
+
+197
+00:16:09,831 --> 00:16:11,897
+en küçük kızıydı.
+
+198
+00:16:11,921 --> 00:16:14,897
+Dur. O benim eski sevgilim Soniam'dı.
+
+199
+00:16:14,921 --> 00:16:17,897
+Keşke o kocaman ayak tırnakları olmasaydı.
+
+200
+00:16:17,921 --> 00:16:19,897
+Öf. İğrenç.
+
+201
+00:16:19,921 --> 00:16:20,897
+Bu hiçbir yere varmıyor.
+
+202
+00:16:20,921 --> 00:16:21,921
+Sonim mi?
+
+203
+00:16:23,919 --> 00:16:24,897
+Peki, zaman ayırdığın için teşekkürler.
+
+204
+00:16:24,921 --> 00:16:26,920
+Aramaya devam etmeliyim.
+
+205
+00:16:27,069 --> 00:16:28,917
+Ah! Sonim!
+
+206
+00:16:28,941 --> 00:16:33,917
+Kayıp Avatar'ın efsanesini soruyorsun.
+
+207
+00:16:33,941 --> 00:16:35,917
+Sonim bir Avatar mıydı?
+
+208
+00:16:35,941 --> 00:16:36,917
+Evet, öyleydi.
+
+209
+00:16:36,941 --> 00:16:40,917
+Hava Bükücülerin altın çağında Avatar'dı.
+
+210
+00:16:40,941 --> 00:16:45,178
+Efsaneye göre, ruh dünyasının
+uçsuz bucaksız enerjisini kanalize edebilen
+
+211
+00:16:45,202 --> 00:16:50,937
+bir asası vardı, sahibine sınırsız güç verirdi.
+
+212
+00:16:50,961 --> 00:16:53,937
+Bu... Bu mümkün mü ki?
+
+213
+00:16:53,961 --> 00:16:55,937
+Kesin olarak asla bilemeyeceğiz.
+
+214
+00:16:55,961 --> 00:16:58,960
+Birçok Avatar onunla iletişime
+geçmeye çalıştı,
+
+215
+00:16:59,109 --> 00:16:59,937
+ama başaramadılar.
+
+216
+00:16:59,961 --> 00:17:04,960
+O kadar tamamen yok oldu ki,
+sanki hiç var olmamış gibiydi.
+
+217
+00:17:06,159 --> 00:17:06,937
+Ve belki de böylesi daha iyidir.
+
+218
+00:17:06,961 --> 00:17:11,980
+Belki de böyle bir asa, herhangi birinin
+sahip olması için fazla tehlikeliydi.
+
+219
+00:17:12,879 --> 00:17:13,980
+Avatar için bile.
+
+220
+00:17:14,054 --> 00:17:16,980
+Ama... Ama tam da bu yüzden onu bulmalıyım.
+
+221
+00:17:17,529 --> 00:17:19,956
+Bana saldıran insanlar bir harita keşfetti.
+
+222
+00:17:19,980 --> 00:17:21,980
+Bu asaya götürüyor olmalı.
+
+223
+00:17:22,129 --> 00:17:23,957
+Avatar Shion, lütfen.
+
+224
+00:17:23,981 --> 00:17:25,980
+Bana nerede olduğunu söylemek zorundasın.
+
+225
+00:17:28,904 --> 00:17:35,000
+Efsane, Sonim'in asasıyla birlikte
+Baihu Dağı'nın zirvesinde kaybolduğunu söyler.
+
+226
+00:17:37,299 --> 00:17:40,000
+Katara, bu kadar aniden ayrıldığım için üzgünüm,
+
+227
+00:17:40,299 --> 00:17:43,000
+ama Reddedilmişlerin peşinde olduğu şeyi buldum.
+
+228
+00:17:43,349 --> 00:17:45,980
+Sonim'in muazzam güçte bir asası vardı.
+
+229
+00:17:46,129 --> 00:17:49,957
+Ve onların elinde, yıkıcı bir silah olabilir.
+
+230
+00:17:49,981 --> 00:17:51,957
+Onlar önde başladı.
+
+231
+00:17:51,981 --> 00:17:53,956
+Kaybedecek vakit yok.
+
+232
+00:17:53,980 --> 00:17:56,957
+Appa ve Momo'yu al, ekibin geri kalanını topla.
+
+233
+00:17:56,981 --> 00:17:58,980
+Biraz yardıma ihtiyacımız olacak.
+
+234
+00:18:05,000 --> 00:18:07,977
+Gündemdeki sıradaki madde, bir Ateş
+Ulusu donanma gemisi,
+
+235
+00:18:08,001 --> 00:18:12,000
+Reddedilmişler denen aşırılık yanlısı bir
+bükücü olmayan grupla çatışmaya girdi.
+
+236
+00:18:12,549 --> 00:18:15,001
+Kadim bölgeleri yağmalıyorlardı... Majesteleri!
+
+237
+00:18:15,499 --> 00:18:17,977
+Cumhuriyet Şehri'nden acil bir mesaj geldi.
+
+238
+00:18:18,001 --> 00:18:19,001
+Ne küstahlık.
+
+239
+00:18:19,449 --> 00:18:23,020
+Ateş Lordu Zuko'nun...
+Mabeyincinin sözünün kesildiğini görmüyor musun?
+
+240
+00:18:23,269 --> 00:18:25,045
+Ateş Lordu'nun konseyini
+bölebilecek aciliyette mesaj gönderebilecek
+
+241
+00:18:25,069 --> 00:18:27,109
+tek bir kişi var.
+
+242
+00:18:27,819 --> 00:18:28,997
+Avatar'dan mı?
+
+243
+00:18:29,021 --> 00:18:30,021
+Evet, Lordum.
+
+244
+00:18:30,120 --> 00:18:30,997
+Oku bana.
+
+245
+00:18:31,021 --> 00:18:32,021
+Emredersiniz, Lordum.
+
+246
+00:18:35,369 --> 00:18:35,997
+Şey...
+
+247
+00:18:36,021 --> 00:18:37,021
+Ne yapıyorsun?
+
+248
+00:18:37,120 --> 00:18:38,120
+Çabuk oku.
+
+249
+00:18:38,619 --> 00:18:40,020
+Ah, e-e-evet, Baş Mabeyinci.
+
+250
+00:18:42,369 --> 00:18:45,017
+Flameo Hartman, Ateş Ulusu'nu yöneten hane.
+
+251
+00:18:45,041 --> 00:18:48,041
+Umarım mektuplarında bahsettiğin
+o sıkıcı Mabeyinci
+
+252
+00:18:48,089 --> 00:18:51,017
+...hâlâ canını sıkmıyordur.
+
+253
+00:18:51,041 --> 00:18:54,017
+Her neyse, sadede geleyim, yardımına ihtiyacım var.
+
+254
+00:18:54,041 --> 00:18:56,040
+Lütfen hemen gelebilir misin?
+
+255
+00:18:56,314 --> 00:19:00,017
+Ah, bir de havai fişek çöreği getirmeyi unutma.
+
+256
+00:19:02,289 --> 00:19:05,037
+Sokka Çevrimi'ni takdim edeyim.
+
+257
+00:19:05,061 --> 00:19:10,037
+Alevler seni gökyüzüne fırlatır, oradan
+düşmanlarına su bombaları atabilirsin.
+
+258
+00:19:10,061 --> 00:19:13,060
+Sonra kızaklar çıkarak iniş yapmana yardım eder.
+
+259
+00:19:14,061 --> 00:19:15,037
+Oldukça iyi, değil mi?
+
+260
+00:19:15,061 --> 00:19:16,061
+Eh, sıkıcı.
+
+261
+00:19:16,159 --> 00:19:18,037
+Su bükebiliyorken neden
+bir kızağa ihtiyacın olsun ki?
+
+262
+00:19:18,061 --> 00:19:19,037
+Ah, ah, ah, benim gibi, benim gibi!
+
+263
+00:19:19,061 --> 00:19:21,060
+Vii!
+
+264
+00:19:21,309 --> 00:19:24,057
+Unutmayın, hâlâ benim gibi
+bükme yeteneği olmayan bir sürü insan var.
+
+265
+00:19:24,081 --> 00:19:27,057
+Avatar Aang neden bükücü olmayan
+biriyle ortaklık yapsın ki?
+
+266
+00:19:27,081 --> 00:19:28,057
+Ah. Neden mi?
+
+267
+00:19:28,081 --> 00:19:29,057
+Söyleyeyim neden.
+
+268
+00:19:29,081 --> 00:19:31,057
+Onu buzdağından ben kurtardım.
+
+269
+00:19:31,081 --> 00:19:35,057
+Bumerangım onun yanında uçtu, ben de
+güvenilir kılıcımla düşmanları alt ettim.
+
+270
+00:19:35,081 --> 00:19:38,057
+Hatta tüm Ateş Ulusu zeplin donanmasını indirdim.
+
+271
+00:19:38,081 --> 00:19:44,100
+Ve tüm bunların üstüne,
+bir de ondan daha popülerdim.
+
+272
+00:19:45,149 --> 00:19:46,189
+Tam bir yalancısın Sokka.
+
+273
+00:19:49,101 --> 00:19:50,077
+Avatar'dan geliyor.
+
+274
+00:19:50,101 --> 00:19:51,077
+Vay!
+
+275
+00:19:51,101 --> 00:19:52,101
+Gerçekten mi?
+
+276
+00:19:52,374 --> 00:19:54,077
+Ah, yani şimdi havalı olduğumu mu düşünüyorsun?
+
+277
+00:19:56,101 --> 00:19:57,077
+Pekala, metal bükücüler.
+
+278
+00:19:57,101 --> 00:19:59,100
+Bakalım aranızdan herhangi bir acemi
+
+279
+00:19:59,424 --> 00:20:01,097
+beni ellerimi kullanmaya zorlayabilecek mi?
+
+280
+00:20:35,141 --> 00:20:39,117
+Hâlâ dünyanın en iyi
+toprak bükücüsüyüm!
+
+281
+00:20:39,141 --> 00:20:40,117
+Ve sıkıldım.
+
+282
+00:20:40,141 --> 00:20:43,117
+U-Üstat Toph, kafanızda bir kuş var.
+
+283
+00:20:43,141 --> 00:20:44,141
+Ve?
+
+284
+00:20:44,589 --> 00:20:46,140
+Mesaj getirmiş gibi görünüyor.
+
+285
+00:20:46,239 --> 00:20:47,239
+Oku.
+
+286
+00:20:48,209 --> 00:20:49,160
+Ah, Avatar Aang'dan geliyor.
+
+287
+00:20:49,210 --> 00:20:50,210
+Yardımına ihtiyacı var.
+
+288
+00:20:50,260 --> 00:20:51,137
+Reddedilmişler mi?
+
+289
+00:20:51,161 --> 00:20:53,160
+Neredeymiş?
+
+290
+00:20:53,309 --> 00:20:55,160
+Bihu Dağı.
+
+291
+00:21:38,140 --> 00:21:46,140
+♪♪ ♪♪ Hayır, hayır, hayır!
+
+292
+00:21:58,161 --> 00:22:00,137
+Hayır.
+
+293
+00:22:03,161 --> 00:22:05,160
+O şapkayı seviyorum.
+
+294
+00:23:35,080 --> 00:23:43,080
+♪♪ ♪♪ Sonam?
+
+295
+00:23:56,101 --> 00:23:58,100
+O sen olabilir misin?
+
+296
+00:24:51,059 --> 00:24:59,059
+♪♪ ♪♪ Sen de kimsin?
+
+297
+00:29:06,449 --> 00:29:09,377
+Koca bir dağı nasıl havada tuttu?
+
+298
+00:29:09,401 --> 00:29:13,400
+Çi'si çok güçlü, daha önce hiç böyle bir şey hissetmemiştim.
+
+299
+00:29:13,599 --> 00:29:18,400
+Hey Avatar, sence bu adam en uzun süre donmuş
+hava bükücü rekorunu kırmış mıdır?
+
+300
+00:29:18,449 --> 00:29:21,400
+Evet.
+Sence ne kadar zamandır o buzun içindeydi?
+
+301
+00:29:21,599 --> 00:29:25,420
+Bilmem. Dövmeleri çok kadim görünüyor.
+
+302
+00:29:26,069 --> 00:29:27,397
+Uzun zamandır oradaydı.
+
+303
+00:29:27,421 --> 00:29:29,397
+Yaşlı birine göre güzel kokuyor.
+
+304
+00:29:29,421 --> 00:29:30,421
+Iy.
+
+305
+00:29:30,619 --> 00:29:32,397
+Ne? Duyularım bana bu adamın
+oldukça çekici olduğunu söylüyor.
+
+306
+00:29:32,421 --> 00:29:33,446
+-Tah! -Bunu onaylayan biri daha var.
+
+307
+00:29:33,470 --> 00:29:34,420
+Bu ciddi bir durum.
+
+308
+00:29:34,470 --> 00:29:35,397
+"Çekici" ne demek ki?
+
+309
+00:29:35,421 --> 00:29:37,397
+Bana sadece doğrulama yapın.
+
+310
+00:29:37,421 --> 00:29:38,397
+Çekici mi?
+
+311
+00:29:38,421 --> 00:29:39,421
+Oldukça çekici.
+
+312
+00:29:39,719 --> 00:29:41,420
 Ha?
 
-959
-01:08:00,140 --> 01:08:01,140
-Kaçmak için!
+313
+00:29:41,519 --> 00:29:44,417
+Ne var? Öyle.
+Her şey kemik yapısında.
 
-960
-01:08:01,800 --> 01:08:02,800
-Hayatta kalacağım!
+314
+00:29:44,441 --> 00:29:46,417
+Hayır.
 
-961
-01:08:03,540 --> 01:08:04,020
-Bekle!
+315
+00:29:46,441 --> 00:29:48,417
+Hayır.
 
-962
-01:08:04,320 --> 01:08:04,900
-Geri gel!
-
-963
-01:08:05,060 --> 01:08:06,160
-Yanlış yöne gidiyorsun!
-
-964
-01:08:06,460 --> 01:08:07,460
-Dur!
-
-965
-01:08:07,520 --> 01:08:08,600
-Lütfen, Büyük Ruh!
-
-966
-01:08:08,780 --> 01:08:10,220
-Her iki dünyamız da tehlikede!
-
-967
-01:08:10,460 --> 01:08:11,597
-Hayır, hayır, hayır, hayır, hayır, hayır, hayır.
-
-968
-01:08:11,621 --> 01:08:13,040
-Oraya geri çıkmıyorum.
-
-969
-01:08:14,020 --> 01:08:15,020
-Hmm.
-
-970
-01:08:19,460 --> 01:08:22,220
-Şey, öyle söyleyince daha mantıklı geliyor.
-
-971
-01:08:23,279 --> 01:08:27,200
-Şöyle bir düşününce, sana ve senin şu insanımsı arkadaşlarına yardım etmeye karar verdim.
-
-972
-01:08:27,520 --> 01:08:28,520
-Ne dedi?
-
-973
-01:08:28,870 --> 01:08:29,870
-İyi iş, Momo.
-
-974
-01:08:29,920 --> 01:08:30,540
-Pekala.
-
-975
-01:08:30,665 --> 01:08:31,380
-Hadi içeri!
-
-976
-01:08:31,660 --> 01:08:32,117
+316
+00:29:48,441 --> 00:29:49,417
 Hayır!
 
-977
-01:08:32,141 --> 01:08:32,557
-Hayır!
-
-978
-01:08:32,581 --> 01:08:33,581
-Hayır!
-
-979
-01:08:34,740 --> 01:08:38,300
-Bu arada, dişlerimin arasında bulduğun hiçbir şeyi yemek yok, onları sonraya saklıyorum.
-
-980
-01:08:38,720 --> 01:08:40,800
-Hazır, başla, yerini al ve dinlen!
-
-981
-01:08:40,979 --> 01:08:43,439
-Bir, iki ve ne yapman gerektiğini biliyorsun!
-
-982
-01:08:44,279 --> 01:08:45,279
-Kahretsin!
-
-983
-01:08:50,020 --> 01:08:52,580
-Birbirimizi çok uzun zamandır tanımadığımızı biliyorum ama...
-
-984
-01:08:53,020 --> 01:08:54,020
-Seni seviyorum!
-
-985
-01:08:54,540 --> 01:08:55,880
-Karşılık vermek zorunda değilsin!
-
-986
-01:08:58,580 --> 01:08:59,580
-Hey!
-
-987
-01:09:05,460 --> 01:09:06,520
-Saçların geri gelmiş!
-
-988
-01:09:06,875 --> 01:09:07,857
-Gözlerim neden yaşlı?
-
-989
-01:09:07,881 --> 01:09:07,977
-Özür dilerim.
-
-990
-01:09:08,001 --> 01:09:09,001
-Ağlıyor muydum?
-
-991
-01:09:10,040 --> 01:09:11,040
-Yok artık.
-
-992
-01:09:11,140 --> 01:09:11,700
-Bak!
-
-993
-01:09:11,979 --> 01:09:12,540
-Ne?
-
-994
-01:09:12,660 --> 01:09:13,660
-Nedir o?
-
-995
-01:09:13,940 --> 01:09:14,940
-Burası Cumhuriyet Şehri.
-
-996
-01:09:18,580 --> 01:09:21,540
-İnşa ettiğimiz her şeyi yok etmesine izin veremeyiz.
-
-997
-01:09:21,930 --> 01:09:22,930
-Vermeyeceğiz.
-
-998
-01:09:56,840 --> 01:09:58,480
-Asayı bana ver, Taga!
-
-999
-01:09:58,720 --> 01:10:00,820
-Görüyorum ki seni hafife almışım, Avatar.
-
-1000
-01:10:01,240 --> 01:10:03,420
-Arkadaşların sandığımdan daha güçlüymüş.
-
-1001
-01:10:04,060 --> 01:10:05,500
-Ama çok geç kaldın.
-
-1002
-01:10:13,820 --> 01:10:15,880
-bunlar Reddedilenler...
-
-1003
-01:10:15,880 --> 01:10:18,260
-Görüyorsun, istediğini yaptım Aang.
-
-1004
-01:10:18,340 --> 01:10:21,040
-Hava bükmeyi dünyaya geri getirdim.
-
-1005
-01:10:22,700 --> 01:10:23,700
-Plan ne?
-
-1006
-01:10:24,280 --> 01:10:25,511
-Reddedilenlerle biz ilgileneceğiz.
-
-1007
-01:10:25,535 --> 01:10:26,575
-Senin asayı alman lazım.
-
-1008
-01:10:27,590 --> 01:10:30,280
-Jurana'yı ve düşmanlarımızın harabelerini yeniden inşa edeceğim.
-
-1009
-01:10:30,620 --> 01:10:32,396
-Tıpkı onların bizimkiler üzerine yaptığı gibi.
-
-1010
-01:10:32,420 --> 01:10:34,800
-Yeni bir hava imparatorluğu yükselecek.
-
-1011
-01:10:35,340 --> 01:10:36,740
-Hepsini öldürün.
-
-1012
-01:11:14,210 --> 01:11:22,210
-La— Lahanalarım!
-
-1013
-01:12:07,910 --> 01:12:09,340
-La— Lahanalarım!
-
-1014
-01:12:23,770 --> 01:12:24,790
-Bunu yapma.
-
-1015
-01:12:24,950 --> 01:12:26,310
-Güç artık senin elinde.
-
-1016
-01:12:26,430 --> 01:12:28,150
-Onu nasıl kullanacağına karar verebilirsin.
-
-1017
-01:12:28,250 --> 01:12:29,250
-Ben senin gibi değilim.
-
-1018
-01:12:29,500 --> 01:12:30,820
-Dünya bana pek nazik davranmadı.
-
-1019
-01:12:31,005 --> 01:12:32,470
-Dünya, onu ne hale getirirsek odur.
-
-1020
-01:12:32,630 --> 01:12:33,630
-Ondan uzak dur!
-
-1021
-01:13:12,450 --> 01:13:13,690
-Bana ihanet ettin!
-
-1022
-01:13:13,770 --> 01:13:15,010
-Kültürümüze ihanet ettin!
-
-1023
-01:13:15,250 --> 01:13:17,390
-Sana gerçeği görmen için her fırsatı verdim!
-
-1024
-01:13:23,550 --> 01:13:25,370
-Ateş Ulusu'nda olamaz mıydın?
-
-1025
-01:13:27,690 --> 01:13:29,670
-Tüm ulusların barışı için savaşıyorum.
-
-1026
-01:13:33,310 --> 01:13:37,230
-Bir asırlık savaş üzerine kurulu bir tahtta oturan birinden büyük laflar bunlar!
-
-1027
-01:14:34,370 --> 01:14:37,230
-Ve burada seni kurtaracak bir Avatar yok.
-
-1028
-01:14:38,970 --> 01:14:39,970
-Sıçarım döngüne!
-
-1029
-01:14:44,530 --> 01:14:48,810
-Bakalım süslü yeni bükme yeteneğin, eski güzel bükme dışı tekniklerini yenebilecek mi?
-
-1030
-01:15:03,920 --> 01:15:05,520
-Az önce reddedildin!
-
-1031
-01:15:09,020 --> 01:15:10,020
-Bol şans
-
-1032
-01:15:15,740 --> 01:15:17,140
-şehrini kurtarmada.
-
-1033
-01:15:18,420 --> 01:15:19,420
-Mecburuz
-
-1034
-01:15:26,520 --> 01:15:28,340
-olabildiğince çok insanı kurtarmaya!
-
-1035
-01:15:39,900 --> 01:15:47,900
-Acını biliyorum.
-
-1036
-01:15:48,830 --> 01:15:50,220
-Neler yaşadığını biliyorum.
-
-1037
-01:15:51,140 --> 01:15:52,140
-Bilmiyorsun.
-
-1038
-01:15:53,365 --> 01:15:57,416
-Tüm erkek ve kız kardeşlerimin katledilmesini izledim.
-
-1039
-01:15:57,440 --> 01:16:01,240
-Ve Ateş Ulusu, Hava Göçebelerini yakıp küle çevirdi!
-
-1040
-01:16:01,540 --> 01:16:02,740
-Neredeydin?
-
-1041
-01:16:03,400 --> 01:16:04,720
-Kaçtın!
-
-1042
-01:16:11,530 --> 01:16:12,530
-Ruhlar
-
-1043
-01:17:00,570 --> 01:17:05,170
-dünyasının tüm gücü içimden akıyor!
-
-1044
-01:17:15,500 --> 01:17:18,260
-İşte güç dediğin budur!
-
-1045
-01:18:11,550 --> 01:18:16,430
-Bunca yıl önce yaptığın gibi kaçmalıydın, küçük Avatar.
-
-1046
-01:18:19,190 --> 01:18:21,210
-Kaç... mayacağım.
-
-1047
-01:18:21,570 --> 01:18:25,350
-O zaman en azından son Hava Bükücü olmadığını bilerek öleceksin!
-
-1048
-01:20:19,730 --> 01:20:21,830
-Kardeş olabilirdik!
-
-1049
-01:20:22,830 --> 01:20:24,310
-Bunu birlikte yapabilirdik!
-
-1050
-01:20:24,890 --> 01:20:27,030
-Böyle bitmek zorunda değildi!
-
-1051
-01:20:32,310 --> 01:20:33,030
-Bu Aang!
-
-1052
-01:20:33,130 --> 01:20:34,130
-Asa onda!
-
-1053
-01:20:34,210 --> 01:20:34,530
-Evet!
-
-1054
-01:20:34,870 --> 01:20:36,690
-Kıçını tekmele, Mega Aang!
-
-1055
-01:20:36,790 --> 01:20:36,930
-Hayır!
-
-1056
-01:20:37,330 --> 01:20:38,130
-Bir şeyler ters gidiyor!
-
-1057
-01:20:38,330 --> 01:20:40,050
-Güç onu yozlaştırıyor!
-
-1058
-01:20:58,540 --> 01:21:02,260
-Hava Göçebelerini dünyaya barış elçileri olarak geri getirmeyi hayal etmiştim.
-
-1059
-01:21:02,600 --> 01:21:05,620
-Dünyanın takip edeceği bir ışık feneri olabilirlerdi.
-
-1060
-01:21:05,860 --> 01:21:07,080
-Ama sen bunu mahvettin!
-
-1061
-01:21:07,280 --> 01:21:09,540
-Hayalimi bir kabusa çevirdin!
-
-1062
-01:21:10,340 --> 01:21:11,340
-Sonunda.
-
-1063
-01:21:11,865 --> 01:21:13,677
-Hava Göçebelerinin ihtiyaç duyduğu güce sahipsin.
-
-1064
-01:21:13,701 --> 01:21:16,520
-Belki de senin için hâlâ bir umut vardır.
-
-1065
-01:21:28,520 --> 01:21:29,800
-Asayı kullan!
-
-1066
-01:21:30,060 --> 01:21:32,640
-Halkımızı geri getirecek güce sahip olduğunu bana göster!
-
-1067
-01:21:34,020 --> 01:21:35,020
-Yap şunu!
-
-1068
-01:22:03,520 --> 01:22:04,520
-Aang...
-
-1069
-01:22:16,080 --> 01:22:18,650
-Avatar olarak pek çok büyük iş başaracaksın.
-
-1070
-01:22:19,990 --> 01:22:23,230
-Ama seni en çok korkutan şeyi yapmaya hazır olmalısın.
-
-1071
-01:22:25,375 --> 01:22:25,990
-Halkın.
-
-1072
-01:22:26,340 --> 01:22:27,340
-Evin.
-
-1073
-01:22:27,510 --> 01:22:29,690
-Biz her zaman yanındayız.
-
-1074
-01:23:14,900 --> 01:23:15,900
-Hayır!
-
-1075
-01:23:19,020 --> 01:23:20,020
-Gücüm!
-
-1076
-01:23:26,590 --> 01:23:27,590
-Hayır!
-
-1077
-01:23:28,750 --> 01:23:29,750
-Hayır...!
-
-1078
-01:23:39,120 --> 01:23:40,120
-Seni aptal!
-
-1079
-01:23:40,900 --> 01:23:41,900
-Neden?!
-
-1080
-01:23:42,710 --> 01:23:44,120
-Onu neden kırdın?
-
-1081
-01:23:45,240 --> 01:23:46,700
-Her şeyi düzeltebilirdik!
-
-1082
-01:23:48,180 --> 01:23:50,900
-Geçmişin acısını silemeyiz.
-
-1083
-01:23:52,710 --> 01:23:53,710
-Onları kurtaramadık.
-
-1084
-01:23:54,030 --> 01:23:57,197
-Ama halkımızı korumak bizim görevimiz!
-
-1085
-01:23:57,221 --> 01:24:01,080
-Savundukları her şeye ihanet etme pahasına değil.
-
-1086
-01:24:01,220 --> 01:24:02,220
-Hayır!
-
-1087
-01:24:03,510 --> 01:24:04,630
-Artık serbest bırakma vakti.
-
-1088
-01:24:05,950 --> 01:24:07,110
-Kendini affetmelisin.
-
-1089
-01:24:10,320 --> 01:24:11,860
-Ben de kendimi affetmeliyim.
-
-1090
-01:24:21,390 --> 01:24:23,790
-Hava göçebeleri sisten doğar.
-
-1091
-01:24:28,430 --> 01:24:31,820
+317
+00:29:49,441 --> 00:29:51,417
+Hop, hop, hop. Hey.
+
+318
+00:29:51,441 --> 00:29:53,417
+Sakin ol. Güvendesin.
+
+319
+00:29:53,441 --> 00:29:57,417
+♪♪ Toprak bükücü!
+
+320
+00:29:57,441 --> 00:29:59,417
+Hayır, hayır, hayır. Burada hepimiz dostuz.
+
+321
+00:29:59,441 --> 00:30:00,441
+Sorun yok.
+
+322
+00:30:00,589 --> 00:30:03,460
+Birisi dağın ters tarafından uyanmış.
+
+323
+00:30:03,959 --> 00:30:06,460
+O nerede?
+
+324
+00:30:06,659 --> 00:30:08,460
+Avatar Sonim nerede?
+
+325
+00:30:08,759 --> 00:30:10,460
+Sonim'i tanıyor muydun?
+
+326
+00:30:11,359 --> 00:30:12,460
+Kimsin sen?
+
+327
+00:30:13,659 --> 00:30:18,460
+Bunu nasıl açıklayacağımı bilmiyorum,
+ama uzun zamandır uykudaydın.
+
+328
+00:30:19,084 --> 00:30:20,460
+Artık Avatar benim.
+
+329
+00:30:21,009 --> 00:30:22,460
+Ben Aang.
+
+330
+00:30:23,329 --> 00:30:30,480
+Eğer Avatar sensen, o zaman Sonim...
+
+331
+00:30:30,779 --> 00:30:33,624
+Şey, Sonim çoktan gitmiş olabilir, ama iyi haber,
+
+332
+00:30:33,648 --> 00:30:36,457
+tam zamanında uyandın.
+
+333
+00:30:36,481 --> 00:30:39,480
+Herkes başka bir Hava Bükücü
+görmekten büyülenecek.
+
+334
+00:30:39,779 --> 00:30:42,480
+Aang artık son değil.
+
+335
+00:30:43,379 --> 00:30:45,477
+Ne demek "son"?
+
+336
+00:30:45,501 --> 00:30:48,500
+Ah.
+
+337
+00:30:49,999 --> 00:30:51,500
+Hava Göçebeleri.
+
+338
+00:30:52,199 --> 00:30:54,500
+Yok edildiler.
+
+339
+00:30:55,199 --> 00:30:57,477
+Sadece ben varım.
+
+340
+00:30:57,501 --> 00:30:59,500
+Hayır.
+
+341
+00:31:00,249 --> 00:31:02,500
+Sonim'in Asası, sende mi?
+
+342
+00:31:03,699 --> 00:31:04,497
+Şu anki tek umudumuz o.
+
+343
+00:31:04,521 --> 00:31:06,520
+Ne demek istiyorsun?
+
+344
+00:31:07,119 --> 00:31:08,520
+Onun bir silah olduğunu sanıyordum.
+
+345
+00:31:09,919 --> 00:31:11,520
+Asa silah değil.
+
+346
+00:31:12,319 --> 00:31:14,497
+O bir armağan.
+
+347
+00:31:14,521 --> 00:31:20,520
+Onunla Sonim, ruh dünyasının
+uçsuz bucaksız gücünü kanalize edebildi.
+
+348
+00:31:21,619 --> 00:31:24,520
+Jirana'nın gelişmesini sağlayan da bu güçtü.
+
+349
+00:31:24,769 --> 00:31:29,540
+Dünyanın en büyük şehri,
+bir Hava Göçebesi ütopyasıydı,
+
+350
+00:31:30,114 --> 00:31:33,517
+Sonim'in altın bir denge çağına başkanlık ettiği
+
+351
+00:31:33,541 --> 00:31:37,540
+ve benim hayatımı ona hizmet etmeye adadığım yerdi.
+
+352
+00:31:37,839 --> 00:31:41,542
+Karşılığında beni yükseltti ve asasını kullanarak
+
+353
+00:31:41,566 --> 00:31:46,560
+bana, sıradan bir bükücü olmayana,
+havayı bükme gücü verdi.
+
+354
+00:31:47,659 --> 00:31:50,536
+İlk bendim, ama son olmayacaktım.
+
+355
+00:31:50,560 --> 00:31:54,465
+Gökyüzünü Hava Bükücülerle doldurdu ve biz
+
+356
+00:31:54,489 --> 00:31:58,560
+onun yanında uçarak dünyaya barışı yaydık.
+
+357
+00:32:07,009 --> 00:32:09,580
+Aang, iyi misin?
+
+358
+00:32:10,829 --> 00:32:13,580
+Sonim asayı insanlara Hava
+Bükme yeteneği vermek için kullanmış.
+
+359
+00:32:14,529 --> 00:32:16,580
+Eğer onu bulursak,
+
+360
+00:32:17,529 --> 00:32:19,580
+Hava Bükme'yi dünyaya geri getirebilirim.
+
+361
+00:32:20,579 --> 00:32:21,557
+Bu inanılmaz.
+
+362
+00:32:21,581 --> 00:32:24,556
+Yüz yılı aşkın süredir Hava Bükücü yok.
+
+363
+00:32:24,580 --> 00:32:28,600
+Bu her zaman istediğin şey, Aang.
+
+364
+00:32:29,849 --> 00:32:33,600
+Ulusumun savaşta işlediği en büyük vahşeti iyileştirebiliriz.
+
+365
+00:32:34,799 --> 00:32:37,600
+Bu, dünyayı yeniden inşa etmenin son adımı olabilir.
+
+366
+00:32:37,999 --> 00:32:39,600
+Reddedilmişler önce varırsa olmaz.
+
+367
+00:32:39,999 --> 00:32:41,600
+Harita onlarda.
+
+368
+00:32:42,299 --> 00:32:43,600
+Reddedilmişler de kim?
+
+369
+00:32:43,649 --> 00:32:45,600
+Bükücü olmayan şiddet yanlısı bir grup.
+
+370
+00:32:45,999 --> 00:32:47,620
+Onlar... kendilerine Hava Bükme
+vermek için asanın peşinde olmalılar.
+
+371
+00:32:48,069 --> 00:32:49,620
+O zaman kaybedecek vakit yok.
+
+372
+00:32:50,469 --> 00:32:51,669
+Asanın olabileceği tek bir yer var.
+
+373
+00:32:52,219 --> 00:32:53,597
+Bizonunu hazırla.
+
+374
+00:32:53,621 --> 00:32:54,597
+Hazırla bizonunu.
+
+375
+00:32:54,621 --> 00:32:57,620
+Sonsuz okyanusu geçmemiz gerekecek.
+
+376
+00:32:58,244 --> 00:32:59,620
+Dünyanın öbür ucuna mı?
+
+377
+00:33:00,119 --> 00:33:01,597
+Ama orada hiçbir şey yok.
+
+378
+00:33:01,621 --> 00:33:04,620
+Bir ada var.
+Yolculuk kolay olmayacak,
+
+379
+00:33:04,969 --> 00:33:06,640
+ama başarabiliriz.
+
+380
+00:33:07,489 --> 00:33:08,640
+O zaman gidelim.
+
+381
+00:33:09,189 --> 00:33:12,640
+Gökyüzü bir su çocuğuna göre değil.
+
+382
+00:33:12,739 --> 00:33:14,640
+Su çocuğu mu?
+
+383
+00:33:14,889 --> 00:33:17,956
+Şey, binlerce yıl sonra yeni uyandığını biliyorum,
+
+384
+00:33:17,980 --> 00:33:20,617
+ama biz bunları birlikte yaparız.
+
+385
+00:33:20,641 --> 00:33:22,640
+İnan bana, bu şekilde daha güçlüyüz.
+
+386
+00:33:23,039 --> 00:33:24,640
+Avatar Takımı'na hoş geldin.
+
+387
+00:33:25,289 --> 00:33:26,640
+Adın ne?
+
+388
+00:33:27,189 --> 00:33:29,660
+Taga. Adım Taga.
+
+389
+00:33:39,641 --> 00:33:42,617
+Onu büyük, metal bir hava bizonu gibi düşün.
+
+390
+00:33:50,641 --> 00:33:54,640
+Gökyüzünde kadim patikalardan seyahat edeceğiz,
+
+391
+00:33:54,939 --> 00:33:57,757
+halkımızın, uzun zaman önce bize
+Hava Bükmeyi öğreten büyük
+
+392
+00:33:57,781 --> 00:34:00,637
+hava bizonu sürülerini takip ederek öğrendiği patikalardan.
+
+393
+00:34:00,661 --> 00:34:07,637
+Sadece bizim bildiğimiz, büyük varoluş
+küresini çevreleyen hava akımları,
+
+394
+00:34:07,661 --> 00:34:14,659
+bize istediğimiz yere seyahat etme imkanı verir,
+bize adımızı verir, Hava Göçebeleri.
+
+395
+00:34:44,830 --> 00:34:46,679
+Ne yapıyor?
+
+396
+00:34:46,930 --> 00:34:48,679
+O havayı gerçekten hissediyor.
+
+397
+00:34:49,780 --> 00:34:51,699
+İçgüdüleriyle yön buluyor.
+
+398
+00:34:51,875 --> 00:34:53,676
+Ya içgüdüleri yanlışsa?
+
+399
+00:34:53,700 --> 00:34:56,699
+Böyle kasların varken kimin içgüdüye ihtiyacı olur?
+
+400
+00:34:56,750 --> 00:34:58,677
+Ya beyni donmuş olmaktan dolayı bozulduysa?
+
+401
+00:34:58,701 --> 00:34:59,701
+Benim gibi mi?
+
+402
+00:34:59,800 --> 00:35:01,677
+Ah, yok, yok!
+
+403
+00:35:01,701 --> 00:35:04,700
+O 5.000 yıldır donuktu, tamam mı?
+
+404
+00:35:04,800 --> 00:35:06,677
+Sense, ne kadar, 100 yıl mı?
+
+405
+00:35:06,701 --> 00:35:07,701
+Tamam, o hiçbir şey.
+
+406
+00:35:07,875 --> 00:35:10,720
+Senin beynin... taze.
+
+407
+00:35:10,820 --> 00:35:14,720
+Belki biraz eski kafalıdır, ama şuna bak.
+
+408
+00:35:15,170 --> 00:35:17,140
+Elementiyle o kadar uyumlu ki, hiçbir harita,
+
+409
+00:35:17,164 --> 00:35:21,697
+hiçbir alet olmadan tüm okyanusu aşabiliyor.
+
+410
+00:35:24,721 --> 00:35:26,720
+Ondan öğrenebileceğim çok şey var.
+
+411
+00:35:38,741 --> 00:35:42,740
+Hava bizonumu tekrar görebilmek için neler vermezdim.
+
+412
+00:35:45,741 --> 00:35:48,717
+Ve şimdi, sadece bir tane kaldığını görmek.
+
+413
+00:35:53,240 --> 00:35:56,760
+Halkımızın yok edildiğini söyledin,
+ama sen hayatta kalmışsın.
+
+414
+00:35:57,610 --> 00:35:58,760
+Nasıl?
+
+415
+00:36:00,660 --> 00:36:02,760
+Avatar olduğumu yeni öğrenmiştim,
+
+416
+00:36:04,860 --> 00:36:07,760
+ama sorumluluk... çok fazlaydı.
+
+417
+00:36:09,435 --> 00:36:10,760
+Ben de kaçtım.
+
+418
+00:36:12,060 --> 00:36:15,757
+Ve ben yokken Ateş Ulusu saldırdı.
+
+419
+00:36:16,781 --> 00:36:18,757
+Beni arıyorlardı.
+
+420
+00:36:23,380 --> 00:36:24,780
+Eğer... Eğer orada olsaydım...
+
+421
+00:36:25,280 --> 00:36:26,780
+Sonam derdi ki,
+
+422
+00:36:26,980 --> 00:36:29,780
+"Hava göçebeleri sisten meydana gelir.
+
+423
+00:36:30,280 --> 00:36:32,780
 Dünyada bir anlığına yürürüz.
 
-1092
-01:24:34,320 --> 01:24:38,360
-Sonra... sonsuz rüzgara geri döneriz.
+424
+00:36:33,180 --> 00:36:36,777
+Sonra ebedi rüzgara döneriz."
 
-1093
-01:24:59,910 --> 01:25:00,910
-Selam, Katara.
+425
+00:36:36,801 --> 00:36:37,801
+♪♪
 
-1094
-01:25:01,530 --> 01:25:02,530
-Selam, Aang.
+426
+00:36:38,000 --> 00:36:39,800
+Monkiatsu öğretmişti bunu bana.
 
-1095
-01:25:05,270 --> 01:25:06,270
-Cidden mi?
+427
+00:36:40,700 --> 00:36:41,800
+Aynı ağırlığı taşıyoruz,
 
-1096
-01:25:06,870 --> 01:25:08,490
-Düştüğünün farkındasın, değil mi?
+428
+00:36:42,700 --> 00:36:45,800
+başka kimsenin anlayamayacağı bir kederi.
 
-1097
-01:25:09,530 --> 01:25:11,066
-Hey, eğer Appa'ya güvenmekten yorulursan,
+429
+00:36:46,000 --> 00:36:47,777
+Ama sen ve ben geçmişi iyileştirebiliriz.
 
-1098
-01:25:11,090 --> 01:25:13,850
-sana bunlardan bir tane ayarlayabilirim, bebeğim!
+430
+00:36:47,801 --> 00:36:54,800
+Hava bükücüler birlikte çalıştığında elementimizin
+ne kadar güçlü olabileceğini göstereyim sana.
 
-1099
-01:25:35,130 --> 01:25:37,450
-Hava bükmenin bir daha geri dönüp dönmeyeceğini bilmiyorum.
+431
+00:36:56,250 --> 00:36:58,457
+♪♪ Aah!
 
-1100
-01:25:38,160 --> 01:25:40,393
-Ama artık biliyorum ki Aang'in gerçek yolu ve
+432
+00:36:58,481 --> 00:36:59,797
+Ne yapıyorsun?!
 
-1101
-01:25:40,417 --> 01:25:43,121
-hava göçebelerinin gücü asla bükücülükleri değildi.
+433
+00:36:59,821 --> 00:37:00,797
+Aah!
 
-1102
-01:25:43,555 --> 01:25:44,555
-Değerleriydi.
+434
+00:37:00,821 --> 00:37:02,797
+Sonam bana böyle öğretti!
 
-1103
-01:25:45,730 --> 01:25:47,500
-Ve bu, başkalarına aktarabileceğim bir güç.
+435
+00:37:02,821 --> 00:37:05,797
+Bizi birbirimize bağlayan enerjiyi hisset.
 
-1104
-01:25:49,320 --> 01:25:50,320
-Avatar Aang.
+436
+00:37:10,821 --> 00:37:14,797
+Aramızdaki bağ... hissedebiliyor musun?
+Kullan onu!
 
-1105
-01:25:51,010 --> 01:25:53,540
-Sen hava göçebelerinin gerçek timsalisin.
+437
+00:37:14,821 --> 00:37:16,817
+Bu harika!
 
-1106
-01:25:55,220 --> 01:25:57,800
-Benim vazgeçemediğim güçten vazgeçtiğin için teşekkür ederim.
+438
+00:37:16,841 --> 00:37:18,817
+Evet, öyleyim!
 
-1107
-01:25:59,385 --> 01:26:01,540
-Kültürümüzün geleceği için bana umut veriyorsun.
+439
+00:37:18,841 --> 00:37:22,540
+Vu-huu!
 
-1108
-01:26:15,640 --> 01:26:17,480
-Harika, değil mi?
+440
+00:37:22,564 --> 00:37:23,817
+İşte bu!
 
-1109
-01:26:18,560 --> 01:26:20,960
-Yüzyıllardır inşa edilen ilk yeni hava tapınağı.
+441
+00:37:23,841 --> 00:37:25,817
+İnsan bumerangı!
 
-1110
-01:26:22,675 --> 01:26:24,480
-Cumhuriyet Şehri sonunda tamamlandı.
+442
+00:37:25,841 --> 00:37:26,817
+Gerçekten uçuyor.
 
-1111
-01:26:29,400 --> 01:26:30,580
-Tüm uluslar için bir şehir.
+443
+00:37:26,841 --> 00:37:27,817
+Biz de öyle.
 
-1112
-01:26:30,940 --> 01:26:32,160
-Tıpkı söz verdiğin gibi.
+444
+00:37:27,841 --> 00:37:29,817
+Vay! O benim en iyi arkadaşım!
 
-1113
-01:26:33,760 --> 01:26:35,680
-Bunu sensiz asla başaramazdım, Katara.
+445
+00:37:29,841 --> 00:37:31,817
+O benim en iyi arkadaşım!
 
-1114
-01:26:37,320 --> 01:26:38,320
-Selam millet.
+446
+00:37:31,841 --> 00:37:33,817
+Hayır, beni fırlat!
 
-1115
-01:26:38,720 --> 01:26:40,080
-Hepinizi beklettiğim için üzgünüm.
+447
+00:38:01,881 --> 00:38:03,857
+Bunun mümkün olduğunu bilmiyordum!
 
-1116
-01:26:40,730 --> 01:26:42,050
-Büyük gezimiz için hazır mısınız?
+448
+00:38:03,881 --> 00:38:05,857
+Bu sadece başlangıç.
 
-1117
-01:26:43,400 --> 01:26:48,721
-Yeni akolitlerim olarak, kültürümüzü gelecek nesiller için korumama yardım edeceksiniz.
-
-1118
-01:26:49,140 --> 01:26:50,140
-Ee?
-
-1119
-01:26:50,670 --> 01:26:53,440
-Kim antik, terk edilmiş bir tapınakta eser aramak ister?
-
-1120
-01:26:53,880 --> 01:26:54,880
-Yaşasın.
-
-1121
-01:26:54,920 --> 01:26:58,900
-Sadece başka bir kalıplı yaşlı hava bükücüyü
-serbest bırakmaya çalışmadığınızdan emin olacağım.
-
-1122
-01:26:59,310 --> 01:27:01,020
-Evet, serseri tiplerle işim bitti.
-
-1123
-01:27:13,430 --> 01:27:15,310
-Avatar Stronum bana burayı anlatmıştı.
-
-1124
-01:27:16,270 --> 01:27:19,350
-Yani yüzlerce yıldır kimsenin buraya gelmemiş olması çok muhtemel.
-
-1125
-01:27:20,950 --> 01:27:21,950
-Oh.
-
-1126
-01:27:22,515 --> 01:27:23,890
-Bu bir hava bükücü yadigarı mı?
-
-1127
-01:27:24,310 --> 01:27:25,390
-Bence o sadece bir kaya.
-
-1128
-01:27:26,080 --> 01:27:27,120
-Ama bu hevesini sevdim.
-
-1129
-01:27:33,810 --> 01:27:34,810
-Gözlerini açık tut.
-
-1130
-01:27:35,280 --> 01:27:37,080
-Burada ne keşfedebileceğimizi asla bilemezler.
-
-1131
-01:27:39,860 --> 01:27:40,860
-Onların
-
-1132
-01:27:46,550 --> 01:27:47,830
-soyunun tükendiğini sanıyordum.
-
-1133
-01:27:55,040 --> 01:27:56,440
+449
+00:38:14,280 --> 00:38:15,900
 İnanamıyorum.
 
-1134
-01:27:57,300 --> 01:27:59,040
+450
+00:38:16,250 --> 00:38:17,900
+Hava Bükücüler gökyüzünü tekrar dolduracak.
+
+451
+00:38:18,600 --> 00:38:20,900
+Bize büyük bir armağan verildi...
+
+452
+00:38:21,400 --> 00:38:22,900
+kendimizi affettirme şansı.
+
+453
+00:38:23,850 --> 00:38:27,900
+O dağda beni bulmak senin kaderindi, Aang.
+
+454
+00:38:28,700 --> 00:38:30,900
+Oraya nasıl geldin?
+
+455
+00:38:34,400 --> 00:38:36,900
+Toprak bükücüler Tirana'ya saldırmıştı.
+
+456
+00:38:37,200 --> 00:38:39,920
+Sonam ve ben korkusuzca, yan yana savaştık.
+
+457
+00:38:40,570 --> 00:38:41,920
+Onları Bahu Dağı'na kadar sürdük,
+
+458
+00:38:42,870 --> 00:38:45,920
+ve hatırladığım son şey bu.
+
+459
+00:38:46,770 --> 00:38:47,970
+Hayatını kurtarmış olmalı.
+
+460
+00:38:48,870 --> 00:38:51,920
+Seni o küreye sadece bir Avatar koyabilirdi.
+
+461
+00:38:55,070 --> 00:38:57,917
+Aang, sana bir şey sorabilir miyim?
+
+462
+00:38:57,941 --> 00:38:58,941
+Tabii ki.
+
+463
+00:38:59,790 --> 00:39:02,940
+Eğer Ateş Ulusu Hava Göçebelerini yok ettiyse,
+
+464
+00:39:03,740 --> 00:39:06,940
+Ateş Lordu'nun varlığına nasıl katlanabiliyorsun?
+
+465
+00:39:09,290 --> 00:39:10,940
+Zuko bir dost ve müttefik.
+
+466
+00:39:11,840 --> 00:39:14,940
+Savaşı bitirmeme yardım etmek için
+kendi babasına karşı geldi.
+
+467
+00:39:15,340 --> 00:39:17,960
+Yine de şimdi tacı kendisi takıyor.
+
+468
+00:39:18,610 --> 00:39:21,960
+Ateş, doğası gereği yakar, Aang.
+
+469
+00:39:22,310 --> 00:39:23,960
+Bizim türümüz her zaman
+
+470
+00:39:24,060 --> 00:39:26,960
+diğer elementlerin elinden acı çekmiştir.
+
+471
+00:39:27,260 --> 00:39:28,960
+Bu yüzden Cumhuriyet Şehri'ni inşa ettik...
+
+472
+00:39:29,760 --> 00:39:31,960
+birbirimizi dinlersek eğer, hepimizin
+
+473
+00:39:32,360 --> 00:39:35,960
+barış içinde birlikte yaşayabileceğini
+dünyaya göstermek için.
+
+474
+00:39:36,235 --> 00:39:40,980
+Ve hava bükücüleri geri getirdiğimizde,
+tamamlanmış olacak.
+
+475
+00:39:43,780 --> 00:39:45,100
+Herkes kendi kabuğuna çekildiğinde,
+
+476
+00:39:45,930 --> 00:39:47,980
+tüm dünya neredeyse parçalanıyordu.
+
+477
+00:39:49,080 --> 00:39:52,980
+Ayrıca, Katara, Sokka, Zuko, Toph,
+
+478
+00:39:53,530 --> 00:39:54,980
+onlar artık benim ailem.
+
+479
+00:39:56,480 --> 00:39:59,000
+Hepimizin bir arada olabileceği bir dünyada yaşamak istiyorum.
+
+480
+00:40:00,900 --> 00:40:04,000
+Bana Sonam'ı çok hatırlatıyorsun.
+
+481
+00:40:07,000 --> 00:40:08,977
+Bu Avatar.
+
+482
+00:40:09,001 --> 00:40:10,977
+Ve bu sefer arkadaşlarını da getirmiş.
+
+483
+00:40:11,001 --> 00:40:13,000
+Bu Ateş Lordu'nun zeplini.
+
+484
+00:40:13,150 --> 00:40:13,977
+Nasıl önümüze geçtiler?
+
+485
+00:40:14,001 --> 00:40:16,000
+Harita bile onlarda değil.
+
+486
+00:40:16,300 --> 00:40:18,096
+Asaya onun ulaşmasını göze alamayız.
+
+487
+00:40:18,120 --> 00:40:18,997
+Öldür onu.
+
+488
+00:40:19,021 --> 00:40:21,020
+Ama hayatımızı bağışladı.
+
+489
+00:40:21,045 --> 00:40:25,020
+Peki ya onun dönüşünü beklerken yüz yıl içinde
+kaç sayısız insan öldürüldü?
+
+490
+00:40:25,120 --> 00:40:27,997
+Ailen yok edilirken o neredeydi?
+
+491
+00:40:28,021 --> 00:40:33,020
+Bir şeylerin değişmesini istiyorsak,
+bükücülerin sahip olduğu şeye ihtiyacımız var... güce.
+
+492
+00:40:37,020 --> 00:40:38,997
+Ateş!
+
+493
+00:40:39,021 --> 00:40:46,997
+Reddedilmişler.
+
+494
+00:40:47,021 --> 00:40:51,997
+Ah, kesinlikle saldırı altındayız.
+
+495
+00:40:52,021 --> 00:40:55,020
+Süratini artır.
+
+496
+00:41:07,020 --> 00:41:09,997
+Gemiyi mi eziyor?
+
+497
+00:41:10,021 --> 00:41:12,997
+Taga?
+
+498
+00:41:13,021 --> 00:41:15,020
+Taga, dur!
+
+499
+00:41:37,020 --> 00:41:38,997
+Vardık.
+
+500
+00:41:39,021 --> 00:41:42,997
+Ölümsüz Fırtına.
+
+501
+00:41:43,021 --> 00:41:44,997
+Ah, hayır.
+
+502
+00:41:45,021 --> 00:41:51,997
+Etrafından dolaşmanın başka bir yolu olmalı.
+
+503
+00:41:52,021 --> 00:41:54,997
+Hayır. Birlikte, sen ve ben gemiye bir yol açabiliriz.
+
+504
+00:41:55,021 --> 00:41:56,997
+Ama hemen gitmeliyiz.
+
+505
+00:41:57,021 --> 00:42:00,020
+Aang, güven bana.
+
+506
+00:42:04,020 --> 00:42:08,997
+Ah, belki de geri dönmenin tam zamanı.
+
+507
+00:42:09,021 --> 00:42:10,997
+Artık bunun bir seçenek olduğunu sanmıyorum.
+
+508
+00:42:11,021 --> 00:42:13,020
+Nereye gidiyorlar?
+
+509
+00:42:16,020 --> 00:42:23,997
+Motor durdu.
+Hava basıncı düşüyor.
+
+510
+00:42:24,021 --> 00:42:30,997
+Katara, benimle gel.
+
+511
+00:42:31,021 --> 00:42:31,997
+Peki ya ben?
+
+512
+00:42:32,021 --> 00:42:32,997
+Direksiyona geç.
+
+513
+00:42:33,021 --> 00:42:35,997
+Ne? Şimdiye kadar sadece Ateş Ulusu zeplinlerini düşürdüm.
+
+514
+00:42:36,021 --> 00:42:38,997
+Pekala, bakalım. İşte dümenimiz.
+
+515
+00:42:39,021 --> 00:42:40,997
+Bu irtifa dümeni. İşte saframız.
+
+516
+00:42:41,021 --> 00:42:43,997
+Ve işte hepimizi öldürecek o dev hortum.
+
+517
+00:42:44,021 --> 00:42:49,020
+Beni takip et.
+
+518
+00:42:53,020 --> 00:43:00,997
+Benimle çalış.
+
+519
+00:43:01,021 --> 00:43:02,021
+Sana gösterdiğim gibi.
+
+520
+00:43:03,020 --> 00:43:04,020
+Başarabiliriz.
+
+521
+00:43:09,020 --> 00:43:17,020
+Evet! İşte bu, Aang. Devam et.
+
+522
+00:43:22,020 --> 00:43:30,020
+Anladım.
+
+523
+00:43:34,020 --> 00:43:35,997
+Zuko! Zuko!
+
+524
+00:43:36,021 --> 00:43:38,997
+Aang ve Taga hortumları yok ediyor, ama çok fazlalar!
+
+525
+00:43:39,021 --> 00:43:40,997
+Ve her yerdeler!
+
+526
+00:43:41,021 --> 00:43:42,997
+Sadece gemiyi yönlendir. Aang'i gözden kaybetme.
+
+527
+00:43:43,021 --> 00:43:45,997
+O kadar kolay değil, özellikle de her şey yan duruyorken.
+
+528
+00:43:46,021 --> 00:43:48,020
+Tamam, sola!
+
+529
+00:43:50,020 --> 00:43:57,997
+Başardım!
+
+530
+00:43:58,021 --> 00:44:00,020
+Sağa!
+
+531
+00:44:03,020 --> 00:44:05,997
+Ah hayır, geride kalıyoruz!
+
+532
+00:44:06,021 --> 00:44:08,997
+Onları gözden kaybediyorum.
+Geri dönmeliyiz.
+
+533
+00:44:09,021 --> 00:44:13,020
+Arkadaşlarına güven. Biz bir yol açmazsak başaramazlar.
+
+534
+00:44:23,020 --> 00:44:30,997
+Zuko, çakacağız!
+
+535
+00:44:31,021 --> 00:44:33,997
+Zuko, denize çakılacağız!
+
+536
+00:44:34,021 --> 00:44:36,997
+Sana işaret verdiğimde,
+direksiyonun yanındaki kolu çek.
+
+537
+00:44:37,021 --> 00:44:42,997
+Çakılacağız! Çakılacağız!
+
+538
+00:44:43,021 --> 00:44:45,020
+Katara?
+
+539
+00:45:01,020 --> 00:45:03,997
+İşaret ver! İşaret ver!
+
+540
+00:45:04,021 --> 00:45:10,997
+Vay!
+
+541
+00:45:11,021 --> 00:45:13,997
+Sokka, şimdi!
+
+542
+00:45:14,021 --> 00:45:16,020
+İşte gidiyoruz!
+
+543
+00:45:31,020 --> 00:45:32,997
+Katara! Başardık!
+
+544
+00:45:33,021 --> 00:45:34,997
+Ne düşünüyordun?
+
+545
+00:45:35,021 --> 00:45:36,997
+Yol açmak için hortumları temizliyordum.
+
+546
+00:45:37,021 --> 00:45:39,997
+Gemi neredeyse düşüyordu Aang.
+Ölebilirdik.
+
+547
+00:45:40,021 --> 00:45:42,997
+Ya kendini öldürseydin?
+Sen Avatar'sın.
+
+548
+00:45:43,021 --> 00:45:45,997
+Bu çok riskli.
+Hemen geri dönmeliyiz.
+
+549
+00:45:46,021 --> 00:45:48,997
+Hayır! Neredeyse vardık.
+
+550
+00:45:49,021 --> 00:45:50,997
+Sadece fırtınanın gözüne gitmemiz gerekiyor.
+
+551
+00:45:51,021 --> 00:45:52,997
+Aang, hayır!
+
+552
+00:45:53,021 --> 00:45:54,997
+Fırtınanın gözüne gitmemiz gerekiyor.
+
+553
+00:45:55,021 --> 00:45:57,997
+Aang, fırtınanın gözüne gitmemiz gerekiyor.
+
+554
+00:45:58,021 --> 00:46:00,997
+Aang, hayır! Bu çok tehlikeli.
+
+555
+00:46:01,021 --> 00:46:03,997
+Asa orada bir yerde.
+Reddedilmişler peşinde.
+
+556
+00:46:04,021 --> 00:46:06,997
+Fırtınayı geçebileceklerine gerçekten inanıyor musun?
+
+557
+00:46:07,021 --> 00:46:09,997
+Neredeyse geldik.
+O asa halkımı geri getirebilir.
+
+558
+00:46:10,021 --> 00:46:13,997
+Bunu ne kadar istediğini anlıyorum, ama...
+Anlamıyorsun. Hiçbiriniz anlamıyorsunuz.
+
+559
+00:46:14,021 --> 00:46:19,997
+Aang... İleri gidiyoruz.
+
+560
+00:46:20,021 --> 00:46:26,020
+Yeterince hava üretirsek,
+kendimize yol açabiliriz.
+
+561
+00:46:27,020 --> 00:46:29,020
+Kendimize yol açabiliriz.
+
+562
+00:46:57,020 --> 00:46:58,020
+Aang!
+
+563
+00:47:06,020 --> 00:47:14,020
+Hayatta mıyız?
+
+564
+00:47:14,470 --> 00:47:17,020
+Başardık. Teşekkürler, Taga.
+
+565
+00:47:17,120 --> 00:47:19,997
+Sayende oldu Aang.
+Senin sayende buradayız.
+
+566
+00:47:20,021 --> 00:47:22,020
+Evet, biz de iyi vakit geçiriyoruz.
+
+567
+00:47:22,045 --> 00:47:23,997
+Ölümsüz Fırtına'ya uçtuğumuzu söyleyebilirdin.
+
+568
+00:47:24,021 --> 00:47:27,020
+Tehlikeli olduğunu biliyorum,
+ama riske atmak zorundaydık.
+
+569
+00:47:27,070 --> 00:47:30,020
+Biz mi? Bunun için ne zaman oylama yaptık hatırlamıyorum.
+
+570
+00:47:30,470 --> 00:47:31,997
+Zaman yoktu. Karar vermem gerekiyordu.
+
+571
+00:47:32,021 --> 00:47:34,020
+Dostlar, lütfen, Aang'i suçlamayın.
+
+572
+00:47:34,920 --> 00:47:38,020
+Hepsi benim suçum.
+Bunun zor olacağını biliyordum.
+
+573
+00:47:38,920 --> 00:47:41,020
+Ama Aang bir ekip olarak gücünüze inandı.
+
+574
+00:47:41,720 --> 00:47:43,120
+Ve bunun bir parçası olmaktan onur duyuyorum.
+
+575
+00:47:48,570 --> 00:47:51,020
+Seni affediyorum, Taga.
+
+576
+00:47:51,670 --> 00:47:53,020
+Millet, bakın.
+
+577
+00:47:54,770 --> 00:47:58,020
+Bu adalar... onlar... aslan kaplumbağalardı.
+
+578
+00:47:58,170 --> 00:48:00,997
+Vay!
+
+579
+00:48:01,021 --> 00:48:04,020
+Çok güzel.
+
+580
+00:48:04,120 --> 00:48:12,020
+Benim zamanımdan çok önce, aslan kaplumbağalar
+insanlara bükme armağanını vermiş.
+
+581
+00:48:13,120 --> 00:48:15,020
+Bunlar onların son dinlenme yerleri.
+
+582
+00:48:16,220 --> 00:48:19,020
+Burası Sonim'in onların yöntemlerini öğrenmeye geldiği yer.
+
+583
+00:48:20,320 --> 00:48:23,020
+Asasını burada bıraktığına eminim.
+
+584
+00:48:23,720 --> 00:48:25,020
+Aramaya nereden başlamalıyız?
+
+585
+00:48:25,370 --> 00:48:28,020
+Aang, onunla bağlantı kurmalısın.
+
+586
+00:48:29,195 --> 00:48:32,020
+Ama kimse Sonim'le bağlantı kuramaz.
+
+587
+00:48:32,220 --> 00:48:35,020
+Aslan kaplumbağaların ruhani gücü hâlâ burada yoğunlaşmış durumda.
+
+588
+00:48:36,070 --> 00:48:39,020
+Bırak sana rehberlik etsin.
+Hemen yola koyulalım.
+
+589
+00:48:39,270 --> 00:48:42,020
+Aslında Taga, burada yardımına gerçekten ihtiyacımız var.
+
+590
+00:48:42,070 --> 00:48:45,020
+Reddedilmişler arkamızdan yakınsa, hazır olmalıyız.
+
+591
+00:48:45,195 --> 00:48:49,020
+Evet ve bunu düzeltmek için Toph'un metal bükmesinden fazlası gerekecek.
+
+592
+00:48:49,470 --> 00:48:51,997
+Benim bükmem bizi o fırtınadan geçirdi.
+Sen ne yaptın?
+
+593
+00:48:52,021 --> 00:48:53,021
+Ayaklarıyla direksiyon kullandı.
+
+594
+00:48:53,320 --> 00:48:56,020
+Tamirat bekleyebilir. Aang'in bana ihtiyacı var.
+
+595
+00:48:56,770 --> 00:49:00,020
+Taga, lütfen, kal ve arkadaşlarıma yardım et.
+
+596
+00:49:01,170 --> 00:49:01,997
+Kendi başıma hallederim.
+
+597
+00:49:02,021 --> 00:49:04,020
+Nasıl istersen.
+
+598
+00:49:05,220 --> 00:49:07,020
+Eve dönüş yolculuğumuz için tamirata başlayacağız.
+
+599
+00:49:07,170 --> 00:49:12,997
+Millet, bu yolculukta sizden çok şey istediğimi biliyorum.
+
+600
+00:49:13,021 --> 00:49:17,020
+Ama dünyayı değiştirecek bir şeyi başarmak üzereyiz.
+
+601
+00:50:09,021 --> 00:50:10,021
+Bırak sana rehberlik etsin.
+
+602
+00:50:19,020 --> 00:50:27,020
+Sonam?
+
+603
+00:50:46,670 --> 00:50:49,020
+Ah, bu küçük bir tatile dönüşüyor.
+
+604
+00:50:49,070 --> 00:50:52,997
+Bizi öldürmeye çalışan insanlar ve hortumlar hariç.
+
+605
+00:50:53,021 --> 00:50:55,997
+Şey, gemiyi tamir ediyor olmamız gerekmiyor muydu?
+
+606
+00:50:56,021 --> 00:50:57,061
+Harika gidiyorsun dostum.
+
+607
+00:50:59,270 --> 00:51:00,020
+Taga'yı gören oldu mu?
+
+608
+00:51:00,070 --> 00:51:02,997
+Evet, hepimiz Taga'yı gördük. Çok muhteşem.
+
+609
+00:51:03,021 --> 00:51:03,997
+Tanrım, anladım.
+
+610
+00:51:04,021 --> 00:51:06,997
+Ah, ne demek istediğini anlıyorum.
+
+611
+00:51:07,021 --> 00:51:07,997
+O tarafa doğru gitti.
+
+612
+00:51:08,021 --> 00:51:10,020
+Yoksa bu tarafa mı?
+
+613
+00:51:40,970 --> 00:51:45,021
+Taga?
+
+614
+00:51:45,470 --> 00:51:46,997
+Nereye gidiyorsun?
+
+615
+00:51:47,021 --> 00:51:49,997
+Aang'in korunmaya ihtiyacı var.
+
+616
+00:51:50,021 --> 00:51:51,021
+Katılıyorum.
+
+617
+00:51:51,820 --> 00:51:57,020
+Yöntemlerimin sana alışılmadık geldiğini biliyorum.
+
+618
+00:51:57,270 --> 00:52:00,997
+Ama seni temin ederim ki,
+yaptığım her şeyi Aang için yapıyorum.
+
+619
+00:52:01,021 --> 00:52:04,020
+Aang için mi? Yoksa asa için mi?
+
+620
+00:52:04,470 --> 00:52:08,020
+Ne kaybettiğimiz hakkında hiçbir fikrin yok.
+
+621
+00:52:08,720 --> 00:52:11,020
+Hava bükücülerin olduğu bir dünyayı hiç bilmedin.
+
+622
+00:52:11,445 --> 00:52:13,020
+Aang'i bilirim.
+
+623
+00:52:13,770 --> 00:52:14,997
+Türünün son örneği olabilir.
+
+624
+00:52:15,021 --> 00:52:18,020
+Ama bu dünyanın barışı bilmesinin sebebi o.
+
+625
+00:52:18,345 --> 00:52:25,997
+Bir hava göçebesi olarak değerleri,
+kaosa denge getirdi.
+
+626
+00:52:28,021 --> 00:52:31,268
+Aang sayesinde Su Kabileleri,
+
+627
+00:52:31,292 --> 00:52:34,997
+Toprak Krallığı ve Ateş Ulusu birlikte çalışıyor.
+
+628
+00:52:35,021 --> 00:52:36,997
+Uyum için çabalıyor.
+
+629
+00:52:37,021 --> 00:52:39,997
+Bir zamanlar ulaşılamaz sandığımız bir barış.
+
+630
+00:52:40,021 --> 00:52:43,997
+Barıştan bahsediyorsun.
+
+631
+00:52:44,021 --> 00:52:46,997
+Elementler arasında asla barış olmayacak.
+
+632
+00:52:47,021 --> 00:52:47,997
+Hiçbir zaman olmadı.
+
+633
+00:52:48,021 --> 00:52:51,997
+Senin değerli Cumhuriyet Şehrin yalanlar üzerine kurulu.
+
+634
+00:52:52,021 --> 00:52:53,997
+Umut üzerine kurulu.
+
+635
+00:52:54,021 --> 00:52:55,997
+Umudun var mı, Taga?
+
+636
+00:52:56,021 --> 00:52:59,020
+Halkımı kurtarmak umuttan fazlasını gerektirir.
+
+637
+00:52:59,095 --> 00:53:01,020
+Fedakarlık gerektirir.
+
+638
+00:53:01,070 --> 00:53:04,020
+Reddedilmişlerin zeplinlerini ezmeye çalıştığını gördüm.
+
+639
+00:53:04,095 --> 00:53:05,997
+Onları öldürmeye hazırdın.
+
+640
+00:53:06,021 --> 00:53:10,997
+Aang'in nasıl bir hava bükücü olduğunu biliyorum.
+
+641
+00:53:11,021 --> 00:53:15,997
+Peki ya sen nasıl bir hava bükücüsün?
+
+642
+00:53:44,021 --> 00:53:45,997
+Aang bizi buraya getirmekle iyi iş çıkardı.
+
+643
+00:53:46,021 --> 00:53:50,020
+İçinde büyük bir güç var, ama aynı zamanda zayıflık da.
+
+644
+00:53:50,195 --> 00:53:50,997
+Zayıflık mı?
+
+645
+00:53:51,021 --> 00:53:54,020
+Evet, sen.
+
+646
+00:54:10,021 --> 00:54:12,020
+Ne domuz maymunu!
+
+647
+00:54:27,020 --> 00:54:35,020
+Sana güvenmişti.
+
+648
+00:54:44,021 --> 00:54:45,021
+Hayır.
+
+649
+00:55:57,020 --> 00:56:05,020
+Kardeşim.
+
+650
+00:56:09,270 --> 00:56:15,997
+Taga, gerçekten var.
+
+651
+00:56:16,021 --> 00:56:20,997
+Sonunda hava bükmeyi geri getirebiliriz.
+
+652
+00:56:21,021 --> 00:56:22,997
+Hadi gidip diğerlerine söyleyelim.
+
+653
+00:56:23,021 --> 00:56:26,997
+Bunu başarabiliriz, sen ve ben.
+
+654
+00:56:27,021 --> 00:56:30,997
+Bunu arkadaşlarım olmadan yapamam.
+
+655
+00:56:31,021 --> 00:56:34,020
+Toprak benim halkımı öldürdü, ateş seninkini.
+
+656
+00:56:34,520 --> 00:56:38,020
+Asa, yeni bir hava imparatorluğu
+yaratabilmemizin tek yolu.
+
+657
+00:56:38,420 --> 00:56:40,997
+Kendini savunabilecek bir imparatorluk.
+
+658
+00:56:41,021 --> 00:56:44,020
+Hayır, yeni bir gelecek inşa edebiliriz, Taga.
+
+659
+00:56:44,220 --> 00:56:46,020
+Ama bu herkes için olmalı.
+
+660
+00:56:46,095 --> 00:56:48,020
+Asa herkese ait değil.
+
+661
+00:56:48,320 --> 00:56:49,997
+O bize ait.
+
+662
+00:56:50,021 --> 00:56:51,997
+Ne yaptın?
+
+663
+00:56:52,021 --> 00:56:55,020
+Onlar etrafta olduğu sürece,
+halkımızı her zaman onlardan önde tuttun.
+
+664
+00:56:55,845 --> 00:56:56,997
+Görmüyor musun?
+
+665
+00:56:57,021 --> 00:56:58,997
+Kendimizi böyle affettiririz.
+
+666
+00:56:59,021 --> 00:57:00,997
+O zaman kaçmış olman önemli değil.
+
+667
+00:57:01,021 --> 00:57:03,997
+Şimdi benimle olduğun sürece.
+
+668
+00:57:04,021 --> 00:57:05,997
+Aang, dinle beni.
+
+669
+00:57:06,021 --> 00:57:06,997
+Katara.
+
+670
+00:57:07,021 --> 00:57:09,020
+Tek yolu bu.
+
+671
+00:57:22,021 --> 00:57:23,997
+Kendi halkına ihanet ediyorsun.
+
+672
+00:57:24,021 --> 00:57:26,020
+Tıpkı Sono gibi.
+
+673
+00:58:04,021 --> 00:58:07,020
+Bunu sen yanımdayken yapmak istemiştim.
+
+674
+00:58:13,020 --> 00:58:20,997
+Ama yeni bir hava imparatorluğunu
+tek başıma kurmam gerekiyorsa, öyle olsun.
+
+675
+00:58:21,021 --> 00:58:21,997
+Girmenin yolu yok.
+
+676
+00:58:22,021 --> 00:58:24,020
+Geri dönmek zorundayız.
+
+677
+00:58:31,020 --> 00:58:38,997
+Hayır, zorlamaya devam edeceğiz.
+
+678
+00:58:39,021 --> 00:58:40,997
+Sono'nun asası.
+
+679
+00:58:41,021 --> 00:58:42,997
+Reddedilmiş.
+
+680
+00:58:43,021 --> 00:58:44,997
+Avatar öldü.
+
+681
+00:58:45,021 --> 00:58:50,020
+Eğer güce sahip olduğunuz yeni bir dünya
+kurmak istiyorsanız, onu size verebilirim.
+
+682
+00:58:57,020 --> 00:59:05,020
+Appa.
+
+683
+00:59:06,770 --> 00:59:08,020
+Katara.
+
+684
+00:59:08,170 --> 00:59:10,997
+Katara.
+
+685
+00:59:11,021 --> 00:59:13,020
+Katara.
+
+686
+00:59:13,270 --> 00:59:15,020
+Gittiler.
+
+687
+00:59:15,120 --> 00:59:17,020
+Hepsi benim suçum.
+
+688
+00:59:17,270 --> 00:59:19,020
+Hep benim suçumdu.
+
+689
+00:59:19,670 --> 00:59:23,020
+Kaçtığımdan beri.
+
+690
+00:59:23,370 --> 00:59:31,020
+Hiçbir Avatar benim kederimde bana katılmak
+gibi bir utanca düşmemiştir.
+
+691
+00:59:31,420 --> 00:59:33,020
+Neden böyle yas tutuyorsun, dostum?
+
+692
+00:59:33,720 --> 00:59:38,020
+Avatar Sono?
+
+693
+00:59:38,320 --> 00:59:40,020
+Taga arkadaşlarımı öldürdü.
+
+694
+00:59:40,570 --> 00:59:41,997
+Ve şimdi asa onda.
+
+695
+00:59:42,021 --> 00:59:42,997
+Taga.
+
+696
+00:59:43,021 --> 00:59:43,997
+Hayır.
+
+697
+00:59:44,021 --> 00:59:45,021
+Hayır.
+
+698
+00:59:45,320 --> 00:59:47,020
+Onu durdurdum.
+
+699
+00:59:47,170 --> 00:59:49,020
+Asayı sakladım.
+
+700
+00:59:49,170 --> 00:59:51,997
+Ne yaptın sen?
+
+701
+00:59:52,021 --> 00:59:54,020
+Ona hava bükme veren sendin.
+
+702
+00:59:54,570 --> 00:59:57,020
+Bir canavara nasıl güç verebildin?
+
+703
+00:59:57,570 --> 01:00:01,997
+Benim bükme verdiğim Taga farklı bir adamdı.
+
+704
+01:00:02,021 --> 01:00:05,020
+Farklı bir zamandı.
+
+705
+01:00:05,070 --> 01:00:08,020
+Hava bükücüler dört elementin barış koruyucularıydı.
+
+706
+01:00:08,670 --> 01:00:13,020
+Gücümüzü tüm çatışmaları şiddetsizlikle çözmek için kullanırdık.
+
+707
+01:00:13,170 --> 01:00:15,997
+Ama sayıca en az bizdik.
+
+708
+01:00:16,021 --> 01:00:21,020
+Uzun yıllar boyunca, büyük refahın güzel bir dengesinde var olduk.
+
+709
+01:00:21,420 --> 01:00:23,997
+Ama dünya değişmeye başladı.
+
+710
+01:00:24,021 --> 01:00:29,020
+Toprak bükücüler kendi krallıklarını kurdular,
+diğer element kabilelerinden ayrıldılar.
+
+711
+01:00:29,220 --> 01:00:32,020
+Dünyanın dengesi risk altındaydı.
+
+712
+01:00:32,220 --> 01:00:34,997
+Harekete geçmek benim görevimdi.
+
+713
+01:00:35,021 --> 01:00:37,582
+Böylece tıpkı aslan kaplumbağaların yaptığı gibi
+
+714
+01:00:37,606 --> 01:00:40,020
+ruh dünyasının enerjisini nasıl kanalize edeceğimi öğrendim.
+
+715
+01:00:40,270 --> 01:00:43,997
+İnsanlara hava bükme gücünü vermek için.
+
+716
+01:00:44,021 --> 01:00:49,020
+En sadık öğrencim Taga, onu alan ilk kişi oldu.
+
+717
+01:00:49,520 --> 01:00:54,020
+Yeni barış koruyucularımı büyüyen huzursuzluğu
+dindirmeye yardım etmeleri için gönderdim.
+
+718
+01:00:54,670 --> 01:01:00,997
+Ama yeni toprak krallığının vahşetine hazırlıklı değillerdi.
+
+719
+01:01:01,021 --> 01:01:07,020
+Taga, kardeşlerinin hepsinin katledilişini izledi.
+
+720
+01:01:07,695 --> 01:01:10,020
+Kalbi savaşın şiddetiyle karardı.
+
+721
+01:01:10,695 --> 01:01:16,020
+Artık hava göçebesi olmayan herkesi düşman olarak görüyordu.
+
+722
+01:01:16,220 --> 01:01:18,651
+Taga, asayı bir ordu yaratmak
+
+723
+01:01:18,675 --> 01:01:20,997
+ve bize zarar verecek herkesi
+öldürmek için kullanmam için yalvardı.
+
+724
+01:01:21,021 --> 01:01:23,020
+Reddettim.
+
+725
+01:01:23,820 --> 01:01:25,997
+O da çaldı.
+
+726
+01:01:26,021 --> 01:01:28,410
+Asayı tapınağa bağladığında,
+
+727
+01:01:28,434 --> 01:01:30,997
+enerjisi keder ve öfkeyle o kadar bozulmuştu ki
+
+728
+01:01:31,021 --> 01:01:34,997
+ruh dünyasının gücü onu tüketti.
+
+729
+01:01:35,021 --> 01:01:40,997
+Taga, insandan daha fazlası haline geldi,
+öldürülemeyecek kadar güçlü.
+
+730
+01:01:41,021 --> 01:01:44,614
+Onu bulutların üzerinde, kimsenin bulamayacağı
+
+731
+01:01:44,638 --> 01:01:48,020
+bir yere hapsetmek tüm enerjimi aldı.
+
+732
+01:01:48,470 --> 01:01:53,020
+Asayı geri aldım, ama ölümcül şekilde yaralanmıştım.
+
+733
+01:01:53,270 --> 01:01:56,061
+Toprak krallığı Jirana'yı işgal etmeden önce,
+
+734
+01:01:56,085 --> 01:01:59,020
+kalan hava göçebelerini dağlara gönderdim.
+
+735
+01:01:59,120 --> 01:02:06,020
+Ve tapınağımı, kimsenin gücüne erişemeyeceği
+ruh dünyasına sakladım.
+
+736
+01:02:06,170 --> 01:02:11,997
+Sonra asayı sadece Avatar'ın bulabileceği bir yere kilitledim.
+
+737
+01:02:12,021 --> 01:02:16,150
+Bir gün başka bir Avatar'ın daha fazla hava bükücü yaratacağını
+
+738
+01:02:16,174 --> 01:02:20,020
+ve bu dünyaya dengeyi geri getireceğini umarak öldüm.
+
+739
+01:02:20,295 --> 01:02:23,020
+Ve o Avatar sensin, Aang.
+
+740
+01:02:23,420 --> 01:02:27,020
+Taga onu tapınağa bağlamadan önce asamı almalısın.
+
+741
+01:02:27,470 --> 01:02:31,020
+Hâlâ zaman var.
+Benim pişmanlığım senin olmasın.
+
+742
+01:02:31,820 --> 01:02:34,020
+Arkadaşlarım ve ben bu barış için çok savaştık.
+
+743
+01:02:34,870 --> 01:02:36,997
+Başka bir savaş başlatmasına izin vermeyeceğim.
+
+744
+01:02:37,021 --> 01:02:39,997
+Geri dönüş yolu bulmama yardım et.
+
+745
+01:02:40,021 --> 01:02:42,020
+Soto?
+
+746
+01:02:43,070 --> 01:02:44,070
+Neler oluyor?
+
+747
+01:02:44,120 --> 01:02:49,997
+Hayır! Hayır! Lütfen! Bunu düzeltmek zorundayım!
+
+748
+01:02:50,021 --> 01:02:54,997
+Bu son olamaz! Henüz ölemem!
+Lütfen! Henüz değil! Hayır!
+
+749
+01:02:55,021 --> 01:02:56,997
+- Aang? - Katara?
+
+750
+01:02:57,021 --> 01:03:04,020
+Hadi Aang! Hadi!
+Aang! Uyan! Aang!
+
+751
+01:03:04,770 --> 01:03:07,020
+- Katara. - Çok endişelendim.
+
+752
+01:03:07,220 --> 01:03:12,020
+Aang. Sokka.
+Başaracağını biliyordum dostum.
+
+753
+01:03:12,470 --> 01:03:14,020
+- Hey, Aang. - Zuko.
+
+754
+01:03:14,420 --> 01:03:18,020
+- Momo. - Hoş geldin, Hafif Ayak.
+
+755
+01:03:18,170 --> 01:03:22,997
+Toph, iyisin.
+Hepinizin öldüğünü sanmıştım.
+
+756
+01:03:23,021 --> 01:03:26,020
+Ölmüştük, ama Katara bizi kurtardı.
+
+757
+01:03:26,470 --> 01:03:31,997
+Bu suların ruhani gücü iyileştirme yeteneklerimi güçlendirdi.
+
+758
+01:03:32,021 --> 01:03:36,020
+Harikasın, Katara.
+
+759
+01:03:37,020 --> 01:03:39,020
+Appa nerede?
+
+760
+01:03:39,470 --> 01:03:41,020
+Taga almış olmalı.
+
+761
+01:03:41,945 --> 01:03:43,020
+Üzgünüm.
+
+762
+01:03:43,370 --> 01:03:45,020
+Hayır.
+
+763
+01:03:45,820 --> 01:03:49,020
+Ona güvendiğime inanamıyorum.
+
+764
+01:03:49,720 --> 01:03:52,020
+Bunu atlatacağız.
+
+765
+01:03:54,170 --> 01:03:55,330
+Peki, anladığım kadarıyla.
+
+766
+01:03:55,970 --> 01:03:59,997
+Sınırsız güç kazanmak için Sonam'ın
+tapınağını ruh dünyasından mı çıkarıyor?
+
+767
+01:04:00,021 --> 01:04:03,020
+Ve tahmin edeyim, onu durdurmamızı mı istiyorsun?
+
+768
+01:04:04,020 --> 01:04:09,020
+Tabii. Tek sorun, hava kankan gemimizi ezdi ve bizonunu çaldı.
+
+769
+01:04:09,220 --> 01:04:12,997
+Ayrıca, etrafımızı devasa bir tayfun sarmış durumda!
+
+770
+01:04:13,021 --> 01:04:17,997
+Bunu pek sık söylemem, ama Sokka haklı.
+
+771
+01:04:18,021 --> 01:04:21,020
+- Teşekkür ederim. - Evet, sıkıştık.
+
+772
+01:04:21,220 --> 01:04:23,997
+Ve hepimizin kendi adasına sahip olması için
+yeterince aslan kaplumbağa yok.
+
+773
+01:04:24,021 --> 01:04:27,020
+O yüzden bunu ben alıyorum.
+Adını Kıpır koyuyorum.
+
+774
+01:04:27,070 --> 01:04:31,020
+- Ay, Kıpır en iyisi. - Biliyorum.
+
+775
+01:04:31,220 --> 01:04:33,996
+Taga'nın nerede olduğunu bilmiyor olabiliriz, ama aradığı
+
+776
+01:04:34,020 --> 01:04:37,020
+şeyin ruh dünyasında olduğunu biliyoruz.
+
+777
+01:04:37,445 --> 01:04:42,020
+Ve şansımıza, gezegendeki ruhani açıdan
+en yüklü yerde mahsur kaldık.
+
+778
+01:04:42,770 --> 01:04:49,020
+Yani, eski bir dostumu çağırabilirsem,
+bizi oraya götürecek bir portal açabilirim.
+
+779
+01:04:52,020 --> 01:05:00,020
+Vay canına. Okyanus ruhu.
+
+780
+01:05:03,020 --> 01:05:10,997
+Bu portal fazlasıyla balık pazarı gibi kokuyor.
+
+781
+01:05:11,021 --> 01:05:13,020
+Ben gidip Kıpır'ı kontrol edeyim.
+
+782
+01:05:13,170 --> 01:05:15,020
+Ölümünle onurunla yüzleş.
+
+783
+01:05:15,070 --> 01:05:19,997
+Üzgünüm. Bizi bu duruma benim soktuğumu biliyorum,
+ama düzelteceğime söz veriyorum.
+
+784
+01:05:20,021 --> 01:05:21,997
+Düzelteceğiz.
+
+785
+01:05:22,021 --> 01:05:23,997
+Birlikte.
+
+786
+01:05:24,021 --> 01:05:30,020
+Öleceğiz! Öleceğiz!
+
+787
+01:05:34,070 --> 01:05:42,020
+Ne? Güç midillim nerede?
+
+788
+01:05:42,070 --> 01:05:44,997
+Ellerim hep bu kadar küçük müydü?
+
+789
+01:05:45,021 --> 01:05:48,020
+Bu bebek Tuff! Bebek Tuff!
+
+790
+01:05:49,270 --> 01:05:50,997
+Ne domuz maymunu!
+
+791
+01:05:51,021 --> 01:05:52,997
+Büyük büyük?
+
+792
+01:05:53,021 --> 01:05:54,997
+O senin kız kardeşin, zayıf kafa!
+
+793
+01:05:55,021 --> 01:05:57,997
+Tuff'u bana ver. Şşş, Tuff.
+
+794
+01:05:58,021 --> 01:06:00,997
+Ah hayır, Zuko!
+Güzel yüzüne ne oldu?
+
+795
+01:06:01,021 --> 01:06:03,020
+Kurutulmuş deniz mürekkep balığına benziyorsun.
+
+796
+01:06:03,070 --> 01:06:04,997
+Hayır, Zuko!
+
+797
+01:06:05,021 --> 01:06:06,997
+Burada neler oluyor?
+
+798
+01:06:07,021 --> 01:06:11,020
+Ruh dünyası dengesiz.
+
+799
+01:06:11,970 --> 01:06:12,997
+Ve biz de öyle.
+
+800
+01:06:13,021 --> 01:06:17,020
+Bu Taga olmalı.
+
+801
+01:06:30,020 --> 01:06:38,020
+Ah hayır!
+
+802
+01:06:39,469 --> 01:06:41,997
+Sonim'in tapınağını dünyamıza çekiyor!
+
+803
+01:06:42,021 --> 01:06:43,997
+Zamanımız tükeniyor!
+
+804
+01:06:51,021 --> 01:06:53,020
+Oldukça iyi bir iniş.
+
+805
+01:06:54,020 --> 01:06:57,020
+Vay! İnsanlar! İnsanlara bayılırım!
+
+806
+01:06:57,245 --> 01:07:00,020
+İki erkek kardeş, küçük kız kardeşleri ve çirkin bir çift.
+
+807
+01:07:00,170 --> 01:07:01,997
+Çift değiliz!
+
+808
+01:07:02,021 --> 01:07:04,020
+Vay! Bir sinire dokunmuşum gibi görünüyor.
+
+809
+01:07:04,120 --> 01:07:06,997
+Ah, şuna bakın! Merhaba!
+
+810
+01:07:07,021 --> 01:07:08,997
+Tuff! Hayır! Kötü Tuff!
+
+811
+01:07:09,021 --> 01:07:11,020
+Yabancıları ısırmayız.
+
+812
+01:07:12,020 --> 01:07:15,997
+Yüce ruh! Affedersiniz, şu yukarıdaki tapınaktan mı geldiniz?
+
+813
+01:07:16,021 --> 01:07:17,997
+Kesinlikle öyle.
+
+814
+01:07:18,021 --> 01:07:19,997
+En sevdiğim saklanma deliğiydi.
+
+815
+01:07:20,021 --> 01:07:22,997
+Ta ki o karanlık, pis enerji tüm burayı bozana kadar.
+
+816
+01:07:23,021 --> 01:07:26,997
+Lütfen, oraya çıkmak için yardımına ihtiyacımız var.
+
+817
+01:07:27,021 --> 01:07:29,020
+Bunu durdurmak benim görevim.
+
+818
+01:07:29,220 --> 01:07:31,020
+Ben Avatar'ım.
+
+819
+01:07:31,270 --> 01:07:35,020
+Uuu! Avatar!
+
+820
+01:07:35,120 --> 01:07:37,020
+Sana bir bakayım.
+
+821
+01:07:37,170 --> 01:07:38,997
+Tamam, şimdi bu gözle.
+
+822
+01:07:39,021 --> 01:07:39,997
+Ve bu gözle.
+
+823
+01:07:40,021 --> 01:07:41,997
+Ah, bu gözü de unutma.
+
+824
+01:07:42,021 --> 01:07:42,997
+Biraz hızlandırabilir miyiz?
+
+825
+01:07:43,021 --> 01:07:43,997
+Bir bakmam lazım.
+
+826
+01:07:44,021 --> 01:07:45,997
+Koklama kontrolü!
+
+827
+01:07:46,021 --> 01:07:49,997
+Ah, işte bu tam Avatar malzemesi.
+
+828
+01:07:50,021 --> 01:07:51,997
+Evet, öyle. Ah!
+
+829
+01:07:52,021 --> 01:07:52,997
+Evet, evet, evet, evet, evet!
+
+830
+01:07:53,021 --> 01:07:58,020
+Görünüşe göre evren bizi çok önemli bir görev için bir araya getirmiş.
+
+831
+01:07:58,170 --> 01:08:01,997
+Kaçmak!
+
+832
+01:08:02,021 --> 01:08:03,997
+Ve hayatta kalmak!
+
+833
+01:08:04,021 --> 01:08:05,997
+Bekle! Geri dön!
+
+834
+01:08:06,021 --> 01:08:06,997
+Yanlış yöne gidiyoruz!
+
+835
+01:08:07,021 --> 01:08:07,997
+Dur!
+
+836
+01:08:08,021 --> 01:08:09,997
+Lütfen, yüce ruh, iki dünyamız da tehlikede.
+
+837
+01:08:10,021 --> 01:08:13,020
+Hayır, hayır, hayır, hayır, hayır.
+Oraya geri dönmeyeceğim.
+
+838
+01:08:14,020 --> 01:08:21,997
+Hmm, pekala, böyle söyleyince daha mantıklı geliyor.
+
+839
+01:08:22,021 --> 01:08:26,997
+Düşündüm de, sana ve insanımsı arkadaşlarına yardım etmeye karar verdim.
+
+840
+01:08:27,021 --> 01:08:28,997
+Ne dedi?
+
+841
+01:08:29,021 --> 01:08:29,997
+İyi iş, anne.
+
+842
+01:08:30,021 --> 01:08:32,020
+Pekala, içeri girin.
+
+843
+01:08:35,020 --> 01:08:37,997
+Bu arada, dişlerimin arasında bir şey bulursanız yemeyin,
+çünkü onları sonraya saklıyorum.
+
+844
+01:08:38,021 --> 01:08:40,997
+Hazır, ayar, sabitlen ve dinlen.
+
+845
+01:08:41,021 --> 01:08:43,997
+Bir ve iki ve ne yapacağını biliyorsun.
+
+846
+01:08:44,021 --> 01:08:45,021
+Püf!
+
+847
+01:08:46,020 --> 01:08:53,997
+Birbirimizi çok uzun zamandır tanımadığımızı biliyorum,
+ama seni seviyorum!
+
+848
+01:08:54,021 --> 01:08:56,020
+Söylemek zorunda değilsin.
+
+849
+01:09:05,020 --> 01:09:06,997
+Hey! Saçların geri gelmiş!
+
+850
+01:09:07,021 --> 01:09:10,020
+Gözlerim neden kiraz gibi? Ağlıyor muydum?
+
+851
+01:09:10,120 --> 01:09:12,020
+Hiç de bile! Bak!
+
+852
+01:09:12,395 --> 01:09:13,997
+Ne? O ne?
+
+853
+01:09:14,021 --> 01:09:15,997
+Cumhuriyet Şehri.
+
+854
+01:09:16,021 --> 01:09:21,997
+İnşa ettiğimiz her şeyi yok etmesine izin veremeyiz.
+
+855
+01:09:22,021 --> 01:09:24,020
+Vermeyeceğiz.
+
+856
+01:09:36,020 --> 01:09:38,020
+Bumerang!
+
+857
+01:09:51,020 --> 01:09:58,997
+Ver şu asayı, Taga!
+
+858
+01:09:59,021 --> 01:10:00,997
+Seni hafife almışım, Avatar.
+
+859
+01:10:01,021 --> 01:10:03,997
+Arkadaşların düşündüğümden daha güçlüymüş.
+
+860
+01:10:04,021 --> 01:10:06,020
+Ama çok geç kaldın.
+
+861
+01:10:13,020 --> 01:10:15,880
+Reddedilmişler.
+
+862
+01:10:15,880 --> 01:10:17,997
+Gördün mü, istediğini yaptım Aang.
+
+863
+01:10:18,021 --> 01:10:21,020
+Hava bükmeyi dünyaya geri getirdim.
+
+864
+01:10:21,520 --> 01:10:24,020
+Plan nedir?
+
+865
+01:10:24,295 --> 01:10:27,020
+Reddedilmişlerle biz ilgileniriz.
+Asayı sen almalısın.
+
+866
+01:10:27,620 --> 01:10:31,997
+Düşmanlarımızın harabeleri üzerinde Geronimo'yu yeniden inşa edeceğim,
+tıpkı onların bizimkine yaptığı gibi.
+
+867
+01:10:32,021 --> 01:10:37,020
+Yeni bir hava imparatorluğu yükselecek. Hepsini öldürün.
+
+868
+01:10:50,020 --> 01:10:58,020
+Bu insanları buradan çıkarmalıyız.
+
+869
+01:11:02,020 --> 01:11:04,020
+Vay!
+
+870
+01:11:08,020 --> 01:11:16,020
+İşte bu.
+
+871
+01:11:17,020 --> 01:11:24,997
+Taga! Ver onu bana!
+
+872
+01:11:25,021 --> 01:11:30,997
+Doğru yol bu değil. Asayı dengeyi geri getirmek için kullanabiliriz.
+
+873
+01:11:31,021 --> 01:11:31,997
+Barış!
+
+874
+01:11:32,021 --> 01:11:35,997
+İdeallerini o kadar çok önemsiyorsun ki,
+halkının ölmesine izin veriyorsun!
+
+875
+01:11:36,021 --> 01:11:40,020
+Onların hayatta kalmasını sağlamak için her şeyi yaparım!
+
+876
+01:11:49,020 --> 01:11:56,997
+Duyuyor musun şimdi?
+
+877
+01:11:57,021 --> 01:12:01,020
+Lahanalarım! Lahanalarım!
+
+878
+01:12:04,495 --> 01:12:11,020
+Lahanalarım! Lahanalarım!
+
+879
+01:12:17,020 --> 01:12:25,020
+Bunu yapma.
+
+880
+01:12:25,220 --> 01:12:25,997
+Artık güç sende.
+
+881
+01:12:26,021 --> 01:12:28,020
+Onu nasıl kullanacağına sen karar verebilirsin.
+
+882
+01:12:28,245 --> 01:12:30,997
+Ben senin gibi değilim.
+Dünya bana iyi davranmadı.
+
+883
+01:12:31,021 --> 01:12:32,997
+Dünya bizim ondan yaptığımız şeydir.
+
+884
+01:12:33,021 --> 01:12:35,020
+Ondan uzak dur!
+
+885
+01:12:56,020 --> 01:12:58,020
+Taga! Dur!
+
+886
+01:13:07,020 --> 01:13:14,997
+Bana ihanet ettin! Kültürümüze ihanet ettin!
+
+887
+01:13:15,021 --> 01:13:18,020
+Gerçeği görmen için sana her şansı verdim!
+
+888
+01:13:23,020 --> 01:13:25,997
+Ateş Ulusu'nda olabiliyor musun?
+
+889
+01:13:26,021 --> 01:13:29,997
+Tüm ulusların barışı için savaşıyorum.
+
+890
+01:13:30,021 --> 01:13:38,020
+Bir asırlık savaş üzerine kurulmuş bir tahtta oturan
+birinden büyük laflar!
+
+891
+01:13:53,020 --> 01:13:56,020
+Hâlâ dünyanın en iyi toprak bükücüsüyüm!
+
+892
+01:14:23,020 --> 01:14:29,997
+Ah hayır! Suyum bitti!
+
+893
+01:14:30,021 --> 01:14:33,997
+Yakaladık seni!
+
+894
+01:14:34,021 --> 01:14:36,997
+Ve burada seni kurtaracak Avatar yok.
+
+895
+01:14:37,021 --> 01:14:40,997
+Sokka Çevrimi!
+
+896
+01:14:41,021 --> 01:14:49,020
+Bakalım süslü yeni bükmeleriniz,
+eski moda bükücü olmayan becerisini yenebilecek mi!
+
+897
+01:14:54,020 --> 01:14:57,020
+Kaçıyor!
+
+898
+01:14:58,020 --> 01:15:06,020
+Reddedildiniz işte!
+
+899
+01:15:07,020 --> 01:15:14,997
+Hadi gidelim!
+
+900
+01:15:15,021 --> 01:15:17,020
+Şehrini kurtarmada bol şans!
+
+901
+01:15:24,020 --> 01:15:28,020
+Kurtarabildiğimiz kadar insanı kurtarmalıyız!
+
+902
+01:15:42,020 --> 01:15:49,997
+Acını biliyorum.
+Neler yaşadığını biliyorum.
+
+903
+01:15:50,021 --> 01:15:53,020
+Bilmiyorsun.
+
+904
+01:15:53,370 --> 01:15:56,997
+Tüm kardeşlerimin nasıl katledildiğini izledim.
+
+905
+01:15:57,021 --> 01:16:00,997
+Ve Ateş Ulusu Hava Göçebelerini küle çevirdi!
+
+906
+01:16:01,021 --> 01:16:02,997
+Neredeydin?
+
+907
+01:16:03,021 --> 01:16:05,020
+Kaçtın!
+
+908
+01:16:20,020 --> 01:16:22,020
+Taga!
+
+909
+01:16:30,020 --> 01:16:38,020
+Hayır!
+
+910
+01:16:50,020 --> 01:16:51,020
+Hayır!
+
+911
+01:16:58,020 --> 01:17:06,020
+Ruh Dünyası'nın tüm gücü içimden akıyor!
+
+912
+01:17:11,020 --> 01:17:19,020
+Güç böyle görünür işte!
+
+913
+01:17:21,020 --> 01:17:24,020
+Güç böyle görünür işte!
+
+914
+01:17:50,020 --> 01:17:51,020
+Hayır!
+
+915
+01:18:09,020 --> 01:18:16,997
+Yıllar önce yaptığın gibi kaçmalıydın, küçük Avatar.
+
+916
+01:18:17,021 --> 01:18:21,997
+Ben... kaçmayacağım.
+
+917
+01:18:22,021 --> 01:18:26,020
+O zaman en azından son Hava Bükücü olmadığını bilerek ölürsün!
+
+918
+01:18:47,020 --> 01:18:48,020
+Hayır!
+
+919
+01:18:56,020 --> 01:19:04,020
+Hayır!
+
+920
+01:19:05,020 --> 01:19:13,020
+Hayır!
+
+921
+01:19:17,020 --> 01:19:18,020
+Hayır!
+
+922
+01:19:48,020 --> 01:19:49,020
+Hayır!
+
+923
+01:20:17,020 --> 01:20:21,997
+Kardeş olabilirdik!
+Bunu birlikte yapabilirdik!
+
+924
+01:20:22,021 --> 01:20:23,997
+Böyle bitmek zorunda değildi!
+
+925
+01:20:24,021 --> 01:20:30,997
+Bu Aang. Asa onda!
+
+926
+01:20:31,021 --> 01:20:32,997
+Evet! Kıçını tekmele, Mega Aang!
+
+927
+01:20:33,021 --> 01:20:37,020
+Hayır! Bir şeyler ters!
+Güç onu bozuyor!
+
+928
+01:20:48,020 --> 01:20:50,020
+Hayır!
+
+929
+01:20:54,020 --> 01:21:01,997
+Hava Göçebelerini barış koruyucusu olarak
+dünyaya geri getirmenin hayalini kurmuştum.
+
+930
+01:21:02,021 --> 01:21:05,997
+Dünyanın takip edeceği bir ışık huzmesi olabilirlerdi.
+
+931
+01:21:06,021 --> 01:21:09,997
+Ama sen mahvettin!
+Hayalimi bir kabusa çevirdin!
+
+932
+01:21:10,021 --> 01:21:13,997
+Sonunda.
+Hava Göçebelerinin ihtiyacı olan güce sahipsin.
+
+933
+01:21:14,021 --> 01:21:17,020
+Belki de senin için hâlâ umut vardır.
+
+934
+01:21:25,020 --> 01:21:32,997
+Yap! Kullan asayı! Halkımızı geri getirecek
+güce sahip olduğunu göster bana!
+
+935
+01:21:33,021 --> 01:21:35,020
+Yap!
+
+936
+01:21:44,020 --> 01:21:45,020
+Yap!
+
+937
+01:22:12,220 --> 01:22:13,220
+Aang...
+
+938
+01:22:16,070 --> 01:22:19,020
+Avatar olarak çok büyük şeyler yapacaksın.
+
+939
+01:22:19,970 --> 01:22:22,997
+Ama seni en çok korkutan şeyi yapmaya hazır olmalısın.
+
+940
+01:22:23,021 --> 01:22:30,020
+Halkın, evin,
+biz her zaman seninleyiz.
+
+941
+01:22:45,020 --> 01:22:46,020
+Hayır!
+
+942
+01:23:14,170 --> 01:23:15,997
+Hayır!
+
+943
+01:23:16,021 --> 01:23:20,020
+Hayır! Gücüm!
+
+944
+01:23:21,020 --> 01:23:29,020
+Hayır. Hayır!
+
+945
+01:23:39,420 --> 01:23:43,997
+Seni aptal! Neden? Neden kırdın onu?
+
+946
+01:23:44,021 --> 01:23:46,997
+Her şeyi düzeltebilirdik.
+
+947
+01:23:47,021 --> 01:23:50,997
+Geçmişin acısını silemeyiz.
+
+948
+01:23:51,021 --> 01:23:53,020
+Onları kurtaramazdık.
+
+949
+01:23:53,070 --> 01:23:56,997
+Ama halkımızı korumak bizim görevimiz.
+
+950
+01:23:57,021 --> 01:24:00,997
+Temsil ettikleri her şeye ihanet etme pahasına değil.
+
+951
+01:24:01,021 --> 01:24:01,997
+Hayır.
+
+952
+01:24:02,021 --> 01:24:04,020
+Bırakma zamanı.
+
+953
+01:24:04,070 --> 01:24:07,020
+Kendini affetmelisin.
+
+954
+01:24:10,320 --> 01:24:12,020
+Ben de kendimi affetmeliyim.
+
+955
+01:24:21,420 --> 01:24:24,020
+Hava göçebeleri sisten meydana gelir.
+
+956
+01:24:24,220 --> 01:24:32,020
+Dünyada bir anlığına yürürüz.
+
+957
+01:24:34,020 --> 01:24:39,020
+Sonra ebedi rüzgara döneriz.
+
+958
+01:24:48,020 --> 01:24:55,997
+Aang!
+
+959
+01:24:56,021 --> 01:25:01,020
+Hey, Katara.
+
+960
+01:25:01,920 --> 01:25:03,020
+Hey, Aang.
+
+961
+01:25:05,020 --> 01:25:05,997
+Cidden mi?
+
+962
+01:25:06,021 --> 01:25:09,020
+Düştüğünün farkındasın, değil mi?
+
+963
+01:25:09,520 --> 01:25:10,997
+Hey, eğer Appa'ya güvenmekten sıkılırsan,
+
+964
+01:25:11,021 --> 01:25:12,997
+sana bunlardan bir tane ayarlayabilirim.
+
+965
+01:25:13,021 --> 01:25:21,020
+Sana en iyi arkadaş indirimi yaparım!
+
+966
+01:25:35,120 --> 01:25:37,020
+Hava bükmenin geri dönüp dönmeyeceğini bilmiyorum.
+
+967
+01:25:38,170 --> 01:25:41,020
+Ama artık biliyorum ki Hava Göçebelerinin asıl gücü
+
+968
+01:25:41,820 --> 01:25:43,020
+asla bükmeleri değildi.
+
+969
+01:25:43,570 --> 01:25:45,020
+Değerleriydi.
+
+970
+01:25:45,720 --> 01:25:48,020
+Ve bu başkalarına aktarabileceğim bir güç.
+
+971
+01:25:49,320 --> 01:25:54,020
+Avatar Aang, sen Hava Göçebelerinin gerçek vücut bulmuş halisin.
+
+972
+01:25:55,220 --> 01:25:58,020
+Benim vazgeçemediğim güçten vazgeçtiğin için teşekkür ederim.
+
+973
+01:25:59,395 --> 01:26:02,020
+Bana kültürümüzün geleceği için umut verdin.
+
+974
+01:26:10,020 --> 01:26:18,020
+Harika, değil mi?
+
+975
+01:26:18,570 --> 01:26:20,997
+Yüzyıllardır ilk yeni hava tapınağı.
+
+976
+01:26:21,021 --> 01:26:25,020
+Cumhuriyet Şehri sonunda tamamlandı.
+
+977
+01:26:28,070 --> 01:26:32,020
+Tüm uluslar için bir şehir,
+tıpkı söz verdiğin gibi.
+
+978
+01:26:33,770 --> 01:26:36,020
+Bunu sensiz asla başaramazdım, Katara.
+
+979
+01:26:37,720 --> 01:26:40,020
+Herkese merhaba.
+Sizi beklettiğim için üzgünüm.
+
+980
+01:26:40,720 --> 01:26:42,020
+Büyük gezimize hazır mısınız?
+
+981
+01:26:43,070 --> 01:26:45,020
+Yeni yardımcılarım olarak,
+
+982
+01:26:45,220 --> 01:26:49,020
+gelecek nesiller için kültürümüzü korumama yardım edeceksiniz.
+
+983
+01:26:49,070 --> 01:26:53,997
+Peki, kim kadim terk edilmiş bir tapınakta
+tarihi eser aramak ister?
+
+984
+01:26:54,021 --> 01:26:55,021
+Yey.
+
+985
+01:26:55,220 --> 01:26:58,997
+Sadece kaslı, yaşlı bir hava bükücü daha salmaya
+çalışmadığından emin olmak için geliyorum.
+
+986
+01:26:59,021 --> 01:27:01,020
+Evet, kötü çocuklarla işim bitti.
+
+987
+01:27:08,020 --> 01:27:16,020
+Avatar Sonam bana bu yerden bahsetmişti,
+
+988
+01:27:16,270 --> 01:27:20,020
+yani yüzlerce yıldır kimsenin
+buraya gelmemiş olması çok mümkün.
+
+989
+01:27:21,420 --> 01:27:24,020
+Ah, bu bir hava bükücü kalıntısı mı?
+
+990
+01:27:24,295 --> 01:27:26,020
+Sanırım o sadece bir kaya.
+
+991
+01:27:26,070 --> 01:27:28,020
+Ama hevesini seviyorum.
+
+992
+01:27:28,270 --> 01:27:29,997
+Ah.
+
+993
+01:27:33,820 --> 01:27:35,020
+Gözleriniz açık olsun.
+
+994
+01:27:35,320 --> 01:27:37,040
+Burada neler keşfedebileceğimizi asla bilemezsiniz.
+
+995
+01:27:37,420 --> 01:27:39,020
+Ah.
+
+996
+01:27:40,020 --> 01:27:48,020
+Soylarının tükendiğini sanıyordum.
+
+997
+01:27:49,020 --> 01:27:56,997
+İnanamıyorum.
+
+998
+01:27:57,021 --> 01:27:59,020
 Orijinal hava bükücüler.
+
+999
+01:28:06,021 --> 01:28:08,997
+Ah, bir tane alabilir miyim?
+
+1000
+01:28:10,021 --> 01:28:11,997
+Appa, anladın sen.
