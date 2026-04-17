@@ -1,32 +1,26 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "stories": [
         {
             "id": "story_1",
-            "title": "Solo Leveling",
-            "label": "Yeni Bölüm",
-            "videoUrl": "https://akumaryu-1.asia/file/tau-video/d59e5bb5-ad76-42e6-bdf2-0702e78e6b79.mp4",
-            "start": "00:02:40",
-            "end": "00:02:55",
-            "thumbnailUrl": "https://example.com/thumbnails/solo-leveling-story.jpg",
+            "title": "Generator Rex",
+            "label": "Yeni Seri",
+            "videoUrl": "https://video.sibnet.ru/shell.php?videoid=6169176",
+            "start": "00:01:24",
+            "end": "00:01:40",
             "episode": {
-                "title": "Solo Leveling | 1. Sezon 1. Bölüm - Alışkınım",
-                "thumbnail": "https://ant.fancaps.net/26632007.jpg",
-                "videoUrl": "https://akumaryu-1.asia/file/tau-video/d59e5bb5-ad76-42e6-bdf2-0702e78e6b79.mp4"
-            }
-        },
-        {
-            "id": "story_2",
-            "title": "Baykuş Evi",
-            "label": "Yeni Bölüm",
-            "videoUrl": "https://rumble.com/hls-vod/74i8vy/playlist.m3u8",
-            "start": "00:02:40",
-            "end": "00:02:55",
-            "thumbnailUrl": "https://example.com/thumbnails/solo-leveling-story.jpg",
-            "episode": {
-                "title": "Baykuş Evi | 1. Sezon 1. Bölüm - Güvenilmez Cadı ve Müdür",
-                "thumbnail": "https://tvt.fancaps.net/2351095.jpg",
-                "videoUrl": "https://rumble.com/hls-vod/74i8vy/playlist.m3u8"
+                "thumbnail": "https://tvt.fancaps.net/9732780.jpg",
+                "title": "Generator Rex | 1. Sezon 1. Bölüm - Her Şeyin Değiştiği Gün",
+                "videoSources": [
+                    {
+                        "name": "BC-Türkçe",
+                        "url": "https://seed122.bitchute.com/zMJJYOp9ovkI/Zs9jIELTgMLz.mp4"
+                    },
+                    {
+                        "name": "Sibnet-Türkçe",
+                        "url": "https://video.sibnet.ru/shell.php?videoid=6169176"
+                    }
+                ]
             }
         }
     ]
