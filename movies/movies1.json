@@ -23,12 +23,7 @@
       "videoSources": [
         {
           "name": "Altyazılı-Rumbie",
-          "parts": [
-            "https://rumble.com/hls-vod/76cido/playlist.m3u8?key=XzDt6-3joFjNMRr2q06SB69MBG343hSRnT6tJ3zT9ixQHsaxmywKtQ&u=0&b=0",
-            "https://rumble.com/hls-vod/76cjyk/playlist.m3u8?key=wtHFx1KYuZXJPexF44C3s-xqS9am_tfh8ljtC3fTUJn9CeGb3Ijd8A&u=0&b=0",
-            "https://rumble.com/hls-vod/76ck2y/playlist.m3u8?key=xXhue1athumjTUTAzVtOuEj3EXRQwoRv-riK2IR5bd5P2L3L4Kr8uA&u=0&b=0",
-            "https://rumble.com/hls-vod/76ck5u/playlist.m3u8?key=E5YQ9_T9LpsSKfFc-ArTB5ILkOPCfEVhwFNL5WjRsvd3jrhDK-b1tw&u=0&b=0"
-          ]
+          "parts": []
         },
         {
           "name": "Altyazılı-Tobby",
