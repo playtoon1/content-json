@@ -1,0 +1,61 @@
+{
+    "version": "1.0.5",
+    "avatars": [
+        {
+            "id": 1,
+            "url": "https://raw.githubusercontent.com//playtoon1/playtoon_avatar/b3502e3ee2d98bc5691cdfb342aacacd8de7aece/avatars/avatar1.png"
+        },
+        {
+            "id": 2,
+            "url": "https://raw.githubusercontent.com//playtoon1/playtoon_avatar/b3502e3ee2d98bc5691cdfb342aacacd8de7aece/avatars/avatar2.png"
+        },
+        {
+            "id": 3,
+            "url": "https://raw.githubusercontent.com//playtoon1/playtoon_avatar/b3502e3ee2d98bc5691cdfb342aacacd8de7aece/avatars/avatar3.png"
+        },
+        {
+            "id": 4,
+            "url": "https://raw.githubusercontent.com//playtoon1/playtoon_avatar/b3502e3ee2d98bc5691cdfb342aacacd8de7aece/avatars/avatar4.png"
+        },
+        {
+            "id": 5,
+            "url": "https://raw.githubusercontent.com//playtoon1/playtoon_avatar/b3502e3ee2d98bc5691cdfb342aacacd8de7aece/avatars/avatar5.png"
+        },
+        {
+            "id": 6,
+            "url": "https://raw.githubusercontent.com//playtoon1/playtoon_avatar/b3502e3ee2d98bc5691cdfb342aacacd8de7aece/avatars/avatar6.png"
+        },
+        {
+            "id": 7,
+            "url": "https://raw.githubusercontent.com//playtoon1/playtoon_avatar/b3502e3ee2d98bc5691cdfb342aacacd8de7aece/avatars/avatar7.png"
+        },
+        {
+            "id": 8,
+            "url": "https://raw.githubusercontent.com//playtoon1/playtoon_avatar/b3502e3ee2d98bc5691cdfb342aacacd8de7aece/avatars/avatar8.png"
+        },
+        {
+            "id": 9,
+            "url": "https://raw.githubusercontent.com//playtoon1/playtoon_avatar/7f50b54303e01bc73060ce28cad6eedf5b770fa1/avatars/avatar9.png"
+        },
+        {
+            "id": 10,
+            "url": "https://raw.githubusercontent.com//playtoon1/playtoon_avatar/3917e57fceb5cf428d814e75f3a8edc7d646cf60/avatars/avatar10.png"
+        },
+         {
+            "id": 11,
+            "url": "https://raw.githubusercontent.com//playtoon1/playtoon_avatar/a037afda91660fc4c2996a1d9fb5287996284af9/avatars/avatar11.png"
+        },
+        {
+            "id": 12,
+            "url": "https://raw.githubusercontent.com//playtoon1/playtoon_avatar/a037afda91660fc4c2996a1d9fb5287996284af9/avatars/avatar12.png"
+        },
+        {
+            "id": 13,
+            "url": "https://raw.githubusercontent.com//playtoon1/playtoon_avatar/a037afda91660fc4c2996a1d9fb5287996284af9/avatars/avatar13.png"
+        },
+        {
+            "id": 14,
+            "url": "https://raw.githubusercontent.com//playtoon1/playtoon_avatar/a037afda91660fc4c2996a1d9fb5287996284af9/avatars/avatar14.png"
+        }
+    ]
+}
