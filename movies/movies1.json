@@ -42,11 +42,11 @@
       "subtitles": [
         {
           "label": "Türkçe",
-          "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/movieSubs/100_1/101_tr.srt"
+          "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/movieSubs/101/101_tr.srt"
         },
         {
           "label": "İngilizce",
-          "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/movieSubs/100_1/101_e.srt"
+          "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/movieSubs/101/101_e.srt"
         }
       ]
     },
