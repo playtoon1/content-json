@@ -1,61 +1,19 @@
 {
-    "version": "1.0.5",
-    "avatars": [
-        {
-            "id": 1,
-            "url": "https://raw.githubusercontent.com//playtoon1/content-json/31dd7994b2733675acefaa85d03cf5e1d167d483/avatars/avatar1.png"
-        },
-        {
-            "id": 2,
-            "url": "https://raw.githubusercontent.com//playtoon1/content-json/31dd7994b2733675acefaa85d03cf5e1d167d483/avatars/avatar2.png"
-        },
-        {
-            "id": 3,
-            "url": "https://raw.githubusercontent.com//playtoon1/content-json/31dd7994b2733675acefaa85d03cf5e1d167d483/avatars/avatar3.png"
-        },
-        {
-            "id": 4,
-            "url": "https://raw.githubusercontent.com//playtoon1/content-json/31dd7994b2733675acefaa85d03cf5e1d167d483/avatars/avatar4.png"
-        },
-        {
-            "id": 5,
-            "url": "https://raw.githubusercontent.com//playtoon1/content-json/31dd7994b2733675acefaa85d03cf5e1d167d483/avatars/avatar5.png"
-        },
-        {
-            "id": 6,
-            "url": "https://raw.githubusercontent.com//playtoon1/content-json/31dd7994b2733675acefaa85d03cf5e1d167d483/avatars/avatar6.png"
-        },
-        {
-            "id": 7,
-            "url": "https://raw.githubusercontent.com//playtoon1/content-json/31dd7994b2733675acefaa85d03cf5e1d167d483/avatars/avatar7.png"
-        },
-        {
-            "id": 8,
-            "url": "https://raw.githubusercontent.com//playtoon1/content-json/31dd7994b2733675acefaa85d03cf5e1d167d483/avatars/avatar8.png"
-        },
-        {
-            "id": 9,
-            "url": "https://raw.githubusercontent.com//playtoon1/content-json/31dd7994b2733675acefaa85d03cf5e1d167d483/avatars/avatar9.png"
-        },
-        {
-            "id": 10,
-            "url": "https://raw.githubusercontent.com//playtoon1/content-json/31dd7994b2733675acefaa85d03cf5e1d167d483/avatars/avatar10.png"
-        },
-         {
-            "id": 11,
-            "url": "https://raw.githubusercontent.com//playtoon1/content-json/31dd7994b2733675acefaa85d03cf5e1d167d483/avatars/avatar11.png"
-        },
-        {
-            "id": 12,
-            "url": "https://raw.githubusercontent.com//playtoon1/content-json/31dd7994b2733675acefaa85d03cf5e1d167d483/avatars/avatar12.png"
-        },
-        {
-            "id": 13,
-            "url": "https://raw.githubusercontent.com//playtoon1/content-json/31dd7994b2733675acefaa85d03cf5e1d167d483/avatars/avatar13.png"
-        },
-        {
-            "id": 14,
-            "url": "https://raw.githubusercontent.com//playtoon1/content-json/31dd7994b2733675acefaa85d03cf5e1d167d483/avatars/avatar14.png"
-        }
-    ]
+  "version": "1.0.5",
+  "avatars": [
+    { "id": 1, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar1.png" },
+    { "id": 2, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar2.png" },
+    { "id": 3, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar3.png" },
+    { "id": 4, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar4.png" },
+    { "id": 5, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar5.png" },
+    { "id": 6, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar6.png" },
+    { "id": 7, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar7.png" },
+    { "id": 8, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar8.png" },
+    { "id": 9, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar9.png" },
+    { "id": 10, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar10.png" },
+    { "id": 11, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar11.png" },
+    { "id": 12, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar12.png" },
+    { "id": 13, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar13.png" },
+    { "id": 14, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar14.png" }
+  ]
 }
