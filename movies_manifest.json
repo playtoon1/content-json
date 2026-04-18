@@ -1,6 +1,6 @@
 {
   "version": "1.0.29",
   "files": [
-    "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/movies/movies1.json"
+    "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/movies/movies1.json"
   ]
 }
