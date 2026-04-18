@@ -1,6 +1,6 @@
 {
-    "version": "1.0.11",
-    "active": true,
+    "version": "1.0.9",
+    "active": false,
     "title": "The Legend Of Aang",
     "description": "Aang, Katara, Sokka, Toph ve Zuko artık 20'li yaşlarındadır. Film, orijinal serinin bitişinden yıllar sonrasına odaklanarak, ekibin dünyada barışı korumaya çalışırken karşılaştıkları yeni ve tehlikeli bir tehdidi ele alacaktır.",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjI3Y2Q0ZjgtNWM3Ny00OWQ2LWE2MjMtN2VhMjQ2MzljYzdkXkEyXkFqcGc@._V1_.jpg",
@@ -47,14 +47,14 @@
             }
         ],
         "subtitles": [
-  {
-    "label": "Türkçe",
-    "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/movieSubs/100_1/101_tr.srt"
-  },
-  {
-    "label": "İngilizce",
-    "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/movieSubs/100_1/101_e.srt"
-  }
-]
+            {
+                "label": "Türkçe",
+                "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/movieSubs/100_1/101_tr.srt"
+            },
+            {
+                "label": "İngilizce",
+                "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/movieSubs/100_1/101_e.srt"
+            }
+        ]
     }
 }
