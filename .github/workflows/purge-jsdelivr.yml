@@ -14,18 +14,48 @@ jobs:
         run: |
           echo "🧹 jsDelivr cache temizleniyor..."
 
-          # Manifest dosyaları
+          # ── Manifest dosyaları ──────────────────────────────────────────
           curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/movies_manifest.json"
           curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/series_manifest.json"
           curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/featured.json"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatar.json"
 
-          # Film JSON dosyaları — yeni dosya ekledikçe buraya ekle
+          # ── Film JSON dosyaları ─────────────────────────────────────────
           curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/movies/movies1.json"
+          # Yeni film dosyası ekledikçe buraya ekle:
+          # curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/movies/movies2.json"
 
-          # Seri JSON dosyaları — yeni dosya ekledikçe buraya ekle
-          # curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/series/series1.json"
+          # ── Seri JSON dosyaları ─────────────────────────────────────────
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/series/series.json"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/series/series2.json"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/series/series3.json"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/series/series4.json"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/series/series5.json"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/series/series6.json"
+          # Yeni seri dosyası ekledikçe buraya ekle:
+          # curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/series/series7.json"
 
-          # Avatar dosyası (ayrı repo)
-          curl -s "https://purge.jsdelivr.net/gh/playtoon1/playtoon_avatar@main/avatar.json"
+          # ── Avatar görselleri ───────────────────────────────────────────
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar1.png"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar2.png"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar3.png"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar4.png"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar5.png"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar6.png"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar7.png"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar8.png"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar9.png"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar10.png"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar11.png"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar12.png"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar13.png"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar14.png"
+          # Yeni avatar ekledikçe buraya ekle:
+          # curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar15.png"
+
+          # ── Altyazı dosyaları ───────────────────────────────────────────
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/movieSubs/100_1/101_tr.srt"
+          curl -s "https://purge.jsdelivr.net/gh/playtoon1/content-json@main/movieSubs/100_1/101_e.srt"
+          # Yeni altyazı ekledikçe buraya ekle
 
           echo "✅ Tüm cache temizlendi!"
