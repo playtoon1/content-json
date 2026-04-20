@@ -1,6 +1,6 @@
 {
-  "version": "1.0.33",
+  "version": "1.0.11",
   "files": [
-    "https://cdn.jsdelivr.net/gh/playtoon1/content-json@1.0.33/movies/movies1.json"
+    "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/movies/movies1.json"
   ]
 }
