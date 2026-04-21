@@ -1,6 +1,6 @@
 {
-    "version": "1.0.10",
-    "active": true,
+    "version": "1.0.11",
+    "active": false,
     "title": "The Legend Of Aang",
     "description": "Aang, Katara, Sokka, Toph ve Zuko artık 20'li yaşlarındadır. Film, orijinal serinin bitişinden yıllar sonrasına odaklanarak, ekibin dünyada barışı korumaya çalışırken karşılaştıkları yeni ve tehlikeli bir tehdidi ele alacaktır.",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BYjI3Y2Q0ZjgtNWM3Ny00OWQ2LWE2MjMtN2VhMjQ2MzljYzdkXkEyXkFqcGc@._V1_.jpg",
@@ -28,7 +28,7 @@
         "videoUrl": "",
         "videoSources": [
             {
-                "name": "Rumbie",
+                "name": "Altyazılı-Rumbie",
                 "parts": [
                     "https://rumble.com/hls-vod/76cido/playlist.m3u8?key=XzDt6-3joFjNMRr2q06SB69MBG343hSRnT6tJ3zT9ixQHsaxmywKtQ&u=0&b=0",
                     "https://rumble.com/hls-vod/76cjyk/playlist.m3u8?key=wtHFx1KYuZXJPexF44C3s-xqS9am_tfh8ljtC3fTUJn9CeGb3Ijd8A&u=0&b=0",
@@ -37,7 +37,7 @@
                 ]
             },
             {
-                "name": "BC-Tobby",
+                "name": "Altyazılı-Tobby",
                 "parts": [
                     "https://seed307.bitchute.com/zMJJYOp9ovkI/4rnCF2nQrmJ1.mp4",
                     "https://zb10-7gsop1v78.bitchute.com/zMJJYOp9ovkI/9jnxBfaYyq2Z.mp4",
@@ -49,11 +49,11 @@
         "subtitles": [
             {
                 "label": "Türkçe",
-                "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/movieSubs/100_1/101_tr.srt"
+                "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/movieSubs/101/101_tr.srt"
             },
             {
                 "label": "İngilizce",
-                "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/movieSubs/100_1/101_e.srt"
+                "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/movieSubs/101/101_e.srt"
             }
         ]
     }
