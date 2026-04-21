@@ -1,0 +1,32 @@
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Purge only changed files
+        run: |
+          BASE="https://purge.jsdelivr.net/gh/playtoon1/content-json@main"
+
+          CHANGED=$(git diff --name-only HEAD~1 HEAD)
+          echo "Değişen dosyalar:"
+          echo "$CHANGED"
+
+          for file in $CHANGED; do
+            URL="$BASE/$file"
+            echo "🧹 Purge: $URL"
+            STATUS=$(curl -s -o /dev/null -w "%{http_code}" "$URL")
+            echo "   → HTTP $STATUS"
+            sleep 1
+          done
+
+          echo "✅ Bitti."
