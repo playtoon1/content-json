@@ -47,6 +47,18 @@
         {
           "label": "İngilizce",
           "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/movieSubs/101/101_e.srt"
+        },
+        {
+          "label": "Fransızca",
+          "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/movieSubs/101/101_fr.srt"
+        },
+        {
+          "label": "İspanyolca",
+          "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/movieSubs/101/101_es.srt"
+        },
+        {
+          "label": "Rusça",
+          "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/movieSubs/101/101_ru.srt"
         }
       ]
     },
