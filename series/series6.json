@@ -3001,7 +3001,7 @@
             "type": [
                 "Animasyon",
                 "Komedi",
-                "Bilimkurgu"
+                "Bilim Kurgu"
             ],
             "imdb": 7.5,
             "seasons": [
@@ -3769,6 +3769,974 @@
                         }
                     ],
                     "seasonNumber": 3
+                }
+            ]
+        },
+        "seri-5": {
+            "title": "Kod Adı: Afacanlar",
+            "description": "On yaşındaki beş hareketli çocuk, hayattaki bütün eğlenceli şeylerin tadını çıkarabilmek için yetişkinliğe karşı güçlerini birleştirirler..",
+            "cover": "https://static.wikia.nocookie.net/cartoonnetworkcizgifilmleri/images/b/b0/Kod_Ad%C4%B1_Afacanlar.jpg/revision/latest/thumbnail/width/360/height/360?cb=20200321203757&path-prefix=tr",
+            "categories": [
+                "Dövüş",
+                "Bilim Kurgu",
+                "Aksiyon"
+            ],
+            "year": 2002,
+            "type": [
+                "Aksiyon & Macera",
+                "Bilim Kurgu"
+            ],
+            "imdb": 7.2,
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/12559345.jpg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 1. Bölüm - Operasyon: Dondurma",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488242",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/12559806.jpg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 2. Bölüm - Operasyon: Top Arabası",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488251",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/12560166.jpg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 3. Bölüm - Operasyon: Hamsterlar",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488261",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/12561201.jpg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 4. Bölüm - Diş Operasyonu",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488266",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/12561585.jpg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 5. Bölüm - Korsan Operasyonu",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488272",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/12562296.jpg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 6. Bölüm - Görev: Kız Kovboy",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488277",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/12562912.jpg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 7. Bölüm - Operasyon: Şalgam",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488281",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/12563975.jpg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 8. Bölüm - Yeni Görev: Mini Golf",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488289",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/12564283.jpg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 9. Bölüm - Operasyon: Ofis",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5301871",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/12565395.jpg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 10. Bölüm - Operasyon: Kuzey Kutbu",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488295",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/12565961.jpg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 11. Bölüm - Operasyon: Bit",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488301",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/12566844.jpg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 12. Bölüm - Operasyon: Lizzie",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488305",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/12567487.jpg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 13. Bölüm - Operasyon: At Sineği",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488311",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Jj2BO7xSWfo/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgXygpMA8=&rs=AOn4CLB-5Mb5OTCUaHzSVLnjJPWWsMhCUg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 14. Bölüm - Operasyon: Zirve",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488314",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/mFBb_CyaHeE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD-0BR9EZ0wgi_69KTE0DwWVawk-w",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 15. Bölüm - Operasyon: Kablolu Televizyon",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5301872",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/zlRv7B9axLY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB1k58L7tQibbXs978J1thMnvZk6A",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 16. Bölüm - Operasyon: Kamp",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488318",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/gTi5k1Yzjbc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDRidZV3je09q3o9RBCgxd2lnpc4A",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 17. Bölüm - Operasyon: Kek",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488322",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/2zwcxEGtRSs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAV_jsKHkqcNVrCRcd2cnvvFBZxWg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 18. Bölüm - H Olmadan Havuz",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488326",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/_X94Srmh-Z4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD3BoBsnHwmWmWTMqIEbv1LlaCo9g",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 19. Bölüm - Operasyon: Tommy",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488332",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/VGVOaSxrV9U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBnXhyn0p5UzZacjYRliaUpywNsng",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 20. Bölüm - Operasyon: Chad",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488339",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/UFcvAhh5xgo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBT8wLHO1HRrPHswN_eY_6Z6Xyq2A",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 21. Bölüm - Operasyon: Piyano",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488345",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/a6br6eUV-2M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA0egiryMBRrEGdy_bgXOnpD71TQQ",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 22. Bölüm - Operasyon: Hayvanat Bahçesi",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488351",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/OtBuztgwwrM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDfceUD17e4hgcPrNXk0-CGNYV_mg",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 23. Bölüm - Operasyon: Sessizlik",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488357",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/szYMCzMJNbY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAxLNFulp15mq2J-YnN2CHbMiHg4Q",
+                            "title": "Kod Adı: Afacanlar | 1. Sezon 24. Bölüm - Operasyon: Gökkuşağı",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488360",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 2,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/1LBah5B2Ct0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCEdg-6SFGchzhWnRgL95QTkLa2Nw",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 1. Bölüm - Operasyon: Kediler",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488364",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/C4jEM7m3ePU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGFggZShHMA8=&rs=AOn4CLBIZi9A8BsjhbYvPloRkTop2x6s-A",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 2. Bölüm - Operasyon: Gazoz",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488370",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/D-1GVFv5wPg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCMf4v5fbQRmnT_JLzK-opMjfoZAA",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 3. Bölüm - Operasyon: Şaplak",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488374",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/G-LGm8yoSys/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAvQ4O4cdQthG0ehqSI0bK6vfs_iw",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 4. Bölüm - Operasyon: Buluşma",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488378",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/VNmwlbX1WbY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAVDXwzUW9hdiv-9XlbXoaYRbwBlw",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 5. Bölüm - Operasyon: Destek",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488380",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/etCCn5RJCYo/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gJigcMA8=&rs=AOn4CLCYgW-ghsjatIj4tvbR6u2Km-kKyA",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 6. Bölüm - Operasyon: Puding",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488383",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/2BGj2jnsJBw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCDy0ivST0j1J1voqcxIfQJFg90mA",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 7. Bölüm - Operasyon: Film",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4595882",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/K7fIXPvG5A4/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGsB4AC0AWKAgwIABABGFcgZChlMA8=&rs=AOn4CLDh8S4s_G5ymET1K1zcuvH6vbITUQ",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 8. Bölüm - Operasyon: Fast Food",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488385",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/lIFxm7nYhHE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAr48ya9OWztVhNgjbsYmlZVFKl7A",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 9. Bölüm - Operasyon: Tıraş",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488389",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/nc3qRUuMw1I/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGH8gQygTMA8=&rs=AOn4CLBaMg1n1G7Y7k6lIn6iXi8JI-IPIQ",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 10. Bölüm - Operasyon: Tuba",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488391",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/pKxTsWz-uQQ/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgRCgyMA8=&rs=AOn4CLC0iFquB0vLe84_WWv3d4sQq6yBxg",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 11. Bölüm - Operasyon: Lezzet",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488394",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/kjcQRXQXHKs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD6vLDbi6HfBHi6zccbZXJLNHVTYg",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 12. Bölüm - Operasyon: Öpücük",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488397",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/C9sz4q0sObA/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGCcgZShWMA8=&rs=AOn4CLCJmbvr_sETszGHzkpd--KTXdquBw",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 13. Bölüm - Operasyon: Hayalet",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488399",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/q3k101XJPhw/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AG6CIAC0AWKAgwIABABGH8gHCgTMA8=&rs=AOn4CLBfoTP40qpJAbxcCtXsxRh4dzDllQ",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 14. Bölüm - Operasyon: Kaçak",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488402",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/-r1RqO5_mSM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AG-B4AC0AWKAgwIABABGD8gVShyMA8=&rs=AOn4CLDSCtVBpHTpT7dQZvOaQduiLXUJ3g",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 15. Bölüm - Operasyon: Shogun",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488404",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/kqJ_xWLpnOQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB443W_JaWQvKLbo0Ua0Fq3X5Bcnw",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 16. Bölüm - Operasyon: Üniversite",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488406",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/GmyJCsiPi9o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCujTWv1XsmbeBXx0tn0L7dzFNtmg",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 17. Bölüm - Operasyon: Kutu",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488408",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/NsTYXAaQqng/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AG-B4AC0AWKAgwIABABGCkgVih_MA8=&rs=AOn4CLB9VvBITezb3jbZeUfG0HH-spnFeA",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 18. Bölüm - Operasyon: Külot",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488411",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/zA3J-eSACPA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAKYqI5jMmVpWxSCoSVLhitoashgA",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 19. Bölüm - Operasyon: Pasta İki",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488244",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/6fozOyB5UCI/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHCB4AC0AWKAgwIABABGCYgWShyMA8=&rs=AOn4CLAZm_uCu7mtC0amT5oNLrUTTst9kA",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 20. Bölüm - Operasyon: Uzay",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488253",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/CMGF3CrexDo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAdrgbMBtSfwK3UER5w2q86fSroyg",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 21. Bölüm - Operasyon: Plaj",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488260",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/2F-jWm2QZeY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGHIgPig4MA8=&rs=AOn4CLBXxdJlVMxpHeUy-elSusrRwuG4Zw",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 22. Bölüm - Operasyon: Gizli",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488263",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/8j6U5qKxiBk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCd65pjDDmMAIMoy9CyUr0Z3o12Tg",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 23. Bölüm - Operasyon: İt Dalaşı",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488269",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZxK8yTQnXOY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAaewtmLvPI8oFBnBh2T5jD-P7NZQ",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 25. Bölüm - Operasyon: Son, 1.Bölüm",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488274",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/v4Ya9keTZI0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgXig4MA8=&rs=AOn4CLCyE6mRTXqtW9o5EahR8rs3kEivOQ",
+                            "title": "Kod Adı: Afacanlar | 2. Sezon 26. Bölüm - Operasyon: Son, 2.Bölüm",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488279",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 3,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/9dxrb9sIEYc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDKOYn7sh6Le-KkzN2ZSRzif9rPPA",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 1. Bölüm - Operasyon: Gelecek, 1.Bölüm",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488284",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Cyv7DECBoFc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDwunPRlnec7RM10o-2weAEKBvnXA",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 2. Bölüm - Operasyon: Gelecek, 2.Bölüm",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488292",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/5-s_52yvs58/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AG-B4AC0AWKAgwIABABGH8gGygiMA8=&rs=AOn4CLDICiBpSTs_CKAe088bX4GHpoGcmg",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 3. Bölüm - Operasyon: Boğulma Korkusu",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488297",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZvTcqTxkyDk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLZN5vS-fRrVbjs6l89xCD2JU8IA",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 4. Bölüm - Operasyon: Lider",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488302",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ErqxoVTZdo4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBFmRmro7XqcOjBK8dGjPROfmG7kg",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 5. Bölüm - Operasyon: Ütopya",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488307",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/nK-y1Q3K4No/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBcpL75SUnWJVxTJUQ4KEPPEeeXIw",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 6. Bölüm - Operasyon: Soyguncular",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488310",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZgOuRf7DsUw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCQQutoOz6sLxctbq7rzT5RO8laeA",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 7. Bölüm - Operasyon: Fıskiye, 1.Bölüm",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488313",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/HGY9pUEQSfg/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AG-B4AC0AWKAgwIABABGEggRChlMA8=&rs=AOn4CLDJO0HdjwfnhjRF9tGO99E77U_fdg",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 8. Bölüm - Operasyon: Fıskiye, 2.Bölüm",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488317",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Oy59eyyWVZI/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGC4gOSh_MA8=&rs=AOn4CLCzmM_-XFZUtKl8RlUXJ20YVEJgDQ",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 9. Bölüm - Operasyon: Mayo",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488321",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/sxSR4I6RePU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCDhXFFBKOnJr5VB7wBYi9sJTbbxw",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 11. Bölüm - Operasyon: Arşiv",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488328",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/24xhYLbV1I0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCXxejEO_B0Zt8HCtQ7mWRJh2uGXQ",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 12. Bölüm - Operasyon: Uyuklama",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488335",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/FkMcssS_RqA/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGUBIACkAOKAgwIABABGDUgZShPMA8=&rs=AOn4CLAsvyO-eJ8eoOLB-d69P1SIC05rFQ",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 13. Bölüm - Operasyon: Göz İltihabı",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488341",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/J9-XVyeEVzs/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHGB4AC0AWKAgwIABABGHIgOygzMA8=&rs=AOn4CLDnts9zuGqmWJGTYxL_jvbKyu-vvA",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 14. Bölüm - Operasyon: Şato",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488347",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/oO4XWB0AnkM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGCQgcigRMA8=&rs=AOn4CLBp6-cBkgzFrY2Uk6F8iUYPgXS4UQ",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 15. Bölüm - Operasyon: Pasta Ağacı",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488353",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/I5Vvk8q0HtU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGH8gHygTMA8=&rs=AOn4CLAL5U0nda6qyEwPRcHBkTP6SZ9QRg",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 16. Bölüm - Operasyon: Kilitlemek",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488358",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/KgCZUAkoDoI/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGDQgZSgYMA8=&rs=AOn4CLCCvqirNMFs0uH8c56xRez3tfcNpw",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 19. Bölüm - Operasyon: Kucaklama",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488363",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZdXGUUsysUE/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BYAC4AOKAgwIABABGH8gKygmMA8=&rs=AOn4CLCYc1M3k1e7GLVXNBSNGg2Tl1aPPA",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 20. Bölüm - Operasyon: Mücevher",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488367",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/rSjgNnDbzp0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDi4rukfclrEp6lD_IpQOxjyZXv6A",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 21. Bölüm - Operasyon: Kurnaz",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488373",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/jLdD1gLumiU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCfC8aZwAlinbUnO9cMeSA0JSDUmA",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 22. Bölüm - Operasyon: Berbat",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488376",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/T_unZTk1UzM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGGAgZSg6MA8=&rs=AOn4CLAhingZTgmxBG2T_sZn7axTcoVBJw",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 23. Bölüm - Operasyon: Başkan",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488379",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/AL5kvRtJu4c/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGDUgNyh_MA8=&rs=AOn4CLDJvhj4k6DWTL1vme_ykbC1DBz6eg",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 24. Bölüm - Operasyon: Hastane",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488382",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/MDVaN_cHLfQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDHjmj66rXGYW4M-GZlb4HVTHyCFg",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 25. Bölüm - Operasyon: Lahana",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488384",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/myg0U1Wt3yo/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHGB4AC0AWKAgwIABABGB0gSih_MA8=&rs=AOn4CLA1auDROTKiItTCEqhwyxs9qSOo3A",
+                            "title": "Kod Adı: Afacanlar | 3. Sezon 26. Bölüm - Operasyon: Fino",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488386",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 4,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/0U0b0Nd122Q/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHGB4AC0AWKAgwIABABGHIgSygxMA8=&rs=AOn4CLDbqqNJyHPe8ATk0kHmOqH3vkyDbQ",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 1. Bölüm - Operasyon: Tavşan",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488388",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/BUUBGtJGh34/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGH8gWCgjMA8=&rs=AOn4CLCWQLubGKSjlz_T9fc4BjFDhW8V_Q",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 3. Bölüm - Operasyon: Yiyecek Savaşı",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488392",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/1KzdHtIATys/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGEMgRCh_MA8=&rs=AOn4CLAwy-y8Y4OY1LMCu5ptNtpFBxh7Zg",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 4. Bölüm - Operasyon: İpuçları",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488395",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/CzPJbtC_Pwo/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGHIgVSgdMA8=&rs=AOn4CLCLrhBFTtlBhVxNm3vzSk8HyHKH5Q",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 5. Bölüm - Operasyon: Tavuk Köftesi",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488398",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/nPFm0mdI0k8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDnBDZpkBJYgeI-27Mk8_Thzbaxxw",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 7. Bölüm - Operasyon: Havuz, 1.Bölüm",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488400",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/W1RbSvgQwbk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDne1mxxHqVIhvw_YM8PGwckrVhgA",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 8. Bölüm - Operasyon: Havuz, 2.Bölüm",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488403",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/YYsfkmMA1So/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCMdU9apDi0tSiT643Wmsf2WV1Zdg",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 11. Bölüm - Operasyon: Bakıcı",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488405",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/QezkA5o6Bxg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAGVKH36TE-gW4PdpshshHix9UrNQ",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 12. Bölüm - Operasyon: Satürn",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488407",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/TzCTNyVT17U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDaBXKq3CBlxIaRsqaA2ETf59HX1Q",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 13. Bölüm - Operasyon: Çikolata",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488410",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/E9c7-OkTwgM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCyu3FnWFkispVw8DEul0aZmKRHQ",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 14. Bölüm - Operasyon: Matador",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488412",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/wUprPTm0RKg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBvBoUgF70IvNMmUhQv1bxoDN1lWw",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 15. Bölüm - Operasyon: Öğle Yemeği",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488413",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZwH-sU-mwWE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBu0E7CMW43F7fcVKgkSLKL9zspkw",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 17. Bölüm - Operasyon: Düğüm",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488415",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/4NGRFt3JFCc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCu2HRUCxlIsthZXkDxRSQ9JpdWfw",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 18. Bölüm - Operasyon: Dolap",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488416",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/EAmQ1Jn8wXo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDxqO5HcZeYwk2h5o60G7j3WIu2WA",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 19. Bölüm - Operasyon: Kar, 1.Bölüm",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488417",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/mGYGLVR0iws/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAaB2WGutFcEecLdQ6JdiQqUnWOGQ",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 20. Bölüm - Operasyon: Kar, 2.Bölüm",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488420",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZpnVDvJxHYM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCz5R955MVp7O8KGA2bzIHqNBEOg",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 21. Bölüm - Operasyon: Maurice, 1.Bölüm",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488421",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/xa8h7OlsUd4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdOTQ0pZlNjHZBcCSiH-8s7kaK7g",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 22. Bölüm - Operasyon: Maurice, 2.Bölüm",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488422",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/7Oi5pF5ICiU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDElpgq0nhljONeBtQAc9cChB7w1g",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 23. Bölüm - Operasyon: Aşk",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488423",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/kcxQyssyvGQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCKecEfg__nMYWIYrvTHva21IhLRA",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 24. Bölüm - Operasyon: Kanepe",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488425",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/0aWilCtxiHQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBj4mrOv7c5HSF04AHV4y07GGzYxA",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 25. Bölüm - Operasyon: Yakartop",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488426",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/W-Y_C_n6DXg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDG3MRxUlvxomUfoVaNXjKD45GkGQ",
+                            "title": "Kod Adı: Afacanlar | 4. Sezon 26. Bölüm - Operasyon: Feral",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4488427",
+                                    "type": "Sibnet-Türkçe"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }
