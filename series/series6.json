@@ -6410,6 +6410,307 @@
                     ]
                 }
             ]
+        },
+        "seri-9": {
+            "title": "Danny Phantom",
+            "description": "Sıradan bir genç olan Danny Phantom, ailesinin hayalet avcılığı laboratuvarında geçirdiği bir kaza sonucu insan-hayalet melezine dönüşür. Hayalet güçleri kazanarak görünmezlik, uçma ve insanların içine girme gibi yetenekler elde eden Danny, 'Danny Phantom' kimliğiyle kasabası Amity Park'ı ve dünyayı kötü niyetli hayalet saldırılarından korumaya çalışır. En iyi arkadaşları Sam ve Tucker ile kız kardeşi Jazz ona bu çifte yaşamında destek olur.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNjJlNzc4ODktOGVjYS00MTJkLTgzZTYtZGViMDNlNmM2MGE2XkEyXkFqcGc@._V1_.jpg",
+            "categories": [
+                "Animasyon",
+                "Aksiyon",
+                "Macera",
+                "Komedi",
+                "Fantastik"
+            ],
+            "year": 2004,
+            "type": [
+                "Aksiyon & Macera",
+                "Komedi",
+                "Animasyon"
+            ],
+            "imdb": 7.3,
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10724467.jpg",
+                            "title": "Danny Phantom | 1. Sezon 1. Bölüm - Etin Gizemi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484413"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10725213.jpg",
+                            "title": "Danny Phantom | 1. Sezon 2. Bölüm - Dans Partisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484445"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10726955.jpg",
+                            "title": "Danny Phantom | 1. Sezon 3. Bölüm - Türünün Tek Örneği!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484448"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10728197.jpg",
+                            "title": "Danny Phantom | 1. Sezon 4. Bölüm - Dehşet Saçan İkinci El Pazarı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484450"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10729214.jpg",
+                            "title": "Danny Phantom | 1. Sezon 5. Bölüm - Kişilik Bölünmesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484452"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10730771.jpg",
+                            "title": "Danny Phantom | 1. Sezon 6. Bölüm - Nasıl İstersen",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484453"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10731836.jpg",
+                            "title": "Danny Phantom | 1. Sezon 7. Bölüm - Mezunlar Toplantısı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484454"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10732609.jpg",
+                            "title": "Danny Phantom | 1. Sezon 8. Bölüm - Aşk Tutsakları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484455"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10733830.jpg",
+                            "title": "Danny Phantom | 1. Sezon 9. Bölüm - Kardeşimin Bekçisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484458"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10735361.jpg",
+                            "title": "Danny Phantom | 1. Sezon 10. Bölüm - Grinin Tonları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484459"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10736796.jpg",
+                            "title": "Danny Phantom | 1. Sezon 11. Bölüm - Danny Ember'a Karşı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484461"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10737875.jpg",
+                            "title": "Danny Phantom | 1. Sezon 12. Bölüm - Yılın Öğretmeni",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484462"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10738702.jpg",
+                            "title": "Danny Phantom | 1. Sezon 13. Bölüm - Korku Gecesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484464"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10740308.jpg",
+                            "title": "Danny Phantom | 1. Sezon 14. Bölüm - 13",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484465"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10741060.jpg",
+                            "title": "Danny Phantom | 1. Sezon 15. Bölüm - Halk Düşmanları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484466"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10742828.jpg",
+                            "title": "Danny Phantom | 1. Sezon 16. Bölüm - Aşkta Şanslı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484467"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10742985.jpg",
+                            "title": "Danny Phantom | 1. Sezon 17. Bölüm - Anne İçgüdüleri",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484469"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10744128.jpg",
+                            "title": "Danny Phantom | 1. Sezon 18. Bölüm - Hayat Dersleri",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484470"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10744739.jpg",
+                            "title": "Danny Phantom | 1. Sezon 19. Bölüm - Milyon Dolarlık Hayalet!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484472"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10745196.jpg",
+                            "title": "Danny Phantom | 1. Sezon 20. Bölüm - Kontrol Delisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484475"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 2,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10745889.jpg",
+                            "title": "Danny Phantom | 2. Sezon 1. Bölüm - Boş Hafıza",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4490138"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10746943.jpg",
+                            "title": "Danny Phantom | 2. Sezon 2. Bölüm - Doktorun Bozuklukları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484477"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10747843.jpg",
+                            "title": "Danny Phantom | 2. Sezon 3. Bölüm - Korsan Radyo",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484479"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10748679.jpg",
+                            "title": "Danny Phantom | 2. Sezon 4. Bölüm - Güç Fırtınası, 1.Bölüm",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4490141"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10750212.jpg",
+                            "title": "Danny Phantom | 2. Sezon 5. Bölüm - Güç Fırtınası, 2.Bölüm",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4710149"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10751275.jpg",
+                            "title": "Danny Phantom | 2. Sezon 6. Bölüm - Kimlik Krizi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484481"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/10751704.jpg",
+                            "title": "Danny Phantom | 2. Sezon 7. Bölüm - Ailenin Delisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4484483"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     }
 }
