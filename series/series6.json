@@ -6121,6 +6121,295 @@
                     ]
                 }
             ]
+        },
+        "seri-8": {
+            "title": "Winx Dünyası",
+            "description": "Altı Winx perisi, gizemli Yetenek Hırsızı'nın üstün yetenekli gençleri kaçırmasını önlemek için yetenek avcısı kılığına girer.",
+            "cover": "https://images.justwatch.com/poster/111279544/s718/sezon-1.jpg",
+            "categories": [
+                "Çizgi Dizi",
+                "Macera",
+                "Sihir"
+            ],
+            "year": 2017,
+            "type": [
+                "Çizgi Dizi",
+                "Macera",
+                "Sihir"
+            ],
+            "imdb": null,
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6035376.jpg",
+                            "title": "Winx Dünyası | 1. Sezon 1. Bölüm - Yetenek Hırsızı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435490"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6036029.jpg",
+                            "title": "Winx Dünyası | 1. Sezon 2. Bölüm - Yeni Güçler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435491"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6036989.jpg",
+                            "title": "Winx Dünyası | 1. Sezon 3. Bölüm - Timsah Adam Efsanesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435493"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6038271.jpg",
+                            "title": "Winx Dünyası | 1. Sezon 4. Bölüm - Şehrin Altındaki Canavar",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435494"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6040942.jpg",
+                            "title": "Winx Dünyası | 1. Sezon 5. Bölüm - Stilist Aranıyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435495"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6042030.jpg",
+                            "title": "Winx Dünyası | 1. Sezon 6. Bölüm - Moda Haftası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435497"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6044338.jpg",
+                            "title": "Winx Dünyası | 1. Sezon 7. Bölüm - Aşçılık Yarışması",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435500"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6045130.jpg",
+                            "title": "Winx Dünyası | 1. Sezon 8. Bölüm - Şaman",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435501"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6047147.jpg",
+                            "title": "Winx Dünyası | 1. Sezon 9. Bölüm - Parçalanan Hayaller",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435502"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6049709.jpg",
+                            "title": "Winx Dünyası | 1. Sezon 10. Bölüm - Tehlikeli Sular",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435504"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6050692.jpg",
+                            "title": "Winx Dünyası | 1. Sezon 11. Bölüm - Kardaki Gölgeler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435505"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6053295.jpg",
+                            "title": "Winx Dünyası | 1. Sezon 12. Bölüm - Saatçi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435507"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6054325.jpg",
+                            "title": "Winx Dünyası | 1. Sezon 13. Bölüm - Kraliçe'nin Düşüşü",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435508"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 2,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6060604.jpg",
+                            "title": "Winx Dünyası | 2. Sezon 1. Bölüm - Var Olmayan Ülke",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435510"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6061637.jpg",
+                            "title": "Winx Dünyası | 2. Sezon 2. Bölüm - Peter Pan'in Oğlu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435512"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6063964.jpg",
+                            "title": "Winx Dünyası | 2. Sezon 3. Bölüm - Krokodil Adam",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435513"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6064885.jpg",
+                            "title": "Winx Dünyası | 2. Sezon 4. Bölüm - Yeryüzündeki Denizkızları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435514"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6066003.jpg",
+                            "title": "Winx Dünyası | 2. Sezon 5. Bölüm - Moda Okulu Heyecanı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435515"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6067467.jpg",
+                            "title": "Winx Dünyası | 2. Sezon 6. Bölüm - Yıldızlardaki Kız",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435516"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6068573.jpg",
+                            "title": "Winx Dünyası | 2. Sezon 7. Bölüm - Kardaki Çiçek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435517"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6069572.jpg",
+                            "title": "Winx Dünyası | 2. Sezon 8. Bölüm - Kaplan Lilly",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435520"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6071137.jpg",
+                            "title": "Winx Dünyası | 2. Sezon 9. Bölüm - Kahraman Geliyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435521"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6072741.jpg",
+                            "title": "Winx Dünyası | 2. Sezon 10. Bölüm - Tekno Sihir Kapanı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435523"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6073394.jpg",
+                            "title": "Winx Dünyası | 2. Sezon 11. Bölüm - Jim'in İntikamı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435525"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6074612.jpg",
+                            "title": "Winx Dünyası | 2. Sezon 12. Bölüm - Eski Dostlar ve Yeni Düşmanlar",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435526"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/6076091.jpg",
+                            "title": "Winx Dünyası | 2. Sezon 13. Bölüm - Tinkerbell'in Dönüşü",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435528"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     }
 }
