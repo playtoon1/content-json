@@ -22,6 +22,60 @@
                     }
                 ]
             }
+        },
+        {
+            "id": "story_2",
+            "title": "Johnny Test",
+            "label": "Yeni Seri",
+            "videoUrl": "https://rumble.com/hls-vod/76rhf6/playlist.m3u8?key=9ob9-bUtZxZaCDw4gksy_CmRVQHItsMgZu4r56q4byW-C56WKvjLxg&u=0&b=0",
+            "start": "00:00:01",
+            "end": "00:00:22",
+            "episode": {
+                "thumbnail": "https://tvt.fancaps.net/10092520.jpg",
+                "title": "Johnny Test | 1. Sezon 1. Bölüm - Johnny Dünya'nın Merkezine Gidiyor / Johnny X",
+                "videoSources": [
+                    {
+                        "name": "BC-Türkçe",
+                        "url": "https://rumble.com/hls-vod/76rhf6/playlist.m3u8?key=9ob9-bUtZxZaCDw4gksy_CmRVQHItsMgZu4r56q4byW-C56WKvjLxg&u=0&b=0"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "story_3",
+            "title": "Kod Adı Afacanlar",
+            "label": "Yeni Seri",
+            "videoUrl": "https://rumble.com/hls-vod/76rhj2/playlist.m3u8?key=nkIHZeECYJxJ_lGLGl-QAjK0viYBngQ8D9VRBD4_TCaoXlOC08LhIA&u=0&b=0",
+            "start": "00:00:02",
+            "end": "00:00:13",
+            "episode": {
+                "thumbnail": "https://tvt.fancaps.net/12559345.jpg",
+                "title": "Kod Adı Afacanlar | 1. Sezon 1. Bölüm - Operasyon: Dondurma",
+                "videoSources": [
+                    {
+                        "name": "BC-Türkçe",
+                        "url": "https://rumble.com/hls-vod/76rhj2/playlist.m3u8?key=nkIHZeECYJxJ_lGLGl-QAjK0viYBngQ8D9VRBD4_TCaoXlOC08LhIA&u=0&b=0"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "story_4",
+            "title": "Müfettiş Gadget",
+            "label": "Yeni Seri",
+            "videoUrl": "https://rumble.com/hls-vod/76rhms/playlist.m3u8?key=ESXtgDiUXKp7tHnhKy648t6zKyii50xEkBXtH0nNByXRMvqlBV8Sag&u=0&b=0",
+            "start": "00:00:15",
+            "end": "00:00:30",
+            "episode": {
+                "thumbnail": "https://wsrv.nl/?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw300%2F9lfQ1ACPcNQSvFuayx2ps8PiBUD.jpg&output=webp&q=50&n=-1",
+                "title": "Müfettiş Gadget | 1. Sezon 1. Bölüm - Kayıp Yıldız",
+                "videoSources": [
+                    {
+                        "name": "BC-Türkçe",
+                        "url": "https://rumble.com/hls-vod/76rhms/playlist.m3u8?key=ESXtgDiUXKp7tHnhKy648t6zKyii50xEkBXtH0nNByXRMvqlBV8Sag&u=0&b=0"
+                    }
+                ]
+            }
         }
     ]
 }
