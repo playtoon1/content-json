@@ -1,560 +1,5 @@
 {
     "series": {
-        "seri-1": {
-            "title": "Hanma Baki: Son of Ogre)",
-            "description": "Baki, güçlü babasını geride bırakmak için ihtiyaç duyduğu becerileri kazanmak için Arizona Eyalet Hapishanesine girerek Bay Zincirsiz olarak bilinen kötü şöhretli mahkumu alt eder.",
-            "cover": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-            "categories": [
-                "Aksiyon",
-                "Dövüş Sanatları",
-                "Shounen"
-            ],
-            "year": 2021,
-            "type": [
-                "Spor",
-                "Aksiyon & Macera",
-                "Anime"
-            ],
-            "imdb": 8.0,
-            "seasons": [
-                {
-                    "seasonNumber": 1,
-                    "episodes": [
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 1. Sezon 1. Bölüm - Dünyanın En Güçlü Kıdemlisi",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://fang-heshan.store/file/tau-video/2cd995c8-f34c-479f-ba13-c7c0e2f1e253.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 1. Sezon 2. Bölüm - Karışık türlerin dövüş sanatları",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://huyan-qing.store/file/tau-video/9cc26782-3b9c-460f-9b1f-963d08a5f924.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 1. Sezon 3. Bölüm - Hapishane ve Cehennem",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://an-zaihai.store/file/tau-video/bce75eeb-5985-4b68-8b9b-218904f648b0.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 1. Sezon 4. Bölüm - İkinci",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://noble-ran.store/file/tau-video/ce336db9-2533-45d2-9622-50878f77afee.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 1. Sezon 5. Bölüm - Korkunç Üçüzler",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://choumen-tai.store/file/tau-video/a3c02731-5bfd-48bb-b4aa-723e4744f91a.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 1. Sezon 6. Bölüm - Denizin adamı",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://noble-ran.online/file/tau-video/55ebd08b-a1fa-42e7-a57d-fef23cb6c5c7.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 1. Sezon 7. Bölüm - Hiper erkek ve Hiper erkek",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://fang-heshan.store/file/tau-video/b23f6062-70c5-4557-bd08-6332de926b78.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 1. Sezon 8. Bölüm - Gilberto Stili",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://jian-daozi.site/file/tau-video/8950d4a7-96f7-4d56-a0f4-a6441d749e8b.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 1. Sezon 9. Bölüm - Karar vakti",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://huyan-qing.store/file/tau-video/a91052b5-e4be-432a-a377-450005b9a87b.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 1. Sezon 10. Bölüm - gülemez misin",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://huyan-qing.site/file/tau-video/c2eb317c-0328-4d96-85af-59edac8e357f.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 1. Sezon 11. Bölüm - Hapishane gardiyanı bundan bahsediyor",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://choumen-tai.store/file/tau-video/c9084ff0-b903-44c0-b322-aac701c69861.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 1. Sezon 12. Bölüm - Brawn'ın Ötesinde",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://noble-ran.online/file/tau-video/a4423a88-92c5-4cd3-8ac2-d0e297461fef.mp4"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "seasonNumber": 2,
-                    "episodes": [
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 1.Bölüm - Yeni İnsanlığın Tarihi",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://fang-heshan.online/file/tau-video/204edc97-673d-4698-9f86-698f14dad269.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 2.Bölüm - Tamamen çevrili",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://jian-daozi.site/file/tau-video/36c42772-0cea-4cc2-9c0a-91ed765063fc.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 3.Bölüm - Nature Power vs Savaş Gücü​",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://song-jia.site/file/tau-video/d49b90c8-d137-4485-9960-031d1b7448fc.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 4.Bölüm - Turşu gözyaşları​",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://lord-fifth.site/file/tau-video/18f91ea4-8b1e-457d-88a2-8c3195a6938b.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 5.Bölüm - Sadece seni görmek istiyorum",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://huyan-qing.site/file/tau-video/550b97dd-19d3-4eec-95c2-87eca2a932dc.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 6.Bölüm - Ses bariyerinin ötesinde",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://choumen-tai.store/file/tau-video/521b1beb-d756-4633-a726-49919c245f73.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 7.Bölüm - Isı Anı",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://noble-ran.site/file/tau-video/e6e09f43-3985-4475-b6d6-ba65e97065f9.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 8.Bölüm - Dua Savage​",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://fang-heshan.store/file/tau-video/e32a928a-c3ba-4ce6-88cd-91edb42361de.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 9.Bölüm - Birbirini yutmak",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://jian-daozi.store/file/tau-video/32d2c0e3-4eb4-4fdd-b6d8-012573adad1e.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 10.Bölüm - Gıda rezervi",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://huyan-qing.store/file/tau-video/c400e0bb-bf1a-461d-a56c-577e0ed18161.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 11.Bölüm - Zayıflar güçlü yiyor",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://jian-daozi.site/file/tau-video/d2ef4e7b-af05-4682-8239-bd9fc57bde9c.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 12.Bölüm - Son form",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://jian-daozi.site/file/tau-video/8b90438d-370d-4965-8cc6-86d0560e05f3.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 13.Bölüm - Dövüşün yazılmamış kuralı",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://an-zaihai.online/file/tau-video/5886bc8f-4dbf-41a8-8fb1-7742780ca150.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 14.Bölüm - Aşk İçin Ölmek​",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://an-zaihai.store/file/tau-video/965f664c-c8bf-4edb-b7ca-508be814ca70.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 15.Bölüm - Başlangıç ​​hissini hissediyorum",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://choumen-tai.site/file/tau-video/6163b2ae-6ff3-4c49-8783-6a74cdbca4c1.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 16.Bölüm - Yeni ufuk",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://song-jia.store/file/tau-video/09d2037f-7b07-420d-9c97-2dacaf812519.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 17.Bölüm - Efsanevi destekçi",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://an-zaihai.store/file/tau-video/8acc6136-0130-4bc6-985d-1ce690db6447.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 18.Bölüm - Masayı Döndürmek​",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://choumen-tai.store/file/tau-video/7ca4b0fa-a0a7-455a-9109-d1b88d3325c0.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 19.Bölüm - Boks Tanrısı",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://lord-fifth.store/file/tau-video/413cbea7-cdd0-4c85-a091-ada8f8b995e6.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 20.Bölüm - Kendi yolları",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://choumen-tai.site/file/tau-video/91642f4f-2887-4093-b0c7-bbb016c9ec17.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 21.Bölüm - Baba ve Oğul Yemek",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://noble-ran.online/file/tau-video/656cb1f5-59ff-4fa2-ac15-0c4792081099.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 22.Bölüm - Tarihin en büyük baba-oğul dövüşü",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://fang-heshan.site/file/tau-video/fe4ee720-a62d-472d-a2a2-e73663a805a2.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 23.Bölüm - Kentsel efsane",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://lord-fifth.site/file/tau-video/13ead83c-7af7-4e08-af4e-6f507fe2b563.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 24.Bölüm - Gözyaşları Şişme",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://an-zaihai.online/file/tau-video/37362c52-edc4-4f75-b965-7ad7deeb93af.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 25.Bölüm - Oğul, baba ve…",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "Sibnet",
-                                    "url": "https://video.sibnet.ru/shell.php?videoid=5705451Baki_Hanma_S02E25_O_ul__Baba_ve/"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 26.Bölüm - Elbise",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://choumen-tai.store/file/tau-video/b3a61341-bb7a-488f-a89c-c4e89a7a6f2e.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Hanma Baki: Son of Ogre | 2. Sezon 27.Bölüm - Babanın Tadı",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmEyNWU5MzgtNThhMy00YmUwLThiZmEtMTI4OTk1NTI1NmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://noble-ran.site/file/tau-video/26db16fe-87a3-40ce-bbda-7e2ea3cb3d6b.mp4"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        "seri-2": {
-            "title": "Boogiepop Phantom",
-            "description": "Hikaye, bir şehirde bir dizi gizemli olayın ardından insanların birer birer ortadan kaybolmasıyla başlar. Efsaneye göre bu olayların arkasında “Boogiepop” adlı bir varlık vardır — bir nevi ölüm meleği gibi davranır ama aslında daha derin bir amacı vardır.",
-            "cover": "https://m.media-amazon.com/images/M/MV5BMzhhYzBmNzctYTQ0My00YmZmLWFlZGEtMjg3MmI0N2I4NmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-            "categories": [
-                "Psikolojik",
-                "Gerilim",
-                "Gizem",
-                "Doğaüstü",
-                "Drama",
-                "Seinen"
-            ],
-            "year": 2000,
-            "type": [
-                "Dram",
-                "Anime"
-            ],
-            "imdb": 7.2,
-            "seasons": [
-                {
-                    "seasonNumber": 1,
-                    "episodes": [
-                        {
-                            "title": "Boogiepop Phantom (2000) 1. Bölüm - Bozulma",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzhhYzBmNzctYTQ0My00YmZmLWFlZGEtMjg3MmI0N2I4NmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://choumen-tai.online/file/tau-video/8208_1_1_480p.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Boogiepop Phantom (2000) 2. Bölüm - Öğrenciler",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzhhYzBmNzctYTQ0My00YmZmLWFlZGEtMjg3MmI0N2I4NmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://noble-ran.online/file/tau-video/8208_1_2_480p.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Boogiepop Phantom (2000) 3. Bölüm - İz",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzhhYzBmNzctYTQ0My00YmZmLWFlZGEtMjg3MmI0N2I4NmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://lord-fifth.store/file/tau-video/8208_1_3_480p.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Boogiepop Phantom (2000) 4. Bölüm -Ölüm",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzhhYzBmNzctYTQ0My00YmZmLWFlZGEtMjg3MmI0N2I4NmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://lord-fifth.site/file/tau-video/8208_1_4_480p.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Boogiepop Phantom (2000) 5. Bölüm - Kayıp",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzhhYzBmNzctYTQ0My00YmZmLWFlZGEtMjg3MmI0N2I4NmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://song-jia.site/file/tau-video/8208_1_5_480p.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Boogiepop Phantom (2000) 6. Bölüm - Çekim",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzhhYzBmNzctYTQ0My00YmZmLWFlZGEtMjg3MmI0N2I4NmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://song-jia.store/file/tau-video/8208_1_6_480p.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Boogiepop Phantom (2000) 7. Bölüm - Eşlik Edenler",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzhhYzBmNzctYTQ0My00YmZmLWFlZGEtMjg3MmI0N2I4NmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://an-zaihai.online/file/tau-video/8208_1_7_480p.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Boogiepop Phantom (2000) 8. Bölüm - Gölgeler",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzhhYzBmNzctYTQ0My00YmZmLWFlZGEtMjg3MmI0N2I4NmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://an-zaihai.site/file/tau-video/8208_1_8_480p.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Boogiepop Phantom (2000) 9. Bölüm - Anılar",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzhhYzBmNzctYTQ0My00YmZmLWFlZGEtMjg3MmI0N2I4NmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://an-zaihai.store/file/tau-video/8208_1_9_480p.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Boogiepop Phantom (2000) 10. Bölüm - Gerçeklik",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzhhYzBmNzctYTQ0My00YmZmLWFlZGEtMjg3MmI0N2I4NmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://huyan-qing.site/file/tau-video/8208_1_10_480p.mp4"
-                                }
-                            ]
-                        },
-                        {
-                            "title": "Boogiepop Phantom (2000) 11. Bölüm - Açığa Çıkış",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzhhYzBmNzctYTQ0My00YmZmLWFlZGEtMjg3MmI0N2I4NmVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "TAU",
-                                    "url": "https://huyan-qing.store/file/tau-video/8208_1_12_480p.mp4"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
         "seri-3": {
             "title": "Attack On Titan",
             "description": "Devlerin insanları avladığı bir dünyada, Eren Yeager ve arkadaşları devlere karşı savaşmak için askeri birliğe katılırlar. Eren, devlerin sırlarını çözmeye çalışırken, kendi içindeki gücü keşfeder.",
@@ -1526,10 +971,6 @@
                                     "url": "https://seed167.bitchute.com/oh6QdFBWLnBu/DyVXNXjtjzu6.mp4"
                                 },
                                 {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x1.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=4484950"
                                 }
@@ -1542,10 +983,6 @@
                                 {
                                     "name": "BC",
                                     "url": "https://zn21g5kls-n995.bitchute.com/oh6QdFBWLnBu/DxTLgDMCz8dJ.mp4"
-                                },
-                                {
-                                    "name": "Arc",
-                                    "url": "https://ia601209.us.archive.org/31/items/006-1x-1/006_1x2.mp4"
                                 },
                                 {
                                     "name": "Sibnet",
@@ -1562,10 +999,6 @@
                                     "url": "https://seed126.bitchute.com/oh6QdFBWLnBu/GfK2Yy3P5jvY.mp4"
                                 },
                                 {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x3.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=4484973"
                                 }
@@ -1578,10 +1011,6 @@
                                 {
                                     "name": "BC",
                                     "url": "https://zb10-7gsop1v78.bitchute.com/oh6QdFBWLnBu/PLe9VIWWTGKS.mp4"
-                                },
-                                {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x4.mp4"
                                 },
                                 {
                                     "name": "Sibnet",
@@ -1598,10 +1027,6 @@
                                     "url": "https://zn21g5kls-n995.bitchute.com/oh6QdFBWLnBu/U3tlEBgDZmn3.mp4"
                                 },
                                 {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x5.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=4484994"
                                 }
@@ -1614,10 +1039,6 @@
                                 {
                                     "name": "BC",
                                     "url": "https://zn21g5kls-n995.bitchute.com/oh6QdFBWLnBu/KbaA2KXZTQC1.mp4"
-                                },
-                                {
-                                    "name": "Arc",
-                                    "url": "https://ia601209.us.archive.org/31/items/006-1x-1/006_1x6.mp4"
                                 },
                                 {
                                     "name": "Sibnet",
@@ -1634,10 +1055,6 @@
                                     "url": "https://seed125.bitchute.com/oh6QdFBWLnBu/jDf5EKDE32xG.mp4"
                                 },
                                 {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x7.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=4485008"
                                 }
@@ -1650,10 +1067,6 @@
                                 {
                                     "name": "BC",
                                     "url": "https://seed122.bitchute.com/oh6QdFBWLnBu/oCUvSMM2Sl6o.mp4"
-                                },
-                                {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x8.mp4"
                                 },
                                 {
                                     "name": "Sibnet",
@@ -1670,10 +1083,6 @@
                                     "url": "https://zggg98sgwbg1gh.bitchute.com/oh6QdFBWLnBu/SkZ6LMR0wfn3.mp4"
                                 },
                                 {
-                                    "name": "Arc",
-                                    "url": "https://ia601209.us.archive.org/31/items/006-1x-1/006_1x9.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=4485020"
                                 }
@@ -1686,10 +1095,6 @@
                                 {
                                     "name": "BC",
                                     "url": "https://seed128.bitchute.com/oh6QdFBWLnBu/ggDxpWbpaWyW.mp4"
-                                },
-                                {
-                                    "name": "Arc",
-                                    "url": "https://ia601209.us.archive.org/31/items/006-1x-1/006_1x10.mp4"
                                 },
                                 {
                                     "name": "Sibnet",
@@ -1706,10 +1111,6 @@
                                     "url": "https://seed305.bitchute.com/oh6QdFBWLnBu/UKgVXdhaAC9O.mp4"
                                 },
                                 {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x11.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=4485030"
                                 }
@@ -1722,10 +1123,6 @@
                                 {
                                     "name": "BC",
                                     "url": "https://seed306.bitchute.com/oh6QdFBWLnBu/vYh3DhmaHO7Y.mp4"
-                                },
-                                {
-                                    "name": "Arc",
-                                    "url": "https://ia601209.us.archive.org/31/items/006-1x-1/006_1x12.mp4"
                                 },
                                 {
                                     "name": "Sibnet",
@@ -1742,10 +1139,6 @@
                                     "url": "https://seed177.bitchute.com/oh6QdFBWLnBu/H5YGkuQ8uH20.mp4"
                                 },
                                 {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x13.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=4485047"
                                 }
@@ -1758,10 +1151,6 @@
                                 {
                                     "name": "BC",
                                     "url": "https://seed306.bitchute.com/oh6QdFBWLnBu/vmlc3Ta12lR2.mp4"
-                                },
-                                {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x14.mp4"
                                 },
                                 {
                                     "name": "Sibnet",
@@ -1778,10 +1167,6 @@
                                     "url": "https://seed128.bitchute.com/oh6QdFBWLnBu/jmYxTuDamu0l.mp4"
                                 },
                                 {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x15.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=4485070"
                                 }
@@ -1794,10 +1179,6 @@
                                 {
                                     "name": "BC",
                                     "url": "https://seed163.bitchute.com/oh6QdFBWLnBu/B6SrhzfJFPcG.mp4"
-                                },
-                                {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x16.mp4"
                                 },
                                 {
                                     "name": "Sibnet",
@@ -1814,10 +1195,6 @@
                                     "url": "https://zggg98sgwbg1gh.bitchute.com/oh6QdFBWLnBu/SfsCgl6f1Tzf.mp4"
                                 },
                                 {
-                                    "name": "Arc",
-                                    "url": "https://ia601209.us.archive.org/31/items/006-1x-1/006_1x17.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=4485116"
                                 }
@@ -1830,10 +1207,6 @@
                                 {
                                     "name": "BC",
                                     "url": "https://zggg98sgwbg1gh.bitchute.com/oh6QdFBWLnBu/zddgnAijJEZd.mp4"
-                                },
-                                {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x18.mp4"
                                 },
                                 {
                                     "name": "Sibnet",
@@ -1850,10 +1223,6 @@
                                     "url": "https://seed306.bitchute.com/oh6QdFBWLnBu/oU3mnFd0W6MK.mp4"
                                 },
                                 {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x19.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=4485137"
                                 }
@@ -1866,10 +1235,6 @@
                                 {
                                     "name": "BC",
                                     "url": "https://seed167.bitchute.com/oh6QdFBWLnBu/4RtLM64sbPWB.mp4"
-                                },
-                                {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x20.mp4"
                                 },
                                 {
                                     "name": "Sibnet",
@@ -1886,10 +1251,6 @@
                                     "url": "https://seed167.bitchute.com/oh6QdFBWLnBu/DqTgW7hywwif.mp4"
                                 },
                                 {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x21.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=4485152"
                                 }
@@ -1902,10 +1263,6 @@
                                 {
                                     "name": "BC",
                                     "url": "https://seed125.bitchute.com/oh6QdFBWLnBu/gVDIxtGIIBCc.mp4"
-                                },
-                                {
-                                    "name": "Arc",
-                                    "url": "https://ia601209.us.archive.org/31/items/006-1x-1/006_1x22.mp4"
                                 },
                                 {
                                     "name": "Sibnet",
@@ -1922,10 +1279,6 @@
                                     "url": "https://zb10-7gsop1v78.bitchute.com/oh6QdFBWLnBu/ZALjjHA15n2P.mp4"
                                 },
                                 {
-                                    "name": "Arc",
-                                    "url": "https://ia601209.us.archive.org/31/items/006-1x-1/006_1x23.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=4485157"
                                 }
@@ -1938,10 +1291,6 @@
                                 {
                                     "name": "BC",
                                     "url": "https://seed306.bitchute.com/oh6QdFBWLnBu/X4NNQby5D31M.mp4"
-                                },
-                                {
-                                    "name": "Arc",
-                                    "url": "https://ia601209.us.archive.org/31/items/006-1x-1/006_1x24.mp4"
                                 },
                                 {
                                     "name": "Sibnet",
@@ -1958,10 +1307,6 @@
                                     "url": "https://seed171.bitchute.com/oh6QdFBWLnBu/lNjQpNd8WoW1.mp4"
                                 },
                                 {
-                                    "name": "Arc",
-                                    "url": "https://ia601209.us.archive.org/31/items/006-1x-1/006_1x25.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=4485163"
                                 }
@@ -1974,10 +1319,6 @@
                                 {
                                     "name": "BC",
                                     "url": "https://zn21g5kls-n995.bitchute.com/oh6QdFBWLnBu/Y86miuYhi0Ir.mp4"
-                                },
-                                {
-                                    "name": "Arc",
-                                    "url": "https://ia801209.us.archive.org/31/items/006-1x-1/006_1x26.mp4"
                                 },
                                 {
                                     "name": "Sibnet",
@@ -2699,10 +2040,6 @@
                             "thumbnail": "https://static-3.bitchute.com/live/cover_images/oh6QdFBWLnBu/x1cGYEsAiGqk_640x360.jpg",
                             "videoSources": [
                                 {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/40d3329ace325870f3404f4c93d9eb08bdec1dbd/249021.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880378"
                                 }
@@ -2933,10 +2270,6 @@
                             "thumbnail": "",
                             "videoSources": [
                                 {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/53d93dc014a3bb96c42f51e72328c5e2ecc0b6de/3d7540.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880350"
                                 }
@@ -2946,10 +2279,6 @@
                             "title": "Ben 10 Alien Force | 3.Sezon 2.Bölüm - Vilgax'ın İntikamı: 2.Bölüm",
                             "thumbnail": "",
                             "videoSources": [
-                                {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/3462edda6111d96b5894d343ceb0b5c41648734c/42f10c.mp4"
-                                },
                                 {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880345"
@@ -2961,10 +2290,6 @@
                             "thumbnail": "",
                             "videoSources": [
                                 {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/840cedc2ae14c25fbb5822feb0af97f00b89fea9/54da2f.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880340"
                                 }
@@ -2974,10 +2299,6 @@
                             "title": "Ben 10 Alien Force | 3.Sezon 4.Bölüm - Sahte Altın",
                             "thumbnail": "",
                             "videoSources": [
-                                {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/3177be7d7ff907d3dcd106b3a5868d4b97cac62b/621fa0.mp4"
-                                },
                                 {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880336"
@@ -2989,10 +2310,6 @@
                             "thumbnail": "",
                             "videoSources": [
                                 {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/620bfba58fd7fb959f585ab5755343ca7c6a74fe/ea2f26.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880331"
                                 }
@@ -3002,10 +2319,6 @@
                             "title": "Ben 10 Alien Force | 3.Sezon 6.Bölüm - Yakalanmaktan Korkma",
                             "thumbnail": "",
                             "videoSources": [
-                                {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/0bf107a606a728a87a94b719ecbf34a190fe5e73/1a2e2a.mp4"
-                                },
                                 {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880328"
@@ -3017,10 +2330,6 @@
                             "thumbnail": "",
                             "videoSources": [
                                 {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/96749773f2017fb33669fc648a7e29bffe3c053d/f95cb0.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880326"
                                 }
@@ -3030,10 +2339,6 @@
                             "title": "Ben 10 Alien Force | 3.Sezon 8.Bölüm - Eğer Her Şey Başarısız Olursa",
                             "thumbnail": "",
                             "videoSources": [
-                                {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/1401a9510653f1c9c45f3a43159e301a5624e588/dac83c.mp4"
-                                },
                                 {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880317"
@@ -3045,10 +2350,6 @@
                             "thumbnail": "",
                             "videoSources": [
                                 {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/41dfb530e96048c0b003b378312c135149f81a0e/c44784.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880316"
                                 }
@@ -3058,10 +2359,6 @@
                             "title": "Ben 10 Alien Force | 3.Sezon 10.Bölüm - Hayalet Kasaba",
                             "thumbnail": "",
                             "videoSources": [
-                                {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/e4b89a3c8268eee62dca19bb9ef935bb5fe2ceb7/758b19.mp4"
-                                },
                                 {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880272"
@@ -3073,10 +2370,6 @@
                             "thumbnail": "",
                             "videoSources": [
                                 {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/f1925df2377f967f284eb7ccabd6e2ae308504ea/8ea9ee.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880269"
                                 }
@@ -3086,10 +2379,6 @@
                             "title": "Ben 10 Alien Force | 3.Sezon 12.Bölüm - Meşgul Kutu",
                             "thumbnail": "",
                             "videoSources": [
-                                {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/43e07919b5c9e347d20422f3d93188559acabc84/cb8243.mp4"
-                                },
                                 {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880267"
@@ -3101,10 +2390,6 @@
                             "thumbnail": "",
                             "videoSources": [
                                 {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/9b7f80d1e68b12e1f1b60e3b8df4ef7a57034297/afcc68.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880265"
                                 }
@@ -3114,10 +2399,6 @@
                             "title": "Ben 10 Alien Force | 3.Sezon 14.Bölüm - Primus",
                             "thumbnail": "",
                             "videoSources": [
-                                {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/864afb2deaf445af23d5f3d832ecac89af15ead0/6a87a2.mp4"
-                                },
                                 {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880263"
@@ -3129,10 +2410,6 @@
                             "thumbnail": "",
                             "videoSources": [
                                 {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/96523d281d7fbe1b209a220b4e6c5ada7858efc2/98af79.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880262"
                                 }
@@ -3142,10 +2419,6 @@
                             "title": "Ben 10 Alien Force | 3.Sezon 16.Bölüm - Parlak Taş'ın Sırrı",
                             "thumbnail": "",
                             "videoSources": [
-                                {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/395d45b1b91e8cef9ab77c75934071a818e96956/a093ef.mp4"
-                                },
                                 {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880260"
@@ -3171,10 +2444,6 @@
                             "thumbnail": "",
                             "videoSources": [
                                 {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/5856a9ef7ee90ece9a8ddb2734706fe8121ebe2d/ecbab7.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880257"
                                 }
@@ -3185,10 +2454,6 @@
                             "thumbnail": "",
                             "videoSources": [
                                 {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/8026d8fd2e0651bc2468de07181c8707d611f169/dd25aa.mp4"
-                                },
-                                {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880256"
                                 }
@@ -3198,10 +2463,6 @@
                             "title": "Ben 10 Alien Force | 3.Sezon 20.Bölüm - Son Dövüş 2.Bölüm",
                             "thumbnail": "",
                             "videoSources": [
-                                {
-                                    "name": "ODYS",
-                                    "url": "https://player.odycdn.com/v6/streams/22e2e4dcdd3119fbe7013da95285208997c0af0e/c38af8.mp4"
-                                },
                                 {
                                     "name": "Sibnet",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5880255"
