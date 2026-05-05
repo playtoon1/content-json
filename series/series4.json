@@ -1,5 +1,2605 @@
 {
     "series": {
+        "seri-1": {
+            "title": "Şirinler (2021)",
+            "description": "Şirinler geri döndü! Yepyeni maceralar ve yepyeni Şirinler ile onlara eşlik edin!",
+            "cover": "https://image.tmdb.org/t/p/original/AvKwA9dI6sRjX0BI3WA4NIBX5zO.jpg",
+            "categories": [
+                "Animasyon",
+                "Komedi",
+                "Çocuk",
+                "Çizgi Dizi"
+            ],
+            "year": 2021,
+            "type": [
+                "Aksiyon & Macera",
+                "Komedi",
+                "Animasyon"
+            ],
+            "imdb": 6.8,
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/jcLs3Asku6k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBXLM6K5YVK3Qy21BkBGeyAjYkx4w",
+                            "title": "Şirinler (2021) | 1. Sezon 1. Bölüm - Burun Sorunsalı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4439477"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/TmXyiOwPqqQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCy2RyJGNJjydmPwAOLxq5G3knRWQ",
+                            "title": "Şirinler (2021) | 1. Sezon 2. Bölüm - Bez Babası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4438247"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/cP0_dD4WN4o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDD1LGPG0oyTj31Kmumc3Qvvl9UQ",
+                            "title": "Şirinler (2021) | 1. Sezon 3. Bölüm - Şirin-Fu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4438266"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/6ZsGo-qZeZk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB6B0501iDpPuRm1dBXjQHOWCnafw",
+                            "title": "Şirinler (2021) | 1. Sezon 4. Bölüm - Kim Daha Güçlü?",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4441813"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/1pmA3ErwRVo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAm6to4YhH3AI2bmcaZPc5uoDiBng",
+                            "title": "Şirinler (2021) | 1. Sezon 5. Bölüm - Şirin Baba Nerede?",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4441825"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/jsI6R-vLig4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBKlcxzdn26Ce5Ui_Vhe6Jihs88Tg",
+                            "title": "Şirinler (2021) | 1. Sezon 6. Bölüm - Kediye Dikkat",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4440862"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/KA1AzE94-vQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBEkz7bfe9WOu2u-nraGVE_dHQuMw",
+                            "title": "Şirinler (2021) | 1. Sezon 7. Bölüm - ZIIIRRRRR!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4446848"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/7PwZMtP8Ptw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCz8j7CnonujYnx9vgkTMD-EcGeuA",
+                            "title": "Şirinler (2021) | 1. Sezon 8. Bölüm - En Korkunç Şirin",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4446841"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/y9f7UiOakXY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGEogZShhMA8=&rs=AOn4CLAKdi4yUBCE_429G9zUEo326RFEXQ",
+                            "title": "Şirinler (2021) | 1. Sezon 9. Bölüm - Sakar, Sakar Değil",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4439494"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/kL2PeEhk87g/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGB8gUih_MA8=&rs=AOn4CLAPIcAgMjVkMTgePHMJXGp7bYki4Q",
+                            "title": "Şirinler (2021) | 1. Sezon 10. Bölüm - Güldü mü Gülmedi mi?",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4440855"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/C59LSIK1z3c/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGBkgQyh_MA8=&rs=AOn4CLBv5eJIOqrfHe80lcuLrs8x7RM3_w",
+                            "title": "Şirinler (2021) | 1. Sezon 11. Bölüm - Emniyet Kemerlerinizi Şirinleyin",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4449341"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/6FhLiHkp9eg/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGBMgTCh_MA8=&rs=AOn4CLCIyvs2LIef9ZFLl-vWTJU5_xuLow",
+                            "title": "Şirinler (2021) | 1. Sezon 12. Bölüm - Bazıları Sevmez",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4443497"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/qAl28YSJdFI/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGBYgQih_MA8=&rs=AOn4CLAKO9OF3qt1mEM1Ewr9smIzpbeR_A",
+                            "title": "Şirinler (2021) | 1. Sezon 13. Bölüm - Kendine Gül",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4443503"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/uRiFllA1CrU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGEkgZShMMA8=&rs=AOn4CLCBYod-5rHN4GaFM4K8tJ_Pouor9Q",
+                            "title": "Şirinler (2021) | 1. Sezon 14. Bölüm - Uzaylı Şirin",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4448181"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/EjrgncULXnc/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gVygjMA8=&rs=AOn4CLCeUO3q9qYSCVpNnNB35B8AZwUqhw",
+                            "title": "Şirinler (2021) | 1. Sezon 15. Bölüm - Kahraman Şirinim",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4448180"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/SqGBdEMaim0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgQyg_MA8=&rs=AOn4CLAxQ3ZiLGfLZWpRJtR1UMJBtDx82Q",
+                            "title": "Şirinler (2021) | 1. Sezon 16. Bölüm - Yaprağı Yalnız Bırak",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4449342"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Kgf6c2XgoL0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGBogTyh_MA8=&rs=AOn4CLAxrlOB7dE-NiiwzgeyY2MIDJc-Qw",
+                            "title": "Şirinler (2021) | 1. Sezon 17. Bölüm - Tasarım Kapışması",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4450750"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/bRdDAavZgNw/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGH8gNShOMA8=&rs=AOn4CLBS-Uy0NWEcVU0oxT3cs71mXsUh_w",
+                            "title": "Şirinler (2021) | 1. Sezon 18. Bölüm - Budala Anne Oluyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4450747"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/wIt-QW0jB70/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgRig6MA8=&rs=AOn4CLDoMpHyW6b_HXmuFyUD8Q4IE06r3g",
+                            "title": "Şirinler (2021) | 1. Sezon 19. Bölüm - Sakar Mutfakta",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4599420"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/6QxdYW_bHpE/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgSShEMA8=&rs=AOn4CLCxlONH5EcwdF3g0fwKMtcWcAysCA",
+                            "title": "Şirinler (2021) | 1. Sezon 20. Bölüm - Muhteşem Beşli",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4599421"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/YCK_yXgZmRo/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHqCYAC0AWKAgwIABABGDkgWShlMA8=&rs=AOn4CLC5LAl5BENjQYicoehBjkpa7OKpfQ",
+                            "title": "Şirinler (2021) | 1. Sezon 21. Bölüm - Aşçı Çorbası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4600363"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/kKO6okiY1sk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGBEgaChyMA8=&rs=AOn4CLCv_K5VJIrwdr41IjiNPYw6NAJolw",
+                            "title": "Şirinler (2021) | 1. Sezon 22. Bölüm - Salyangoz Yarışı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4608724"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/bJorKylDYuo/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgYig1MA8=&rs=AOn4CLC7vofPm2MA24LQaFWsopy8pxYEsw",
+                            "title": "Şirinler (2021) | 1. Sezon 23. Bölüm - Bebek Bakma Maceraları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4608725"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/x5RZ6U-jx60/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CIAC0AWKAgwIABABGHIgRigrMA8=&rs=AOn4CLCz_imUafXx0zawg2n7EiZ-iVbIWg",
+                            "title": "Şirinler (2021) | 1. Sezon 24. Bölüm - Griler! 1.Bölüm",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4451940"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/6rIkxjn0q1w/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CIAC0AWKAgwIABABGCwgcigRMA8=&rs=AOn4CLCbr2PklCCbHgy6-fxwd3pdJDpzKA",
+                            "title": "Şirinler (2021) | 1. Sezon 25. Bölüm - Griler! 2.Bölüm",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4451941"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZG247WMRBHU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgTigtMA8=&rs=AOn4CLB_kEukJkFQkfrwLSVIIDlzdL4MJQ",
+                            "title": "Şirinler (2021) | 1. Sezon 26. Bölüm - Waffle Çarşambası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4608727"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/wYYJVwGw6nk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHUBoAC4AOKAgwIABABGBMgTCh_MA8=&rs=AOn4CLB2vzwcAJLyCVELJ-LRUc4H1ZqB_g",
+                            "title": "Şirinler (2021) | 1. Sezon 27. Bölüm - Laboratuvar Yardımcısı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4821062"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/tj1-PXHfL9c/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgTCgxMA8=&rs=AOn4CLBmmDvClneRMKJH9hbBg9CFyrwNqw",
+                            "title": "Şirinler (2021) | 1. Sezon 28. Bölüm - Bebek Bakımı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4691336"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/3PMFWeo9DWE/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgUSg2MA8=&rs=AOn4CLC2zOA4u-CzuUbkvDMMaEyFxV9gCQ",
+                            "title": "Şirinler (2021) | 1. Sezon 29. Bölüm - Komik Anne",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4689563"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/j48beWLGQ14/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgTChAMA8=&rs=AOn4CLDdBREUML_ZPLCba10lwTE-HGiohw",
+                            "title": "Şirinler (2021) | 1. Sezon 30. Bölüm - Şirinlerin Sırları - Bölüm 1",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4688783"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/MVGQzPeRDPo/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGCggPCh_MA8=&rs=AOn4CLCdmQKeeP5yL9_TUfmx7Q8IFl1cYw",
+                            "title": "Şirinler (2021) | 1. Sezon 31. Bölüm - Şirinlerin Sırları - Bölüm 2",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4688784"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/sAr3sQgHvAo/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgWShIMA8=&rs=AOn4CLBbuAC6btBImUXS-Pi1sFOcHBP8xA",
+                            "title": "Şirinler (2021) | 1. Sezon 32. Bölüm - Yalan Haber",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5032471"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/06g1d2yHrzw/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgXChHMA8=&rs=AOn4CLAm00rYKUPmz5fo8yrauDe5K7B2xQ",
+                            "title": "Şirinler (2021) | 1. Sezon 33. Bölüm - Gargamel'in Partisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4695690"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/KWLQChA8eLE/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH6CYAC0AWKAgwIABABGH8gNyg_MA8=&rs=AOn4CLD8OTy36qCern1MgsbX0N37Fxa_Yg",
+                            "title": "Şirinler (2021) | 1. Sezon 34. Bölüm - Çevik Şirin Gücünü Kaybedince",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4700372"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/2kzcyKOL_GY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgSig-MA8=&rs=AOn4CLD9pOX0iX-VVaP_vH3bdKKWTKuJcw",
+                            "title": "Şirinler (2021) | 1. Sezon 35. Bölüm - Şirin Sörfü",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4821003"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/shHiHXxAiJE/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgXChBMA8=&rs=AOn4CLAiLHBD4G3O38Ua6IuPSbeYbwPRAQ",
+                            "title": "Şirinler (2021) | 1. Sezon 36. Bölüm - Hazinenin Laneti",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4695688"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/peEOyLagWms/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGBMgNih_MA8=&rs=AOn4CLA65sT1pUsIUJ4xeNhsJEUSwVkMmw",
+                            "title": "Şirinler (2021) | 1. Sezon 37. Bölüm - Somurtkan'ın Öfkesi!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4701998"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/tmIhK_15mpU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgWihWMA8=&rs=AOn4CLCmWC3aApGMJI4FGQDRU9TDnkw9vw",
+                            "title": "Şirinler (2021) | 1. Sezon 38. Bölüm - Kimim Ben?",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4704347"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/FVTT0QxRTTw/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgWChTMA8=&rs=AOn4CLA0xEhO7o6zHQiSoqqW01_JInfPOw",
+                            "title": "Şirinler (2021) | 1. Sezon 39. Bölüm - Kapak Hikayesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5032472"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/6pjCZkJkHZc/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGCsgXyhlMA8=&rs=AOn4CLAm424xI8oD7LUl7rfK-oDK_DuQTQ",
+                            "title": "Şirinler (2021) | 1. Sezon 40. Bölüm - Şövalye Şirinsalot",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4703303"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/hMpa1s9z8K8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCwGf22ocrbhb8rclqwSjjmcLdrzQ",
+                            "title": "Şirinler (2021) | 1. Sezon 41. Bölüm - As Pilot",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4821049"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/LzXMmhQZ_Fc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAAMHW3kBX30QW-eVk9CT10DDiLGw",
+                            "title": "Şirinler (2021) | 1. Sezon 42. Bölüm - Şirinler Gösterisi Bölüm 1",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4820972"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/nfh90ekUdGw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBe7-3KIai3dXQ0-IiWn4xYrkvFvQ",
+                            "title": "Şirinler (2021) | 1. Sezon 43. Bölüm - Şirinler Gösterisi Bölüm 2",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4820985"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/xoLOsbgKRoM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAsM-U_5veQuJScuqEjtZkF5BskTg",
+                            "title": "Şirinler (2021) | 1. Sezon 44. Bölüm - Maymun Gördüğünü Taklit Eder",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4821025"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/n4Z9hYxQnSg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCqD51P2EekkbwjsHu3v0ItPYrmGg",
+                            "title": "Şirinler (2021) | 1. Sezon 45. Bölüm - Hizmet Madalyası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5004177"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/yP2VHXPsTtQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAG-Vqti7hB99o-Rwy7xGSQZusgIg",
+                            "title": "Şirinler (2021) | 1. Sezon 46. Bölüm - Ayna Ayna Gardıropta",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5049135"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/L1c3r5qPO18/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB2nSRqNIQrr64z7vNTW4cbtVRwzw",
+                            "title": "Şirinler (2021) | 1. Sezon 47. Bölüm - Birbirinin Yerini Şirinlemek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5036315"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/DwUkUJViicA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCeFQJexQHQSBHmO5piaoDNLvDyAw",
+                            "title": "Şirinler (2021) | 1. Sezon 48. Bölüm - Zıplayan Kertenkele",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5041890"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Boa3rCPfG_0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLByFnyI0mUN3GT3I8T1HG4nkgqkjA",
+                            "title": "Şirinler (2021) | 1. Sezon 49. Bölüm - Şirince Anneler Günü",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5004178"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/VMMtnB0cwi0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBqgbIEZe7CVRTGNI5NlSr0YCcyMg",
+                            "title": "Şirinler (2021) | 1. Sezon 50. Bölüm - İki Şirin Baba",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5032474"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/LaxRs0H5rF8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC6JawQNu0INnrUO7l1n0_M4aB_Tw",
+                            "title": "Şirinler (2021) | 1. Sezon 51. Bölüm - İtfaiye Karmaşası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5032475"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/XrG1NlI2KyU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBxatVp6WyXUfOQ6DiIhcAg2qt84w",
+                            "title": "Şirinler (2021) | 1. Sezon 52. Bölüm - Şair Kapışması",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5036313"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 2,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/8ljVAAJcgHI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCi4VUBSG8VutYjEv7zUxEbYMSA7g",
+                            "title": "Şirinler (2021) | 2. Sezon 1. Bölüm - Şirin Arabam Nerede?",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5106339"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Tltj6Tm3T9w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDkM6gzPvWotdhuteFwOqwxJ7Qjyg",
+                            "title": "Şirinler (2021) | 2. Sezon 2. Bölüm - Aramızdaki Hırsız!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5106342"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/aAeCuoSJV7k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZVjjdYpKz7USGYErKBczPZUBVIQ",
+                            "title": "Şirinler (2021) | 2. Sezon 3. Bölüm - Görgü Meselesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5102522"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/-ZYPZ3ROmFM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBvlpxC2h0uYX2QHFrsaz7v165HMg",
+                            "title": "Şirinler (2021) | 2. Sezon 4. Bölüm - Gitmeyen Misafir",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5106344"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/radK_l96SfE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB4zD7s0i4o_pi_NhrNEiglS8utFw",
+                            "title": "Şirinler (2021) | 2. Sezon 5. Bölüm - Yetenekli Sıradan Şirin",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5106346"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/EDhm2IJqjKc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAA1xIQevqetEk_dceaRKmNHtRS7Q",
+                            "title": "Şirinler (2021) | 2. Sezon 6. Bölüm - Anne'nin Muhteşem Resmi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5106350"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/micq_Zomgzk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD56r5KlYvh2jwciqy3QEwaRQlyDw",
+                            "title": "Şirinler (2021) | 2. Sezon 7. Bölüm - Emir Anlaşıldı!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5106351"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/WM271aZiz28/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBU4g2FknNV9Aw8RL-ihvgJ0A5sgA",
+                            "title": "Şirinler (2021) | 2. Sezon 8. Bölüm - Fotoğraf Makinesine Şirinle!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5102523"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/YmHTKLfdSlA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCPnzure_MsgYwrIbWVSoHxikaPXQ",
+                            "title": "Şirinler (2021) | 2. Sezon 9. Bölüm - Devin Aşkı - 1.Bölüm",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5106360"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Uia4ItbF8Cc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTcaCqOGBwGIWAdjaqqI9VkejeNg",
+                            "title": "Şirinler (2021) | 2. Sezon 10. Bölüm - Devin Aşkı - 2.Bölüm",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5106361"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/s6QGERA2V94/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtb_ykXIPXafyeuHMDwN_HkkdZew",
+                            "title": "Şirinler (2021) | 2. Sezon 11. Bölüm - Doğaya Dönüş",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5113441"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/quG-m4esS7U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAi45T2dzcXAemlodAtVVmAHY7SEw",
+                            "title": "Şirinler (2021) | 2. Sezon 12. Bölüm - Kılık Değiştirme",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5113442"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/FInM9W_5qNo/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgXCg1MA8=&rs=AOn4CLDiEBKuy7K2xUCj-4KPQT7T-hJeLg",
+                            "title": "Şirinler (2021) | 2. Sezon 13. Bölüm - Doktor Gözlüklü ve Bay Budala",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5113444"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/xO50CKbB7pA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAzeOa7R2SCJXfekP1KbxUMxCjelQ",
+                            "title": "Şirinler (2021) | 2. Sezon 14. Bölüm - Tomurcuk Çıldırırsa!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5113445"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZTDPMaound4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDYLmGqU1-5AXybMG8JGskxKSACPw",
+                            "title": "Şirinler (2021) | 2. Sezon 15. Bölüm - Şirine Abartırsa!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5113447"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/m-S02TOnu5o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDlMXpHF4_70hSc66fs2B0NrSwsTA",
+                            "title": "Şirinler (2021) | 2. Sezon 16. Bölüm - Tamamdır!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5113448"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/5ZZOzBNwwcc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAO3UP4-Hqg7015ddU3h24jZk6gYA",
+                            "title": "Şirinler (2021) | 2. Sezon 17. Bölüm - Utangaç'a Özel Eğitim",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5113449"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/nh-lQIwPMYA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBdMtMi5O_DfTR91DCUcGHfkd51nw",
+                            "title": "Şirinler (2021) | 2. Sezon 18. Bölüm - Sufle Yolculuğu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5113450"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/j9VGgQc7o4o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA4Jj6eomSf2qVw3b1rWb-8WafaeQ",
+                            "title": "Şirinler (2021) | 2. Sezon 19. Bölüm - Şirinsi Sihir Düellosu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5113453"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/KSIxM_oY0VQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7xvUGOj_Xa-EIdZ0t6Hc3owKCSA",
+                            "title": "Şirinler (2021) | 2. Sezon 20. Bölüm - Kaçış Yok!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5113454"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/QPjyRfb68yU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDKicKEHmnjMV0kQnY4kYZwC9HG0A",
+                            "title": "Şirinler (2021) | 2. Sezon 21. Bölüm - Şirin Baba Yuvadan Ayrılıyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5118099"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/gnwqN3doqy8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAcd0iVJ7OHgZueiEkKTcnyyIqryg",
+                            "title": "Şirinler (2021) | 2. Sezon 22. Bölüm - Çalınan Portre",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5118101"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/DrIo4yWBmwY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDnS0r-29oB88yXs_qVv30YzeZUzg",
+                            "title": "Şirinler (2021) | 2. Sezon 23. Bölüm - Kayıp Kedi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5120666"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/9qcmt8P3L4U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCSUQQyyI86s0XBbYbcd_s6CqPgrw",
+                            "title": "Şirinler (2021) | 2. Sezon 24. Bölüm - Bebek Sensei",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5118701"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ADu32G8XksY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADGxX-9UwE5Sckbu91Vee97E3EmQ",
+                            "title": "Şirinler (2021) | 2. Sezon 25. Bölüm - Sihirli Balkabağı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5120671"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Z5gDSlZZAj8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLACGQ2RD2dubc9THIz6_92aFDP9SQ",
+                            "title": "Şirinler (2021) | 2. Sezon 26. Bölüm - Yıldız Şirin",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5118104"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/W6komruym_M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNljyi50kqFhTpqq1I3FLMqkfekA",
+                            "title": "Şirinler (2021) | 2. Sezon 27. Bölüm - Gözlüklü Hayaletlendi!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5394508"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ql6b2oudTew/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDIms5zCmhDJT7A6TYaBB5lvjOO4Q",
+                            "title": "Şirinler (2021) | 2. Sezon 28. Bölüm - Salyangozlara Fısıldayan Adam",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5398467"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/sNeRvPgHvJM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC63sRAKLq494q2hM-YPCimZagGLw",
+                            "title": "Şirinler (2021) | 2. Sezon 29. Bölüm - Asla Uyuyan Bir Büyücüyü Uyandırma!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5398470"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Tltj6Tm3T9w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDkM6gzPvWotdhuteFwOqwxJ7Qjyg",
+                            "title": "Şirinler (2021) | 2. Sezon 30. Bölüm - Şirin Yarışları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5398473"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/bw8o5prxRYI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDJHq3BFROVry4sxh6ok6TkACPzAg",
+                            "title": "Şirinler (2021) | 2. Sezon 31. Bölüm - Waffle",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5398479"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/n4Z9hYxQnSg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCqD51P2EekkbwjsHu3v0ItPYrmGg",
+                            "title": "Şirinler (2021) | 2. Sezon 32. Bölüm - Geleceğe Şirinlemek! 1.Bölüm",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5407194"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/nfh90ekUdGw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBe7-3KIai3dXQ0-IiWn4xYrkvFvQ",
+                            "title": "Şirinler (2021) | 2. Sezon 33. Bölüm - Geleceğe Şirinlemek! 2.Blüm",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5407197"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/2hvrHQFN-z0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA2EKHFYaSKeKtf-Pj_ImftCBiwlg",
+                            "title": "Şirinler (2021) | 2. Sezon 34. Bölüm - Grupta Kimler Var?",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5398484"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/xoLOsbgKRoM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAsM-U_5veQuJScuqEjtZkF5BskTg",
+                            "title": "Şirinler (2021) | 2. Sezon 35. Bölüm - Gargamel Aşık Olusra",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5394510"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/GNBmuzXjHaM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAFqv3AXwnJ_q_8l1nNUlDvctYDFw",
+                            "title": "Şirinler (2021) | 2. Sezon 36. Bölüm - Sarılma Oyuncağı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5407263"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/yP2VHXPsTtQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAG-Vqti7hB99o-Rwy7xGSQZusgIg",
+                            "title": "Şirinler (2021) | 2. Sezon 37. Bölüm - Rahat Şirin",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5407278"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/LZZcIW8V3Ow/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCf9IUeA2tODcC8yMbEWxOqwmLaDw",
+                            "title": "Şirinler (2021) | 2. Sezon 38. Bölüm - Bahse Var mısın?",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5416309"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/J60GMUcqgzM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA1315RwqNnaWXU3a5ILHbee0L3WQ",
+                            "title": "Şirinler (2021) | 2. Sezon 39. Bölüm - Vahşi Evcilleştirilirse",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5407294"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/wlmg48bReOQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDnamr_6fNj6uyVBdvcStcEmCscCQ",
+                            "title": "Şirinler (2021) | 2. Sezon 40. Bölüm - Hayalci: Aşk Ustası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5584044"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/nh_LHW_FES4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAzc4PpyXWCJ3iHiTtjgfH5X0_Wlw",
+                            "title": "Şirinler (2021) | 2. Sezon 41. Bölüm - Sarsaparillo Yarışı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5407307"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/hMpa1s9z8K8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCwGf22ocrbhb8rclqwSjjmcLdrzQ",
+                            "title": "Şirinler (2021) | 2. Sezon 42. Bölüm - Ben Sirke Kadar Gidiyorum",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5584075"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ouAyKUZyLnA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNgoq5WhcLnfaNBsuYWWJG4RNO3g",
+                            "title": "Şirinler (2021) | 2. Sezon 43. Bölüm - Yumyum Pastası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5407330"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/fQ9Lt4QGz7o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAkIFMsqzofUkHnZQ6DBEBQbzvHFg",
+                            "title": "Şirinler (2021) | 2. Sezon 44. Bölüm - Şirinler Uçabilir",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5398487"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/yPS_3Fx8ylI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCtELc-mEvSpZDH4rgkhWA2N45jvw",
+                            "title": "Şirinler (2021) | 2. Sezon 45. Bölüm - Şirinler Yanıyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5407350"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/0sBqyJXJ4aY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAsodS7W9k_xI72yJMPYjayrln7Og",
+                            "title": "Şirinler (2021) | 2. Sezon 46. Bölüm - Şaka Yapma Günü",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5398713"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/mxMEdEkTUE8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA5mvUuf72CT84moo-mFS6U43XSfw",
+                            "title": "Şirinler (2021) | 2. Sezon 47. Bölüm - Şirin Anahtarı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5398716"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/xJoQySaI1mk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDJMcdAhYDRqhGWv6w3Qz2-pHxqMQ",
+                            "title": "Şirinler (2021) | 2. Sezon 48. Bölüm - Rüzgar Altındaki Peri",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5394511"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/P3VTKQHdJh8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAOkHYn8SJ39rhAA3xq3l9PtYzj4g",
+                            "title": "Şirinler (2021) | 2. Sezon 49. Bölüm - Şirince Olmayan Bir Arkadaşlık",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5420491"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/j_GMJwk3ICk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA5u2F_Yon3JbKy3duqAjvqQK5Y0Q",
+                            "title": "Şirinler (2021) | 2. Sezon 50. Bölüm - Şirince Bir Yılbaşı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5783947"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/SeXVRUnkUFc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD-rfrQMpDSrqTgKyQVasl9rlxOhg",
+                            "title": "Şirinler (2021) | 2. Sezon 51. Bölüm - Ev Ziyareti",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5394513"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/d3EnxqHFFB0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD6LVqvswYpbTx2CZUdyjm3PwvUaw",
+                            "title": "Şirinler (2021) | 2. Sezon 52. Bölüm - Balonun Kraliçesi Gargamel",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5416310"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 3,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/0O1nR8_e5SQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLPfNWg7fFT6czZeAmkBdoar99nw",
+                            "title": "Şirinler (2021) | 3. Sezon 1. Bölüm - Aile Vakti",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5839046"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/VTHM9sWns_0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdTrB_vcMrY4G6oT_nrWx5NE2-PA",
+                            "title": "Şirinler (2021) | 3. Sezon 2. Bölüm - Şirin Makineye Karşı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5839042"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/8jdzYbmNN58/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLASCKodR4GR7tRu0CWlrMgkUe9v6Q",
+                            "title": "Şirinler (2021) | 3. Sezon 3. Bölüm - Gargamel'i Kaçırmak",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5858897"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZW-ZpFXB8wE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDAbDWzsAFExdsVCGtmKV3alUdF5w",
+                            "title": "Şirinler (2021) | 3. Sezon 4. Bölüm - Güçlü Bebek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5839036"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/AQH6GVz2Zq8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCssTOI12SpeyasKxTgUALCoRXaAQ",
+                            "title": "Şirinler (2021) | 3. Sezon 5. Bölüm - Evcil Hayvan Ejderha",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5839034"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/t3BzgzyKmLE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAcuwT05t03nxp2_uTi2yfu5q0KOQ",
+                            "title": "Şirinler (2021) | 3. Sezon 6. Bölüm - En Büyük Şaka",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5839033"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/DhuZ3YuJuCQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCMW7oX0DTY5o8V4f7SfyRAsc-DRw",
+                            "title": "Şirinler (2021) | 3. Sezon 7. Bölüm - Rowena'nın Bitkisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5839029"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/PefQzqOQnB0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD6YPIIlwal0W2mm_2rNpmZj7MeZA",
+                            "title": "Şirinler (2021) | 3. Sezon 8. Bölüm - Ne Bebek Ama",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5839025"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/52iAwm5Yoe0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDzuxTK7--Jrw4k78Gbq8WC5xduvQ",
+                            "title": "Şirinler (2021) | 3. Sezon 9. Bölüm - Büyük Şirin Oyunları 1. Kısım",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5845542"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/-_nQzlhDh9M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAtGkslHY-XhghHtD6OCLznWpQtfQ",
+                            "title": "Şirinler (2021) | 3. Sezon 10. Bölüm - Büyük Şirin Oyunları 2. Kısım",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5845536"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/oPnyHinUdfg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAjHpdJc52Lp0r9urWmFs93o58kag",
+                            "title": "Şirinler (2021) | 3. Sezon 11. Bölüm - Bir Ejder İstiyorum",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5839022"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/aPT0TcG4NeI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzRnvt0iZYTh6QxWjffKioQ5YCzA",
+                            "title": "Şirinler (2021) | 3. Sezon 12. Bölüm - Sihir Bozulması",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5839021"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/4Q-xyhFWc_E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCYkZIs3limG8KBrnTRjBpBBIJpuQ",
+                            "title": "Şirinler (2021) | 3. Sezon 13. Bölüm - En Büyük Düşmanı Kendisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5845528"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/3Va-hqkQt1c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDCsgWhNRfAsz7a3zeX6rgvv5k8BA",
+                            "title": "Şirinler (2021) | 3. Sezon 14. Bölüm - Bilgi Ağacı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5845524"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/xRAbZ8QJmCM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDtmWegPzA35XKKKVBSWEXyZwi8yA",
+                            "title": "Şirinler (2021) | 3. Sezon 15. Bölüm - Yıldızlara Ulaşmak",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5845518"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/kOF_SZdZZz8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDF-aRxkcWG2DE7HbZiZB_lsiRVuw",
+                            "title": "Şirinler (2021) | 3. Sezon 16. Bölüm - Rüya Takımı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5845514"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/FtLFMjJQHgQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBKWYpw3G53AAJoXlxyadCs3XrJog",
+                            "title": "Şirinler (2021) | 3. Sezon 17. Bölüm - Köydeki Canavar",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5975039"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/AKAaB8ObUMI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDBVxDc_Y5U_vLGic2QXssXD-4uqA",
+                            "title": "Şirinler (2021) | 3. Sezon 18. Bölüm - Gezi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5968882"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/HdJ-7Q79480/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDiweQkO6MH8Ek4cfoCaG-0Yr46aQ",
+                            "title": "Şirinler (2021) | 3. Sezon 19. Bölüm - Büyükanne'nin Oyuncağı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5975036"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/jox5fDLgge4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLApChjcELOA1G_6BrrUN0ll__SPmw",
+                            "title": "Şirinler (2021) | 3. Sezon 20. Bölüm - Bir Şaheser Şirinlemek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5968201"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Pa2V56tRVBc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBxGOjXCpfROM8xICFhAchi43MHgQ",
+                            "title": "Şirinler (2021) | 3. Sezon 21. Bölüm - Bebek Bakıcılığı Savaşı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5975033"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/NVTlTzOctYI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDCVOvQuAhkKCXJiAJqTXhurQkb8Q",
+                            "title": "Şirinler (2021) | 3. Sezon 22. Bölüm - Ayı Ne Anlatıyor?",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5975031"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/hx3K_y3gORY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_yeGQsKDfKdPyBz8bYbmLzLbkug",
+                            "title": "Şirinler (2021) | 3. Sezon 23. Bölüm - Hadi Mars'a Şirinleyelim",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5975027"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/sXx23_lCmUc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDtByoeCkRq2ZH1WqqVZZHR-spgVw",
+                            "title": "Şirinler (2021) | 3. Sezon 24. Bölüm - Paralel Evrenler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5975024"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/oixc-BdM2Pw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBuNntP14IiITRkO65qtN2PdNLwXw",
+                            "title": "Şirinler (2021) | 3. Sezon 25. Bölüm - Sallanan Diş",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5968880"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/MceXbHKZOjk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_5HVjQBkp7AfikUqHUIUT6q7dtQ",
+                            "title": "Şirinler (2021) | 3. Sezon 26. Bölüm - Kayan Şirinler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5975022"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/7OGNgVzXDsw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDQSzqHHYG9Q-ZW-kl00XOIvAklNw",
+                            "title": "Şirinler (2021) | 3. Sezon 27. Bölüm - En Karanlık Gece",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5975020"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/1u-cxa8UGxg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDlIoOUgtdGdAEku4GNpIKvx81Qsg",
+                            "title": "Şirinler (2021) | 3. Sezon 28. Bölüm - On Üçüncü Tatlı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5975018"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/KYmOYaUiQIw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAbpQiN5UFkR9vAzlYEVMVB6nEtVQ",
+                            "title": "Şirinler (2021) | 3. Sezon 29. Bölüm - En Güzel Çakıl Taşı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5975015"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/LaxRs0H5rF8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC6JawQNu0INnrUO7l1n0_M4aB_Tw",
+                            "title": "Şirinler (2021) | 3. Sezon 30. Bölüm - Waffle Hırsızı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5975011"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/XrG1NlI2KyU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBxatVp6WyXUfOQ6DiIhcAg2qt84w",
+                            "title": "Şirinler (2021) | 3. Sezon 31. Bölüm - Muhteşem Kedi Maması",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5975009"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/8ljVAAJcgHI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCi4VUBSG8VutYjEv7zUxEbYMSA7g",
+                            "title": "Şirinler (2021) | 3. Sezon 32. Bölüm - Yürüyen İtfaiye",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5975005"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Pfs4RsvKP6o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC3StP2Fwx9fX6u93fvFdcEGGHtSQ",
+                            "title": "Şirinler (2021) | 3. Sezon 33. Bölüm - Davulcu Kız",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5975000"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/r_GLWO_zvgQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBRqV7G4RylDLdaqb4LU3AlhlS7xg",
+                            "title": "Şirinler (2021) | 3. Sezon 34. Bölüm - Gargamel'in Köpeği",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5975158"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/MJZuGOVCgvo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_IdIXqJz99DT0HDIj9qfQQLx8lA",
+                            "title": "Şirinler (2021) | 3. Sezon 35. Bölüm - Dwayne'nin Yeni Oyuncağı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5974997"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/YltVCVwi92I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCIWUGvMWdWNP020aWWX4maYrx-SQ",
+                            "title": "Şirinler (2021) | 3. Sezon 36. Bölüm - Disko Şirin",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5974993"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Boa3rCPfG_0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLByFnyI0mUN3GT3I8T1HG4nkgqkjA",
+                            "title": "Şirinler (2021) | 3. Sezon 37. Bölüm - Büyük Bebek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170065"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/qf5KSGlaM3Y/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAFPWpbBOAWJP_4tR2j10DjAutuig",
+                            "title": "Şirinler (2021) | 3. Sezon 38. Bölüm - Hiç Ses Şirinleme",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170061"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/KtN_hpZMCJo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC8Ge67rozftuCW9JQ7lUkDtWawAw",
+                            "title": "Şirinler (2021) | 3. Sezon 39. Bölüm - Ayda Şirinledik Birinci Bölüm",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170059"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/QCfwQ1Jko7Y/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrqJAaZ2FitqJ1Ajl4DOm4JLYQ1A",
+                            "title": "Şirinler (2021) | 3. Sezon 40. Bölüm - Ayda Şirinledik İkinci Bölüm",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170054"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/avtPWcOik_4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAjmIN6yfk5uqLS_fuJQhZZo2b2UA",
+                            "title": "Şirinler (2021) | 3. Sezon 41. Bölüm - Örümcek Şirin",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170050"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/kDaguv2m3Po/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC-OPXwNegeqi2a9VIGsLvqD6VJNQ",
+                            "title": "Şirinler (2021) | 3. Sezon 42. Bölüm - Hırsız İçin H Harfi Şirinle",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170046"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/oTD8NAZfkQk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-DoACuAiKAgwIABABGH8gOSgzMA8=&rs=AOn4CLAJDnvlyMzegVLADZRezjTmSJMWRA",
+                            "title": "Şirinler (2021) | 3. Sezon 43. Bölüm - Şirin Bebek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170043"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/FLRrpHznsrU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYACzgWKAgwIABABGD4gZChlMA8=&rs=AOn4CLDM24ZwpenvbGHKfuq-Uoyx_LNXXg",
+                            "title": "Şirinler (2021) | 3. Sezon 44. Bölüm - Çiftçi'nin Yeni Evcil Hayvanı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170041"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/X45vOF1mEuY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAzKz6WjX92LR1WvSyfZydM-HnRdA",
+                            "title": "Şirinler (2021) | 3. Sezon 45. Bölüm - Korkunç Hikâyeler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6179432"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/EU2Hoilhru0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDR1ktqLYsHvyZaIptc6tpULSQutQ",
+                            "title": "Şirinler (2021) | 3. Sezon 46. Bölüm - Gölgesini Kaybeden Şirin",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6179422"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/tQQtmHveLek/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDefdwh3rv0ajyT2zP71fLePpx1vA",
+                            "title": "Şirinler (2021) | 3. Sezon 47. Bölüm - Çevik Şirin ve Kayıp Tılsım İlk Kısım",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170037"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Qpl9MPKt0Ok/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4NqecQSGTdbnUCKXcAJuIVwIZYA",
+                            "title": "Şirinler (2021) | 3. Sezon 48. Bölüm - Çevik Şirin ve Kayıp Tılsım İkinci Kısım",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6170035"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/bkqX0SWmZ98/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTduGpAVUiL6mKbRGv5jmhJ1ICUw",
+                            "title": "Şirinler (2021) | 3. Sezon 49. Bölüm - Lucretia Gücü Ele Geçiriyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6179417"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/lotISeboYlQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDxADqQcy4LVOeMooTwMGqOtz1cbA",
+                            "title": "Şirinler (2021) | 3. Sezon 50. Bölüm - Şirin Baba Aklını Kaybediyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6179411"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Otwh_bWB3y0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDyuoGWPAvxNwHF-QMnDtYXLmFLPg",
+                            "title": "Şirinler (2021) | 3. Sezon 51. Bölüm - Şirin Baba'nın Doğum Günü Hediyesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6179403"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/qzvDcnnnKyA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5rtDFo5FGxODZxnh8WWCZQvogBw",
+                            "title": "Şirinler (2021) | 3. Sezon 52. Bölüm - Arkadaşım Ol",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6179401"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "seri-2": {
+            "title": "Lyoko Kodu",
+            "description": "Dört yatılı okul öğrencisinden oluşan bir grup, terk edilmiş bir fabrikanın içine yerleştirilmiş bir süper bilgisayar keşfettiklerinde, Lyoko adında bir sanal dünya bulurlar ve gerçek dünyayı ele geçirmeye çalışan duyarlı, çok ajanlı bir sistem virüsünü uyandırırlar.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BOTYyZjFhNmYtMDcwMS00MjcwLTk5MGUtZGYzNTY3ZTAyZDAxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "categories": [
+                "Animasyon",
+                "Aksiyon",
+                "Macera",
+                "Bilim Kurgu"
+            ],
+            "year": 2003,
+            "type": [
+                "Aksiyon & Macera",
+                "Animasyon",
+                "Çizgi Dizi"
+            ],
+            "imdb": 7.3,
+            "seasons": [
+                {
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/msuusqraTIY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD9KuoZzNXMQn29FnAl29oVC1QBww",
+                            "title": "Lyoko Kodu | 1. Sezon 1. Bölüm - Teddygodzilla",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435739"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Q1SQkHN9UG0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJ3ZVZS1DTfzmIyZ3C2EcFRmupcQ",
+                            "title": "Lyoko Kodu | 1. Sezon 2. Bölüm - Görmek İnanmaktır",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435740"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/fPqnEzgVesE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLASH8IalsiNrhYhUj1QekrWdKkxFQ",
+                            "title": "Lyoko Kodu | 1. Sezon 3. Bölüm - Sis İçindeki Tatil",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435743"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/G6--x6NmXlo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADkwM6oshorIiWGMURr_K_c7jjAA",
+                            "title": "Lyoko Kodu | 1. Sezon 4. Bölüm - Seyir Defteri",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435745"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/NxbM3bi1wQI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_2P8WkwBJR8l8d4mYkQvMZ8qf2Q",
+                            "title": "Lyoko Kodu | 1. Sezon 5. Bölüm - Büyük Böcek",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435746"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/i9sgQ9K9vcM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAQs5rPbyyFM42BM94YRpBNV-NLag",
+                            "title": "Lyoko Kodu | 1. Sezon 6. Bölüm - Zalim İkilem",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435747"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/k742L4uNh8Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAnHEByZpM4BbShTnZ3MFm_Jz5DNA",
+                            "title": "Lyoko Kodu | 1. Sezon 7. Bölüm - İmaj Problemi",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4438788"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/SlasGDx3Pto/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDyo9VlGnKgzYKxfmEWv9JlA07zRw",
+                            "title": "Lyoko Kodu | 1. Sezon 8. Bölüm - Sahnenin Sonu",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435748"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Ay8zYy_WaAM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC2P9WViRUzEUm0xiSwsKMel3M0kw",
+                            "title": "Lyoko Kodu | 1. Sezon 9. Bölüm - Uydu",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435749"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/J9ZT9oymORY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAOFpaAgKkHOPazVIt1KqSGLCqRGQ",
+                            "title": "Lyoko Kodu | 1. Sezon 10. Bölüm - Hayallerimin Kızı",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435750"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Z-ggLaOLfoQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDrC2f4yS45XLgO02Uk10NY3RLtqQ",
+                            "title": "Lyoko Kodu | 1. Sezon 11. Bölüm - Hastalıklı",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435752"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/dT5Fqy9h-7U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCBp4q-zzuBoBhPZWN2EeFVSTKsoQ",
+                            "title": "Lyoko Kodu | 1. Sezon 12. Bölüm - Böceklerin Saldırısı",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435753"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/cf2-LH5pnlM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGFsgZSg-MA8=&rs=AOn4CLDE0XO71Rt9to9Qzm9snmfYHbUiwg",
+                            "title": "Lyoko Kodu | 1. Sezon 13. Bölüm - Tam Zamanında",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435754"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/cEoA4xnyY8k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA75b-tz-65LpMaojeKY9gS_Hx85g",
+                            "title": "Lyoko Kodu | 1. Sezon 14. Bölüm - Tuzak",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435755"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/PRg_Wv9kVtI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC11u1y_Xr4y7u6B77iBNKKqiDLlA",
+                            "title": "Lyoko Kodu | 1. Sezon 15. Bölüm - Uygun Gülüş",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435756"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/FMOhD7NpOZM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAAs4Sj78z6PEXsqTy7LaTT65iYMg",
+                            "title": "Lyoko Kodu | 1. Sezon 16. Bölüm - Klaus Fobisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435757"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ogjMADsQJjM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAfSJf51MbcnW6RMJhuyGjCcDpiLQ",
+                            "title": "Lyoko Kodu | 1. Sezon 17. Bölüm - Hafıza Kaybı",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435758"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/mJfxlf62ZeM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAfbH2oaieVq30IjzYxYkCT7fIUSQ",
+                            "title": "Lyoko Kodu | 1. Sezon 18. Bölüm - Katil Müzik",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435759"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/fRYlXAu_I9o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBjxg6QfyB0OpbRLmtQnJ_EcFjaRA",
+                            "title": "Lyoko Kodu | 1. Sezon 19. Bölüm - Öncü",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435761"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/8qkp-YH2JEw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAMfp7tj2WLdm6A6TJYB4ThBvNolw",
+                            "title": "Lyoko Kodu | 1. Sezon 20. Bölüm - Robotlar",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435762"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/n5MHN1AMcgU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDsmadBLJpq5apoCW437eyLXqPJpA",
+                            "title": "Lyoko Kodu | 1. Sezon 21. Bölüm - Sıfır Yerçekimi Kuşağı",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435763"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/0Q4wLr4FldY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAlYmSWLHsjwhn_rWVa6q3w93lcIA",
+                            "title": "Lyoko Kodu | 1. Sezon 22. Bölüm - Rutin",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435764"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/U-4dg68mtLk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCrxjMtz37i6dss85h05XRH8Aluug",
+                            "title": "Lyoko Kodu | 1. Sezon 23. Bölüm - Kritik Durum",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435765"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/XIxaN9BuMLU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBmGMSY5roIOKgEgABRJpf7FsBV0A",
+                            "title": "Lyoko Kodu | 1. Sezon 24. Bölüm - Hayalet Kanal",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435766"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/qgxPbqDskyw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBvW4cA9cBgBUwlR9KEfB89YY00mw",
+                            "title": "Lyoko Kodu | 1. Sezon 25. Bölüm - Şifre: Dünya",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435768"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/5bIpKBTkTqk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCnc4obf9nA_5DKoRE551bzNm7qnw",
+                            "title": "Lyoko Kodu | 1. Sezon 26. Bölüm - Yanlış Başlangıç",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435770"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 1
+                },
+                {
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/pF1NtY1OfUE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBFHWUz0eSRIhL7vjqE_zzOTY-DLA",
+                            "title": "Lyoko Kodu | 2. Sezon 1. Bölüm - Yeni Düzen",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435771"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/BTjPZdXleg4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBVLlgCqzPPrhFBFVuNVvXb61uOrQ",
+                            "title": "Lyoko Kodu | 2. Sezon 2. Bölüm - Keşfedilmemiş Topraklar",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435772"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/m7dCvrUX5JU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA94OLKUVvT5USjLDqVAXRD7ORSxQ",
+                            "title": "Lyoko Kodu | 2. Sezon 3. Bölüm - Keşif",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435773"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/6jcGm4SyoFg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD2MPBS53XH3Zt65S--gjalPFfZTg",
+                            "title": "Lyoko Kodu | 2. Sezon 4. Bölüm - Büyük Bir Gün",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435774"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Swp7IxtoaSw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCuVnQhk3rdK6zF8GOxWtpwj1Kw1Q",
+                            "title": "Lyoko Kodu | 2. Sezon 5. Bölüm - Bay Puck",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435775"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Wa-06L56vRo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCs4fg5iQ48_9GHbKsSWG9192G0Jg",
+                            "title": "Lyoko Kodu | 2. Sezon 6. Bölüm - Aziz Sevgililer Günü",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435776"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/JRfeeOC9-9Y/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDJFA7FjEcgykTw9YFne3XB_awPBQ",
+                            "title": "Lyoko Kodu | 2. Sezon 7. Bölüm - Nihai Karışım",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435777"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/GMDZ8O97Cs0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCEtcaus9v3yjQgA7H63OzhKdXgMg",
+                            "title": "Lyoko Kodu | 2. Sezon 8. Bölüm - Kayıp Halka",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435778"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/YlsAg1n4qA0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD1WU58qvH7semoTrkHWSpoG7T4ew",
+                            "title": "Lyoko Kodu | 2. Sezon 9. Bölüm - Chip Ailesi Dağılıyor",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435780"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/W1MJvQmBa0k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAL1ncgazm6RlRL_nQ8rOa1jByvFg",
+                            "title": "Lyoko Kodu | 2. Sezon 10. Bölüm - Marabounta",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435781"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/lnduI3AYPPQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5TSWkV8CKErxR7mBN-h5KnylMFg",
+                            "title": "Lyoko Kodu | 2. Sezon 11. Bölüm - Ortak İlgi Alanı",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435782"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/X16uCDf5OHY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGHIgPShDMA8=&rs=AOn4CLATv-x_GW7STUnnCIMN-zlh4XZ3Aw",
+                            "title": "Lyoko Kodu | 2. Sezon 12. Bölüm - Baştan Çıkartma",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435783"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Cqtb4BPFZvU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAV_yjmMY7hvxXFBzhz5QnjnlOm5w",
+                            "title": "Lyoko Kodu | 2. Sezon 13. Bölüm - Kötü Bir Dönüş",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435784"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/OH5A5OQwc5U/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGHIgSSgrMA8=&rs=AOn4CLAZz2BswsgLY7REpjiv-AQ-n7jtRg",
+                            "title": "Lyoko Kodu | 2. Sezon 14. Bölüm - Zombilerin Saldırısı",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435785"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Uih1aoS7l9w/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGFAgZShbMA8=&rs=AOn4CLA4vL3Q9Y7bweVO17o-qkqEcCfSMQ",
+                            "title": "Lyoko Kodu | 2. Sezon 15. Bölüm - Ültimatom",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435786"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/msq8shZ_xHc/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGCEgQih_MA8=&rs=AOn4CLDI_xLEXlF1w0DhhBk6E2vCIApCHw",
+                            "title": "Lyoko Kodu | 2. Sezon 16. Bölüm - İyi Bir Kargaşa",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435788"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/vN94DjVld6s/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGHIgRygpMA8=&rs=AOn4CLBvoZQaW2ebSGUcM6Yd7l2-poGyxw",
+                            "title": "Lyoko Kodu | 2. Sezon 17. Bölüm - Xana'nın Öpücüğü",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435789"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/TfyhztWPDkg/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGGUgYChAMA8=&rs=AOn4CLCY0LORqAi9FgQaAJeXzYbATsoaeQ",
+                            "title": "Lyoko Kodu | 2. Sezon 18. Bölüm - Baş Dönmesi",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435790"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/cB-IR8niuGk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGFQgYChlMA8=&rs=AOn4CLD4R5PzjWyCpve3vTnvVqs7w6YO3A",
+                            "title": "Lyoko Kodu | 2. Sezon 19. Bölüm - Soğuk Savaş",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435791"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/GaZeRSqWJg0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGC0gZShAMA8=&rs=AOn4CLCeeA6xrjMA0zBjB9mcoCFwJLI7lQ",
+                            "title": "Lyoko Kodu | 2. Sezon 20. Bölüm - Deja Vu",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435792"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZqYUXmPouwI/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGGUgTyhAMA8=&rs=AOn4CLAAvJBE0yQrSZX0Libk4oJjrRbavg",
+                            "title": "Lyoko Kodu | 2. Sezon 21. Bölüm - En İyi Halde",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5218862"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/70USHfIlWes/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGCAgPCh_MA8=&rs=AOn4CLAmNzeFXVklxZulPI-g_ZlmZLPXEA",
+                            "title": "Lyoko Kodu | 2. Sezon 22. Bölüm - Orada Kimse Var Mı?",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435793"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/K3JdtIoqw30/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGDIgQih_MA8=&rs=AOn4CLDy30LBdNmF-wkzc_luK-duY673Vg",
+                            "title": "Lyoko Kodu | 2. Sezon 23. Bölüm - Franz Hopper",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435795"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/D3CKuJPZuz0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC4AOKAgwIABABGE4gZSg0MA8=&rs=AOn4CLDu1L72QACfDWyy1BkSxbrpkaiymw",
+                            "title": "Lyoko Kodu | 2. Sezon 24. Bölüm - Temas",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435797"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/OIjCOWvuuAo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCZrlBJeSDJOxyx6uxFdlA08ijJmw",
+                            "title": "Lyoko Kodu | 2. Sezon 25. Bölüm - Açıklama",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435799"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/9gzjWYAANkI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCLFZexHY5UogrBap4k_gi_oyNxBw",
+                            "title": "Lyoko Kodu | 2. Sezon 26. Bölüm - Anahtar",
+                            "videoSources": [
+                                {
+                                    "name": "SBtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5218892"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 2
+                },
+                {
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/1iMeVuO6hK0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDgsZi0jOz_nfFhdkLR6F5t67QqgA",
+                            "title": "Lyoko Kodu | 3. Sezon 1. Bölüm - Doğrudan Kalbe",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435802"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/SBZ1m6qwopc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLACpQscOfhW0YDhparmdr_0h7GD3A",
+                            "title": "Lyoko Kodu | 3. Sezon 2. Bölüm - Lyoko Eksi Bir",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435803"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/RoBRQgQ9gF4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCNgd0rGCfTWj_uTWiTDf8IgKJp1A",
+                            "title": "Lyoko Kodu | 3. Sezon 3. Bölüm - Gel-Git Dalgası",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5219895"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/M0hFbhTkYf0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCrtUSl4AIa3rMv8JOKTc6gWcQF6A",
+                            "title": "Lyoko Kodu | 3. Sezon 4. Bölüm - Yanlış Yönlendirme",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435804"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/o97Cw1K1OPs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDFibMT4Si20JSKuY90vIYRu9NWfg",
+                            "title": "Lyoko Kodu | 3. Sezon 6. Bölüm - Sahtekar",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5219906"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/mLBOaM755QE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAIBDy7hvObyYxCbTpqtgSxM-rlKA",
+                            "title": "Lyoko Kodu | 3. Sezon 7. Bölüm - Sır",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435805"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/SwcUvU6SRPk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCdZQ4qH1RVDlfVqQj5QGf2ua8FmQ",
+                            "title": "Lyoko Kodu | 3. Sezon 8. Bölüm - Geçici Delilik",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435806"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/MdnKVPTlSFs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDYkA_54HhvLWjhpmkFdAlwEerAsw",
+                            "title": "Lyoko Kodu | 3. Sezon 9. Bölüm - Sabotaj",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435807"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/HCHkwty2_7o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDs-3VGehY2V1_Tn4Bot6k39xlQYg",
+                            "title": "Lyoko Kodu | 3. Sezon 10. Bölüm - Özellikle Birine Değil",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435808"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/AFAqLs5CdgQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAQ_kFxlk7MB4lxCVcm1TRXzm83MQ",
+                            "title": "Lyoko Kodu | 3. Sezon 11. Bölüm - Üçlü Bela",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435811"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Cce8vi46ecQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDvQoh1_GM1epnjyIRcJb9gZMEnow",
+                            "title": "Lyoko Kodu | 3. Sezon 12. Bölüm - Çifte Bela",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435812"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/DRW11w7tZgE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAPRF3rGGYVKcO3nPML7IA3lxO6sQ",
+                            "title": "Lyoko Kodu | 3. Sezon 13. Bölüm - Son Raunt",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5221149"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 3
+                },
+                {
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/PnlrGTFfOSY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGGUgWihIMA8=&rs=AOn4CLCu3wcU-fxo6kWAB4QFp7ud0vGurw",
+                            "title": "Lyoko Kodu | 4. Sezon 1. Bölüm - William Dönüyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435813"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/e9lRMc_ZAPw/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGGUgTihEMA8=&rs=AOn4CLAYLCjIxQeF8fMXMMteeHljRkOSfA",
+                            "title": "Lyoko Kodu | 4. Sezon 2. Bölüm - İkili Sahne",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435814"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/WrT_X-tQTbo/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGHIgWCgrMA8=&rs=AOn4CLBbQzPAKdMh_8aKJwAOAlZMMNHPtw",
+                            "title": "Lyoko Kodu | 4. Sezon 3. Bölüm - Açılış Aksiyonu",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435815"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/AZpmZhFOVsM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAYtwmakMoEN1TJI6BTDVgYvs0-nA",
+                            "title": "Lyoko Kodu | 4. Sezon 4. Bölüm - Dağınık Oda",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435816"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/3FkGt5YcskM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDh7VltR3Jqg4DCqotSfBqLHuMUw",
+                            "title": "Lyoko Kodu | 4. Sezon 5. Bölüm - Skidbladnir",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435817"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/UGxz-ZMu0cI/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGD8gPSh_MA8=&rs=AOn4CLD0tLyfRL7AOqwJGbHIEFoIlSlukw",
+                            "title": "Lyoko Kodu | 4. Sezon 6. Bölüm - İlk Yolculuk",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435818"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/qc5TsD6K7U4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA2yXz8CytTFhxaDYkWHR0dVHJT0g",
+                            "title": "Lyoko Kodu | 4. Sezon 7. Bölüm - Yoğun Eğitim",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435819"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ld36-_TKU8g/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGEogSChyMA8=&rs=AOn4CLAXtn_JHITPKCNVS6LoS0nAdDkCnw",
+                            "title": "Lyoko Kodu | 4. Sezon 8. Bölüm - Kopya",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435821"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/EfE1_h-fFJ0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGEkgZShiMA8=&rs=AOn4CLDL8c8z31zM7tNyMgJYkJXzaVfz6A",
+                            "title": "Lyoko Kodu | 4. Sezon 9. Bölüm - Bunun Hakkında Konuşmasam Daha İyi",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435822"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZgfFGqxQPYk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGGUgQihQMA8=&rs=AOn4CLB29apu5OBGYCRSTTwWZtfmCYDuUg",
+                            "title": "Lyoko Kodu | 4. Sezon 10. Bölüm - Sıcak Duş",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435823"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/xergEPElSOM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGCsgKSh_MA8=&rs=AOn4CLD91XCDzcS8C_ulESzNmLHGM1Ih-w",
+                            "title": "Lyoko Kodu | 4. Sezon 11. Bölüm - Göl",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435824"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ROo9SZquzII/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGGUgZCg-MA8=&rs=AOn4CLD68W-dXFHytBO8qFDGPb9zS7ziNQ",
+                            "title": "Lyoko Kodu | 4. Sezon 12. Bölüm - Denizde Kayıp",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435825"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/zOTe-zMbDmM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGFYgSyhlMA8=&rs=AOn4CLAdnECXXRZbB4sqJnqgsrF_hIfT2A",
+                            "title": "Lyoko Kodu | 4. Sezon 13. Bölüm - Kobay Faresi",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435826"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/wcyB6berXjY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGF8gXyhfMA8=&rs=AOn4CLBv7o7wvQR-pZPTXjuSBFOYtI1cHg",
+                            "title": "Lyoko Kodu | 4. Sezon 14. Bölüm - Övünme Hakları",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435828"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/I4qNGHw6qmw/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGGUgXyhDMA8=&rs=AOn4CLAt6NK2Qe21C-3yb9tENwcZkfWHPQ",
+                            "title": "Lyoko Kodu | 4. Sezon 15. Bölüm - Sıcak Bir Günün Öğleden Sonrası",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435829"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/vtMEkJMEkeg/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGHIgVCg6MA8=&rs=AOn4CLCr-i0y0xGmz3Ku20AY2gQtGA0hqQ",
+                            "title": "Lyoko Kodu | 4. Sezon 16. Bölüm - İyi Niyet Eksikliği",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435830"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/qbWcPrqN00I/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGHIgOyhGMA8=&rs=AOn4CLCiwWudAmz0KYDG1-mBvebotj-lXw",
+                            "title": "Lyoko Kodu | 4. Sezon 17. Bölüm - Uzak Hatıra",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435831"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/rkhhD3-8fbs/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGHIgUShAMA8=&rs=AOn4CLBA3ubAW_oOXdqpKkhcZjkGn_BKGg",
+                            "title": "Lyoko Kodu | 4. Sezon 18. Bölüm - Kötü Şans",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435832"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/nJqwYMhh1NQ/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGFQgXihlMA8=&rs=AOn4CLBAQLsgNC0JJwBXDCbxkLhvq3pVRQ",
+                            "title": "Lyoko Kodu | 4. Sezon 19. Bölüm - Güdümlü Füze",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435833"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Xp4UXVW9ghY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGGUgRChTMA8=&rs=AOn4CLDoIV8M35EJkoAcjLB7mRLdBhEm2g",
+                            "title": "Lyoko Kodu | 4. Sezon 20. Bölüm - Kadic Bombası",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5221151"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/194QUfr8B_Y/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA6Y2qkfKE4Z4lPc13UUD9XmLFeyg",
+                            "title": "Lyoko Kodu | 4. Sezon 21. Bölüm - Köpek Muamması",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435834"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/7Xw0Szn8Unk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGGUgTChXMA8=&rs=AOn4CLCoXiLnPMMwj3-YWozhM5wTOVZSRw",
+                            "title": "Lyoko Kodu | 4. Sezon 22. Bölüm - Bir Uzay Garipliği",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5221160"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/7Orb1W1wo8M/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGFMgZShjMA8=&rs=AOn4CLBvu3xoK24ia3zy7c8nstmFw8IcOA",
+                            "title": "Lyoko Kodu | 4. Sezon 23. Bölüm - Önceden Taşınan Kuzenler",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435835"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/uXUBDA7ob2E/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGGUgSChKMA8=&rs=AOn4CLAC_GwwJ2IflIFDhCDJZt9mVdqdeA",
+                            "title": "Lyoko Kodu | 4. Sezon 24. Bölüm - Vahşi Canavarı Yatıştırmak İçin Müzik",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435836"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/2BUdsm9UnvM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGEogZSg2MA8=&rs=AOn4CLCtbmyDhoOKZkN_R5kUNQq5crLykg",
+                            "title": "Lyoko Kodu | 4. Sezon 25. Bölüm - Yanlış Teşhir",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435837"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/IdbWsOmYmC0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGHIgXShCMA8=&rs=AOn4CLDj_XkbxWGeAZkrU9EVjFNzlehRZA",
+                            "title": "Lyoko Kodu | 4. Sezon 26. Bölüm - Kötü Bağlantı",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435839"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/LqSdcWWMAD0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGCEgSih_MA8=&rs=AOn4CLD9HfpkeVKM79BemG9EAqVLK5pvdQ",
+                            "title": "Lyoko Kodu | 4. Sezon 27. Bölüm - Soğuk Ter",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435840"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZYHZIerb5x8/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGGUgVihLMA8=&rs=AOn4CLDOlXrEEXfM0bivXYXmjyo2ZKg6mg",
+                            "title": "Lyoko Kodu | 4. Sezon 28. Bölüm - Dünyaya Dönüş",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4436094"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/u5wegqQBSHk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGHIgXSg3MA8=&rs=AOn4CLB3JtByt3DEXyXl35eScfTSLJmYJQ",
+                            "title": "Lyoko Kodu | 4. Sezon 29. Bölüm - Bitirmek İçin Verilen Savaş",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5219901"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/jNPy7KJZZkk/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AGOBYAC4AOKAgwIABABGH8gSSgTMA8=&rs=AOn4CLDeXi9BqHhxBfedS_z7Dy7771YaCg",
+                            "title": "Lyoko Kodu | 4. Sezon 30. Bölüm - Yankılar",
+                            "videoSources": [
+                                {
+                                    "name": "Sbtachi-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5219905"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 4
+                },
+                {
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/3rO5_bZeZX4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC2v3uY9mDNVtl02httXDqzyXnQRA",
+                            "title": "Lyoko Kodu | Özel Bölüm 1 - Xana Uyanıyor 1. Bölüm",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4435801"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Z2-5FOvwvXU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCgK103x9cr4S3LknywFfv-Phg3rA",
+                            "title": "Lyoko Kodu | Özel Bölüm 2 - Xana Uyanıyor 2. Bölüm",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5219870"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 0
+                }
+            ]
+        },
         "seri-3": {
             "title": "Attack On Titan",
             "description": "Devlerin insanları avladığı bir dünyada, Eren Yeager ve arkadaşları devlere karşı savaşmak için askeri birliğe katılırlar. Eren, devlerin sırlarını çözmeye çalışırken, kendi içindeki gücü keşfeder.",
