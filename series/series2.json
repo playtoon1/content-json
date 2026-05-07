@@ -1,5 +1,546 @@
 {
   "series": {
+    "seri-1": {
+      "title": "Monsuno",
+      "description": "Chase Suno ve arkadaşları, Dünya'nın kaderini değiştirebilecek genetik olarak mühendislikle üretilmiş dev canavarlar olan Monsuno'ları keşfederler. Kayıp babası Jeredy Suno'yu arayan Chase, S.T.O.R.M. adlı askeri bir örgüt ve kötü niyetli Eklipse grubuyla mücadele ederken dostluğun, cesaretin ve bağ kurmanın gücünü öğrenir. Ekip, dünyayı yok olmaktan kurtarmak için savaşmak zorundadır.",
+      "cover": "https://raw.githubusercontent.com/playtoon1/content-json/2c120acc04527b0c03592af45f39792777478c17/covers/monsuno-cover.jpg",
+      "categories": [
+        "Animasyon",
+        "Aksiyon",
+        "Macera",
+        "Bilimkurgu",
+        "Gençlik"
+      ],
+      "year": 2012,
+      "type": [
+        "Aksiyon & Macera",
+        "Bilimkurgu",
+        "Animasyon"
+      ],
+      "imdb": 5.2,
+      "seasons": [
+        {
+          "episodes": [
+            {
+              "thumbnail": "https://i.ytimg.com/vi/-tu8g8m1fd8/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGDkgTihyMA8=&rs=AOn4CLC9pQgnhW_5oaJwX1Y8ukL0v9s0pw",
+              "title": "Monsuno | 1. Sezon 1. Bölüm - Çarpışma",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005933"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/gU2nBI8ta1I/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGHIgSChAMA8=&rs=AOn4CLCtYCeoDRxJR6YVrqQmMJB78lgM-Q",
+              "title": "Monsuno | 1. Sezon 2. Bölüm - Cesaret",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005932"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/GxWtspQs158/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGFcgXChlMA8=&rs=AOn4CLDMF1Lw_ma3SrbcNm88mfcBxjn3Mg",
+              "title": "Monsuno | 1. Sezon 3. Bölüm - Yeraltı",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005928"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/Dj2vzMCzfxQ/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGGUgTyhFMA8=&rs=AOn4CLDJZeLpnLUlApZj4Q5TxZTBhHT8kA",
+              "title": "Monsuno | 1. Sezon 4. Bölüm - Zalim",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005931"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/zLUSKOrm5Ng/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGHIgTihEMA8=&rs=AOn4CLBgtXSV956woMy7pLS1WG1Ahfz7KA",
+              "title": "Monsuno | 1. Sezon 5. Bölüm - Bilgi",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005930"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/8aTlv3Q60KU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGEQgTShlMA8=&rs=AOn4CLD-Qm7cgfa3mj1rf5uI1L7GhqZaeA",
+              "title": "Monsuno | 1. Sezon 6. Bölüm - Atılım",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005927"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/JXDckW0q-Eg/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGEEgTihyMA8=&rs=AOn4CLCrSCUajHtNf89wNRMeXoh6jVknPg",
+              "title": "Monsuno | 1. Sezon 7. Bölüm - Elma Tohumları",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005926"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/49BYGBudqYU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGCogPCh_MA8=&rs=AOn4CLDgEGChvuXvq7CRq1xhH0uVI-XvbQ",
+              "title": "Monsuno | 1. Sezon 8. Bölüm - Göz",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005929"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/atzpLxCOSAU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGEYgUihlMA8=&rs=AOn4CLBMS_yz25JdQzcUfCFMBEajfcyRLQ",
+              "title": "Monsuno | 1. Sezon 9. Bölüm - İhanet",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005924"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/1sAR-c1Vw8M/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGEogVihlMA8=&rs=AOn4CLAOIqcWhRZ5HWU-sPlfTFVgxlGIfQ",
+              "title": "Monsuno | 1. Sezon 10. Bölüm - Meydan Okuma",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005923"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/QfzB_YQ71zI/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGEogVShlMA8=&rs=AOn4CLCHYL8kTIfZimw6XLliWfGSX7QklQ",
+              "title": "Monsuno | 1. Sezon 11. Bölüm - Güven",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005919"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/EtTkpCqmZ7o/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGGUgUihJMA8=&rs=AOn4CLB1OlS9f80EZLYSNshH1LS5T-hw4g",
+              "title": "Monsuno | 1. Sezon 12. Bölüm - Av",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005922"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/cDd5DEcO4-s/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGGUgZShlMA8=&rs=AOn4CLDPREKpKccD_z5YkqvMvL7Z6RNGfg",
+              "title": "Monsuno | 1. Sezon 13. Bölüm - Gölge",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005925"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/RoUmJTzJHeQ/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGGUgVChAMA8=&rs=AOn4CLA9FG-5cMV3Xc5FUw2FjqRqdGpX0A",
+              "title": "Monsuno | 1. Sezon 14. Bölüm - Kayıp",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005921"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/53vjfCACdlU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGH8gHygcMA8=&rs=AOn4CLBy6jbnalWedNfXGwOgBd5na5mvJg",
+              "title": "Monsuno | 1. Sezon 15. Bölüm - Işık",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005920"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/47lASa1zwNc/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGGUgXihMMA8=&rs=AOn4CLB5KLW-I9OSD53UtnzY7SkP1XQDGA",
+              "title": "Monsuno | 1. Sezon 16. Bölüm - Aydınlık",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005905"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/xjycFJO2tb8/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGEUgUyhyMA8=&rs=AOn4CLCvxcfcHNx_9rhig2Gb_-Hdck4plw",
+              "title": "Monsuno | 1. Sezon 17. Bölüm - Ganimetler",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005909"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/lcsHVs6N2Uw/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGFIgVyhlMA8=&rs=AOn4CLADCFhDAqDIUYypPTyws6tUmYR9CA",
+              "title": "Monsuno | 1. Sezon 18. Bölüm - Buz",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005910"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/KCpCCLa4I14/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGE4gTyhlMA8=&rs=AOn4CLCV3T8Cn6xb0qzs_6sAKNXXOjBc_g",
+              "title": "Monsuno | 1. Sezon 19. Bölüm - Kaynak",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005911"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/1rKSY_y9cD4/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGCwgPih_MA8=&rs=AOn4CLBAl57UmficVEKhYjyQvByZ2g9GfQ",
+              "title": "Monsuno | 1. Sezon 20. Bölüm - Hayat",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005906"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/QzFjofZgOgM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGF4gWihlMA8=&rs=AOn4CLCTMzirT2likCyEKbBbO78Ktj_7tQ",
+              "title": "Monsuno | 1. Sezon 21. Bölüm - Güvenlik Önlemi",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005914"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/QzFjofZgOgM/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGF4gWihlMA8=&rs=AOn4CLCTMzirT2likCyEKbBbO78Ktj_7tQ",
+              "title": "Monsuno | 1. Sezon 22. Bölüm - Hatıra",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005915"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/fvr-nH3zrsw/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGE0gVyhlMA8=&rs=AOn4CLB88V8CCdOxYbxsLtlEDjjBHa-RHA",
+              "title": "Monsuno | 1. Sezon 23. Bölüm - Saldırı",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005916"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/YNpZNFM-tXI/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGFUgZShRMA8=&rs=AOn4CLA2MNLLValuLMDRaqxhBTzcrt3e0w",
+              "title": "Monsuno | 1. Sezon 24. Bölüm - Canavar",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005917"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/PIyIgWH0n0E/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGGsgayhrMA8=&rs=AOn4CLD38WhgGlPEPfuqCzVt-Eppaytgwg",
+              "title": "Monsuno | 1. Sezon 25. Bölüm - Oyunun Sonu",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005908"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/Nk8EMa7m10g/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGH8gEyhmMA8=&rs=AOn4CLB_kmy-QOFGLhMocbDlYDut85o3nw",
+              "title": "Monsuno | 1. Sezon 26. Bölüm - Yükseliş",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005904"
+                }
+              ]
+            }
+          ],
+          "seasonNumber": 1
+        },
+        {
+          "episodes": [
+            {
+              "thumbnail": "https://i.ytimg.com/vi/Op_fLh3OkaQ/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGBYgcigqMA8=&rs=AOn4CLAjm-Ue7DZt5TIBtEo9uphJh3AtYw",
+              "title": "Monsuno | 2. Sezon 1. Bölüm - Parlama",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005903"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/BKsTBJKBgr0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGEcgUChlMA8=&rs=AOn4CLA33jqvY5ckFw0tYJgBhLIJ4844UA",
+              "title": "Monsuno | 2. Sezon 2. Bölüm - Patlama",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005902"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/NuIkAdxYOb8/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGEkgUyhlMA8=&rs=AOn4CLAHi8S1l6fLeaNAWHNkLAk3jd4qNg",
+              "title": "Monsuno | 2. Sezon 3. Bölüm - Mistikler",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005897"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/rm7vEN0qETQ/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGBkgTih_MA8=&rs=AOn4CLCll9ZVfTlqn2cyG0yAxmSlPfcKhA",
+              "title": "Monsuno | 2. Sezon 4. Bölüm - Korku",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005899"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/o401F3nBnyE/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGFkgQihlMA8=&rs=AOn4CLDb3Fdka_a_enJIu4tmNl_yBzkdLA",
+              "title": "Monsuno | 2. Sezon 5. Bölüm - Zırh",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005900"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/lQIm95sOX-0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGCggLyh_MA8=&rs=AOn4CLAUut57l-N-0l-UgCI0mqIBqr7qrQ",
+              "title": "Monsuno | 2. Sezon 6. Bölüm - Koruma",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005901"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/LYI0Cnv21hI/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGFkgYyhlMA8=&rs=AOn4CLCz-IvleXL-UvbzLKpmgjajuLOqrA",
+              "title": "Monsuno | 2. Sezon 7. Bölüm - Çöp",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005894"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/_4wsNDnJJWE/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGH8gEygoMA8=&rs=AOn4CLCBCgMlq3euouml8tzMQapwfUNKyg",
+              "title": "Monsuno | 2. Sezon 8. Bölüm - Zorlu",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005896"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/9qnWUMmCw4Q/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGBUgcigVMA8=&rs=AOn4CLDVXwYQPz_5_i-kOr5Wg5cWPTQTGQ",
+              "title": "Monsuno | 2. Sezon 9. Bölüm - Çılgınlık",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005895"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/Xh_IrNk0E3I/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGEYgZShJMA8=&rs=AOn4CLBObQkJNmf3_5m9cH_4OeeXLeBVsw",
+              "title": "Monsuno | 2. Sezon 10. Bölüm - Keşif",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005893"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/4TGd5Y_JAbg/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGEYgTihlMA8=&rs=AOn4CLCr2pYsA4yD6_mMsqPnGaodZxV-CQ",
+              "title": "Monsuno | 2. Sezon 11. Bölüm - Gök Gürültüsü",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005891"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/JOYI_Vehbgo/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGHIgSSgwMA8=&rs=AOn4CLCBxnk4szDc29q6qpH82UjwydxHkg",
+              "title": "Monsuno | 2. Sezon 12. Bölüm - Düşüş",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005889"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/ROUMb-YE74s/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGEUgUihyMA8=&rs=AOn4CLC4V2_2oTSsysQkSJ1RZ3HFyfdLUA",
+              "title": "Monsuno | 2. Sezon 13. Bölüm - Komplo",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005886"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/f0KgIvPnlWQ/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGDkgSyhyMA8=&rs=AOn4CLDFFcyx2K5ViJj4goPdFXkWOAV8SA",
+              "title": "Monsuno | 2. Sezon 14. Bölüm - Derin",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005846"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/j1dkbZIppqI/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGHIgUCg_MA8=&rs=AOn4CLAPpdBcspZhTfwWV1Qjf4a7y7OffQ",
+              "title": "Monsuno | 2. Sezon 15. Bölüm - Çarpma",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005884"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/dU8vsHSShVs/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGDEgUSh_MA8=&rs=AOn4CLDo4IpfPb_X_x8_dyZICEsYZfyMtQ",
+              "title": "Monsuno | 2. Sezon 16. Bölüm - Tamirci",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005847"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/z1Zvt3qWzlQ/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGBEgcigvMA8=&rs=AOn4CLDdRSlGw7hc81ml_bJwgJZkRRGuDA",
+              "title": "Monsuno | 2. Sezon 17. Bölüm - Zıtlık",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005848"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/bQ501Yel4CE/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGDkgSChyMA8=&rs=AOn4CLAQHZmZzRXdEIKMWi7CR9wQ1VWleg",
+              "title": "Monsuno | 2. Sezon 19. Bölüm - Işın",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005852"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/O44wtsXxyMQ/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGDkgRyhyMA8=&rs=AOn4CLB6P2Ev46JdnMJbNjKBmUmbEm4Otw",
+              "title": "Monsuno | 2. Sezon 20. Bölüm - Bulutlar",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005888"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/iGLkF_C7Ecs/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGDsgZShVMA8=&rs=AOn4CLBSwRygxYi9SX260OdlC4Ie2NZ8ew",
+              "title": "Monsuno | 2. Sezon 21. Bölüm - Hedef",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005854"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/vv-dINJoSWU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGEQgTShyMA8=&rs=AOn4CLBMDdPeWAVpCOx-2opHkN6KCpRsWg",
+              "title": "Monsuno | 2. Sezon 22. Bölüm - Savaş",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005857"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/n3ck9h8FOCA/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGEcgVChyMA8=&rs=AOn4CLAostsoKOqYDTH_wAKrThek5C0wzQ",
+              "title": "Monsuno | 2. Sezon 23. Bölüm - Karartma",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005858"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/n9T5mda9Aw0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGEwgRyhZMA8=&rs=AOn4CLC2oYGT4v6yl6d7HdcFA9Y2JjO2tg",
+              "title": "Monsuno | 2. Sezon 24. Bölüm - Kırılma",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005881"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/nIp6J0FaFak/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGDwgSihyMA8=&rs=AOn4CLCv5vZISJ0i-EeVBqB3Q7sHvmaIEQ",
+              "title": "Monsuno | 2. Sezon 25. Bölüm - Uyanış",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005883"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/S1XtXgsfmKo/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-BIAC6AKKAgwIABABGDUgUihyMA8=&rs=AOn4CLDvS4wvWXFXFU45w6atdox9OWwrzQ",
+              "title": "Monsuno | 2. Sezon 26. Bölüm - Çözüm",
+              "videoSources": [
+                {
+                  "name": "Sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5005861"
+                }
+              ]
+            }
+          ],
+          "seasonNumber": 2
+        }
+      ]
+    },
     "seri-2": {
       "title": "Rick and Morty",
       "description": "Nihilist çılgın bir bilim adamının ve endişeli torununun parçalanmış ev yaşamları, boyutlar arası talihsizlikleriyle daha da karmaşıklaşır.",
