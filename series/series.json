@@ -10066,6 +10066,541 @@
           ]
         }
       ]
+    },
+    "seri-10": {
+      "title": "Red Kit",
+      "description": "Asil kovboy Red Kit, zeki atı Düldül ve ahmak köpeği Rin Tin Tin ile kötü adamları kovalar.",
+      "cover": "https://www.tvtime.com/_next/image?url=https%3A%2F%2Fartworks.thetvdb.com%2Fbanners%2Fv4%2Fseries%2F98271%2Fposters%2F66af470a5bafb.jpg&w=640&q=75",
+      "categories": [
+        "Animasyon",
+        "Macera",
+        "Komedi",
+        "Çizgi Dizi"
+      ],
+      "year": 2001,
+      "type": [
+        "Aksiyon & Macera",
+        "Komedi",
+        "Animasyon"
+      ],
+      "imdb": 7.1,
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            {
+              "thumbnail": "https://i.ytimg.com/vi/m6rL6EP05eE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBOqoXVfyzT2AmqT1-kDWJTghgP6g",
+              "title": "Red Kit | 1. Sezon 1. Bölüm - Yerli Ruleti",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448486"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/HAT-mheioio/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDtD3wlLv80MrYg661dSsc9AnD1qQ",
+              "title": "Red Kit | 1. Sezon 2. Bölüm - Son Bufalolar",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4449919"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/x8MvaTeyjpc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAPht2yNWhd_mJnPUH7-oZG5aCSLg",
+              "title": "Red Kit | 1. Sezon 3. Bölüm - Daltonlar'ın Hazinesi",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4449921"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/9YcvLd7bJzk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDkOBQ_itQucg7hCDdlRrgqu2-KYg",
+              "title": "Red Kit | 1. Sezon 4. Bölüm - Yaşasın Holly Woods",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4449923"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/4ZYrSAYkdjA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAGIWksFAo5COSvuxeai49mIweMzg",
+              "title": "Red Kit | 1. Sezon 5. Bölüm - Red Kit Red Kit'e Karşı",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448483"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/NyJQ4xT1MTM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBpirzwyXzGHWP3snIx5GIuaeivyw",
+              "title": "Red Kit | 1. Sezon 6. Bölüm - Red Kit, Sherlock Holmes'e Karşı",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4449927"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/U0CzHs6G1O0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBTsTBWpXURlQAtVbIn_WBNFHAf5Q",
+              "title": "Red Kit | 1. Sezon 7. Bölüm - Daltonlar İçin Çiçek Günü",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4449928"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/xLn5M8SOwi0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCZppZZxcUOyw_ds0W5IFlCwK8A0Q",
+              "title": "Red Kit | 1. Sezon 8. Bölüm - Liki Liki",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448482"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/mJUQjTiTP3Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD3fCGFf0cwBEwmJ_3mSTjfhxyd7w",
+              "title": "Red Kit | 1. Sezon 9. Bölüm - Soytarı Prensler",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448489"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/v5dd0jNJoNo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDVhiGq_qAsyqOggToQVG45ysd8GQ",
+              "title": "Red Kit | 1. Sezon 10. Bölüm - Uçan Kovboy",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448487"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/9B0ejWfNcSg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7twgh0AqBXu5RXE9uWHqfSHqdyg",
+              "title": "Red Kit | 1. Sezon 11. Bölüm - Custer Kalesi",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448484"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/R5lodjXdhR8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcblDlgr1LS_ickozoNs0sQYFspQ",
+              "title": "Red Kit | 1. Sezon 12. Bölüm - Daltonlar'ın Noeli",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4449936"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/Lg9RFaKieAM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB6ZTefPCDkd6CGW-QdmaTg7MEYxQ",
+              "title": "Red Kit | 1. Sezon 13. Bölüm - Bir Avuç Dalton İçin",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448488"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/7wfzVKLAgc4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCSfgdK1rNv28R1_n27xTlwq0BdXA",
+              "title": "Red Kit | 1. Sezon 14. Bölüm - Daltonlar Yerli Oluyor",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448605"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/WEiFq2taO5E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBSgNta2j4Eqh-5hBxgVdKTEyfGRA",
+              "title": "Red Kit | 1. Sezon 15. Bölüm - Daltonlar'ın Yeni Babası",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448492"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/FuG1fuRWUyQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAufXCOLD48UKch7ajsvV8r6qfUQA",
+              "title": "Red Kit | 1. Sezon 16. Bölüm - Kelepçe Sevgisi",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448490"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/ozjuSUSdT5s/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDZe_nz0STS486_IaYYK7y5BM5yoA",
+              "title": "Red Kit | 1. Sezon 17. Bölüm - Bozkırdaki Akbabalar",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448491"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/R-6wHSgdocQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD9fOfjYQVNrxdQZMkU0EXyNv5zww",
+              "title": "Red Kit | 1. Sezon 18. Bölüm - Aşkta Şans Yok",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448499"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/azuU6IeZANY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBv5d3J8dKrbsqEwwWO0-QHfVfkzg",
+              "title": "Red Kit | 1. Sezon 19. Bölüm - Hayaletler ve Gaydalar",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4449946"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/WXR8LrAZCxg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLArqtufeWrSa-0zxhewlzL3w-NfOw",
+              "title": "Red Kit | 1. Sezon 20. Bölüm - Haydutlar Birliği",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4449947"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/l2grgRO3zuI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD4R88g84B6RtxIPlfp_NfA4GhpRQ",
+              "title": "Red Kit | 1. Sezon 21. Bölüm - Komodor",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4449948"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/gVBT0MfcokE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLn5vwb4rdGD__1DgKfZNuNVRrKg",
+              "title": "Red Kit | 1. Sezon 22. Bölüm - Red Kit Alaska'da",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448536"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/3T6032TGVVQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBpoamQtcKmg5l4SZDLj9ai0NShNg",
+              "title": "Red Kit | 1. Sezon 23. Bölüm - Savaş",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448616"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/86QujpXgumU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBUAqlSuFDvo_ZIKHrxlbSWTZyekQ",
+              "title": "Red Kit | 1. Sezon 24. Bölüm - Daltonlar İçin Adalet",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448538"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/ILMkWiAsbvc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDUjuv6naY1pw8j8BN2KBFtBMUtIg",
+              "title": "Red Kit | 1. Sezon 25. Bölüm - Teksas'ın Don Kişotu",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448505"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/v7LKyT2rF7E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDOfGHHewzxlq2qe9oxT4jYxGzzmw",
+              "title": "Red Kit | 1. Sezon 26. Bölüm - Aranan Kadın",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448509"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/YdiRUT_Z55Y/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCaN2G4NBN6MHnq3IP2ANT_hL8rwg",
+              "title": "Red Kit | 1. Sezon 27. Bölüm - Çift Gören Daltonlar",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448507"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/TIPiWt9T-4k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDm3uj-pndZ8C88XfG0tN8KVhA9QA",
+              "title": "Red Kit | 1. Sezon 28. Bölüm - Yasak Aşk",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448512"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/FDYOS34T8XQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCKHorpo0WxrYQVBI3ATi5Of2o2Fw",
+              "title": "Red Kit | 1. Sezon 29. Bölüm - Lola Montes",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448514"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/W7FnPpZ_S68/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBaQPbb3zNNW5kPuKBBLU0AXe-paQ",
+              "title": "Red Kit | 1. Sezon 30. Bölüm - Marslılara İnanıyor musun?",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5252838"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/AdxrS_EmCtY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBzHBA9u_qbq5IvCgPF86R-qR-iNw",
+              "title": "Red Kit | 1. Sezon 31. Bölüm - Daltonlar'ın Şansı",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448517"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/ZtOE9yjDA90/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBdSUkQCsIG-jWxg1tQEQdwjUbfqQ",
+              "title": "Red Kit | 1. Sezon 32. Bölüm - Alabama Canavarı",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448515"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/3SZQzBs_TwQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDHrorXFccJMoy0HL_nJZkvcqO5UA",
+              "title": "Red Kit | 1. Sezon 33. Bölüm - Yüksekten Uçan Daltonlar",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5252840"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/TINdeX9nWho/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBCFwwmiRBvwOLkQdSriRc94x82DA",
+              "title": "Red Kit | 1. Sezon 34. Bölüm - Casuslar",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448518"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/AQK33mXcREU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDoScW2ofWWEeJL9xV-Bu9a2BauIg",
+              "title": "Red Kit | 1. Sezon 35. Bölüm - Kid ve Çetesi",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448519"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/WSJlkbE0WCY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDsCV6Z9Mv0glSyAJVXU20B0lHm3w",
+              "title": "Red Kit | 1. Sezon 36. Bölüm - Custer Çılgınlığı",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448521"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/q5YFr6Jn69w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAWSam2jO25zDtj8WlpfsAfvQVvmg",
+              "title": "Red Kit | 1. Sezon 37. Bölüm - Doktorların Savaşı",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5252843"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/avzzfTYopKk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDkixGkgEfehrfZc2e6djaDqfytxw",
+              "title": "Red Kit | 1. Sezon 38. Bölüm - Daltonlar Kovboy Oluyor",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5252845"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/WbUSMOJSdAo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAcJBMxkvJAwwVQzJAxDWIl1VsWLQ",
+              "title": "Red Kit | 1. Sezon 39. Bölüm - Daltonlar İçin Bir Top",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448522"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/40HMf9NONas/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAahT4sRjQddEE05RSp_xeBW-atxg",
+              "title": "Red Kit | 1. Sezon 40. Bölüm - Yardımsever Daltonlar",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448523"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/ox35gNLEKYE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAzOs75kFyxSK1_EANRxVaE6tZxtw",
+              "title": "Red Kit | 1. Sezon 41. Bölüm - Avcılar",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448525"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/gg977HhEcpg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCb8IHUxL87uNK4chh7LqJlhH2OTA",
+              "title": "Red Kit | 1. Sezon 42. Bölüm - Ölümsüz Daltonlar",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448526"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/LyDq_fhui7k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAA2xLJkDm0Rw4m8oMAE58Zd5iraw",
+              "title": "Red Kit | 1. Sezon 43. Bölüm - Tanığım Olur musun?",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448529"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/P5HB4ecKTgI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAINyKICdBmk-_zZ_5CE4m3tjuOKw",
+              "title": "Red Kit | 1. Sezon 44. Bölüm - Küçük Dalton",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=5252848"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/MfBS0VLtbYk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAcP42jtmJuaD69gwTLwDQE5UdSVg",
+              "title": "Red Kit | 1. Sezon 45. Bölüm - Liki Liki'nin Dönüşü",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448611"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/qsRcqMRnCy8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB2RAVYO903GUb-aUiD5cwKLH77qg",
+              "title": "Red Kit | 1. Sezon 46. Bölüm - Schnozzolas'ın Tılsımı",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448530"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/4VCk-ox32F4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_EXBjSQkIy7RGqY0yYXAjpj-ylw",
+              "title": "Red Kit | 1. Sezon 47. Bölüm - Daltonlar'ın İntikamı",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448531"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/wzUpc7rQ3z0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLANXzd58ujEtFW3iWiaPmFesUZ4dg",
+              "title": "Red Kit | 1. Sezon 48. Bölüm - Daltonlar Billy the Kid'e Karşı",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448532"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/hxd3yr8bkxM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBUDWCBqCEsCW_CP3Aa-wIt2dfOvA",
+              "title": "Red Kit | 1. Sezon 49. Bölüm - Daltonlar'ın Kemiği",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448534"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/_xA9aIWrKM4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBspygM5Wa1MCuuBOFBXBYoC8SArw",
+              "title": "Red Kit | 1. Sezon 50. Bölüm - Üniformalı Daltonlar",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448535"
+                }
+              ]
+            },
+            {
+              "thumbnail": "https://i.ytimg.com/vi/_m1qbBMOzkY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBzzU7VyR1DzNl-YNkHRJsJAvZmuQ",
+              "title": "Red Kit | 1. Sezon 52. Bölüm - Sequoia Körfezi",
+              "videoSources": [
+                {
+                  "name": "sibnet",
+                  "url": "https://video.sibnet.ru/shell.php?videoid=4448539"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   }
 }

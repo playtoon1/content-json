@@ -1,177 +1,21 @@
 {
     "series": {
-        "seri-1": {
-            "title": "BeyWarriors: BeyWheelz",
-            "description": "BeyWheelz, Beyblade dünyasında geçen bir anime serisidir. Bu seride, Beyblade savaşları yerine BeyWheelz adı verilen yeni bir tür dövüş aracı kullanılır. BeyWheelz, tekerlekli ve dönen bir yapıya sahip olan araçlardır ve savaşlar bu araçlarla yapılır.",
-            "cover": "https://static.wikia.nocookie.net/international-entertainment-project/images/c/c0/BeyWheelz_poster.jpg/revision/latest?cb=20230618050545",
-            "categories": [
-                "Aksiyon",
-                "Macera",
-                "Spor",
-                "Çocuk",
-                "Anime"
-            ],
-            "year": 2012,
-            "type": [
-                "Spor",
-                "Anime",
-                "Aksiyon & Macera"
-            ],
-            "imdb": 4.9,
-            "seasons": [
-                {
-                    "seasonNumber": 1,
-                    "episodes": [
-                        {
-                            "title": "BeyWheelz 1. Bölüm - Yeni Nesil",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE2MjczNDAtZDIzNS00ZDE4LWJjNmItNWNkZDZhOGIxZWFlXkEyXkFqcGc@._V1_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "",
-                                    "url": ""
-                                }
-                            ]
-                        },
-                        {
-                            "title": "BeyWheelz 2. Bölüm - Dominators'ın Saldırısı",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE2MjczNDAtZDIzNS00ZDE4LWJjNmItNWNkZDZhOGIxZWFlXkEyXkFqcGc@._V1_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "",
-                                    "url": ""
-                                }
-                            ]
-                        },
-                        {
-                            "title": "BeyWheelz 3. Bölüm - Takım Mücadelesi",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE2MjczNDAtZDIzNS00ZDE4LWJjNmItNWNkZDZhOGIxZWFlXkEyXkFqcGc@._V1_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "",
-                                    "url": ""
-                                }
-                            ]
-                        },
-                        {
-                            "title": "BeyWheelz 4. Bölüm - Vahşi Bir Beywheelz",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE2MjczNDAtZDIzNS00ZDE4LWJjNmItNWNkZDZhOGIxZWFlXkEyXkFqcGc@._V1_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "",
-                                    "url": ""
-                                }
-                            ]
-                        },
-                        {
-                            "title": "BeyWheelz 5. Bölüm - Beywheelz Pist Yarışı",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE2MjczNDAtZDIzNS00ZDE4LWJjNmItNWNkZDZhOGIxZWFlXkEyXkFqcGc@._V1_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "",
-                                    "url": ""
-                                }
-                            ]
-                        },
-                        {
-                            "title": "BeyWheelz 6. Bölüm - Karar Turnuvası",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE2MjczNDAtZDIzNS00ZDE4LWJjNmItNWNkZDZhOGIxZWFlXkEyXkFqcGc@._V1_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "",
-                                    "url": ""
-                                }
-                            ]
-                        },
-                        {
-                            "title": "BeyWheelz 7. Bölüm - Dominators Kuralları",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE2MjczNDAtZDIzNS00ZDE4LWJjNmItNWNkZDZhOGIxZWFlXkEyXkFqcGc@._V1_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "",
-                                    "url": ""
-                                }
-                            ]
-                        },
-                        {
-                            "title": "BeyWheelz 8. Bölüm - Buz Sahası",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE2MjczNDAtZDIzNS00ZDE4LWJjNmItNWNkZDZhOGIxZWFlXkEyXkFqcGc@._V1_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "",
-                                    "url": ""
-                                }
-                            ]
-                        },
-                        {
-                            "title": "BeyWheelz 9. Bölüm - Ateş ve Su",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE2MjczNDAtZDIzNS00ZDE4LWJjNmItNWNkZDZhOGIxZWFlXkEyXkFqcGc@._V1_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "",
-                                    "url": ""
-                                }
-                            ]
-                        },
-                        {
-                            "title": "BeyWheelz 10. Bölüm - Ruhların Mücadelesi",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE2MjczNDAtZDIzNS00ZDE4LWJjNmItNWNkZDZhOGIxZWFlXkEyXkFqcGc@._V1_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "",
-                                    "url": ""
-                                }
-                            ]
-                        },
-                        {
-                            "title": "BeyWheelz 11. Bölüm - Şaşırtıcı Gerçek",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE2MjczNDAtZDIzNS00ZDE4LWJjNmItNWNkZDZhOGIxZWFlXkEyXkFqcGc@._V1_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "",
-                                    "url": ""
-                                }
-                            ]
-                        },
-                        {
-                            "title": "BeyWheelz 12. Bölüm - Beywheelz Bağı",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE2MjczNDAtZDIzNS00ZDE4LWJjNmItNWNkZDZhOGIxZWFlXkEyXkFqcGc@._V1_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "",
-                                    "url": ""
-                                }
-                            ]
-                        },
-                        {
-                            "title": "BeyWheelz 13. Bölüm - Yeni Bir Rüya",
-                            "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE2MjczNDAtZDIzNS00ZDE4LWJjNmItNWNkZDZhOGIxZWFlXkEyXkFqcGc@._V1_.jpg",
-                            "videoSources": [
-                                {
-                                    "name": "",
-                                    "url": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
         "seri-2": {
             "title": "Esrarengiz Kasaba",
-            "description": "Berk Adası’nda yaşayan genç Viking Hiccup (Hıçkıdık), artık ejderhalarla savaşmak yerine onlarla dost olup birlikte yaşamanın yolunu bulur",
-            "cover": "https://images.justwatch.com/poster/304523615/s718/esrarengiz-kasaba.jpg",
+            "description": "İkizler Dipper ve Mabel Pines, büyük amcaları Stan'in Gizemli Kulübesi'nde çalışmak üzere Gravity Falls kasabasına gönderilir. Kasabanın doğaüstü sırlarını keşfederken birbirinden tuhaf maceralara atılırlar.",
+            "cover": "https://static.wikia.nocookie.net/international-entertainment-project/images/1/16/Gravity_Falls_-_poster_%28Turkish%29.jpg/revision/latest?cb=20230815041945",
             "categories": [
                 "Animasyon",
-                "Gizem",
                 "Macera",
-                "Doğaüstü",
                 "Komedi",
-                "Aile"
+                "Gizem"
             ],
             "year": 2012,
             "type": [
-                "Aile",
-                "Komedi"
+                "Çizgi Dizi",
+                "Animasyon",
+                "Komedi",
+                "Aksiyon & Macera"
             ],
             "imdb": 8.9,
             "seasons": [
@@ -183,8 +27,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180747"
                                 }
                             ]
                         },
@@ -193,8 +37,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180750"
                                 }
                             ]
                         },
@@ -203,8 +47,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180753"
                                 }
                             ]
                         },
@@ -213,8 +57,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180755"
                                 }
                             ]
                         },
@@ -223,8 +67,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180756"
                                 }
                             ]
                         },
@@ -233,8 +77,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180759"
                                 }
                             ]
                         },
@@ -243,8 +87,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861739"
                                 }
                             ]
                         },
@@ -253,8 +97,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180763"
                                 }
                             ]
                         },
@@ -263,8 +107,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180766"
                                 }
                             ]
                         },
@@ -273,8 +117,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861737"
                                 }
                             ]
                         },
@@ -283,8 +127,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861736"
                                 }
                             ]
                         },
@@ -293,8 +137,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180771"
                                 }
                             ]
                         },
@@ -303,8 +147,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861735"
                                 }
                             ]
                         },
@@ -313,8 +157,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861734"
                                 }
                             ]
                         },
@@ -323,8 +167,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180781"
                                 }
                             ]
                         },
@@ -333,8 +177,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861733"
                                 }
                             ]
                         },
@@ -343,8 +187,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861731"
                                 }
                             ]
                         },
@@ -353,8 +197,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180793"
                                 }
                             ]
                         },
@@ -363,8 +207,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180795"
                                 }
                             ]
                         },
@@ -373,8 +217,8 @@
                             "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitfvwwhpZKKjkUlhlOC5mLBu8YrbN_2EtnN4u_k1MS3XVO_6USnxXPm3_14tikUt4IOE4DpmFwrz5OJdJ8A56fodgZvM4vDwZIqYCNXGBXn_nhe2HRqujKIgUdcl3js7G8SkAiQMTjDhQ/s1600/esrarengizkasaba.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180799"
                                 }
                             ]
                         }
@@ -388,8 +232,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180803"
                                 }
                             ]
                         },
@@ -398,8 +242,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180807"
                                 }
                             ]
                         },
@@ -408,8 +252,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180812"
                                 }
                             ]
                         },
@@ -418,8 +262,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180813"
                                 }
                             ]
                         },
@@ -428,8 +272,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180817"
                                 }
                             ]
                         },
@@ -438,8 +282,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180822"
                                 }
                             ]
                         },
@@ -448,8 +292,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180828"
                                 }
                             ]
                         },
@@ -458,8 +302,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180833"
                                 }
                             ]
                         },
@@ -468,8 +312,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180838"
                                 }
                             ]
                         },
@@ -478,8 +322,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180844"
                                 }
                             ]
                         },
@@ -488,8 +332,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180853"
                                 }
                             ]
                         },
@@ -498,8 +342,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180859"
                                 }
                             ]
                         },
@@ -508,8 +352,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180866"
                                 }
                             ]
                         },
@@ -518,8 +362,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180870"
                                 }
                             ]
                         },
@@ -528,8 +372,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180875"
                                 }
                             ]
                         },
@@ -538,8 +382,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180882"
                                 }
                             ]
                         },
@@ -548,8 +392,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180894"
                                 }
                             ]
                         },
@@ -558,8 +402,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180898"
                                 }
                             ]
                         },
@@ -568,8 +412,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180935"
                                 }
                             ]
                         },
@@ -578,8 +422,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5180996"
                                 }
                             ]
                         },
@@ -588,8 +432,8 @@
                             "thumbnail": "https://m.media-amazon.com/images/I/51VUe8FOXhL._AC_SY200_QL15_.jpg",
                             "videoSources": [
                                 {
-                                    "name": "",
-                                    "url": ""
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5181014"
                                 }
                             ]
                         }
@@ -3436,6 +3280,586 @@
                         }
                     ],
                     "seasonNumber": 2
+                }
+            ]
+        },
+        "seri-8": {
+            "title": "Dinozor Treni",
+            "description": "Dost dinozorlar, tarih öncesi çağın farklı zamanlarını ziyaret etmek, dinozorlar hakkında bilgi edinmek ve eğlenceli maceralar yaşamak için trene binerler.",
+            "cover": "https://cdn.sinemalar.com/images/movie/267753/poster/dinozor-treni-1660927755.jpg",
+            "categories": [
+                "Eğitici",
+                "Çocuk",
+                "Animasyon",
+                "Doğa ve Hayvanlar"
+            ],
+            "year": 2009,
+            "type": [
+                "Çizgi Dizi",
+                "Animasyon",
+                "Eğitici"
+            ],
+            "imdb": 6.6,
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/7YMEzB2TGj4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCSVikqMIMQtdqT0wxvBgXO64PVQ",
+                            "title": "Dinozor Treni | 1. Sezon 1. Bölüm - Stygimoloch Vadisi",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5438945DINOT_1_Stygimoloch_Vadisi"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/dwj8JABdN1c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBOo9LnmiDFpraYsLYk5VGkPPYi6w",
+                            "title": "Dinozor Treni | 1. Sezon 2. Bölüm - Tiny Balığa Bayılır",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5451743D_NOT_2_Tiny_Bal_a_Bay_l_r"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/2CtSi6zYJms/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCpRk3H_oIZabUvpnAX4LZuBvIRww",
+                            "title": "Dinozor Treni | 1. Sezon 3. Bölüm - Yaban Hayatı Çağrısı Corythozor",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5438960D_NOT_3_Yaban_Hayat___a_r_s__Corythosaurus"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/6eTx2uLlt_0/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AHWBIAC4AOKAgwIABABGDEgYihlMA8=&rs=AOn4CLACf7doXBPOheIiSU-e_4nm6T6RLw",
+                            "title": "Dinozor Treni | 1. Sezon 4. Bölüm - Triceratoplar Öğle Yemeğinde",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5438967DINOT_4_Trieratoplar__le_Yeme_inde"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Ku9JcsJGpWo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDrUT2GpmFmg_HmrFFIzZlBnC0qCw",
+                            "title": "Dinozor Treni | 1. Sezon 5. Bölüm - Sıcağı Yenmek",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5438972DINOT_5_S_ca__Yenmek"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/hPjNV4Kv0k0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLARjlOKvZuCbE5cTaO_03DSpOB1gA",
+                            "title": "Dinozor Treni | 1. Sezon 6. Bölüm - Annemize Çiçekler",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5438977DINOT_6_Annemize__i_ekler"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/zttsGvKX5t0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClcuBGf7DyzJ3Oxz9-2txdjMz2xA",
+                            "title": "Dinozor Treni | 1. Sezon 7. Bölüm - Ben Bir T-Rex'im",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5438983DINOT_7_Ben_Bir_T_Rex_im_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ovW4eXnoQic/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADMXVHCjpvxC_Kt4rwfI-EcpIPDg",
+                            "title": "Dinozor Treni | 1. Sezon 8. Bölüm - Dört Ayaklı Ned",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5451744DINOT_8_D_rt_Ayakl__Ned"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZpwSKDb2OJo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAWSqeFEcgDnzkdZdSLtHR1lu08_g",
+                            "title": "Dinozor Treni | 1. Sezon 9. Bölüm - Zeka Küpü Dinozor",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5438998DINOT_9_Zeka_K_p__Dinozor"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/M4jHzl20SsA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC7nfWRECGHcoXthQZKugACmww7-A",
+                            "title": "Dinozor Treni | 1. Sezon 10. Bölüm - Peteinozor Petey",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5451746DINOT_10_Peteinozor_Petey"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/w00fdLsqvdo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCfnWr-X3xoCPsvisNjqlI6pUQwCg",
+                            "title": "Dinozor Treni | 1. Sezon 11. Bölüm - Hızlı Dostlar",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439014DINOT_11_H_zl__Dostlar"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/NnicDWSzUUY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdegZy5PwhirJGQZaJNlz2JchuOw",
+                            "title": "Dinozor Treni | 1. Sezon 12. Bölüm - T-Rex Dişleri",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5451646DINOT_12_T_Rex_Di_leri"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/IVizYu88sGU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD55gdouhNElCGUhgzDQoXwggBb0w",
+                            "title": "Dinozor Treni | 1. Sezon 13. Bölüm - Şu Tüylere Bakın!",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5451652DINOT_13__u_T_ylere_Bak_n_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/gz_u_dKPWQY/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAciP-wwp-tJggggVqXmeosVNpazA",
+                            "title": "Dinozor Treni | 1. Sezon 14. Bölüm - Dikenlere Dikkat",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439031DINOT_14_Dikenlere_Dikkat"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/xorvUB1GIz0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC3STH53sfehzkGZIposhdnergfZQ",
+                            "title": "Dinozor Treni | 1. Sezon 15. Bölüm - Koca Bir Dinozor",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439039DINOT_15_Koca_Bir_Dinozor"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/qYD6kcuPF2o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4ukV9ykUxoTgiSGZn7XOq_Hyu2Q",
+                            "title": "Dinozor Treni | 1. Sezon 16. Bölüm - Annie ile Oyun Günü",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5451657DINOT_16_Annie_ile_Oyun_G_n_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/UHs8N5KNeMw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCVYXgKuCklVa8hujFbfV6skkVOxg",
+                            "title": "Dinozor Treni | 1. Sezon 17. Bölüm - Ankylozor Gibi Zırhlı",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439048DINOT_17_Ankylozor_Gibi_Z_rhl_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/1Xc-AupE0GA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDEZEseI7_23KhXS020rkN_KL4AbQ",
+                            "title": "Dinozor Treni | 1. Sezon 18. Bölüm - Kamp Günü",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439056DINOT_18_Kamp_G_n_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/WhIOBVA8FmU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBw08N-QOo3a0MTHMu9WesNXdEARQ",
+                            "title": "Dinozor Treni | 1. Sezon 19. Bölüm - Giganotozor Laura",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5451663DINOT_19_Giganotosaurus_Laura"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/YGtg42_yOyo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDtEaaJhnqL4vXoNwqVzZ_moBjwOg",
+                            "title": "Dinozor Treni | 1. Sezon 20. Bölüm - Dinozor Dışkısı!",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5451667DINOT_20_Dinozor_D_k_s_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/40LZMIF4p_U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCSdLY2VbgOxmF4ouq6B464YkKmbA",
+                            "title": "Dinozor Treni | 1. Sezon 21. Bölüm - Deinonychus Derek",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439078DINOT_21_Deinonychus_Derek"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/Lzc_D5BYNok/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD3VS1DF487-ZOr66-wdRC4Z7skLg",
+                            "title": "Dinozor Treni | 1. Sezon 22. Bölüm - Don'un Yusufçuğu",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439086DINOT_22_Don_n_Yusuf_u_u"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/qalQHWcvN90/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCrgOEvSpw6IteGHpcfI4hywULmcQ",
+                            "title": "Dinozor Treni | 1. Sezon 23. Bölüm - Bir Minicik Dinozorcuk",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5451671DINOT_23_Bir_Minicik_Dinozorcuk"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/HMLlc04ZGZ0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDpn4akGkYYMHwU2trSH4LqqLTHrw",
+                            "title": "Dinozor Treni | 1. Sezon 24. Bölüm - T-Rex Gücü",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439097DINOT_24_T_Rex_G_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/TC9Oy4pOT2I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZu0jhqKTtGeCsBLJc4yjLIFvdeg",
+                            "title": "Dinozor Treni | 1. Sezon 25. Bölüm - Boru Çalan Hadrozorlar!",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5451676DINOT_25_Boru__alan_Hadrozorlar_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/xCMfcnMG2PQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrXi_7qqYna1b5KlBIJIWZIsDTBw",
+                            "title": "Dinozor Treni | 1. Sezon 26. Bölüm - Sürpriz Parti",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439110DINOT_26_S_rpriz_Parti"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/QTSh8hMNmFE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7NLglI0WT4lpTWM4tkc8AdJP-BA",
+                            "title": "Dinozor Treni | 1. Sezon 27. Bölüm - Theropod Kulübü",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439116DINOT_27_Theropod_Kulub_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/eOlZ6vk7A4k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLChHJGECc6RxR-T5qT4d6lzoP_RIg",
+                            "title": "Dinozor Treni | 1. Sezon 28. Bölüm - Yumurtadan Çıkış Partisi",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439122DINOT_28_Yumurtadan__k__Partisi"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/SleyXMYIbzc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAzl52b_GmxTQvPvlxqh2JjVY-qHQ",
+                            "title": "Dinozor Treni | 1. Sezon 29. Bölüm - Yaşlı Spinozor ve Deniz",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5451677DINOT_29__htiyar_Spinozor_ve_Deniz"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/vrVPJQCCpHk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB4czLjK9oMjLUcCC9xf-NA7APb8g",
+                            "title": "Dinozor Treni | 1. Sezon 30. Bölüm - Dikenli Kuyruğun Öyküsü",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439128DINOT_30_Dikenli_Kuyru_un__yk_s_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/jAPs84KsJXA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC1lH2ZaGbTZm9ZktUlJZNvYzolUw",
+                            "title": "Dinozor Treni | 1. Sezon 31. Bölüm - Gece Treni",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5451681DINOT_31_Gece_Treni"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/OiAlqWdlQV8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4OiHXQd2mkBYAmQ60z7Ie3QAxqg",
+                            "title": "Dinozor Treni | 1. Sezon 32. Bölüm - Fosil Fred",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439137DINOT_32_Fosil_Fred"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/7Xf5aiIJcr4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCbdb26lLeWRSyELa7hcGQN8YMoTQ",
+                            "title": "Dinozor Treni | 1. Sezon 33. Bölüm - Dinozorlar Karda",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439141DINOT_33_Dinozorar_Karda"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ac_1R1-O-ZA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCwByPJRlBR_e2TOizJtUKTmaXtYg",
+                            "title": "Dinozor Treni | 1. Sezon 34. Bölüm - Mezozoik Dönem İğne Yapraklıları",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439148DINOT_34_Mezozoik_D_nem__ne_Yaprakl_lar_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ySBwl7jZs9I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA3LHkRBI1Jg8C-Jr3gF63HGEtpSQ",
+                            "title": "Dinozor Treni | 1. Sezon 35. Bölüm - Oyuk Açanlar",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439150DINOT_35_Oyuk_A_anlar"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/3O6VoZjOP9M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAjQUX0OTtVdnVuA1UAo05KgCXCeg",
+                            "title": "Dinozor Treni | 1. Sezon 36. Bölüm - Shiny'nin Deniz Kabukları",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439154DINOT_36_Shiny_nin_Deniz_Kabuklar_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ysq3waCWUdQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAuqdqdMH2saU2ncOZOGkLnaA5QDw",
+                            "title": "Dinozor Treni | 1. Sezon 37. Bölüm - Kral Cryolophozor",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439157DINOT_37_Kral_Cryolophozor"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/4pHVJhQ9C0U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDV0jBAW4plVMxAk0DU4OPtaF6QYw",
+                            "title": "Dinozor Treni | 1. Sezon 38. Bölüm - İz Sürücü Buddy",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439161DINOT_38__z_S_r_c__Buddy"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/d58HhNosR0E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDBC43w7yDMijc1tbtDfPTsZcVH6w",
+                            "title": "Dinozor Treni | 1. Sezon 39. Bölüm - Kadim Kuş",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439163DINOT_39_Kadim_Ku_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/PnBdazy_1Ts/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDOR7jef1rGWtsK6BR_SKAbGhqdYg",
+                            "title": "Dinozor Treni | 1. Sezon 41. Bölüm - Dinozor Kamuflajı",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439167DINOT_41_Dinozor_Kamuflaj_"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 2,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/6Kz_9yzfL9o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDX3uaQ14Qivz0Aqxi2ldtUI-A3zQ",
+                            "title": "Dinozor Treni | 2. Sezon 1. Bölüm - Kayıp Kuş",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5451683DINOT_97_Kay_p_Ku_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/D7sRD3ru8fc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCxv_CkBIvgTDdjprmJ_tVx9xuuGQ",
+                            "title": "Dinozor Treni | 2. Sezon 2. Bölüm - Orman Yangını",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5439178DINOT_98_Orman_Yang_n_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/UNmKj9Ifjrc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClMyiV53xkTe-xPXwNx3BuvHkXmg",
+                            "title": "Dinozor Treni | 2. Sezon 3. Bölüm - Pteranodon Kayalığında Kurak Günler",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5451649DINOT_99_Pteranodon_Kayal_nda_Kurak_G_nler"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ao9Ogk_Ye-E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAaAyY5LqRrvF3-WfeHzK3wxNWvHQ",
+                            "title": "Dinozor Treni | 2. Sezon 4. Bölüm - Büyük Engin Denizde Balık Tutma Yarışması",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5451655DINOT_100_B_y_k_Engin_Denizde_Bal_k_Tutma_Yar_mas_"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/QDbffcFenic/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAl0fCStSqrk0P4GksUjEWkPvhkKQ",
+                            "title": "Dinozor Treni | 2. Sezon 5. Bölüm - A'dan Z'ye Dinozorlar: Müthiş Bir Fikir",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5488989DINOT_105_A_dan_Z_ye_Dinozorlar_M_thi__Bir_Fikir%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/y0yKW7-Aj6g/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDScSubEYj7f6oJQ4_gSHwAzkwr8g",
+                            "title": "Dinozor Treni | 2. Sezon 6. Bölüm - A'dan Z'ye Dinozorlar: Kulaktan Kulağa",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5488988DINOT_106_A_dan_Z_ye_Dinozorlar_Kulaktan_Kula_a%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/JekSr0Lgc2k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLApiyAhyIUmzGCuyGGKb9SZptIqkA",
+                            "title": "Dinozor Treni | 2. Sezon 7. Bölüm - A'dan Z'ye Dinozorlar: Sınıflandırma",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5488987DINOT_107_AZ_S_n_fland_rma%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/XBdNvSrFC3U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCGO1rDnR_0QeTEXbUSLddYVhV72w",
+                            "title": "Dinozor Treni | 2. Sezon 8. Bölüm - Alamozor'u Unutmayın",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5488986DINOT_109_Alamozor_u_Unutmay_n%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/EPdGrNHF3xQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAMw81SygcUVw0LjfPQjX7N81motw",
+                            "title": "Dinozor Treni | 2. Sezon 9. Bölüm - Şafak ve Gurup",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5488984DINOT_110__afak_ve_Gurup%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/wVcgghDkehg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA0Z-hTD8mZK7kQve-AxDJBvnVHYg",
+                            "title": "Dinozor Treni | 2. Sezon 10. Bölüm - Müthiş Bir Boyun",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5488983DINOT_111_M_thi__Bir_Boyun%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/KIDXeJyxFag/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAu4b0X4U4HLLGhF-2EXo0SLmUAaA",
+                            "title": "Dinozor Treni | 2. Sezon 11. Bölüm - Gilbert Ziyarete Geliyor",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5488982DINOT_112_Gilbert_Ziyarete_Geliyor%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/YulR-Lh-8TE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLACM4HWE8or7YrcIvokiWJGUihXTQ",
+                            "title": "Dinozor Treni | 2. Sezon 12. Bölüm - Dinozor Treni Batiskafı: Shoshana Shonizor",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5488981DINOT_127%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/6gBS43OXU5Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCcAtTN5Sl4QtKp7nU_eruF-zMfTQ",
+                            "title": "Dinozor Treni | 2. Sezon 13. Bölüm - Her Tür Aile",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5488980DINOT_128_Her_T_r_Aile%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/ZoALT1kxpmA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDgqQ98jgka00hADIiSPUCpdUH7Tw",
+                            "title": "Dinozor Treni | 2. Sezon 14. Bölüm - Dinozor Treni Batiskaf - Bir Deniz Kaplumbağası Öyküsü",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5488979DINOT_131_Dinozor_Treni_Batiskaf__Bir_Deniz_Kaplumba_as___yk_s_%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://i.ytimg.com/vi/F0ZQ6JOjojM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDW50lcXJgjjYhPMLoAg-rKq2YaXw",
+                            "title": "Dinozor Treni | 2. Sezon 15. Bölüm - Hızlı Tren",
+                            "videoSources": [
+                                {
+                                    "name": "sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5488978DINOT_132_H_zl__Tren%2F"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         },
