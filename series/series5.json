@@ -1,5 +1,555 @@
 {
     "series": {
+        "seri-1": {
+            "title": "Wakfu",
+            "description": "12 yaşındaki Yugo gizemli güçlere sahip olduğunu öğrenince, gerçek ailesini bulmak için harika diyarlara doğru yola çıkar.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BOTU3OTI5NTMtNzllYy00Y2Q2LTkzMTAtMTI5OWVlZDgxMmNmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "categories": [
+                "Çizgi Dizi",
+                "Fantastik",
+                "Macera",
+                "Animasyon"
+            ],
+            "year": 2008,
+            "type": [
+                "Aksiyon & Macera",
+                "Animasyon",
+                "Fantastik"
+            ],
+            "imdb": 8.2,
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1127503.jpg",
+                            "title": "Wakfu | 1. Sezon 1. Bölüm - Gizli Güçler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430892"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1128589.jpg",
+                            "title": "Wakfu | 1. Sezon 2. Bölüm - Yasak Orman",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430740"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1128922.jpg",
+                            "title": "Wakfu | 1. Sezon 3. Bölüm - Lanetli Harita",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430742"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1129997.jpg",
+                            "title": "Wakfu | 1. Sezon 4. Bölüm - Sihirli Kule",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430745"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1130535.jpg",
+                            "title": "Wakfu | 1. Sezon 5. Bölüm - Muhteşem Beşli",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430748"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1131365.jpg",
+                            "title": "Wakfu | 1. Sezon 6. Bölüm - Kasvetli Köy",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430752"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1131588.jpg",
+                            "title": "Wakfu | 1. Sezon 7. Bölüm - Zehirli Güzellik",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430756"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1132449.jpg",
+                            "title": "Wakfu | 1. Sezon 8. Bölüm - En Güzel Ekmek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430760"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1132980.jpg",
+                            "title": "Wakfu | 1. Sezon 9. Bölüm - Ruel'in Çantası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430764"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1133668.jpg",
+                            "title": "Wakfu | 1. Sezon 10. Bölüm - Gobbowl Cehennemi - Kısım 1",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430768"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1134880.jpg",
+                            "title": "Wakfu | 1. Sezon 11. Bölüm - Gobbowl Cehennemi - Kısım 2",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430772"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1135269.jpg",
+                            "title": "Wakfu | 1. Sezon 12. Bölüm - Gobbowl Cehennemi - Kısım 3",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430775"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1136089.jpg",
+                            "title": "Wakfu | 1. Sezon 13. Bölüm - Sekin Mavi Deniz",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430778"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1137030.jpg",
+                            "title": "Wakfu | 1. Sezon 14. Bölüm - Ay Adası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430783"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1137670.jpg",
+                            "title": "Wakfu | 1. Sezon 15. Bölüm - Adamai",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430785"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1138304.jpg",
+                            "title": "Wakfu | 1. Sezon 16. Bölüm - Öfkeli Ejderha",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430789"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1138522.jpg",
+                            "title": "Wakfu | 1. Sezon 17. Bölüm - Ölümsüz Grougaloragran",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430791"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1139698.jpg",
+                            "title": "Wakfu | 1. Sezon 18. Bölüm - Tofu Kardeşliği",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430795"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1140318.jpg",
+                            "title": "Wakfu | 1. Sezon 19. Bölüm - Sadida Krallığı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430799"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1141081.jpg",
+                            "title": "Wakfu | 1. Sezon 20. Bölüm - Hayat Ağacı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430802"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1141480.jpg",
+                            "title": "Wakfu | 1. Sezon 21. Bölüm - Igol",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430804"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1142616.jpg",
+                            "title": "Wakfu | 1. Sezon 22. Bölüm - Rubilax",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430805"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1143074.jpg",
+                            "title": "Wakfu | 1. Sezon 23. Bölüm - Dofus Arayışı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430808"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1143967.jpg",
+                            "title": "Wakfu | 1. Sezon 24. Bölüm - Savaş Hazırlığı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430809"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1144756.jpg",
+                            "title": "Wakfu | 1. Sezon 25. Bölüm - Ben Bir Efsaneyim",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430812"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/1145479.jpg",
+                            "title": "Wakfu | 1. Sezon 26. Bölüm - Zinit Dağı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430814"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 2,
+                    "episodes": [
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11731451.jpg",
+                            "title": "Wakfu | 2. Sezon 1. Bölüm - Yeni Tehlikeler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430816"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11732136.jpg",
+                            "title": "Wakfu | 2. Sezon 2. Bölüm - Rubilaxia",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430817"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11733116.jpg",
+                            "title": "Wakfu | 2. Sezon 3. Bölüm - Kılıca Hapsolan Ruh",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430818"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11733755.jpg",
+                            "title": "Wakfu | 2. Sezon 4. Bölüm - Percedal'ın Dönüşü",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430819"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11734698.jpg",
+                            "title": "Wakfu | 2. Sezon 5. Bölüm - Ejderha Domuz",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430820"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11735280.jpg",
+                            "title": "Wakfu | 2. Sezon 6. Bölüm - Qilby",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430821"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11736114.jpg",
+                            "title": "Wakfu | 2. Sezon 7. Bölüm - Pusu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430822"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11736459.jpg",
+                            "title": "Wakfu | 2. Sezon 8. Bölüm - Adalet Şövalyesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430823"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11737316.jpg",
+                            "title": "Wakfu | 2. Sezon 9. Bölüm - Rushu'nun Dünyası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430824"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11737545.jpg",
+                            "title": "Wakfu | 2. Sezon 10. Bölüm - Kriss Krass",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430825"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11738866.jpg",
+                            "title": "Wakfu | 2. Sezon 11. Bölüm - Maskeli Gobbowl'cu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430826"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11739541.jpg",
+                            "title": "Wakfu | 2. Sezon 12. Bölüm - Emporg",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430827"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11739910.jpg",
+                            "title": "Wakfu | 2. Sezon 13. Bölüm - Susayanların Gecesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430829"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11740461.jpg",
+                            "title": "Wakfu | 2. Sezon 14. Bölüm - Ses Hırsızı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430831"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11741568.jpg",
+                            "title": "Wakfu | 2. Sezon 15. Bölüm - Wabbit Adası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430832"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11742145.jpg",
+                            "title": "Wakfu | 2. Sezon 16. Bölüm - Lanetli Çeşme",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430833"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11742730.jpg",
+                            "title": "Wakfu | 2. Sezon 17. Bölüm - 12'ler Konseyi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430834"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11743751.jpg",
+                            "title": "Wakfu | 2. Sezon 18. Bölüm - Cleome",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430835"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11744249.jpg",
+                            "title": "Wakfu | 2. Sezon 19. Bölüm - Bir Avuç Kama",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430836"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11744733.jpg",
+                            "title": "Wakfu | 2. Sezon 20. Bölüm - Zinit",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430837"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11745311.jpg",
+                            "title": "Wakfu | 2. Sezon 21. Bölüm - Bellaphone Adası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430838"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11746473.jpg",
+                            "title": "Wakfu | 2. Sezon 22. Bölüm - Yüzüklerin Sessizliği",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430839"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11747138.jpg",
+                            "title": "Wakfu | 2. Sezon 23. Bölüm - Kızıl Pençe Adası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430840"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11747821.jpg",
+                            "title": "Wakfu | 2. Sezon 24. Bölüm - Güçlü Phaerys",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430841"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11748368.jpg",
+                            "title": "Wakfu | 2. Sezon 25. Bölüm - Beyaz Boyut",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430842"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://tvt.fancaps.net/11749167.jpg",
+                            "title": "Wakfu | 2. Sezon 26. Bölüm - Eliatropelar",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4430843"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "seri-2": {
             "title": "Esrarengiz Kasaba",
             "description": "İkizler Dipper ve Mabel Pines, büyük amcaları Stan'in Gizemli Kulübesi'nde çalışmak üzere Gravity Falls kasabasına gönderilir. Kasabanın doğaüstü sırlarını keşfederken birbirinden tuhaf maceralara atılırlar.",
