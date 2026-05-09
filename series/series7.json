@@ -238,10 +238,6 @@
                                 {
                                     "name": "Sib2-Türkçe",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=6188082"
-                                },
-                                {
-                                    "name": "BC-Türkçe",
-                                    "url": "https://seed305.bitchute.com/5khxPvsn5XZn/GacdAwUje3NV.mp4"
                                 }
                             ]
                         },
@@ -583,6 +579,566 @@
                         }
                     ],
                     "seasonNumber": 1
+                }
+            ]
+        },
+        "seri-3": {
+            "title": "Avatar: Korra Efsanesi",
+            "description": "Avatar Aang'in ölümünden sonraki yeni Avatar olan Güney Su Kabilesi'nden Korra'nın maceralarını konu alan fantastik animasyon dizisi. Cumhuriyet Şehri'nde geçen hikayede Korra, bükme ustalarından eğitim alırken modernleşen dünyanın getirdiği yeni tehditlerle, siyasi çatışmalarla ve ruhlar dünyasının gizemleriyle başa çıkmayı öğrenmek zorundadır.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTdmMGEzZjEtYTc2Yi00ODNlLWJiMWEtNTVhMGU0MGViMWI4XkEyXkFqcGc@._V1_.jpg",
+            "categories": [
+                "Animasyon",
+                "Aksiyon",
+                "Macera",
+                "Fantastik"
+            ],
+            "year": 2012,
+            "type": [
+                "Aksiyon & Macera",
+                "Animasyon",
+                "Fantastik"
+            ],
+            "imdb": 8.4,
+            "seasons": [
+                {
+                    "episodes": [
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX-AEyErc-J0K8TekvTNO6yowndLWMraVf30beC3p3oAdmyYbLh6csiXQjxFtwbJ7Duow0lEucQ803Ed5UjOJYRNHMZ0LmuSSqMBjDivcD-fn_Z44BVR-P1U.jpg?r=9f7",
+                            "title": "Avatar: Korra Efsanesi | 1. Sezon 1. Bölüm - Cumhuriyet Şehri'ne Hoş Geldiniz",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478312"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXXNUYDqGf-dqapuOqqlsRBiPG0RnL50c2O6o0aNJclO59WjC6C3BzscHMpMBRSD0li3OoAo5vhSbQwgqmwVNeAtD0N8q2-YGRUnsjbLfnbeebME0rwnh16R.jpg?r=7f2",
+                            "title": "Avatar: Korra Efsanesi | 1. Sezon 2. Bölüm - Rüzgar Gibi Bir Yaprak",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478319"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABePeb0vUyCsE3gZkqi9UGkVl6MkwF7_Iraal7y7J4bB58Be6b_Y_CnltQT3WmuINgCioAdngVYn_uIGs8OpXR8cXhpgBNF4Buxk3f54onFWGL_pJRAJXeu_I.jpg?r=e4b",
+                            "title": "Avatar: Korra Efsanesi | 1. Sezon 3. Bölüm - Gerçek Yüz",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478324"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRkL9-cPgCeNyJf_5MHcnPezw0K8YIszxdU2czrheAy8fSK-70spT1HdxdenBXqNKVLFsV19r_DlytCN_keGz4MQaN_z22mxSZveefSvmXSrGjVkRBrpn1_n.jpg?r=4fa",
+                            "title": "Avatar: Korra Efsanesi | 1. Sezon 4. Bölüm - Gecenin Sesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478327"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcd4FepwlTyr-r4c24QHbYH7HhMJL4JDBZf8MKmkR4AZLYBEYGsfbBp4oDvHfp-WX3-MpR1tmLtsN2ZKasNGDspBh8uvajqv4sGgKNRLx2e-WvCMaW3MBNdl.jpg?r=98f",
+                            "title": "Avatar: Korra Efsanesi | 1. Sezon 5. Bölüm - Rekabet Ruhu",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478328"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaapfZmYNc8oAy8_kCAfQifKMqOo0lQGljAKaikHm7wqbFr3fRTvhfzQ8dpH_hZ2jCFjrrSMTnzK__KfXKrtYQ3ADlrL6dmb-iVX0_XscFQVH4J33Pmg53N9.jpg?r=4e7",
+                            "title": "Avatar: Korra Efsanesi | 1. Sezon 6. Bölüm - Ve Kazanan...",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478331"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABRcJzy8NHFc5bF0KO9aRy9ThFHw3H7_upWDsIMMAgySKrP46QW2tXfBqeddUZQ7daB7NPjrbCy_4PpCFvV8mYDpEqIUinOg1papPa4B0ka26MjM8Fq_yv5Ey.jpg?r=a62",
+                            "title": "Avatar: Korra Efsanesi | 1. Sezon 7. Bölüm - Sonuçlar",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478332"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfIB-faIKabf_q3YF0nb1MOMoD5R7qDVjdZLt0pirrnz1zZmdYJfKP3SVd999oeDy52Q3mmiq4j3xH1YGG9UP4mO032xjv7ZfiBGOoqq0Bb1r_JuOsTzPWfD.jpg?r=115",
+                            "title": "Avatar: Korra Efsanesi | 1. Sezon 8. Bölüm - Aşırılıklar Buluştuğunda",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478335"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABekvuQa4T0UA4E2mLRbkbEtscOrzRvt_9KH7j4_RPoXosHddMbe0C10uQIuN58LhaEbKessI1X0S4C0cuS5br9qUi9C5eFelTe9mpOI37fgygrWeYIrcIDCu.jpg?r=2f1",
+                            "title": "Avatar: Korra Efsanesi | 1. Sezon 9. Bölüm - Geçmişten Gelenler",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478340"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeH4jjk4i0ztlEDq9m4oF7vRr2lbB9EUvy9vBEQsGPqlQQzFY3gHNWC-JpHoX2A4Vq6BUNPyBZupFNjjL2zmz_i5zwBri0O8HUx6eGnhAe3_L-hoxIMh7lUu.jpg?r=21a",
+                            "title": "Avatar: Korra Efsanesi | 1. Sezon 10. Bölüm - Akıntıyı Değiştirmek",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478343"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdfJ3Xt6knFrGbCpoMnx_KUVPRcA8KnVsin5vqB-tw2QfOjdI1voYI8qf8GIGc0uQGXXeBBO9PLefwQkPl9VvFxA-dTL8BauNB2Q-4IrENu0D8k6BmMK9cgE.jpg?r=dce",
+                            "title": "Avatar: Korra Efsanesi | 1. Sezon 11. Bölüm - Ailenin Sırları",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478346"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbm5JXH1C2nZ-W7FjKCcJO8vFUPJaf4MYH27e2l3t40wy4sTfWBmm7FLrqFJcRU2GgJqeC4LFyiESLrOOivgkDfljIc9BHuUJKsnQGbgKYAadjpfDjB_X9QR.jpg?r=6b4",
+                            "title": "Avatar: Korra Efsanesi | 1. Sezon 12. Bölüm - Oyunun Sonu",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478348"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 1
+                },
+                {
+                    "episodes": [
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVhnXgAE1PgPwlaiIiT5dBe8oiUNbkAeqDhm-r9w4sLuS6uM8riW6cwDsf20GiIZWgyTUS4oRVukWUXIXnZMtOa60Ti4u9tc-WtF24jSUApXL-6CWnL9fU0y.jpg?r=a55",
+                            "title": "Avatar: Korra Efsanesi | 2. Sezon 1. Bölüm - Asi Ruh",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478350"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQfgQE_pMsV46JvhFzmQ9sNNgwi-s-62HtkJkDtOLscaH5P-w-65N6D9OpJlC5Tsh9-DMbN_W56EABGXAPI_WdnBYRwVG1dSKzc80W1zgT1SBUFuu6Pbal4i.jpg?r=ab3",
+                            "title": "Avatar: Korra Efsanesi | 2. Sezon 2. Bölüm - Güney Işıkları",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478352"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABToBd6F_1Zzxm66YsqBy4hreTCD2gnDU4DJCU4K0Fs1EUXJtaMlRX9gOwPM6ZNl2MarBEaeKJZJ-LiY-9lPXmcgyVz5qONHoaH7zFnyLkEUdx2MFLQm70gB8.jpg?r=ed7",
+                            "title": "Avatar: Korra Efsanesi | 2. Sezon 3. Bölüm - İç Savaş 1. Kısım",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478353"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZ-s9JzDM9ozyvhphAgybx07ZgYkWvnQSv6Fn5nOYMu4ZtuV6s9PotosI3Dy8Mn3_7HNIuWMVCtLjKlhlE6i3Bqby7in9EEch81HckM4tO868Cvrbc4mA8yT.jpg?r=844",
+                            "title": "Avatar: Korra Efsanesi | 2. Sezon 4. Bölüm - İç Savaş 2. Kısım",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478354"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABckxj5KrEfvwyF-MFzC80_PhF3a9xk-BLSbHbaqfJf5vtuNL-kFQ5A8xyDhG_ygToEpUW8MYDZej2U01uzZbhjTHqnXDU9r6dDZepdHSJNIQxeW_vp7Vq0HZ.jpg?r=569",
+                            "title": "Avatar: Korra Efsanesi | 2. Sezon 5. Bölüm - Barış Güçleri",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478356"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXNumecEEhzfzhlvd0-I0ZhsbrXVRmgmZ-F4VSvVVWm0df0FAMB7ShCwPKjSleOX3f1kvX6BGc9LddV6HAcHyCG4JPykIqIvc8YgSNEoxkQSx0t4NmYl_EGr.jpg?r=575",
+                            "title": "Avatar: Korra Efsanesi | 2. Sezon 6. Bölüm - Baskın",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478357"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABb_xnSAtY0OvJFilYUpauu33Ny3tTuIpxclcKzE2SPbuGz5ZcBMMF4PKwAJe9biHicWoX7d-qupzqEyPvJIJuqAP_3tD6AMLRKom1aSuWhH1dlVHYGtMND-m.jpg?r=9bd",
+                            "title": "Avatar: Korra Efsanesi | 2. Sezon 7. Bölüm - Başlangıçlar 1. Kısım",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478358"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTRu1WntuCNRouDAebfWV_aMLlFFlN8P4YAz3Ir8Lo9IyopJ9C00whMJ3ZRxA5XV6zC_uk8C3vHQ8042uGPOs6mvr2Beit_Zf5sLtcMVVIf9eyFbFLjBddUG.jpg?r=6f0",
+                            "title": "Avatar: Korra Efsanesi | 2. Sezon 8. Bölüm - Başlangıçlar 2. Kısım",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478360"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXQ6ah8HrLP92yWS0sAXO0a33rl1lSiWU4Ew_pTYu7qRqRmMDiZv4B2PV6c0KM5PwM_S1bUExoADdjlO46jyLDmNK3O3f871avRm1wLw0l1XaMekoHVrweJP.jpg?r=3ac",
+                            "title": "Avatar: Korra Efsanesi | 2. Sezon 9. Bölüm - Rehber",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478361"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABcQhc6YUTO_92SPCTocUFWhsP5CrgMou0TtNTTrqWKI2hwSd9vUbASLpX6vt4dC33sOiM7yHWxWzTCrtMPvh2KmU8OESuA-V_FJX3Rkxt1qwVocut913dDcR.jpg?r=fa2",
+                            "title": "Avatar: Korra Efsanesi | 2. Sezon 10. Bölüm - Yeni Bir Ruhsal Çağ",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478363"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWbnLO4pRz_n1ed6MJkxGa9LVCX0pke0IE5-_iAGMghzxvYj3Jrb5biCnZJCL2qVAXFZNeTlrpvxzQRoTQRq8EZ7hRGaRn3xO0526OaFGLsCo_-AH7Sl6Zqg.jpg?r=c53",
+                            "title": "Avatar: Korra Efsanesi | 2. Sezon 11. Bölüm - Bin Yıldızın Gecesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478364"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABXcsz0VjIjNKN1I7TL5ec7gL_DYHpBAuUmYpvhe-dBXSmQyOWRgiyLNwU_7NvIQPWcOBHQ_K9gF9qJUNp70d2Q0-55ObxwNcp45J2XUP28ix31Q2r0tgLw-S.jpg?r=3a5",
+                            "title": "Avatar: Korra Efsanesi | 2. Sezon 12. Bölüm - Uyum",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478366"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWP6fUWNJekDKZnAGOs4ajOfWKO348CBMJpLDDBcyPdooW3I5IbApQoGc8_fdkhyuRtqUk9TS6V0P65kuVqJRhNAXqTKFRd7oqGy4abgHkqqv7JOLxljdhHp.jpg?r=3ac",
+                            "title": "Avatar: Korra Efsanesi | 2. Sezon 13. Bölüm - Karanlık Çöküyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478367"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABdK2h9Bs4JfMT_lIN6Ef30E-VWhtnkDP0F-xTeeXdAlqRD8QL3Y7d6Jz3-QaqnL0YUrfReoPBAHs1_hBSVX6arkeUawS-nuoW3jsk7oiR9bcNWkD-jgTjU2N.jpg?r=e3d",
+                            "title": "Avatar: Korra Efsanesi | 2. Sezon 14. Bölüm - Karanlıkta Işık",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478368"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 2
+                },
+                {
+                    "episodes": [
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABQ9zr3ldHumymf0ns5fsWy8CucPAu9cGsiJTcxrSKFPDA3dTakxEakE1cwsDE_DsPx8kcERlWeGQ6_htDshBpxHVEsMzgAGCxBeZf4-gqCNOqZQFbQco7bKZ.jpg?r=612",
+                            "title": "Avatar: Korra Efsanesi | 3. Sezon 1. Bölüm - Temiz Bir Nefes",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478369"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABSMteDKWesU8CIyYxtcGvpt2xEnKCJRVLRdeyTY6Zlv7feTZNosfTR61ag6aJ-1F4ui-2iI-MNYGoCpDvTcywu2_dF1hPqgKfJKbXRTyJLeYwoUxsHIHYIvN.jpg?r=ff4",
+                            "title": "Avatar: Korra Efsanesi | 3. Sezon 2. Bölüm - Yeniden Doğuş",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478371"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZmk7doW-MmN7uWT3GJHK5q5pfwTmwGtiAoFn-bVdMS7Zuuh7OKN5QeeFm95n8ioh7bIF9ts3aM-2WT-MKZU7KRNfngyawa5mCs6gG5lpB9CMteuuHWFlV3P.jpg?r=8d8",
+                            "title": "Avatar: Korra Efsanesi | 3. Sezon 3. Bölüm - Toprak Kraliçesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478372"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABYE_SCPEMjiWbQ-1xk8bV4uTppWgNUF1dor3av_10f7mbxeHw4jiox0n02Mi0npp05K3I0V5RQQjXwMmaGWwsCA8-QqLbAM6AEJ_7Oy-7QgB8gW5spKWRNN2.jpg?r=ffc",
+                            "title": "Avatar: Korra Efsanesi | 3. Sezon 4. Bölüm - Tehlikenin İçinde",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478375"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbRFeT0ELq2lJvyf94ZqvMJYieEPOqHAOZS1yGvwKXNUEVDwiCRlO2U5iisp9AiQGaqwfKtudB7UCRosSdr2bZfpoSzTLxxcx2-0W-rsZm32W7GUMn0GTzR_.jpg?r=95c",
+                            "title": "Avatar: Korra Efsanesi | 3. Sezon 5. Bölüm - Metal Klanı",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478376"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABWxdTWtltHgovV-P1ZGI66o8fSElnejjs9_WC-cqiwWcT2j9rzucNctZ1oF5pLhJPep0XlJYCk5Jsl3mDs9WPmW3LsZq62N1zUlmk6dX1HvUYuAAsbArBlKI.jpg?r=3e3",
+                            "title": "Avatar: Korra Efsanesi | 3. Sezon 6. Bölüm - Eski Yaralar",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478377"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABeazXhxrpE_QF9_Pex-i0hGR3V0JOb8twY6u8bt6H7Ssw83-wBkNnVtQZIYzNhNAyahAAE7iUCvgpijHDQ-ce9egH1MS1BaA9U9iNnQshZEHI6pn72kL5Wgl.jpg?r=4e4",
+                            "title": "Avatar: Korra Efsanesi | 3. Sezon 7. Bölüm - İlk Hava Bükücüler",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478378"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZTYnumIAjrOE8tdA-1ut_IPBmIhSTTbEjzv_IcOZ_9cTm1WZQ4w_zPKnlQuREBZ_5X_M12IkXymTw8Zt1dBA-k-fJHsa4vQXBuc10uobyZ4dhNLkJ160uFX.jpg?r=071",
+                            "title": "Avatar: Korra Efsanesi | 3. Sezon 8. Bölüm - İçerideki Dehşet",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478379"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaXyuOF2HOcYKyXaOJbyw5iS1bVz8h8a1OAdY_MoF4UygFdrlaCdhaxg_FfKyRsRFXnA-BeNQZOiL5i9KXWzT5tS3FyTjrxtAp53_kvcWh_SDQMKc7v_Ms17.jpg?r=5c9",
+                            "title": "Avatar: Korra Efsanesi | 3. Sezon 9. Bölüm - Gözlem",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478381"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbfaRObQBp66sACokkRHzgl84J7YGAicue9NKH4PW-hV_25AiYHw6mEhF7oWt3SDNrEVC3yyik6QoNYZNLMcjNjhKDFSbEZj5Hpsx0hq_iwLUv2p1FFpwfDL.jpg?r=01b",
+                            "title": "Avatar: Korra Efsanesi | 3. Sezon 10. Bölüm - Çok Yaşa Kraliçe",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478382"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABet-iuuHlF3rWgs38l_pD2j_haXv_jkmulGKsbHyqE2edPyuX-FvdOIqHN9IUeghV-BO0_CJmcshuGYbGFpebEy3paitQ7Qinr0jZc-wp6sa7WiQMf-qyWvL.jpg?r=698",
+                            "title": "Avatar: Korra Efsanesi | 3. Sezon 11. Bölüm - Ultimatom",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478383"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVzIwq4Lh_1P6veVvlOzCovODp4b0BxjZrnx39ftH9P0IYOkNzu1hrj_KqTNRE43Niwg3fdek3ZcO7-4KbXuh7TwP9ImbCN3nA1H0RkYzNj8AiUKODGYVWol.jpg?r=78c",
+                            "title": "Avatar: Korra Efsanesi | 3. Sezon 12. Bölüm - Boşluğa Gir",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478385"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZgpj8rJTqHJD-0nXblC7agNIO0TsqjrmVTrI3EKMswpjyd9YGMyuwfC_5dDRx5ME6lCz_eQsLw9_FnXCdkyRBJONqiRjejZq2j3IPmpO6I1w451UN-DRl2z.jpg?r=f11",
+                            "title": "Avatar: Korra Efsanesi | 3. Sezon 13. Bölüm - Kızıl Lotus'un Zehri",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4478386"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 3
+                },
+                {
+                    "episodes": [
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY4p0ObJGWpg-Johl8li1jEIyFFrhMOEmclfJHNVXe8rSDBu8gy0X2lZcdAG9PkJDSypEeD5UU5hUqvTOpIegqAIRk7xZPoeE79M3XE3yDaNuw4bfkXbDk87.jpg?r=add",
+                            "title": "Avatar: Korra Efsanesi | 4. Sezon 1. Bölüm - Bunca Yıldan Sonra",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5161889"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUDp71z_XkX-F_gyjZc2DTUZ9sjaUKUbh1qRIjFH4_M6yJHgP-yBhKLJOSZjrQ5kHO3__3Db2NzcteG0ToCVDm_6m9U-TebbV1Umbk-ztBMYpu_zLY5HQwar.jpg?r=f6a",
+                            "title": "Avatar: Korra Efsanesi | 4. Sezon 2. Bölüm - Korra Yalnız",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5161899"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbpUoGX-QcYJ03WyDpjmL9Lof2jyTxdUBBBRqJ0J1MVZn5YEV6nmsGF8to4vUs--woKn4oBghp15aijPZGdgFMW0L46mMiKKN0-vfbnm4NnkwCJw_bX-8jTL.jpg?r=f6a",
+                            "title": "Avatar: Korra Efsanesi | 4. Sezon 3. Bölüm - Taç Giyme Töreni",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5161910"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABaGISxkP8J3ziwjzAiDt8vvVMmR83ChZY_axaCHu_IM1owjp3BUpYyN-4JHWJhoh09np4mJdvKnmCqAIFh8llc9VPJJfH-qLydr0Svfknp1_o-IuzxjJJNyh.jpg?r=afe",
+                            "title": "Avatar: Korra Efsanesi | 4. Sezon 4. Bölüm - Çağrı",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5161915"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTLxhCYCJFsMXx12zhbX1p3k0V7xkHe2Egmh5T-bbH7R7mfSS7rmwCoXvi3rd_Y2nALSM73WHfIE3IGl-iR4pVcEEf8NykikPuSAjftR5-SIkFbH2qeYbt8k.jpg?r=840",
+                            "title": "Avatar: Korra Efsanesi | 4. Sezon 5. Bölüm - Düşman Kapıda",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5161923"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABfZMiLgvVNYP_PbslqBEmQlG4N0uesiCEimZvUBVzHATPfldodHm_8uYNbptMmlp7uwe6d8_W-GfogzceB7GznT1J--wThYLhOT86gxSUbVstgu4p4-Nt0F8.jpg?r=f3e",
+                            "title": "Avatar: Korra Efsanesi | 4. Sezon 6. Bölüm - Zaofu Savaşı",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5161933"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABX5v3jYO55cOyBM1mk9IkYxt9TIIS3a3AlHOF2KuDAMAK3aOw57gPOf73LI7nCqrUnCHeJ3RuB4V-bNQ2tIZ0Zk8hr4--aBYUCp9OdDHERuQUnLcA6FCMqAX.jpg?r=646",
+                            "title": "Avatar: Korra Efsanesi | 4. Sezon 7. Bölüm - Buluşma",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5161940"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABW14qnmVKq-qfmeauMdaVskz3a_q6ylSBcRjYXzP5tKBmB8fU-_vWYQQvgHFVDmEXz-qvb4S5L8UJCezS7waHjr2XT538sDmxpvqOqvsDKGr3q2mJobrw5Zd.jpg?r=1ca",
+                            "title": "Avatar: Korra Efsanesi | 4. Sezon 8. Bölüm - Hatıralar",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5161945"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABY65DGYuPIiATnCU_cM0rNBKdwUjCFXpHtXhaubhdgTJGsMvT0s8lfOk7ziaj4c0YhQlKWJSzDDdpdu4I6c9Km5WV-0KWyc0K13JxlYeGkLBk9PjM4_tiiJg.jpg?r=1f0",
+                            "title": "Avatar: Korra Efsanesi | 4. Sezon 9. Bölüm - Vahşi Doğanın Ötesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5161948"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABR-MqfKCi_ecRFLJHKbxSdNzje6FKuJwPJdjexlySYXnqkuzSEqBAm8UZq16UDs9MxOuBGw3CX4ZG7rv3LQd2RQ46LprxgLG825VaoWmFI2MAe8g_8ZiRdvN.jpg?r=2ea",
+                            "title": "Avatar: Korra Efsanesi | 4. Sezon 10. Bölüm - Beifong Operasyonu",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5161955"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABVLP7OsE7CVB4AQ_ntHKjacLhddhtDBpjZwkNuo-baSOEML4a1SJmWyH_8YDzAPFPWEHGwqKWSYGSJCFTRThstVNFLtmaB0g9U0uOyShRDHbw8wyhcfWEok7.jpg?r=87f",
+                            "title": "Avatar: Korra Efsanesi | 4. Sezon 11. Bölüm - Kuvira'nın Hamlesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5161961"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABZWeJp_7jp9oTth4SqYT-z9RJ87Qnge3bPShEvO6zBBhwdAsCzACzJLJDwJJSyrOZY0BlhVINiN82WbbIgrCvU8W8IRCu5SfbkGnxr1bkTJuLoqanaouhvEz.jpg?r=4ad",
+                            "title": "Avatar: Korra Efsanesi | 4. Sezon 12. Bölüm - Dev'in Günü",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5161965"
+                                }
+                            ]
+                        },
+                        {
+                            "thumbnail": "https://occ-0-3889-58.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABTe9nSbkPuKIND50nTxVN6y-5pRX6ky5TG0Q0cy03yANGDtIaBs7wlTrKpoWkM15gOzm-aJ6ULUzWyIOWkT68QNn_s4oa87gDpgSnotlBGcuTAPBRuoKlxmE.jpg?r=c86",
+                            "title": "Avatar: Korra Efsanesi | 4. Sezon 13. Bölüm - Son Direniş",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5161968"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 4
                 }
             ]
         }
