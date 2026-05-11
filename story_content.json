@@ -3,6 +3,28 @@
     "stories": [
         {
             "id": "story_1",
+            "title": "Transformers Prime",
+            "label": "Yeni Seri",
+            "videoUrl": "https://video.sibnet.ru/shell.php?videoid=5189321",
+            "start": "00:02:26",
+            "end": "00:02:50",
+            "episode": {
+                "thumbnail": "https://i.ytimg.com/vi/dGERPeMDFT0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcRDYK8ky-PFOuCKW5xhOdbeaG7g",
+                "title": "Transformers Prime | 1. Sezon 1. Bölüm - Karanlık Yükseliyor, Bölüm 1",
+                "videoSources": [
+                    {
+                        "name": "BC-Türkçe",
+                        "url": "https://video.sibnet.ru/shell.php?videoid=5189321"
+                    },
+                    {
+                        "name": "Sibnet-Türkçe",
+                        "url": "https://video.sibnet.ru/shell.php?videoid=5189321"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "story_1.1",
             "title": "Generator Rex",
             "label": "Yeni Seri",
             "videoUrl": "https://seed122.bitchute.com/zMJJYOp9ovkI/Zs9jIELTgMLz.mp4",
