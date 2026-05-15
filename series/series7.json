@@ -229,7 +229,7 @@
                     "episodes": [
                         {
                             "thumbnail": "https://i.ytimg.com/vi/qOP2mtg_4a4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBaOMnvikCoe3RHKa8C1tiw-NuxFg",
-                            "title": "Voltron Force | 1. Sezon 1. Bölüm - Evrenin Yeni Savunucuları",
+                            "title": "Voltron Force | 1. Sezon 1. Bölüm - Yeni Okul Savunucuları",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -354,8 +354,28 @@
                             ]
                         },
                         {
+                            "thumbnail": "https://i.ytimg.com/vi/U3wbqI5WXK4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDM6UTld77VAmZc6I9ayLa-MiHCQg",
+                            "title": "Voltron Force | 1. Sezon 10. Bölüm - İstenen ve İstenmeyen",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "http://video.sibnet.ru/shell.php?videoid=6192587"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/subs/voltron/s1/062_1x10_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/subs/voltron/s1/062_1x10_en.srt"
+                                }
+                            ]
+                        },
+                        {
                             "thumbnail": "https://i.ytimg.com/vi/U3wbqI5WXK4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBNn3GjNTyZF5Re_DyZOxUGtmJrrQ",
-                            "title": "Voltron Force | 1. Sezon 10. Bölüm - Sürü",
+                            "title": "Voltron Force | 1. Sezon 11. Bölüm - Sürü",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -369,7 +389,7 @@
                         },
                         {
                             "thumbnail": "https://i.ytimg.com/vi/CzRgKIoNTQE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCLFJtQGG5iCWxYH2v4-349y6X3Sw",
-                            "title": "Voltron Force | 1. Sezon 11. Bölüm - V-Dosyaları",
+                            "title": "Voltron Force | 1. Sezon 12. Bölüm - V-Dosyaları",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -383,7 +403,7 @@
                         },
                         {
                             "thumbnail": "https://i.ytimg.com/vi/lLLHS6FH23I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAQ45bZkDHjgMu0Q6fGIGagRQpqoA",
-                            "title": "Voltron Force | 1. Sezon 12. Bölüm - Aslanların Çarpışması",
+                            "title": "Voltron Force | 1. Sezon 13. Bölüm - Aslanların Çarpışması",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -397,7 +417,7 @@
                         },
                         {
                             "thumbnail": "https://i.ytimg.com/vi/J4Pz2-JaD9E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBQ5XKZ1hX7M9ki6NBZ4uMUDZeXNw",
-                            "title": "Voltron Force | 1. Sezon 13. Bölüm - İstenen ve İstenmeyen",
+                            "title": "Voltron Force | 1. Sezon 14. Bölüm - Müziğin İçinde",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -411,7 +431,7 @@
                         },
                         {
                             "thumbnail": "https://i.ytimg.com/vi/drrNTByljdE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBFtU2XPVRG4FiZKimtpiToL6-aeg",
-                            "title": "Voltron Force | 1. Sezon 14. Bölüm - Avcı ve Av",
+                            "title": "Voltron Force | 1. Sezon 15. Bölüm - Avcı ve Av",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -425,7 +445,7 @@
                         },
                         {
                             "thumbnail": "https://i.ytimg.com/vi/j9UxVwg6dlE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBorY5ERqTEWlb6zX36W59FhSxSqg",
-                            "title": "Voltron Force | 1. Sezon 15. Bölüm - Voltran'a Aç",
+                            "title": "Voltron Force | 1. Sezon 16. Bölüm - Voltran'a Aç",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -439,7 +459,7 @@
                         },
                         {
                             "thumbnail": "https://i.ytimg.com/vi/3juHz1npVqU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCIVuPlAEQVab1Z5toxSKAyPxGh2A",
-                            "title": "Voltron Force | 1. Sezon 16. Bölüm - RoCanavarların Çarpışması",
+                            "title": "Voltron Force | 1. Sezon 17. Bölüm - RoCanavarların Çarpışması",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -453,7 +473,7 @@
                         },
                         {
                             "thumbnail": "https://i.ytimg.com/vi/bwdf7GeedwA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAfXrWEI72L5X_bDZ_sMnQvbNTwjg",
-                            "title": "Voltron Force | 1. Sezon 17. Bölüm - Aslandaki Hayalet",
+                            "title": "Voltron Force | 1. Sezon 18. Bölüm - Aslandaki Hayalet",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -467,7 +487,7 @@
                         },
                         {
                             "thumbnail": "https://i.ytimg.com/vi/iXG9KlQrqXs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAFE7qOGSdyeh-w-4uqlM5SPKDjNw",
-                            "title": "Voltron Force | 1. Sezon 18. Bölüm - Gary",
+                            "title": "Voltron Force | 1. Sezon 19. Bölüm - Gary",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -481,7 +501,7 @@
                         },
                         {
                             "thumbnail": "https://i.ytimg.com/vi/zXgaoY_NRK4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDJ4ZQ8hoymSzNAYypWKTcD7iTURQ",
-                            "title": "Voltron Force | 1. Sezon 19. Bölüm - Dövülmüş Beşli",
+                            "title": "Voltron Force | 1. Sezon 20. Bölüm - Dövülmüş Beşli",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -495,7 +515,7 @@
                         },
                         {
                             "thumbnail": "https://i.ytimg.com/vi/Qax9yx086QQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDjtW4mah5ANFLF3r8t9GsFb6bAPg",
-                            "title": "Voltron Force | 1. Sezon 20. Bölüm - Korkular ve Yanıltmacalar",
+                            "title": "Voltron Force | 1. Sezon 21. Bölüm - Korkular ve Yanıltmacalar",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -509,7 +529,7 @@
                         },
                         {
                             "thumbnail": "https://i.ytimg.com/vi/uXbkx-jbbjQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCDSzQmdARWghDqiEHO3f82E10NgQ",
-                            "title": "Voltron Force | 1. Sezon 21. Bölüm - Beyinler",
+                            "title": "Voltron Force | 1. Sezon 22. Bölüm - Beyinler",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -523,7 +543,7 @@
                         },
                         {
                             "thumbnail": "https://i.ytimg.com/vi/GxZXGSyRmoM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDd0yvAa2HWUMvRPJiUJ9kJLaNBMQ",
-                            "title": "Voltron Force | 1. Sezon 22. Bölüm - Aldatmaca",
+                            "title": "Voltron Force | 1. Sezon 23. Bölüm - Aldatmaca",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -537,7 +557,7 @@
                         },
                         {
                             "thumbnail": "https://i.ytimg.com/vi/kjNo4bw3j_c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA4yJopl83_rgAodbysV17cH8ioAA",
-                            "title": "Voltron Force | 1. Sezon 23. Bölüm - Ben, Voltran",
+                            "title": "Voltron Force | 1. Sezon 24. Bölüm - Ben, Voltran",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -551,7 +571,7 @@
                         },
                         {
                             "thumbnail": "https://i.ytimg.com/vi/tFI6giyKD1I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAMgbhmELPvS30IRTaKrj5N-2Z1UQ",
-                            "title": "Voltron Force | 1. Sezon 24. Bölüm - Karışık Sinyaller",
+                            "title": "Voltron Force | 1. Sezon 25. Bölüm - Karışık Sinyaller",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
@@ -565,7 +585,7 @@
                         },
                         {
                             "thumbnail": "https://i.ytimg.com/vi/u7Bps0DFYuA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBA6LXdMXVnRw2Z_YthFnZsxjxOLw",
-                            "title": "Voltron Force | 1. Sezon 25. Bölüm - Siyah",
+                            "title": "Voltron Force | 1. Sezon 26. Bölüm - Siyah",
                             "videoSources": [
                                 {
                                     "name": "Sib-Türkçe",
