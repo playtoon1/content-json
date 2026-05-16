@@ -1,23 +1,9 @@
 [
     {
-        "id": "3",
-        "title": "Topluluk Sayfası Yenilendi",
-        "description": "Topluluk sayfasına yorum ve beğeni özellikleri eklendi. Artık diğer kullanıcılarla daha kolay etkileşime geçebilirsiniz.",
-        "date": "2025-05-16",
-        "tag": "Güncelleme"
-    },
-    {
-        "id": "2",
-        "title": "Arama Geçmişi Düzeltildi",
-        "description": "Bazı kullanıcılarda arama geçmişinin silinmediği sorun giderildi.",
-        "date": "2025-05-10",
-        "tag": "Düzeltme"
-    },
-    {
         "id": "1",
-        "title": "Yenilikler Ekranı",
-        "description": "Uygulama güncellemelerini, yeni içerikleri ve düzeltmeleri takip edebileceğin bu ekran artık aktif!",
-        "date": "2025-05-05",
-        "tag": "Yeni"
+        "description": "Voltron Force'un eksik olan 1. Sezon 10.Bölümü uygulamaya yüklendi",
+        "description": "Köstebekgiller serisi bütün bölümleriyle uygulamaya yüklendi.",
+        "date": "2026-05-16",
+        "tag": "Yeni Eklenenler"
     }
 ]
