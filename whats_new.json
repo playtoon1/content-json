@@ -1,8 +1,20 @@
-[
-    {
-        "id": "1",
-        "description": "• Voltron Force'un eksik olan 1. Sezon 10.Bölümü uygulamaya yüklendi. \n • Köstebekgiller serisi bütün bölümleriyle uygulamaya yüklendi.",
-        "date": "2026-05-16",
-        "tag": "Yeni Eklenenler"
-    }
-]
+{
+    "_tags": "Yeni | Güncelleme | Düzeltme",
+    "version": "1.0.1",
+    "items": [
+        {
+            "id": "5",
+            "title": "Voltron Force 1. Sezon 10. Bölüm",
+            "description": "Voltron Force'un eksik olan 1. Sezon 10. Bölümü uygulamaya yüklendi.",
+            "date": "2026-05-16",
+            "tag": "Yeni"
+        },
+        {
+            "id": "4",
+            "title": "Köstebekgiller Tüm Bölümler",
+            "description": "Köstebekgiller serisi bütün bölümleriyle uygulamaya yüklendi.",
+            "date": "2026-05-16",
+            "tag": "Yeni"
+        }
+    ]
+}
