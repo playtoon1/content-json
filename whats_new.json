@@ -4,8 +4,8 @@
     "items": [
         {
             "id": "1",
-            "title": "Yenilikler Ekranı",
-            "description": "• Uygulamadaki her türlü yenilikleri, güncellemeleri ve eklenen yeni içerikleri buradan takip edebilirsiniz.",
+            "title": "",
+            "description": "• Yenilikler Ekranı: Uygulamadaki her türlü yenilikleri, güncellemeleri ve eklenen yeni içerikleri buradan takip edebilirsiniz. \n\n • Öne Çıkan Videolardaki 'izle' butonundan hızlı bir şekilde izleme sayfasına gidebilirsiniz. ",
             "date": "2026-05-17",
             "tag": "Güncelleme v1.3.6"
         },
