@@ -1,5 +1,5 @@
 {
-  "version": "1.0.72",
+  "version": "1.0.73",
   "files": [
     "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series/series.json",
     "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series/series2.json",
@@ -7,6 +7,7 @@
     "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series/series4.json",
     "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series/series5.json",
     "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series/series6.json",
-    "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series/series7.json"
+    "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series/series7.json",
+    "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series/series8.json"
   ]
 }
