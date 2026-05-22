@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "avatars": [
     { "id": 1, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar1.webp" },
     { "id": 2, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar2.webp" },
@@ -14,6 +14,7 @@
     { "id": 11, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar11.webp" },
     { "id": 12, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar12.webp" },
     { "id": 13, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar13.webp" },
-    { "id": 14, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar14.webp" }
+    { "id": 14, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar14.webp" },
+    { "id": 15, "url": "https://github.com/playtoon1/content-json/raw/refs/heads/main/avatars/avatarvideo1.mp4" }
   ]
 }
