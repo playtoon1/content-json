@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "avatars": [
     { "id": 1, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar1.webp" },
     { "id": 2, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar2.webp" },
