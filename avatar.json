@@ -1,19 +1,19 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "avatars": [
-    { "id": 1, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar1.png" },
-    { "id": 2, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar2.png" },
-    { "id": 3, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar3.png" },
-    { "id": 4, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar4.png" },
-    { "id": 5, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar5.png" },
-    { "id": 6, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar6.png" },
-    { "id": 7, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar7.png" },
-    { "id": 8, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar8.png" },
-    { "id": 9, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar9.png" },
-    { "id": 10, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar10.png" },
+    { "id": 1, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar1.webp" },
+    { "id": 2, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar2.webp" },
+    { "id": 3, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar3.webp" },
+    { "id": 4, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar4.webp" },
+    { "id": 5, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar5.webp" },
+    { "id": 6, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar6.webp" },
+    { "id": 7, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar7.webp" },
+    { "id": 8, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar8.webp" },
+    { "id": 9, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar9.webp" },
+    { "id": 10, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar10.webp" },
     { "id": 11, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar11.webp" },
-    { "id": 12, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar12.png" },
-    { "id": 13, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar13.png" },
-    { "id": 14, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar14.png" }
+    { "id": 12, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar12.webp" },
+    { "id": 13, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar13.webp" },
+    { "id": 14, "url": "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/avatars/avatar14.webp" }
   ]
 }
