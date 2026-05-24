@@ -1,2113 +1,2320 @@
 {
     "series": {
-        "seri-71": {
-      "title": "Angelo Kuralları",
-      "description": "Bir çocuğun hayatında her gün mücadele vardır ama Angelo, müthiş stratejileri ve yılanı bile deliğinden çıkarabilecek tatlı diliyle her şeyi yoluna koyabilir.",
-      "cover": "https://m.media-amazon.com/images/M/MV5BZTU4YWRlMTUtMWFmZS00ZDMzLTgwM2YtNjgwOTQ0ODA3MmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-      "categories": [
-        "Animasyon",
-        "Komedi",
-        "Çocuk",
-        "Aile"
-      ],
-      "year": 2010,
-      "type": [
-        "Animasyon",
-        "Komedi"
-      ],
-      "imdb": 0,
-      "seasons": [
-        {
-          "seasonNumber": 1,
-          "episodes": [
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/fe/S1E01.jpg/revision/latest?cb=20241230172405",
-              "title": "Angelo Kuralları | 1. Sezon 1. Bölüm - Ceza",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483445"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/03/S1E02.jpg/revision/latest?cb=20241230173149",
-              "title": "Angelo Kuralları | 1. Sezon 2. Bölüm - Kum Kabı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483446"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/8d/S1E03.jpg/revision/latest?cb=20241230174902",
-              "title": "Angelo Kuralları | 1. Sezon 3. Bölüm - Yak Güreşi Şampiyonası",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483447"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e0/S1E04.jpg/revision/latest?cb=20241230174907",
-              "title": "Angelo Kuralları | 1. Sezon 4. Bölüm - Tüm Zamanların En Harika İkramı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483448"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/4c/S1E05.jpg/revision/latest?cb=20241230174912",
-              "title": "Angelo Kuralları | 1. Sezon 5. Bölüm - Yaşasın Çılgın Şenlik",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483449"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7e/S1E06.jpg/revision/latest?cb=20241230174917",
-              "title": "Angelo Kuralları | 1. Sezon 6. Bölüm - Temiz Kaçış",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483452"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/fb/S1E07.jpg/revision/latest?cb=20241230174922",
-              "title": "Angelo Kuralları | 1. Sezon 7. Bölüm - Savaş Baksırı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483453"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b5/S1E08.jpg/revision/latest?cb=20241230175448",
-              "title": "Angelo Kuralları | 1. Sezon 8. Bölüm - Sürpriz Sınav",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483454"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/71/S1E09.jpg/revision/latest?cb=20241230175455",
-              "title": "Angelo Kuralları | 1. Sezon 9. Bölüm - Son Seçilen",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483455"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/84/S1E10.jpg/revision/latest?cb=20241230175501",
-              "title": "Angelo Kuralları | 1. Sezon 10. Bölüm - Ödüllerin Efendisi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483456"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/fd/S1E11.jpg/revision/latest?cb=20241230175509",
-              "title": "Angelo Kuralları | 1. Sezon 11. Bölüm - Bolivya İhracatında Pırt",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483458"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/38/S1E12.jpg/revision/latest?cb=20241230181212",
-              "title": "Angelo Kuralları | 1. Sezon 12. Bölüm - Bay Bubbles İsimli Balık",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483459"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/fe/S1E13.jpg/revision/latest?cb=20241230181221",
-              "title": "Angelo Kuralları | 1. Sezon 13. Bölüm - Abur Cubur Hırsızı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483460"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/1/1e/S1E14.jpg/revision/latest?cb=20250108013916",
-              "title": "Angelo Kuralları | 1. Sezon 14. Bölüm - Tükürük Savaşları",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483461"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/56/S1E15.jpg/revision/latest?cb=20241230181226",
-              "title": "Angelo Kuralları | 1. Sezon 15. Bölüm - Bırak Manetti Kazansın",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483466"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/57/S1E16.jpg/revision/latest?cb=20241230181233",
-              "title": "Angelo Kuralları | 1. Sezon 16. Bölüm - Uzatmalı Teneffüs",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483468"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/97/S1E17.jpg/revision/latest?cb=20250108014532",
-              "title": "Angelo Kuralları | 1. Sezon 17. Bölüm - Ev İşi Savaşları",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483470"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/64/S1E18.jpg/revision/latest?cb=20250108014538",
-              "title": "Angelo Kuralları | 1. Sezon 18. Bölüm - Kumanda Maçı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483471"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d8/S1E19.jpg/revision/latest?cb=20250108014543",
-              "title": "Angelo Kuralları | 1. Sezon 19. Bölüm - Ejder Kuyruğu",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483473"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/91/S1E20.jpg/revision/latest?cb=20250108014635",
-              "title": "Angelo Kuralları | 1. Sezon 20. Bölüm - Büyük Bekleyiş",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483474"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/be/S1E21.jpg/revision/latest?cb=20250108014733",
-              "title": "Angelo Kuralları | 1. Sezon 21. Bölüm - Sevimli Korkunç Peter",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483476"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7a/S1E22.jpg/revision/latest?cb=20250108015020",
-              "title": "Angelo Kuralları | 1. Sezon 22. Bölüm - Tavşanı Kim Öldürdü?",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483477"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/57/S1E23.jpg/revision/latest?cb=20250108015026",
-              "title": "Angelo Kuralları | 1. Sezon 23. Bölüm - Deneysel Müziği Durdurun",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483478"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b5/S1E24.jpg/revision/latest?cb=20250112061248",
-              "title": "Angelo Kuralları | 1. Sezon 24. Bölüm - Boş Ders",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483481"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e8/S1E25.jpg/revision/latest?cb=20250112061254",
-              "title": "Angelo Kuralları | 1. Sezon 25. Bölüm - Güveç",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483482"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7d/S1E26.jpg/revision/latest?cb=20250112061300",
-              "title": "Angelo Kuralları | 1. Sezon 26. Bölüm - Kontrol Kaybı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483483"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/0e/S1E27.jpg/revision/latest?cb=20250112061306",
-              "title": "Angelo Kuralları | 1. Sezon 27. Bölüm - Asparagas",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483484"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/93/S1E28.jpg/revision/latest?cb=20250112061459",
-              "title": "Angelo Kuralları | 1. Sezon 28. Bölüm - Hapşırık",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483485"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f0/S1E29.jpg/revision/latest?cb=20250112061505",
-              "title": "Angelo Kuralları | 1. Sezon 29. Bölüm - Yeni Moda",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483486"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2d/S1E30.jpg/revision/latest?cb=20250112061512",
-              "title": "Angelo Kuralları | 1. Sezon 30. Bölüm - Yeni Jüri",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483487"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/75/S1E31.jpg/revision/latest?cb=20250112061518",
-              "title": "Angelo Kuralları | 1. Sezon 31. Bölüm - Ayrılık",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483488"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/21/S1E32.jpg/revision/latest?cb=20250112061810",
-              "title": "Angelo Kuralları | 1. Sezon 32. Bölüm - Sahte Hastalık",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483490"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e0/S1E33.jpg/revision/latest?cb=20250112061816",
-              "title": "Angelo Kuralları | 1. Sezon 33. Bölüm - Her Şeyi Olan Çocuk",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483491"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/42/S1E34.jpg/revision/latest?cb=20250112061822",
-              "title": "Angelo Kuralları | 1. Sezon 34. Bölüm - Zonka'nın Koşusu",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483492"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/22/S1E35.jpg/revision/latest?cb=20250112061827",
-              "title": "Angelo Kuralları | 1. Sezon 35. Bölüm - Plaj",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483493"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2c/S1E36.jpg/revision/latest?cb=20250112061833",
-              "title": "Angelo Kuralları | 1. Sezon 36. Bölüm - Hepsini Topla",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483495"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e5/S1E37.jpg/revision/latest?cb=20250112061839",
-              "title": "Angelo Kuralları | 1. Sezon 37. Bölüm - Manetti'nin Aşkı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483497"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/c1/S1E38.jpg/revision/latest?cb=20250112061845",
-              "title": "Angelo Kuralları | 1. Sezon 38. Bölüm - Manetti Başarmak Zorunda",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483499"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2b/S1E40.jpg/revision/latest?cb=20250113004130",
-              "title": "Angelo Kuralları | 1. Sezon 40. Bölüm - Savuşturma",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483500"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/62/S1E41.jpg/revision/latest?cb=20250113004136",
-              "title": "Angelo Kuralları | 1. Sezon 41. Bölüm - Küçük Bir Aşk",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483502"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/35/S1E42.jpg/revision/latest?cb=20250113004142",
-              "title": "Angelo Kuralları | 1. Sezon 42. Bölüm - Görev: Kurbağa",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483503"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/84/S1E43.jpg/revision/latest?cb=20250113004149",
-              "title": "Angelo Kuralları | 1. Sezon 43. Bölüm - Taşınır Bellek Benim",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483505"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/67/S1E44.jpg/revision/latest?cb=20250113102005",
-              "title": "Angelo Kuralları | 1. Sezon 44. Bölüm - Okulda Soygun",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483507"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f4/S1E45.jpg/revision/latest?cb=20250113102010",
-              "title": "Angelo Kuralları | 1. Sezon 45. Bölüm - Çok Çalışmak",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483508"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/ab/S1E46.jpg/revision/latest?cb=20250113102016",
-              "title": "Angelo Kuralları | 1. Sezon 46. Bölüm - Korkunç Bir Film",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483510"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/4e/S1E47.jpg/revision/latest?cb=20250113102021",
-              "title": "Angelo Kuralları | 1. Sezon 47. Bölüm - Geri Sayım",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483512"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/9f/S1E48.jpg/revision/latest?cb=20250113102026",
-              "title": "Angelo Kuralları | 1. Sezon 48. Bölüm - Müzisyen Peter",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483515"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/53/S1E49.jpg/revision/latest?cb=20250113102033",
-              "title": "Angelo Kuralları | 1. Sezon 49. Bölüm - Geçmiş Doğum Günü",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483517"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/70/S1E50.jpg/revision/latest?cb=20250113102038",
-              "title": "Angelo Kuralları | 1. Sezon 50. Bölüm - Kariyer Günü",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483519"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/4d/S1E51.jpg/revision/latest?cb=20250113102043",
-              "title": "Angelo Kuralları | 1. Sezon 51. Bölüm - Soygun",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483522"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b0/S1E52.jpg/revision/latest?cb=20250113102050",
-              "title": "Angelo Kuralları | 1. Sezon 52. Bölüm - Yönetmenin Seçimi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483523"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b4/S1E53.jpg/revision/latest?cb=20250113102124",
-              "title": "Angelo Kuralları | 1. Sezon 53. Bölüm - Tek Atış",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483525"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d9/S1E54.jpg/revision/latest?cb=20250113102129",
-              "title": "Angelo Kuralları | 1. Sezon 54. Bölüm - Şempanze Bu Gece Uyayacak",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483529"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d7/S1E55.jpg/revision/latest?cb=20250113102135",
-              "title": "Angelo Kuralları | 1. Sezon 55. Bölüm - Başarısız Bilgin",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483530"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/8e/S1E56.jpg/revision/latest?cb=20250113102140",
-              "title": "Angelo Kuralları | 1. Sezon 56. Bölüm - Müzikle Yüzleş",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483532"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/a3/S1E57.jpg/revision/latest?cb=20250113102146",
-              "title": "Angelo Kuralları | 1. Sezon 57. Bölüm - Bininci",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483535"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d8/S1E58.jpg/revision/latest?cb=20250113102153",
-              "title": "Angelo Kuralları | 1. Sezon 58. Bölüm - Korkusuz",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483538"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/dd/S1E59.jpg/revision/latest?cb=20250113102159",
-              "title": "Angelo Kuralları | 1. Sezon 59. Bölüm - Kirli Politika",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4370754"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/ef/S1E60.jpg/revision/latest?cb=20250113102205",
-              "title": "Angelo Kuralları | 1. Sezon 60. Bölüm - Arkadaş Arkadaşa Karşı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483541"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/04/S1E61.jpg/revision/latest?cb=20250113102212",
-              "title": "Angelo Kuralları | 1. Sezon 61. Bölüm - Görevimiz Seçmeler",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483543"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/8f/S1E62.jpg/revision/latest?cb=20250113102218",
-              "title": "Angelo Kuralları | 1. Sezon 62. Bölüm - Çay Zamanı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4370759"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/96/S1E63.jpg/revision/latest?cb=20250113102245",
-              "title": "Angelo Kuralları | 1. Sezon 63. Bölüm - Dövüşmek mi İstiyorsun?",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483545"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/dc/S1E64.jpg/revision/latest?cb=20250113102250",
-              "title": "Angelo Kuralları | 1. Sezon 64. Bölüm - Liste",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483548"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/08/S1E65.jpg/revision/latest?cb=20250113102257",
-              "title": "Angelo Kuralları | 1. Sezon 65. Bölüm - Duş Al",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483550"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/9d/S1E66.jpg/revision/latest?cb=20250113102304",
-              "title": "Angelo Kuralları | 1. Sezon 66. Bölüm - Ateş",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483552"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/4e/S1E67.jpg/revision/latest?cb=20250113102311",
-              "title": "Angelo Kuralları | 1. Sezon 67. Bölüm - Çantada",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483553"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e0/S1E68.jpg/revision/latest?cb=20250113102316",
-              "title": "Angelo Kuralları | 1. Sezon 68. Bölüm - Kaldırımın Kralı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483556"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/fb/S1E69.jpg/revision/latest?cb=20250113102321",
-              "title": "Angelo Kuralları | 1. Sezon 69. Bölüm - Para Para Para",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483557"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/8a/S1E70.jpg/revision/latest?cb=20250113102328",
-              "title": "Angelo Kuralları | 1. Sezon 70. Bölüm - Gevrek Zombi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483559"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/41/S1E71.jpg/revision/latest?cb=20250113102334",
-              "title": "Angelo Kuralları | 1. Sezon 71. Bölüm - Mükemmel",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483561"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d2/S1E72.jpg/revision/latest?cb=20250113102341",
-              "title": "Angelo Kuralları | 1. Sezon 72. Bölüm - Kariyer Testi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483562"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f9/S1E73.jpg/revision/latest?cb=20250113102347",
-              "title": "Angelo Kuralları | 1. Sezon 73. Bölüm - Sherwood'un Suçu",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483564"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/3c/S1E74.jpg/revision/latest?cb=20250113102353",
-              "title": "Angelo Kuralları | 1. Sezon 74. Bölüm - Küfrü",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483566"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f3/S1E75.jpg/revision/latest?cb=20250113102408",
-              "title": "Angelo Kuralları | 1. Sezon 75. Bölüm - Harika Çocuk",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483567"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/49/S1E76.jpg/revision/latest?cb=20250113102414",
-              "title": "Angelo Kuralları | 1. Sezon 76. Bölüm - Kitap Kulübü",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483569"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e9/S1E77.jpg/revision/latest?cb=20250113102422",
-              "title": "Angelo Kuralları | 1. Sezon 77. Bölüm - Manetti Belası",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483571"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f1/S1E78.jpg/revision/latest?cb=20250113102427",
-              "title": "Angelo Kuralları | 1. Sezon 78. Bölüm - Geri Sayım",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483572"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "seasonNumber": 2,
-          "episodes": [
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/c2/Junkboy1.jpg/revision/latest?cb=20241227002418",
-              "title": "Angelo Kuralları | 2. Sezon 1. Bölüm - Çöpçü",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4370789"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/47/S2E02.jpg/revision/latest?cb=20250113102521",
-              "title": "Angelo Kuralları | 2. Sezon 2. Bölüm - Kick-it Ball",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4370791"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2b/S2E03.jpg/revision/latest?cb=20250113103447",
-              "title": "Angelo Kuralları | 2. Sezon 3. Bölüm - Oyun Bitti",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4370794"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f2/S2E04.jpg/revision/latest?cb=20250113103452",
-              "title": "Angelo Kuralları | 2. Sezon 4. Bölüm - Uyku Direnişi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483496"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/9a/S2E05.jpg/revision/latest?cb=20250113103458",
-              "title": "Angelo Kuralları | 2. Sezon 5. Bölüm - Kabadayuz Zekiyuz",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483498"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/94/S2E06.jpg/revision/latest?cb=20250113103504",
-              "title": "Angelo Kuralları | 2. Sezon 6. Bölüm - Güzel Şapka",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4490139"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/81/S2E07.jpg/revision/latest?cb=20250114030942",
-              "title": "Angelo Kuralları | 2. Sezon 7. Bölüm - Kimse Konuşmasın",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4490140"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/35/S2E08.jpg/revision/latest?cb=20250114030958",
-              "title": "Angelo Kuralları | 2. Sezon 8. Bölüm - Uzaylı İstilası",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483501"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/01/S2E9.jpg/revision/latest?cb=20250114031018",
-              "title": "Angelo Kuralları | 2. Sezon 9. Bölüm - Operasyon: Su Parkı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483504"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/cb/S2E10.jpg/revision/latest?cb=20250114054344",
-              "title": "Angelo Kuralları | 2. Sezon 10. Bölüm - Dünyaya Gün",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483506"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/cf/S2E11.jpg/revision/latest?cb=20250114054356",
-              "title": "Angelo Kuralları | 2. Sezon 11. Bölüm - Kitap Savaşı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483509"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2c/S2E12.jpg/revision/latest?cb=20250114054402",
-              "title": "Angelo Kuralları | 2. Sezon 12. Bölüm - Kiralık Ninja",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483513"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/cf/S2E13.jpg/revision/latest?cb=20250114054414",
-              "title": "Angelo Kuralları | 2. Sezon 13. Bölüm - Wiznimals",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483516"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/ab/S2E14.jpg/revision/latest?cb=20250114054426",
-              "title": "Angelo Kuralları | 2. Sezon 14. Bölüm - Pinpon",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483521"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7e/S2E15.jpg/revision/latest?cb=20250114054432",
-              "title": "Angelo Kuralları | 2. Sezon 15. Bölüm - Geri Gelsin",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483524"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/4d/S2E16.jpg/revision/latest?cb=20250114054444",
-              "title": "Angelo Kuralları | 2. Sezon 16. Bölüm - Arkadaş Sayfası",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483528"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2d/S2E18.jpg/revision/latest?cb=20250114054728",
-              "title": "Angelo Kuralları | 2. Sezon 17. Bölüm - Televizyon Mahkemesi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483531"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/0a/S2E19.jpg/revision/latest?cb=20250114054741",
-              "title": "Angelo Kuralları | 2. Sezon 18. Bölüm - Uzaktan Kumanda",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483537"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/27/S2E17.jpg/revision/latest?cb=20250114054721",
-              "title": "Angelo Kuralları | 2. Sezon 19. Bölüm - Aile Oyunu Gecesi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483540"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/20/S2E20.jpg/revision/latest?cb=20250114054754",
-              "title": "Angelo Kuralları | 2. Sezon 20. Bölüm - Şöhret",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4370829"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/6d/S2E21.jpg/revision/latest?cb=20250114055008",
-              "title": "Angelo Kuralları | 2. Sezon 21. Bölüm - En Komik Çocuk",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4370833"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/0d/S2E24.jpg/revision/latest?cb=20250114055507",
-              "title": "Angelo Kuralları | 2. Sezon 24. Bölüm - Futbol Seçmeleri",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4370834"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d4/S2E26.jpg/revision/latest?cb=20250114055525",
-              "title": "Angelo Kuralları | 2. Sezon 26. Bölüm - Hayallerdeki Okul Gezisi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4490142"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/07/S2E28.jpg/revision/latest?cb=20250114055543",
-              "title": "Angelo Kuralları | 2. Sezon 28. Bölüm - Sıcak Dalgası",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4370837"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/cb/S2E29.jpg/revision/latest?cb=20250114061914",
-              "title": "Angelo Kuralları | 2. Sezon 29. Bölüm - Temizlik",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483544"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/db/S2E30.jpg/revision/latest?cb=20250114062203",
-              "title": "Angelo Kuralları | 2. Sezon 30. Bölüm - Peter Saldırınca",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483547"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/be/S2E31.jpg/revision/latest?cb=20250114062209",
-              "title": "Angelo Kuralları | 2. Sezon 31. Bölüm - Kabin Sendromu",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4490143"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/63/S2E32.jpg/revision/latest?cb=20250114062216",
-              "title": "Angelo Kuralları | 2. Sezon 32. Bölüm - Sınırdaki Aile",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4490137"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/30/S2E33.jpg/revision/latest?cb=20250114062228",
-              "title": "Angelo Kuralları | 2. Sezon 33. Bölüm - Karateci Çocuklar",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483551"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/24/S2E34.jpg/revision/latest?cb=20250114062233",
-              "title": "Angelo Kuralları | 2. Sezon 34. Bölüm - Dondurma Paniği",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483554"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/c7/S2E35.jpg/revision/latest?cb=20250114062247",
-              "title": "Angelo Kuralları | 2. Sezon 35. Bölüm - Mini Grand Prix",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483558"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7b/S2E36.jpg/revision/latest?cb=20250114062252",
-              "title": "Angelo Kuralları | 2. Sezon 36. Bölüm - Kayıp Kumanda Vakası",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483560"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/57/S2E37.jpg/revision/latest?cb=20250114062258",
-              "title": "Angelo Kuralları | 2. Sezon 37. Bölüm - Gizli Plan",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483563"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/03/S2E38.jpg/revision/latest?cb=20250114062316",
-              "title": "Angelo Kuralları | 2. Sezon 38. Bölüm - İyi Şanslar",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483565"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/4a/S2E39.jpg/revision/latest?cb=20250114063529",
-              "title": "Angelo Kuralları | 2. Sezon 39. Bölüm - Özel Koruma",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483568"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/40/S2E40.jpg/revision/latest?cb=20250114063541",
-              "title": "Angelo Kuralları | 2. Sezon 40. Bölüm - Kızlar Pijama Partisi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483570"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/06/S2E41.jpg/revision/latest?cb=20250114063549",
-              "title": "Angelo Kuralları | 2. Sezon 41. Bölüm - Devrim",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483573"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7f/S2E42.jpg/revision/latest?cb=20250114065953",
-              "title": "Angelo Kuralları | 2. Sezon 42. Bölüm - Kozmik Korsanlar",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483574"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2f/S2E43.jpg/revision/latest?cb=20250114070003",
-              "title": "Angelo Kuralları | 2. Sezon 43. Bölüm - Oda İçin Savaş",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483575"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/ad/S2E44.jpg/revision/latest?cb=20250114070014",
-              "title": "Angelo Kuralları | 2. Sezon 44. Bölüm - Adım Adım",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4483576"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "seasonNumber": 3,
-          "episodes": [
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/64/Space_Cadet1.jpg/revision/latest?cb=20241227002442",
-              "title": "Angelo Kuralları | 3. Sezon 1. Bölüm - Uzay Şarkısı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486866"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/81/S3E02.jpg/revision/latest?cb=20250114070534",
-              "title": "Angelo Kuralları | 3. Sezon 2. Bölüm - Düzenbaz Çocuk",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486869"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/a7/S3E03.jpg/revision/latest?cb=20250114070544",
-              "title": "Angelo Kuralları | 3. Sezon 3. Bölüm - Çamur Adam",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486873"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b4/S3E04.jpg/revision/latest?cb=20250114070557",
-              "title": "Angelo Kuralları | 3. Sezon 4. Bölüm - Okula Dönüş",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486875"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b1/S3E05.jpg/revision/latest?cb=20250114070603",
-              "title": "Angelo Kuralları | 3. Sezon 5. Bölüm - Dünya Rekorları",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486876"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d4/S3E6.jpg/revision/latest?cb=20250114070627",
-              "title": "Angelo Kuralları | 3. Sezon 6. Bölüm - Dışarıda Öğle Yemeğinde",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486881"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7a/S3E07.jpg/revision/latest?cb=20250114070640",
-              "title": "Angelo Kuralları | 3. Sezon 7. Bölüm - Tracy'nin Bakıcılığı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486883"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/9b/S3E08.jpg/revision/latest?cb=20250114073418",
-              "title": "Angelo Kuralları | 3. Sezon 8. Bölüm - Bitkin Düşmüş",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486885"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f1/S3E09.jpg/revision/latest?cb=20250114073429",
-              "title": "Angelo Kuralları | 3. Sezon 9. Bölüm - Prime Time",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486887"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/c5/S3E10.jpg/revision/latest?cb=20250114073441",
-              "title": "Angelo Kuralları | 3. Sezon 10. Bölüm - Brownie Puanları",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486890"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/53/S3E11.jpg/revision/latest?cb=20250114073458",
-              "title": "Angelo Kuralları | 3. Sezon 11. Bölüm - Zihin Okuyucu",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486893"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/a2/S3E12.jpg/revision/latest?cb=20250114073705",
-              "title": "Angelo Kuralları | 3. Sezon 12. Bölüm - Çift Taraflı Ajan",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486894"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/08/S3E13.jpg/revision/latest?cb=20250115011414",
-              "title": "Angelo Kuralları | 3. Sezon 13. Bölüm - Sürpriz Paket",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486895"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/59/S3E14.jpg/revision/latest?cb=20250115011420",
-              "title": "Angelo Kuralları | 3. Sezon 14. Bölüm - 1 Nisan",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486897"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/c1/S3E15.jpg/revision/latest?cb=20250115011425",
-              "title": "Angelo Kuralları | 3. Sezon 15. Bölüm - Geçmiş Olsun",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486898"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/bf/S3E16.jpg/revision/latest?cb=20250115011433",
-              "title": "Angelo Kuralları | 3. Sezon 16. Bölüm - Slobber Okul",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486899"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/1/1c/S3E17.jpg/revision/latest?cb=20250115011441",
-              "title": "Angelo Kuralları | 3. Sezon 17. Bölüm - Mağazada Bir Gece",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486900"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/6b/S3E18.jpg/revision/latest?cb=20250115011454",
-              "title": "Angelo Kuralları | 3. Sezon 18. Bölüm - Balık Hırsızları",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486901"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f5/S3E19.jpg/revision/latest?cb=20250115011500",
-              "title": "Angelo Kuralları | 3. Sezon 19. Bölüm - Şükran Hediyesi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486902"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/62/S3E20.jpg/revision/latest?cb=20250115011518",
-              "title": "Angelo Kuralları | 3. Sezon 20. Bölüm - Slobber'ın Diğer Yüzü",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486903"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/38/S3E21.jpg/revision/latest?cb=20250115013208",
-              "title": "Angelo Kuralları | 3. Sezon 21. Bölüm - Annem Uzaktayken",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486905"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/89/S3E22.jpg/revision/latest?cb=20250115013214",
-              "title": "Angelo Kuralları | 3. Sezon 22. Bölüm - Tracy'nin Kitabı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486907"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7f/S3E23.jpg/revision/latest?cb=20250115013222",
-              "title": "Angelo Kuralları | 3. Sezon 23. Bölüm - Yolculuk",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486909"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2e/S3E24.jpg/revision/latest?cb=20250115013229",
-              "title": "Angelo Kuralları | 3. Sezon 24. Bölüm - Angelo Zamanı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486910"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/61/S3E25.jpg/revision/latest?cb=20250115013235",
-              "title": "Angelo Kuralları | 3. Sezon 25. Bölüm - Vahşi Doğada",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486913"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/36/S3E27.jpg/revision/latest?cb=20250115013254",
-              "title": "Angelo Kuralları | 3. Sezon 27. Bölüm - Sihir Gösterisi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486917"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/dc/S3E28.jpg/revision/latest?cb=20250115013259",
-              "title": "Angelo Kuralları | 3. Sezon 28. Bölüm - Yoga Anne",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486920"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/1/11/S3E29.jpg/revision/latest?cb=20250115013305",
-              "title": "Angelo Kuralları | 3. Sezon 29. Bölüm - Nasıl Angelo Olunmaz?",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486924"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/ef/S3E30.jpg/revision/latest?cb=20250115013311",
-              "title": "Angelo Kuralları | 3. Sezon 30. Bölüm - Özel Bir Şey",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486925"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e5/S3E31.jpg/revision/latest?cb=20250115013316",
-              "title": "Angelo Kuralları | 3. Sezon 31. Bölüm - Yalnız Yaşayan Angelo",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486926"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/67/S3E32.jpg/revision/latest?cb=20250116012312",
-              "title": "Angelo Kuralları | 3. Sezon 32. Bölüm - Acemi Şansı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486927"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/47/S3E33.jpg/revision/latest?cb=20250116012319",
-              "title": "Angelo Kuralları | 3. Sezon 33. Bölüm - Kötü Oda Arkadaşı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486928"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/99/S3E34.jpg/revision/latest?cb=20250116012326",
-              "title": "Angelo Kuralları | 3. Sezon 34. Bölüm - Başlıkta Benim Adım",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486929"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b3/S3E35.jpg/revision/latest?cb=20250116012332",
-              "title": "Angelo Kuralları | 3. Sezon 35. Bölüm - Çevreyi Koru",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486930"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/a2/S3E36.jpg/revision/latest?cb=20250116012339",
-              "title": "Angelo Kuralları | 3. Sezon 36. Bölüm - Geçen Yazı Hatırla",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486931"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/dc/S3E37.jpg/revision/latest?cb=20250116093141",
-              "title": "Angelo Kuralları | 3. Sezon 37. Bölüm - Hayali Köpek Spot",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486932"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/db/S3E38.jpg/revision/latest?cb=20250116093155",
-              "title": "Angelo Kuralları | 3. Sezon 38. Bölüm - Rock ya da Taş",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486933"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/6e/S3E39.jpg/revision/latest?cb=20250116093202",
-              "title": "Angelo Kuralları | 3. Sezon 39. Bölüm - Gelmiş Geçmiş En İyi Sıra",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486934"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/1/1c/S3E40.jpg/revision/latest?cb=20250116094212",
-              "title": "Angelo Kuralları | 3. Sezon 40. Bölüm - Arka Koltuktaki Sürücü",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486935"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/6f/S3E41.jpg/revision/latest?cb=20250116094226",
-              "title": "Angelo Kuralları | 3. Sezon 41. Bölüm - Futbol Çılgınlığı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486937"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/a3/S3E43.jpg/revision/latest?cb=20250116095239",
-              "title": "Angelo Kuralları | 3. Sezon 43. Bölüm - Küçük Ayı ve Tatlı Şey",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486938"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/fc/S3E44.jpg/revision/latest?cb=20250116095258",
-              "title": "Angelo Kuralları | 3. Sezon 44. Bölüm - Ailecek Eğlence Zamanı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486939"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/1/1d/S3E46.jpg/revision/latest?cb=20250116100550",
-              "title": "Angelo Kuralları | 3. Sezon 45. Bölüm - Kara Angelo",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486940"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b9/S3E45.jpg/revision/latest?cb=20250116100545",
-              "title": "Angelo Kuralları | 3. Sezon 46. Bölüm - Çoğunlukla Şüpheli",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486941"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "seasonNumber": 4,
-          "episodes": [
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b2/S4E01.jpg/revision/latest?cb=20250116100616",
-              "title": "Angelo Kuralları | 4. Sezon 1. Bölüm - Akılsız Telefon",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486943"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/a1/S4E02.jpg/revision/latest?cb=20250116100621",
-              "title": "Angelo Kuralları | 4. Sezon 2. Bölüm - Notlar Kralı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486944"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/aa/S4E03.jpg/revision/latest?cb=20250116100626",
-              "title": "Angelo Kuralları | 4. Sezon 3. Bölüm - Rock Yıldızı Baba",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486945"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/6c/S4E04.jpg/revision/latest?cb=20250116104625",
-              "title": "Angelo Kuralları | 4. Sezon 4. Bölüm - Okul Konseyi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486946"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/33/S4E05.jpg/revision/latest?cb=20250116104638",
-              "title": "Angelo Kuralları | 4. Sezon 5. Bölüm - Pijama Partisi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486947"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/88/S4E06.jpg/revision/latest?cb=20250116104644",
-              "title": "Angelo Kuralları | 4. Sezon 6. Bölüm - Sahte Dublör",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486948"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e0/S4E07.jpg/revision/latest?cb=20250116104703",
-              "title": "Angelo Kuralları | 4. Sezon 7. Bölüm - Tabiatın Dengesi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486949"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f5/S4E08.jpg/revision/latest?cb=20250116110240",
-              "title": "Angelo Kuralları | 4. Sezon 8. Bölüm - Hırsız Kedi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486950"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/da/S4E09.jpg/revision/latest?cb=20250116110247",
-              "title": "Angelo Kuralları | 4. Sezon 9. Bölüm - Karşınızda Bilim",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486951"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/45/S4E10.jpg/revision/latest?cb=20250116110253",
-              "title": "Angelo Kuralları | 4. Sezon 10. Bölüm - Kol",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486952"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/59/S4E11.jpg/revision/latest?cb=20250117061023",
-              "title": "Angelo Kuralları | 4. Sezon 11. Bölüm - Kedi Hırsızı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486953"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2c/S4E12.jpg/revision/latest?cb=20250117061029",
-              "title": "Angelo Kuralları | 4. Sezon 12. Bölüm - Mektup Arkadaşı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486954"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/68/S4E13.jpg/revision/latest?cb=20250117061035",
-              "title": "Angelo Kuralları | 4. Sezon 13. Bölüm - Ayın Elemanı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486955"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/04/S4E14.jpg/revision/latest?cb=20250117061042",
-              "title": "Angelo Kuralları | 4. Sezon 14. Bölüm - Sallanan Kafalar Beğeniye Sunuluyor",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486956"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/34/S4E15.jpg/revision/latest?cb=20250117061054",
-              "title": "Angelo Kuralları | 4. Sezon 15. Bölüm - Gizli Tarif",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486957"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/ff/S4E16.jpg/revision/latest?cb=20250117061101",
-              "title": "Angelo Kuralları | 4. Sezon 16. Bölüm - Angelo Sınava Karşı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486958"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/4b/S4E17.jpg/revision/latest?cb=20250117111628",
-              "title": "Angelo Kuralları | 4. Sezon 17. Bölüm - Şimdi Ne Olacak?",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486959"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/67/S4E18.jpg/revision/latest?cb=20250117111634",
-              "title": "Angelo Kuralları | 4. Sezon 18. Bölüm - Ev Hapsi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486960"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/32/S4E19.jpg/revision/latest?cb=20250117111646",
-              "title": "Angelo Kuralları | 4. Sezon 19. Bölüm - Güvercinler",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486961"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/98/S4E20.jpg/revision/latest?cb=20250117111808",
-              "title": "Angelo Kuralları | 4. Sezon 20. Bölüm - Kek Savaşları",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486962"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/ac/S4E21.jpg/revision/latest?cb=20250117111821",
-              "title": "Angelo Kuralları | 4. Sezon 21. Bölüm - Gelmiş Geçmiş En İyi Abla",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486963"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/eb/S4E22.jpg/revision/latest?cb=20250117112301",
-              "title": "Angelo Kuralları | 4. Sezon 22. Bölüm - Göster ve Anlat",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486964"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/bf/S4E23.jpg/revision/latest?cb=20250117112309",
-              "title": "Angelo Kuralları | 4. Sezon 23. Bölüm - Fotoğraflara Sızanlar",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486965"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/5d/S4E24.jpg/revision/latest?cb=20250117112323",
-              "title": "Angelo Kuralları | 4. Sezon 24. Bölüm - Beden Eğitimine Ara",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486966"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/04/S4E25.jpg/revision/latest?cb=20250117112336",
-              "title": "Angelo Kuralları | 4. Sezon 25. Bölüm - Van Dunk'ın Cazibesi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486967"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/25/S4E26.jpg/revision/latest?cb=20250117112351",
-              "title": "Angelo Kuralları | 4. Sezon 26. Bölüm - Çit Deneyi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486968"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/5f/S4E27.jpg/revision/latest?cb=20250117134733",
-              "title": "Angelo Kuralları | 4. Sezon 27. Bölüm - Angelo'nun Gözünden Dünyaya Bakış",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486969"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/26/S4E28.jpg/revision/latest?cb=20250117134739",
-              "title": "Angelo Kuralları | 4. Sezon 28. Bölüm - Oyundayım",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486970"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/92/S4E29.jpg/revision/latest?cb=20250117134745",
-              "title": "Angelo Kuralları | 4. Sezon 29. Bölüm - Geezer'ın Yeğeni",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486971"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d1/S4E30.jpg/revision/latest?cb=20250117134751",
-              "title": "Angelo Kuralları | 4. Sezon 30. Bölüm - Karate Kid'e Giriş",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486972"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/3a/S4E31.jpg/revision/latest?cb=20250117134802",
-              "title": "Angelo Kuralları | 4. Sezon 31. Bölüm - Kusursuz Bir Gün",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486973"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/59/S4E32.jpg/revision/latest?cb=20250117134808",
-              "title": "Angelo Kuralları | 4. Sezon 32. Bölüm - Ev Güvenliği",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486974"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/1/1e/S4E33.jpg/revision/latest?cb=20250117140726",
-              "title": "Angelo Kuralları | 4. Sezon 33. Bölüm - Toplantı",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486975"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/61/S4E34.jpg/revision/latest?cb=20250117140732",
-              "title": "Angelo Kuralları | 4. Sezon 34. Bölüm - Çare Angelo'yu Aramak",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486976"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/73/S4E35.jpg/revision/latest?cb=20250117140738",
-              "title": "Angelo Kuralları | 4. Sezon 35. Bölüm - Electra",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486977"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/99/S4E36.jpg/revision/latest?cb=20250117140743",
-              "title": "Angelo Kuralları | 4. Sezon 36. Bölüm - Sonsuza Dek En İyi Arkadaşlar",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486978"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b3/S4E37.jpg/revision/latest?cb=20250117142013",
-              "title": "Angelo Kuralları | 4. Sezon 37. Bölüm - Yemek Yarışması",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486979"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2e/S4E38.jpg/revision/latest?cb=20250117142018",
-              "title": "Angelo Kuralları | 4. Sezon 38. Bölüm - İleride En Başarılı Olacak Kişi",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486980"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/fc/S4E39.jpg/revision/latest?cb=20250117142023",
-              "title": "Angelo Kuralları | 4. Sezon 39. Bölüm - Yılın Ebeveyni",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486981"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d6/S4E40.jpg/revision/latest?cb=20250117142028",
-              "title": "Angelo Kuralları | 4. Sezon 40. Bölüm - Yılan Deliği",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486983"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/9e/S4E41.jpg/revision/latest?cb=20250117142034",
-              "title": "Angelo Kuralları | 4. Sezon 41. Bölüm - Profesör Angelo",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486984"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/97/S4E42.jpg/revision/latest?cb=20250117142039",
-              "title": "Angelo Kuralları | 4. Sezon 42. Bölüm - Geleceğimiz",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486985"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2b/S4E44.jpg/revision/latest?cb=20250117142051",
-              "title": "Angelo Kuralları | 4. Sezon 44. Bölüm - Yedekler",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486986"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/20/S4E47.jpg/revision/latest?cb=20250117142119",
-              "title": "Angelo Kuralları | 4. Sezon 47-48. Bölüm - Başkan Adayı Peter",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486987"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7d/S4E48.jpg/revision/latest?cb=20250117142125",
-              "title": "Angelo Kuralları | 4. Sezon 49-50. Bölüm - Kara Angelo 2: Wiznimal Savaşları",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486988"
-                }
-              ]
-            },
-            {
-              "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/83/S4E49.jpg/revision/latest?cb=20250117142131",
-              "title": "Angelo Kuralları | 4. Sezon 51-52. Bölüm - Çok Gizli Görev",
-              "videoSources": [
-                {
-                  "name": "Sibnet",
-                  "url": "https://video.sibnet.ru/shell.php?videoid=4486989"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-        }
+      "seri-71": {
+    "title": "Angelo Kuralları",
+    "description": "Bir çocuğun hayatında her gün mücadele vardır ama Angelo, müthiş stratejileri ve yılanı bile deliğinden çıkarabilecek tatlı diliyle her şeyi yoluna koyabilir.",
+    "cover": "https://m.media-amazon.com/images/M/MV5BZTU4YWRlMTUtMWFmZS00ZDMzLTgwM2YtNjgwOTQ0ODA3MmRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "categories": [
+      "Animasyon",
+      "Komedi",
+      "Çocuk",
+      "Aile"
+    ],
+    "year": 2010,
+    "type": [
+      "Animasyon",
+      "Komedi"
+    ],
+    "imdb": 0,
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/fe/S1E01.jpg/revision/latest?cb=20241230172405",
+            "title": "Angelo Kuralları | 1. Sezon 1. Bölüm - Ceza",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483445"
+              }
+            ],
+            "episodeId": "seri-71_1x1"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/03/S1E02.jpg/revision/latest?cb=20241230173149",
+            "title": "Angelo Kuralları | 1. Sezon 2. Bölüm - Kum Kabı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483446"
+              }
+            ],
+            "episodeId": "seri-71_1x2"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/8d/S1E03.jpg/revision/latest?cb=20241230174902",
+            "title": "Angelo Kuralları | 1. Sezon 3. Bölüm - Yak Güreşi Şampiyonası",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483447"
+              }
+            ],
+            "episodeId": "seri-71_1x3"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e0/S1E04.jpg/revision/latest?cb=20241230174907",
+            "title": "Angelo Kuralları | 1. Sezon 4. Bölüm - Tüm Zamanların En Harika İkramı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483448"
+              }
+            ],
+            "episodeId": "seri-71_1x4"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/4c/S1E05.jpg/revision/latest?cb=20241230174912",
+            "title": "Angelo Kuralları | 1. Sezon 5. Bölüm - Yaşasın Çılgın Şenlik",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483449"
+              }
+            ],
+            "episodeId": "seri-71_1x5"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7e/S1E06.jpg/revision/latest?cb=20241230174917",
+            "title": "Angelo Kuralları | 1. Sezon 6. Bölüm - Temiz Kaçış",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483452"
+              }
+            ],
+            "episodeId": "seri-71_1x6"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/fb/S1E07.jpg/revision/latest?cb=20241230174922",
+            "title": "Angelo Kuralları | 1. Sezon 7. Bölüm - Savaş Baksırı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483453"
+              }
+            ],
+            "episodeId": "seri-71_1x7"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b5/S1E08.jpg/revision/latest?cb=20241230175448",
+            "title": "Angelo Kuralları | 1. Sezon 8. Bölüm - Sürpriz Sınav",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483454"
+              }
+            ],
+            "episodeId": "seri-71_1x8"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/71/S1E09.jpg/revision/latest?cb=20241230175455",
+            "title": "Angelo Kuralları | 1. Sezon 9. Bölüm - Son Seçilen",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483455"
+              }
+            ],
+            "episodeId": "seri-71_1x9"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/84/S1E10.jpg/revision/latest?cb=20241230175501",
+            "title": "Angelo Kuralları | 1. Sezon 10. Bölüm - Ödüllerin Efendisi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483456"
+              }
+            ],
+            "episodeId": "seri-71_1x10"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/fd/S1E11.jpg/revision/latest?cb=20241230175509",
+            "title": "Angelo Kuralları | 1. Sezon 11. Bölüm - Bolivya İhracatında Pırt",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483458"
+              }
+            ],
+            "episodeId": "seri-71_1x11"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/38/S1E12.jpg/revision/latest?cb=20241230181212",
+            "title": "Angelo Kuralları | 1. Sezon 12. Bölüm - Bay Bubbles İsimli Balık",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483459"
+              }
+            ],
+            "episodeId": "seri-71_1x12"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/fe/S1E13.jpg/revision/latest?cb=20241230181221",
+            "title": "Angelo Kuralları | 1. Sezon 13. Bölüm - Abur Cubur Hırsızı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483460"
+              }
+            ],
+            "episodeId": "seri-71_1x13"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/1/1e/S1E14.jpg/revision/latest?cb=20250108013916",
+            "title": "Angelo Kuralları | 1. Sezon 14. Bölüm - Tükürük Savaşları",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483461"
+              }
+            ],
+            "episodeId": "seri-71_1x14"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/56/S1E15.jpg/revision/latest?cb=20241230181226",
+            "title": "Angelo Kuralları | 1. Sezon 15. Bölüm - Bırak Manetti Kazansın",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483466"
+              }
+            ],
+            "episodeId": "seri-71_1x15"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/57/S1E16.jpg/revision/latest?cb=20241230181233",
+            "title": "Angelo Kuralları | 1. Sezon 16. Bölüm - Uzatmalı Teneffüs",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483468"
+              }
+            ],
+            "episodeId": "seri-71_1x16"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/97/S1E17.jpg/revision/latest?cb=20250108014532",
+            "title": "Angelo Kuralları | 1. Sezon 17. Bölüm - Ev İşi Savaşları",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483470"
+              }
+            ],
+            "episodeId": "seri-71_1x17"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/64/S1E18.jpg/revision/latest?cb=20250108014538",
+            "title": "Angelo Kuralları | 1. Sezon 18. Bölüm - Kumanda Maçı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483471"
+              }
+            ],
+            "episodeId": "seri-71_1x18"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d8/S1E19.jpg/revision/latest?cb=20250108014543",
+            "title": "Angelo Kuralları | 1. Sezon 19. Bölüm - Ejder Kuyruğu",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483473"
+              }
+            ],
+            "episodeId": "seri-71_1x19"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/91/S1E20.jpg/revision/latest?cb=20250108014635",
+            "title": "Angelo Kuralları | 1. Sezon 20. Bölüm - Büyük Bekleyiş",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483474"
+              }
+            ],
+            "episodeId": "seri-71_1x20"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/be/S1E21.jpg/revision/latest?cb=20250108014733",
+            "title": "Angelo Kuralları | 1. Sezon 21. Bölüm - Sevimli Korkunç Peter",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483476"
+              }
+            ],
+            "episodeId": "seri-71_1x21"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7a/S1E22.jpg/revision/latest?cb=20250108015020",
+            "title": "Angelo Kuralları | 1. Sezon 22. Bölüm - Tavşanı Kim Öldürdü?",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483477"
+              }
+            ],
+            "episodeId": "seri-71_1x22"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/57/S1E23.jpg/revision/latest?cb=20250108015026",
+            "title": "Angelo Kuralları | 1. Sezon 23. Bölüm - Deneysel Müziği Durdurun",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483478"
+              }
+            ],
+            "episodeId": "seri-71_1x23"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b5/S1E24.jpg/revision/latest?cb=20250112061248",
+            "title": "Angelo Kuralları | 1. Sezon 24. Bölüm - Boş Ders",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483481"
+              }
+            ],
+            "episodeId": "seri-71_1x24"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e8/S1E25.jpg/revision/latest?cb=20250112061254",
+            "title": "Angelo Kuralları | 1. Sezon 25. Bölüm - Güveç",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483482"
+              }
+            ],
+            "episodeId": "seri-71_1x25"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7d/S1E26.jpg/revision/latest?cb=20250112061300",
+            "title": "Angelo Kuralları | 1. Sezon 26. Bölüm - Kontrol Kaybı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483483"
+              }
+            ],
+            "episodeId": "seri-71_1x26"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/0e/S1E27.jpg/revision/latest?cb=20250112061306",
+            "title": "Angelo Kuralları | 1. Sezon 27. Bölüm - Asparagas",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483484"
+              }
+            ],
+            "episodeId": "seri-71_1x27"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/93/S1E28.jpg/revision/latest?cb=20250112061459",
+            "title": "Angelo Kuralları | 1. Sezon 28. Bölüm - Hapşırık",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483485"
+              }
+            ],
+            "episodeId": "seri-71_1x28"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f0/S1E29.jpg/revision/latest?cb=20250112061505",
+            "title": "Angelo Kuralları | 1. Sezon 29. Bölüm - Yeni Moda",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483486"
+              }
+            ],
+            "episodeId": "seri-71_1x29"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2d/S1E30.jpg/revision/latest?cb=20250112061512",
+            "title": "Angelo Kuralları | 1. Sezon 30. Bölüm - Yeni Jüri",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483487"
+              }
+            ],
+            "episodeId": "seri-71_1x30"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/75/S1E31.jpg/revision/latest?cb=20250112061518",
+            "title": "Angelo Kuralları | 1. Sezon 31. Bölüm - Ayrılık",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483488"
+              }
+            ],
+            "episodeId": "seri-71_1x31"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/21/S1E32.jpg/revision/latest?cb=20250112061810",
+            "title": "Angelo Kuralları | 1. Sezon 32. Bölüm - Sahte Hastalık",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483490"
+              }
+            ],
+            "episodeId": "seri-71_1x32"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e0/S1E33.jpg/revision/latest?cb=20250112061816",
+            "title": "Angelo Kuralları | 1. Sezon 33. Bölüm - Her Şeyi Olan Çocuk",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483491"
+              }
+            ],
+            "episodeId": "seri-71_1x33"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/42/S1E34.jpg/revision/latest?cb=20250112061822",
+            "title": "Angelo Kuralları | 1. Sezon 34. Bölüm - Zonka'nın Koşusu",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483492"
+              }
+            ],
+            "episodeId": "seri-71_1x34"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/22/S1E35.jpg/revision/latest?cb=20250112061827",
+            "title": "Angelo Kuralları | 1. Sezon 35. Bölüm - Plaj",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483493"
+              }
+            ],
+            "episodeId": "seri-71_1x35"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2c/S1E36.jpg/revision/latest?cb=20250112061833",
+            "title": "Angelo Kuralları | 1. Sezon 36. Bölüm - Hepsini Topla",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483495"
+              }
+            ],
+            "episodeId": "seri-71_1x36"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e5/S1E37.jpg/revision/latest?cb=20250112061839",
+            "title": "Angelo Kuralları | 1. Sezon 37. Bölüm - Manetti'nin Aşkı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483497"
+              }
+            ],
+            "episodeId": "seri-71_1x37"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/c1/S1E38.jpg/revision/latest?cb=20250112061845",
+            "title": "Angelo Kuralları | 1. Sezon 38. Bölüm - Manetti Başarmak Zorunda",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483499"
+              }
+            ],
+            "episodeId": "seri-71_1x38"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2b/S1E40.jpg/revision/latest?cb=20250113004130",
+            "title": "Angelo Kuralları | 1. Sezon 40. Bölüm - Savuşturma",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483500"
+              }
+            ],
+            "episodeId": "seri-71_1x39"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/62/S1E41.jpg/revision/latest?cb=20250113004136",
+            "title": "Angelo Kuralları | 1. Sezon 41. Bölüm - Küçük Bir Aşk",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483502"
+              }
+            ],
+            "episodeId": "seri-71_1x40"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/35/S1E42.jpg/revision/latest?cb=20250113004142",
+            "title": "Angelo Kuralları | 1. Sezon 42. Bölüm - Görev: Kurbağa",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483503"
+              }
+            ],
+            "episodeId": "seri-71_1x41"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/84/S1E43.jpg/revision/latest?cb=20250113004149",
+            "title": "Angelo Kuralları | 1. Sezon 43. Bölüm - Taşınır Bellek Benim",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483505"
+              }
+            ],
+            "episodeId": "seri-71_1x42"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/67/S1E44.jpg/revision/latest?cb=20250113102005",
+            "title": "Angelo Kuralları | 1. Sezon 44. Bölüm - Okulda Soygun",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483507"
+              }
+            ],
+            "episodeId": "seri-71_1x43"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f4/S1E45.jpg/revision/latest?cb=20250113102010",
+            "title": "Angelo Kuralları | 1. Sezon 45. Bölüm - Çok Çalışmak",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483508"
+              }
+            ],
+            "episodeId": "seri-71_1x44"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/ab/S1E46.jpg/revision/latest?cb=20250113102016",
+            "title": "Angelo Kuralları | 1. Sezon 46. Bölüm - Korkunç Bir Film",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483510"
+              }
+            ],
+            "episodeId": "seri-71_1x45"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/4e/S1E47.jpg/revision/latest?cb=20250113102021",
+            "title": "Angelo Kuralları | 1. Sezon 47. Bölüm - Geri Sayım",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483512"
+              }
+            ],
+            "episodeId": "seri-71_1x46"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/9f/S1E48.jpg/revision/latest?cb=20250113102026",
+            "title": "Angelo Kuralları | 1. Sezon 48. Bölüm - Müzisyen Peter",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483515"
+              }
+            ],
+            "episodeId": "seri-71_1x47"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/53/S1E49.jpg/revision/latest?cb=20250113102033",
+            "title": "Angelo Kuralları | 1. Sezon 49. Bölüm - Geçmiş Doğum Günü",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483517"
+              }
+            ],
+            "episodeId": "seri-71_1x48"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/70/S1E50.jpg/revision/latest?cb=20250113102038",
+            "title": "Angelo Kuralları | 1. Sezon 50. Bölüm - Kariyer Günü",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483519"
+              }
+            ],
+            "episodeId": "seri-71_1x49"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/4d/S1E51.jpg/revision/latest?cb=20250113102043",
+            "title": "Angelo Kuralları | 1. Sezon 51. Bölüm - Soygun",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483522"
+              }
+            ],
+            "episodeId": "seri-71_1x50"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b0/S1E52.jpg/revision/latest?cb=20250113102050",
+            "title": "Angelo Kuralları | 1. Sezon 52. Bölüm - Yönetmenin Seçimi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483523"
+              }
+            ],
+            "episodeId": "seri-71_1x51"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b4/S1E53.jpg/revision/latest?cb=20250113102124",
+            "title": "Angelo Kuralları | 1. Sezon 53. Bölüm - Tek Atış",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483525"
+              }
+            ],
+            "episodeId": "seri-71_1x52"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d9/S1E54.jpg/revision/latest?cb=20250113102129",
+            "title": "Angelo Kuralları | 1. Sezon 54. Bölüm - Şempanze Bu Gece Uyayacak",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483529"
+              }
+            ],
+            "episodeId": "seri-71_1x53"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d7/S1E55.jpg/revision/latest?cb=20250113102135",
+            "title": "Angelo Kuralları | 1. Sezon 55. Bölüm - Başarısız Bilgin",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483530"
+              }
+            ],
+            "episodeId": "seri-71_1x54"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/8e/S1E56.jpg/revision/latest?cb=20250113102140",
+            "title": "Angelo Kuralları | 1. Sezon 56. Bölüm - Müzikle Yüzleş",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483532"
+              }
+            ],
+            "episodeId": "seri-71_1x55"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/a3/S1E57.jpg/revision/latest?cb=20250113102146",
+            "title": "Angelo Kuralları | 1. Sezon 57. Bölüm - Bininci",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483535"
+              }
+            ],
+            "episodeId": "seri-71_1x56"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d8/S1E58.jpg/revision/latest?cb=20250113102153",
+            "title": "Angelo Kuralları | 1. Sezon 58. Bölüm - Korkusuz",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483538"
+              }
+            ],
+            "episodeId": "seri-71_1x57"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/dd/S1E59.jpg/revision/latest?cb=20250113102159",
+            "title": "Angelo Kuralları | 1. Sezon 59. Bölüm - Kirli Politika",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4370754"
+              }
+            ],
+            "episodeId": "seri-71_1x58"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/ef/S1E60.jpg/revision/latest?cb=20250113102205",
+            "title": "Angelo Kuralları | 1. Sezon 60. Bölüm - Arkadaş Arkadaşa Karşı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483541"
+              }
+            ],
+            "episodeId": "seri-71_1x59"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/04/S1E61.jpg/revision/latest?cb=20250113102212",
+            "title": "Angelo Kuralları | 1. Sezon 61. Bölüm - Görevimiz Seçmeler",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483543"
+              }
+            ],
+            "episodeId": "seri-71_1x60"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/8f/S1E62.jpg/revision/latest?cb=20250113102218",
+            "title": "Angelo Kuralları | 1. Sezon 62. Bölüm - Çay Zamanı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4370759"
+              }
+            ],
+            "episodeId": "seri-71_1x61"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/96/S1E63.jpg/revision/latest?cb=20250113102245",
+            "title": "Angelo Kuralları | 1. Sezon 63. Bölüm - Dövüşmek mi İstiyorsun?",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483545"
+              }
+            ],
+            "episodeId": "seri-71_1x62"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/dc/S1E64.jpg/revision/latest?cb=20250113102250",
+            "title": "Angelo Kuralları | 1. Sezon 64. Bölüm - Liste",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483548"
+              }
+            ],
+            "episodeId": "seri-71_1x63"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/08/S1E65.jpg/revision/latest?cb=20250113102257",
+            "title": "Angelo Kuralları | 1. Sezon 65. Bölüm - Duş Al",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483550"
+              }
+            ],
+            "episodeId": "seri-71_1x64"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/9d/S1E66.jpg/revision/latest?cb=20250113102304",
+            "title": "Angelo Kuralları | 1. Sezon 66. Bölüm - Ateş",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483552"
+              }
+            ],
+            "episodeId": "seri-71_1x65"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/4e/S1E67.jpg/revision/latest?cb=20250113102311",
+            "title": "Angelo Kuralları | 1. Sezon 67. Bölüm - Çantada",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483553"
+              }
+            ],
+            "episodeId": "seri-71_1x66"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e0/S1E68.jpg/revision/latest?cb=20250113102316",
+            "title": "Angelo Kuralları | 1. Sezon 68. Bölüm - Kaldırımın Kralı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483556"
+              }
+            ],
+            "episodeId": "seri-71_1x67"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/fb/S1E69.jpg/revision/latest?cb=20250113102321",
+            "title": "Angelo Kuralları | 1. Sezon 69. Bölüm - Para Para Para",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483557"
+              }
+            ],
+            "episodeId": "seri-71_1x68"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/8a/S1E70.jpg/revision/latest?cb=20250113102328",
+            "title": "Angelo Kuralları | 1. Sezon 70. Bölüm - Gevrek Zombi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483559"
+              }
+            ],
+            "episodeId": "seri-71_1x69"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/41/S1E71.jpg/revision/latest?cb=20250113102334",
+            "title": "Angelo Kuralları | 1. Sezon 71. Bölüm - Mükemmel",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483561"
+              }
+            ],
+            "episodeId": "seri-71_1x70"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d2/S1E72.jpg/revision/latest?cb=20250113102341",
+            "title": "Angelo Kuralları | 1. Sezon 72. Bölüm - Kariyer Testi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483562"
+              }
+            ],
+            "episodeId": "seri-71_1x71"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f9/S1E73.jpg/revision/latest?cb=20250113102347",
+            "title": "Angelo Kuralları | 1. Sezon 73. Bölüm - Sherwood'un Suçu",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483564"
+              }
+            ],
+            "episodeId": "seri-71_1x72"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/3c/S1E74.jpg/revision/latest?cb=20250113102353",
+            "title": "Angelo Kuralları | 1. Sezon 74. Bölüm - Küfrü",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483566"
+              }
+            ],
+            "episodeId": "seri-71_1x73"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f3/S1E75.jpg/revision/latest?cb=20250113102408",
+            "title": "Angelo Kuralları | 1. Sezon 75. Bölüm - Harika Çocuk",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483567"
+              }
+            ],
+            "episodeId": "seri-71_1x74"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/49/S1E76.jpg/revision/latest?cb=20250113102414",
+            "title": "Angelo Kuralları | 1. Sezon 76. Bölüm - Kitap Kulübü",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483569"
+              }
+            ],
+            "episodeId": "seri-71_1x75"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e9/S1E77.jpg/revision/latest?cb=20250113102422",
+            "title": "Angelo Kuralları | 1. Sezon 77. Bölüm - Manetti Belası",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483571"
+              }
+            ],
+            "episodeId": "seri-71_1x76"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f1/S1E78.jpg/revision/latest?cb=20250113102427",
+            "title": "Angelo Kuralları | 1. Sezon 78. Bölüm - Geri Sayım",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483572"
+              }
+            ],
+            "episodeId": "seri-71_1x77"
+          }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "episodes": [
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/c2/Junkboy1.jpg/revision/latest?cb=20241227002418",
+            "title": "Angelo Kuralları | 2. Sezon 1. Bölüm - Çöpçü",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4370789"
+              }
+            ],
+            "episodeId": "seri-71_2x1"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/47/S2E02.jpg/revision/latest?cb=20250113102521",
+            "title": "Angelo Kuralları | 2. Sezon 2. Bölüm - Kick-it Ball",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4370791"
+              }
+            ],
+            "episodeId": "seri-71_2x2"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2b/S2E03.jpg/revision/latest?cb=20250113103447",
+            "title": "Angelo Kuralları | 2. Sezon 3. Bölüm - Oyun Bitti",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4370794"
+              }
+            ],
+            "episodeId": "seri-71_2x3"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f2/S2E04.jpg/revision/latest?cb=20250113103452",
+            "title": "Angelo Kuralları | 2. Sezon 4. Bölüm - Uyku Direnişi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483496"
+              }
+            ],
+            "episodeId": "seri-71_2x4"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/9a/S2E05.jpg/revision/latest?cb=20250113103458",
+            "title": "Angelo Kuralları | 2. Sezon 5. Bölüm - Kabadayuz Zekiyuz",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483498"
+              }
+            ],
+            "episodeId": "seri-71_2x5"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/94/S2E06.jpg/revision/latest?cb=20250113103504",
+            "title": "Angelo Kuralları | 2. Sezon 6. Bölüm - Güzel Şapka",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4490139"
+              }
+            ],
+            "episodeId": "seri-71_2x6"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/81/S2E07.jpg/revision/latest?cb=20250114030942",
+            "title": "Angelo Kuralları | 2. Sezon 7. Bölüm - Kimse Konuşmasın",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4490140"
+              }
+            ],
+            "episodeId": "seri-71_2x7"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/35/S2E08.jpg/revision/latest?cb=20250114030958",
+            "title": "Angelo Kuralları | 2. Sezon 8. Bölüm - Uzaylı İstilası",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483501"
+              }
+            ],
+            "episodeId": "seri-71_2x8"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/01/S2E9.jpg/revision/latest?cb=20250114031018",
+            "title": "Angelo Kuralları | 2. Sezon 9. Bölüm - Operasyon: Su Parkı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483504"
+              }
+            ],
+            "episodeId": "seri-71_2x9"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/cb/S2E10.jpg/revision/latest?cb=20250114054344",
+            "title": "Angelo Kuralları | 2. Sezon 10. Bölüm - Dünyaya Gün",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483506"
+              }
+            ],
+            "episodeId": "seri-71_2x10"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/cf/S2E11.jpg/revision/latest?cb=20250114054356",
+            "title": "Angelo Kuralları | 2. Sezon 11. Bölüm - Kitap Savaşı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483509"
+              }
+            ],
+            "episodeId": "seri-71_2x11"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2c/S2E12.jpg/revision/latest?cb=20250114054402",
+            "title": "Angelo Kuralları | 2. Sezon 12. Bölüm - Kiralık Ninja",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483513"
+              }
+            ],
+            "episodeId": "seri-71_2x12"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/cf/S2E13.jpg/revision/latest?cb=20250114054414",
+            "title": "Angelo Kuralları | 2. Sezon 13. Bölüm - Wiznimals",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483516"
+              }
+            ],
+            "episodeId": "seri-71_2x13"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/ab/S2E14.jpg/revision/latest?cb=20250114054426",
+            "title": "Angelo Kuralları | 2. Sezon 14. Bölüm - Pinpon",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483521"
+              }
+            ],
+            "episodeId": "seri-71_2x14"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7e/S2E15.jpg/revision/latest?cb=20250114054432",
+            "title": "Angelo Kuralları | 2. Sezon 15. Bölüm - Geri Gelsin",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483524"
+              }
+            ],
+            "episodeId": "seri-71_2x15"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/4d/S2E16.jpg/revision/latest?cb=20250114054444",
+            "title": "Angelo Kuralları | 2. Sezon 16. Bölüm - Arkadaş Sayfası",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483528"
+              }
+            ],
+            "episodeId": "seri-71_2x16"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2d/S2E18.jpg/revision/latest?cb=20250114054728",
+            "title": "Angelo Kuralları | 2. Sezon 17. Bölüm - Televizyon Mahkemesi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483531"
+              }
+            ],
+            "episodeId": "seri-71_2x17"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/0a/S2E19.jpg/revision/latest?cb=20250114054741",
+            "title": "Angelo Kuralları | 2. Sezon 18. Bölüm - Uzaktan Kumanda",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483537"
+              }
+            ],
+            "episodeId": "seri-71_2x18"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/27/S2E17.jpg/revision/latest?cb=20250114054721",
+            "title": "Angelo Kuralları | 2. Sezon 19. Bölüm - Aile Oyunu Gecesi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483540"
+              }
+            ],
+            "episodeId": "seri-71_2x19"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/20/S2E20.jpg/revision/latest?cb=20250114054754",
+            "title": "Angelo Kuralları | 2. Sezon 20. Bölüm - Şöhret",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4370829"
+              }
+            ],
+            "episodeId": "seri-71_2x20"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/6d/S2E21.jpg/revision/latest?cb=20250114055008",
+            "title": "Angelo Kuralları | 2. Sezon 21. Bölüm - En Komik Çocuk",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4370833"
+              }
+            ],
+            "episodeId": "seri-71_2x21"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/0d/S2E24.jpg/revision/latest?cb=20250114055507",
+            "title": "Angelo Kuralları | 2. Sezon 24. Bölüm - Futbol Seçmeleri",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4370834"
+              }
+            ],
+            "episodeId": "seri-71_2x22"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d4/S2E26.jpg/revision/latest?cb=20250114055525",
+            "title": "Angelo Kuralları | 2. Sezon 26. Bölüm - Hayallerdeki Okul Gezisi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4490142"
+              }
+            ],
+            "episodeId": "seri-71_2x23"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/07/S2E28.jpg/revision/latest?cb=20250114055543",
+            "title": "Angelo Kuralları | 2. Sezon 28. Bölüm - Sıcak Dalgası",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4370837"
+              }
+            ],
+            "episodeId": "seri-71_2x24"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/cb/S2E29.jpg/revision/latest?cb=20250114061914",
+            "title": "Angelo Kuralları | 2. Sezon 29. Bölüm - Temizlik",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483544"
+              }
+            ],
+            "episodeId": "seri-71_2x25"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/db/S2E30.jpg/revision/latest?cb=20250114062203",
+            "title": "Angelo Kuralları | 2. Sezon 30. Bölüm - Peter Saldırınca",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483547"
+              }
+            ],
+            "episodeId": "seri-71_2x26"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/be/S2E31.jpg/revision/latest?cb=20250114062209",
+            "title": "Angelo Kuralları | 2. Sezon 31. Bölüm - Kabin Sendromu",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4490143"
+              }
+            ],
+            "episodeId": "seri-71_2x27"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/63/S2E32.jpg/revision/latest?cb=20250114062216",
+            "title": "Angelo Kuralları | 2. Sezon 32. Bölüm - Sınırdaki Aile",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4490137"
+              }
+            ],
+            "episodeId": "seri-71_2x28"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/30/S2E33.jpg/revision/latest?cb=20250114062228",
+            "title": "Angelo Kuralları | 2. Sezon 33. Bölüm - Karateci Çocuklar",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483551"
+              }
+            ],
+            "episodeId": "seri-71_2x29"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/24/S2E34.jpg/revision/latest?cb=20250114062233",
+            "title": "Angelo Kuralları | 2. Sezon 34. Bölüm - Dondurma Paniği",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483554"
+              }
+            ],
+            "episodeId": "seri-71_2x30"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/c7/S2E35.jpg/revision/latest?cb=20250114062247",
+            "title": "Angelo Kuralları | 2. Sezon 35. Bölüm - Mini Grand Prix",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483558"
+              }
+            ],
+            "episodeId": "seri-71_2x31"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7b/S2E36.jpg/revision/latest?cb=20250114062252",
+            "title": "Angelo Kuralları | 2. Sezon 36. Bölüm - Kayıp Kumanda Vakası",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483560"
+              }
+            ],
+            "episodeId": "seri-71_2x32"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/57/S2E37.jpg/revision/latest?cb=20250114062258",
+            "title": "Angelo Kuralları | 2. Sezon 37. Bölüm - Gizli Plan",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483563"
+              }
+            ],
+            "episodeId": "seri-71_2x33"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/03/S2E38.jpg/revision/latest?cb=20250114062316",
+            "title": "Angelo Kuralları | 2. Sezon 38. Bölüm - İyi Şanslar",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483565"
+              }
+            ],
+            "episodeId": "seri-71_2x34"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/4a/S2E39.jpg/revision/latest?cb=20250114063529",
+            "title": "Angelo Kuralları | 2. Sezon 39. Bölüm - Özel Koruma",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483568"
+              }
+            ],
+            "episodeId": "seri-71_2x35"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/40/S2E40.jpg/revision/latest?cb=20250114063541",
+            "title": "Angelo Kuralları | 2. Sezon 40. Bölüm - Kızlar Pijama Partisi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483570"
+              }
+            ],
+            "episodeId": "seri-71_2x36"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/06/S2E41.jpg/revision/latest?cb=20250114063549",
+            "title": "Angelo Kuralları | 2. Sezon 41. Bölüm - Devrim",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483573"
+              }
+            ],
+            "episodeId": "seri-71_2x37"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7f/S2E42.jpg/revision/latest?cb=20250114065953",
+            "title": "Angelo Kuralları | 2. Sezon 42. Bölüm - Kozmik Korsanlar",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483574"
+              }
+            ],
+            "episodeId": "seri-71_2x38"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2f/S2E43.jpg/revision/latest?cb=20250114070003",
+            "title": "Angelo Kuralları | 2. Sezon 43. Bölüm - Oda İçin Savaş",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483575"
+              }
+            ],
+            "episodeId": "seri-71_2x39"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/ad/S2E44.jpg/revision/latest?cb=20250114070014",
+            "title": "Angelo Kuralları | 2. Sezon 44. Bölüm - Adım Adım",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4483576"
+              }
+            ],
+            "episodeId": "seri-71_2x40"
+          }
+        ]
+      },
+      {
+        "seasonNumber": 3,
+        "episodes": [
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/64/Space_Cadet1.jpg/revision/latest?cb=20241227002442",
+            "title": "Angelo Kuralları | 3. Sezon 1. Bölüm - Uzay Şarkısı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486866"
+              }
+            ],
+            "episodeId": "seri-71_3x1"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/81/S3E02.jpg/revision/latest?cb=20250114070534",
+            "title": "Angelo Kuralları | 3. Sezon 2. Bölüm - Düzenbaz Çocuk",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486869"
+              }
+            ],
+            "episodeId": "seri-71_3x2"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/a7/S3E03.jpg/revision/latest?cb=20250114070544",
+            "title": "Angelo Kuralları | 3. Sezon 3. Bölüm - Çamur Adam",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486873"
+              }
+            ],
+            "episodeId": "seri-71_3x3"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b4/S3E04.jpg/revision/latest?cb=20250114070557",
+            "title": "Angelo Kuralları | 3. Sezon 4. Bölüm - Okula Dönüş",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486875"
+              }
+            ],
+            "episodeId": "seri-71_3x4"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b1/S3E05.jpg/revision/latest?cb=20250114070603",
+            "title": "Angelo Kuralları | 3. Sezon 5. Bölüm - Dünya Rekorları",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486876"
+              }
+            ],
+            "episodeId": "seri-71_3x5"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d4/S3E6.jpg/revision/latest?cb=20250114070627",
+            "title": "Angelo Kuralları | 3. Sezon 6. Bölüm - Dışarıda Öğle Yemeğinde",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486881"
+              }
+            ],
+            "episodeId": "seri-71_3x6"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7a/S3E07.jpg/revision/latest?cb=20250114070640",
+            "title": "Angelo Kuralları | 3. Sezon 7. Bölüm - Tracy'nin Bakıcılığı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486883"
+              }
+            ],
+            "episodeId": "seri-71_3x7"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/9b/S3E08.jpg/revision/latest?cb=20250114073418",
+            "title": "Angelo Kuralları | 3. Sezon 8. Bölüm - Bitkin Düşmüş",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486885"
+              }
+            ],
+            "episodeId": "seri-71_3x8"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f1/S3E09.jpg/revision/latest?cb=20250114073429",
+            "title": "Angelo Kuralları | 3. Sezon 9. Bölüm - Prime Time",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486887"
+              }
+            ],
+            "episodeId": "seri-71_3x9"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/c5/S3E10.jpg/revision/latest?cb=20250114073441",
+            "title": "Angelo Kuralları | 3. Sezon 10. Bölüm - Brownie Puanları",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486890"
+              }
+            ],
+            "episodeId": "seri-71_3x10"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/53/S3E11.jpg/revision/latest?cb=20250114073458",
+            "title": "Angelo Kuralları | 3. Sezon 11. Bölüm - Zihin Okuyucu",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486893"
+              }
+            ],
+            "episodeId": "seri-71_3x11"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/a2/S3E12.jpg/revision/latest?cb=20250114073705",
+            "title": "Angelo Kuralları | 3. Sezon 12. Bölüm - Çift Taraflı Ajan",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486894"
+              }
+            ],
+            "episodeId": "seri-71_3x12"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/08/S3E13.jpg/revision/latest?cb=20250115011414",
+            "title": "Angelo Kuralları | 3. Sezon 13. Bölüm - Sürpriz Paket",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486895"
+              }
+            ],
+            "episodeId": "seri-71_3x13"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/59/S3E14.jpg/revision/latest?cb=20250115011420",
+            "title": "Angelo Kuralları | 3. Sezon 14. Bölüm - 1 Nisan",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486897"
+              }
+            ],
+            "episodeId": "seri-71_3x14"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/c/c1/S3E15.jpg/revision/latest?cb=20250115011425",
+            "title": "Angelo Kuralları | 3. Sezon 15. Bölüm - Geçmiş Olsun",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486898"
+              }
+            ],
+            "episodeId": "seri-71_3x15"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/bf/S3E16.jpg/revision/latest?cb=20250115011433",
+            "title": "Angelo Kuralları | 3. Sezon 16. Bölüm - Slobber Okul",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486899"
+              }
+            ],
+            "episodeId": "seri-71_3x16"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/1/1c/S3E17.jpg/revision/latest?cb=20250115011441",
+            "title": "Angelo Kuralları | 3. Sezon 17. Bölüm - Mağazada Bir Gece",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486900"
+              }
+            ],
+            "episodeId": "seri-71_3x17"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/6b/S3E18.jpg/revision/latest?cb=20250115011454",
+            "title": "Angelo Kuralları | 3. Sezon 18. Bölüm - Balık Hırsızları",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486901"
+              }
+            ],
+            "episodeId": "seri-71_3x18"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f5/S3E19.jpg/revision/latest?cb=20250115011500",
+            "title": "Angelo Kuralları | 3. Sezon 19. Bölüm - Şükran Hediyesi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486902"
+              }
+            ],
+            "episodeId": "seri-71_3x19"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/62/S3E20.jpg/revision/latest?cb=20250115011518",
+            "title": "Angelo Kuralları | 3. Sezon 20. Bölüm - Slobber'ın Diğer Yüzü",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486903"
+              }
+            ],
+            "episodeId": "seri-71_3x20"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/38/S3E21.jpg/revision/latest?cb=20250115013208",
+            "title": "Angelo Kuralları | 3. Sezon 21. Bölüm - Annem Uzaktayken",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486905"
+              }
+            ],
+            "episodeId": "seri-71_3x21"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/89/S3E22.jpg/revision/latest?cb=20250115013214",
+            "title": "Angelo Kuralları | 3. Sezon 22. Bölüm - Tracy'nin Kitabı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486907"
+              }
+            ],
+            "episodeId": "seri-71_3x22"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7f/S3E23.jpg/revision/latest?cb=20250115013222",
+            "title": "Angelo Kuralları | 3. Sezon 23. Bölüm - Yolculuk",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486909"
+              }
+            ],
+            "episodeId": "seri-71_3x23"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2e/S3E24.jpg/revision/latest?cb=20250115013229",
+            "title": "Angelo Kuralları | 3. Sezon 24. Bölüm - Angelo Zamanı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486910"
+              }
+            ],
+            "episodeId": "seri-71_3x24"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/61/S3E25.jpg/revision/latest?cb=20250115013235",
+            "title": "Angelo Kuralları | 3. Sezon 25. Bölüm - Vahşi Doğada",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486913"
+              }
+            ],
+            "episodeId": "seri-71_3x25"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/36/S3E27.jpg/revision/latest?cb=20250115013254",
+            "title": "Angelo Kuralları | 3. Sezon 27. Bölüm - Sihir Gösterisi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486917"
+              }
+            ],
+            "episodeId": "seri-71_3x26"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/dc/S3E28.jpg/revision/latest?cb=20250115013259",
+            "title": "Angelo Kuralları | 3. Sezon 28. Bölüm - Yoga Anne",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486920"
+              }
+            ],
+            "episodeId": "seri-71_3x27"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/1/11/S3E29.jpg/revision/latest?cb=20250115013305",
+            "title": "Angelo Kuralları | 3. Sezon 29. Bölüm - Nasıl Angelo Olunmaz?",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486924"
+              }
+            ],
+            "episodeId": "seri-71_3x28"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/ef/S3E30.jpg/revision/latest?cb=20250115013311",
+            "title": "Angelo Kuralları | 3. Sezon 30. Bölüm - Özel Bir Şey",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486925"
+              }
+            ],
+            "episodeId": "seri-71_3x29"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e5/S3E31.jpg/revision/latest?cb=20250115013316",
+            "title": "Angelo Kuralları | 3. Sezon 31. Bölüm - Yalnız Yaşayan Angelo",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486926"
+              }
+            ],
+            "episodeId": "seri-71_3x30"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/67/S3E32.jpg/revision/latest?cb=20250116012312",
+            "title": "Angelo Kuralları | 3. Sezon 32. Bölüm - Acemi Şansı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486927"
+              }
+            ],
+            "episodeId": "seri-71_3x31"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/47/S3E33.jpg/revision/latest?cb=20250116012319",
+            "title": "Angelo Kuralları | 3. Sezon 33. Bölüm - Kötü Oda Arkadaşı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486928"
+              }
+            ],
+            "episodeId": "seri-71_3x32"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/99/S3E34.jpg/revision/latest?cb=20250116012326",
+            "title": "Angelo Kuralları | 3. Sezon 34. Bölüm - Başlıkta Benim Adım",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486929"
+              }
+            ],
+            "episodeId": "seri-71_3x33"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b3/S3E35.jpg/revision/latest?cb=20250116012332",
+            "title": "Angelo Kuralları | 3. Sezon 35. Bölüm - Çevreyi Koru",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486930"
+              }
+            ],
+            "episodeId": "seri-71_3x34"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/a2/S3E36.jpg/revision/latest?cb=20250116012339",
+            "title": "Angelo Kuralları | 3. Sezon 36. Bölüm - Geçen Yazı Hatırla",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486931"
+              }
+            ],
+            "episodeId": "seri-71_3x35"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/dc/S3E37.jpg/revision/latest?cb=20250116093141",
+            "title": "Angelo Kuralları | 3. Sezon 37. Bölüm - Hayali Köpek Spot",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486932"
+              }
+            ],
+            "episodeId": "seri-71_3x36"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/db/S3E38.jpg/revision/latest?cb=20250116093155",
+            "title": "Angelo Kuralları | 3. Sezon 38. Bölüm - Rock ya da Taş",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486933"
+              }
+            ],
+            "episodeId": "seri-71_3x37"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/6e/S3E39.jpg/revision/latest?cb=20250116093202",
+            "title": "Angelo Kuralları | 3. Sezon 39. Bölüm - Gelmiş Geçmiş En İyi Sıra",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486934"
+              }
+            ],
+            "episodeId": "seri-71_3x38"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/1/1c/S3E40.jpg/revision/latest?cb=20250116094212",
+            "title": "Angelo Kuralları | 3. Sezon 40. Bölüm - Arka Koltuktaki Sürücü",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486935"
+              }
+            ],
+            "episodeId": "seri-71_3x39"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/6f/S3E41.jpg/revision/latest?cb=20250116094226",
+            "title": "Angelo Kuralları | 3. Sezon 41. Bölüm - Futbol Çılgınlığı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486937"
+              }
+            ],
+            "episodeId": "seri-71_3x40"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/a3/S3E43.jpg/revision/latest?cb=20250116095239",
+            "title": "Angelo Kuralları | 3. Sezon 43. Bölüm - Küçük Ayı ve Tatlı Şey",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486938"
+              }
+            ],
+            "episodeId": "seri-71_3x41"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/fc/S3E44.jpg/revision/latest?cb=20250116095258",
+            "title": "Angelo Kuralları | 3. Sezon 44. Bölüm - Ailecek Eğlence Zamanı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486939"
+              }
+            ],
+            "episodeId": "seri-71_3x42"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/1/1d/S3E46.jpg/revision/latest?cb=20250116100550",
+            "title": "Angelo Kuralları | 3. Sezon 45. Bölüm - Kara Angelo",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486940"
+              }
+            ],
+            "episodeId": "seri-71_3x43"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b9/S3E45.jpg/revision/latest?cb=20250116100545",
+            "title": "Angelo Kuralları | 3. Sezon 46. Bölüm - Çoğunlukla Şüpheli",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486941"
+              }
+            ],
+            "episodeId": "seri-71_3x44"
+          }
+        ]
+      },
+      {
+        "seasonNumber": 4,
+        "episodes": [
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b2/S4E01.jpg/revision/latest?cb=20250116100616",
+            "title": "Angelo Kuralları | 4. Sezon 1. Bölüm - Akılsız Telefon",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486943"
+              }
+            ],
+            "episodeId": "seri-71_4x1"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/a1/S4E02.jpg/revision/latest?cb=20250116100621",
+            "title": "Angelo Kuralları | 4. Sezon 2. Bölüm - Notlar Kralı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486944"
+              }
+            ],
+            "episodeId": "seri-71_4x2"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/aa/S4E03.jpg/revision/latest?cb=20250116100626",
+            "title": "Angelo Kuralları | 4. Sezon 3. Bölüm - Rock Yıldızı Baba",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486945"
+              }
+            ],
+            "episodeId": "seri-71_4x3"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/6c/S4E04.jpg/revision/latest?cb=20250116104625",
+            "title": "Angelo Kuralları | 4. Sezon 4. Bölüm - Okul Konseyi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486946"
+              }
+            ],
+            "episodeId": "seri-71_4x4"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/33/S4E05.jpg/revision/latest?cb=20250116104638",
+            "title": "Angelo Kuralları | 4. Sezon 5. Bölüm - Pijama Partisi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486947"
+              }
+            ],
+            "episodeId": "seri-71_4x5"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/88/S4E06.jpg/revision/latest?cb=20250116104644",
+            "title": "Angelo Kuralları | 4. Sezon 6. Bölüm - Sahte Dublör",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486948"
+              }
+            ],
+            "episodeId": "seri-71_4x6"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/e0/S4E07.jpg/revision/latest?cb=20250116104703",
+            "title": "Angelo Kuralları | 4. Sezon 7. Bölüm - Tabiatın Dengesi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486949"
+              }
+            ],
+            "episodeId": "seri-71_4x7"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/f5/S4E08.jpg/revision/latest?cb=20250116110240",
+            "title": "Angelo Kuralları | 4. Sezon 8. Bölüm - Hırsız Kedi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486950"
+              }
+            ],
+            "episodeId": "seri-71_4x8"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/da/S4E09.jpg/revision/latest?cb=20250116110247",
+            "title": "Angelo Kuralları | 4. Sezon 9. Bölüm - Karşınızda Bilim",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486951"
+              }
+            ],
+            "episodeId": "seri-71_4x9"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/45/S4E10.jpg/revision/latest?cb=20250116110253",
+            "title": "Angelo Kuralları | 4. Sezon 10. Bölüm - Kol",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486952"
+              }
+            ],
+            "episodeId": "seri-71_4x10"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/59/S4E11.jpg/revision/latest?cb=20250117061023",
+            "title": "Angelo Kuralları | 4. Sezon 11. Bölüm - Kedi Hırsızı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486953"
+              }
+            ],
+            "episodeId": "seri-71_4x11"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2c/S4E12.jpg/revision/latest?cb=20250117061029",
+            "title": "Angelo Kuralları | 4. Sezon 12. Bölüm - Mektup Arkadaşı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486954"
+              }
+            ],
+            "episodeId": "seri-71_4x12"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/68/S4E13.jpg/revision/latest?cb=20250117061035",
+            "title": "Angelo Kuralları | 4. Sezon 13. Bölüm - Ayın Elemanı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486955"
+              }
+            ],
+            "episodeId": "seri-71_4x13"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/04/S4E14.jpg/revision/latest?cb=20250117061042",
+            "title": "Angelo Kuralları | 4. Sezon 14. Bölüm - Sallanan Kafalar Beğeniye Sunuluyor",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486956"
+              }
+            ],
+            "episodeId": "seri-71_4x14"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/34/S4E15.jpg/revision/latest?cb=20250117061054",
+            "title": "Angelo Kuralları | 4. Sezon 15. Bölüm - Gizli Tarif",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486957"
+              }
+            ],
+            "episodeId": "seri-71_4x15"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/ff/S4E16.jpg/revision/latest?cb=20250117061101",
+            "title": "Angelo Kuralları | 4. Sezon 16. Bölüm - Angelo Sınava Karşı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486958"
+              }
+            ],
+            "episodeId": "seri-71_4x16"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/4/4b/S4E17.jpg/revision/latest?cb=20250117111628",
+            "title": "Angelo Kuralları | 4. Sezon 17. Bölüm - Şimdi Ne Olacak?",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486959"
+              }
+            ],
+            "episodeId": "seri-71_4x17"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/67/S4E18.jpg/revision/latest?cb=20250117111634",
+            "title": "Angelo Kuralları | 4. Sezon 18. Bölüm - Ev Hapsi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486960"
+              }
+            ],
+            "episodeId": "seri-71_4x18"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/32/S4E19.jpg/revision/latest?cb=20250117111646",
+            "title": "Angelo Kuralları | 4. Sezon 19. Bölüm - Güvercinler",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486961"
+              }
+            ],
+            "episodeId": "seri-71_4x19"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/98/S4E20.jpg/revision/latest?cb=20250117111808",
+            "title": "Angelo Kuralları | 4. Sezon 20. Bölüm - Kek Savaşları",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486962"
+              }
+            ],
+            "episodeId": "seri-71_4x20"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/a/ac/S4E21.jpg/revision/latest?cb=20250117111821",
+            "title": "Angelo Kuralları | 4. Sezon 21. Bölüm - Gelmiş Geçmiş En İyi Abla",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486963"
+              }
+            ],
+            "episodeId": "seri-71_4x21"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/e/eb/S4E22.jpg/revision/latest?cb=20250117112301",
+            "title": "Angelo Kuralları | 4. Sezon 22. Bölüm - Göster ve Anlat",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486964"
+              }
+            ],
+            "episodeId": "seri-71_4x22"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/bf/S4E23.jpg/revision/latest?cb=20250117112309",
+            "title": "Angelo Kuralları | 4. Sezon 23. Bölüm - Fotoğraflara Sızanlar",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486965"
+              }
+            ],
+            "episodeId": "seri-71_4x23"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/5d/S4E24.jpg/revision/latest?cb=20250117112323",
+            "title": "Angelo Kuralları | 4. Sezon 24. Bölüm - Beden Eğitimine Ara",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486966"
+              }
+            ],
+            "episodeId": "seri-71_4x24"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/0/04/S4E25.jpg/revision/latest?cb=20250117112336",
+            "title": "Angelo Kuralları | 4. Sezon 25. Bölüm - Van Dunk'ın Cazibesi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486967"
+              }
+            ],
+            "episodeId": "seri-71_4x25"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/25/S4E26.jpg/revision/latest?cb=20250117112351",
+            "title": "Angelo Kuralları | 4. Sezon 26. Bölüm - Çit Deneyi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486968"
+              }
+            ],
+            "episodeId": "seri-71_4x26"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/5f/S4E27.jpg/revision/latest?cb=20250117134733",
+            "title": "Angelo Kuralları | 4. Sezon 27. Bölüm - Angelo'nun Gözünden Dünyaya Bakış",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486969"
+              }
+            ],
+            "episodeId": "seri-71_4x27"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/26/S4E28.jpg/revision/latest?cb=20250117134739",
+            "title": "Angelo Kuralları | 4. Sezon 28. Bölüm - Oyundayım",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486970"
+              }
+            ],
+            "episodeId": "seri-71_4x28"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/92/S4E29.jpg/revision/latest?cb=20250117134745",
+            "title": "Angelo Kuralları | 4. Sezon 29. Bölüm - Geezer'ın Yeğeni",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486971"
+              }
+            ],
+            "episodeId": "seri-71_4x29"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d1/S4E30.jpg/revision/latest?cb=20250117134751",
+            "title": "Angelo Kuralları | 4. Sezon 30. Bölüm - Karate Kid'e Giriş",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486972"
+              }
+            ],
+            "episodeId": "seri-71_4x30"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/3/3a/S4E31.jpg/revision/latest?cb=20250117134802",
+            "title": "Angelo Kuralları | 4. Sezon 31. Bölüm - Kusursuz Bir Gün",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486973"
+              }
+            ],
+            "episodeId": "seri-71_4x31"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/5/59/S4E32.jpg/revision/latest?cb=20250117134808",
+            "title": "Angelo Kuralları | 4. Sezon 32. Bölüm - Ev Güvenliği",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486974"
+              }
+            ],
+            "episodeId": "seri-71_4x32"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/1/1e/S4E33.jpg/revision/latest?cb=20250117140726",
+            "title": "Angelo Kuralları | 4. Sezon 33. Bölüm - Toplantı",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486975"
+              }
+            ],
+            "episodeId": "seri-71_4x33"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/6/61/S4E34.jpg/revision/latest?cb=20250117140732",
+            "title": "Angelo Kuralları | 4. Sezon 34. Bölüm - Çare Angelo'yu Aramak",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486976"
+              }
+            ],
+            "episodeId": "seri-71_4x34"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/73/S4E35.jpg/revision/latest?cb=20250117140738",
+            "title": "Angelo Kuralları | 4. Sezon 35. Bölüm - Electra",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486977"
+              }
+            ],
+            "episodeId": "seri-71_4x35"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/99/S4E36.jpg/revision/latest?cb=20250117140743",
+            "title": "Angelo Kuralları | 4. Sezon 36. Bölüm - Sonsuza Dek En İyi Arkadaşlar",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486978"
+              }
+            ],
+            "episodeId": "seri-71_4x36"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/b/b3/S4E37.jpg/revision/latest?cb=20250117142013",
+            "title": "Angelo Kuralları | 4. Sezon 37. Bölüm - Yemek Yarışması",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486979"
+              }
+            ],
+            "episodeId": "seri-71_4x37"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2e/S4E38.jpg/revision/latest?cb=20250117142018",
+            "title": "Angelo Kuralları | 4. Sezon 38. Bölüm - İleride En Başarılı Olacak Kişi",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486980"
+              }
+            ],
+            "episodeId": "seri-71_4x38"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/f/fc/S4E39.jpg/revision/latest?cb=20250117142023",
+            "title": "Angelo Kuralları | 4. Sezon 39. Bölüm - Yılın Ebeveyni",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486981"
+              }
+            ],
+            "episodeId": "seri-71_4x39"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/d/d6/S4E40.jpg/revision/latest?cb=20250117142028",
+            "title": "Angelo Kuralları | 4. Sezon 40. Bölüm - Yılan Deliği",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486983"
+              }
+            ],
+            "episodeId": "seri-71_4x40"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/9e/S4E41.jpg/revision/latest?cb=20250117142034",
+            "title": "Angelo Kuralları | 4. Sezon 41. Bölüm - Profesör Angelo",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486984"
+              }
+            ],
+            "episodeId": "seri-71_4x41"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/9/97/S4E42.jpg/revision/latest?cb=20250117142039",
+            "title": "Angelo Kuralları | 4. Sezon 42. Bölüm - Geleceğimiz",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486985"
+              }
+            ],
+            "episodeId": "seri-71_4x42"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/2b/S4E44.jpg/revision/latest?cb=20250117142051",
+            "title": "Angelo Kuralları | 4. Sezon 44. Bölüm - Yedekler",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486986"
+              }
+            ],
+            "episodeId": "seri-71_4x43"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/2/20/S4E47.jpg/revision/latest?cb=20250117142119",
+            "title": "Angelo Kuralları | 4. Sezon 47-48. Bölüm - Başkan Adayı Peter",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486987"
+              }
+            ],
+            "episodeId": "seri-71_4x44"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/7/7d/S4E48.jpg/revision/latest?cb=20250117142125",
+            "title": "Angelo Kuralları | 4. Sezon 49-50. Bölüm - Kara Angelo 2: Wiznimal Savaşları",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486988"
+              }
+            ],
+            "episodeId": "seri-71_4x45"
+          },
+          {
+            "thumbnail": "https://static.wikia.nocookie.net/angelorules/images/8/83/S4E49.jpg/revision/latest?cb=20250117142131",
+            "title": "Angelo Kuralları | 4. Sezon 51-52. Bölüm - Çok Gizli Görev",
+            "videoSources": [
+              {
+                "name": "Sibnet",
+                "url": "https://video.sibnet.ru/shell.php?videoid=4486989"
+              }
+            ],
+            "episodeId": "seri-71_4x46"
+          }
+        ]
+      }
+    ]
+      }
     }
 }
