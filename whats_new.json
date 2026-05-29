@@ -1,7 +1,14 @@
 {
     "_tags": "Yeni | Güncelleme | Düzeltme",
-    "version": "1.0.13",
+    "version": "1.0.14",
     "items": [
+        {
+            "id": "3",
+            "title": "Topluluk Özellikleri",
+            "description": "• Bildirim Ekranı: Diğer kullanıcıları kullanıcı adlarıyla aratarak arkadaşlık isteği gönderebilirsiniz. Gelen istekleri onaylayıp reddedebilirsiniz.\n\n• Mesajlaşma Ekranı: Arkadaş listenizi görüntüleyebilir, arkadaşlarınıza gönderdiğiniz bölümleri takip edebilirsiniz.\n\n• Bölüm Detay Ekranı Yenilendi: Daha modern bir görünüm, seri detay ekranına dönmeden sezonlar ve bölümler arasında kolay gezinme, yorumlar ayrı bir ekrana taşındı ve \"Arkadaşa Gönder\" butonu ile arkadaşlarınıza bölüm önerebilirsiniz.",
+            "date": "2026-05-28",
+            "tag": "Güncelleme v1.4.0"
+        },
         {
             "id": "1",
             "title": "",
