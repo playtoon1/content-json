@@ -1,0 +1,2525 @@
+{
+    "series": {
+        "seri-81": {
+            "title": "Greenlerin Büyükşehir Maceraları",
+            "description": "Cricket Green Büyük Şehir'e taşınıyor! Ablası Tilly, babası Bill ve vahşi Nine Alice ile beraber bu küçük aile istediği her yerde maceralar bulabilir!",
+            "cover": "https://m.media-amazon.com/images/M/MV5BZmFiZTU2MTMtM2Y0MS00Y2ZiLWE0ZjItZGNkNTNjOTU0NWI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "categories": [
+                "Çizgi Dizi",
+                "Komedi",
+                "Günlük Hayattan"
+            ],
+            "year": 2018,
+            "type": [
+                "Çizgi Dizi",
+                "Komedi",
+                "Günlük Hayattan"
+            ],
+            "imdb": 7.6,
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "episodeId": "s81sz1f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/dA2K8rt6qwpeUmLYNPj8rP3zPqe.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 1. Bölüm - Uzay Tavuğu / Biftek Akşamı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977708"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977711"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/6XMmJdJpZoTYFzSGJuHchWHLMDe.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 2. Bölüm - Cricket'a Karşı / Mavi Patates",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977712"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977713"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/1ME8j4eEgyMI3e1UAJyeIWYeMI6.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 3. Bölüm - Havuzdaki Şapşal / Tilly'nin Keçisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977714"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/jVfG5S92XCczQMUxT3OLpqrHZ6p.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 4. Bölüm - Cricket Bakıcı / Ters Parende Bill",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977715"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/gmpB2aONpMy7Fx3hlSaad9KBxEh.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 5. Bölüm - Büyükanne'nin Sürücü Belgesi / Ayı Kapanı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5862043"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977716"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977717"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/uSsqE1CS1PNs7rqUFM7djwomuPM.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 6. Bölüm - Fotoğraf Baskısı / Remy'nin Kurtuluşu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861675"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977718"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/cmIgvzjp6qjG3aca4z7SuIvgosq.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 7. Bölüm - Trafik Sıkışıklığı / Anne Kuş",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977720"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977721"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/lmRCt6FiAX4GI1CCPLGNwh1XkEd.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 8. Bölüm - Eve Hoş Geldin / Rakun",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977722"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977724"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/2XNQoqFXKNnukitwaHciq9nYthy.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 9. Bölüm - Bill'i Doyurmak / Hayvan Topu Krizi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861673"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977725"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977726"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f10",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/nutaUdufcfvl3VFgFg04HDgnCZf.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 10. Bölüm - Geçit Töreni / Kendin Yap",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861672"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977727"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977728"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f11",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/gpmTwqN9YJrIBsaArQN3HcQy5dp.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 11. Bölüm - Gargoyle Kızlar / Süpermarket Skandalı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861670"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861671"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977729"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977731"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f12",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/yeM4BL6mjy1BuPJOx1ph43VM4kQ.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 12. Bölüm - Barry Cuda / Evde Tek Başına",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861668"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861669"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977738"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977739"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f13",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/qWNZnY4bhbBTEAvudCQXYH4biR1.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 13. Bölüm - Aile Mirası / Yaramazlık Tablosu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861667"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977740"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f14",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/e6EA9Z7UIeWatkJJMJYEx6OKwnG.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 14. Bölüm - Yetişkin Cricket / Aile Tablosu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861666"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977742"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f15",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/3uGTk1CmxwzzQc0UyGaXCcIfhjm.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 15. Bölüm - Cricket Olmak / Rakiplerin Savaşı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861665"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4978639"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f16",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/4flboI8g764A6vO9zjqWY5hjEbi.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 16. Bölüm - Flaş Haber / Sanal Zorbalar",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4978640"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f17",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/x2D88JGJ7Oq3xyo0bVolBfbKxFB.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 17. Bölüm - Tilly ve Şehir Turu / Akşam Yemeği Partisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4978642"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f18",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/klVSM0R8vVghVIxD4vN1DR2y3zo.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 18. Bölüm - Kahve Görevi / Phoenix'in Doğuşu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861664"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4978643"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f19",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/d3WJEIuMg82fcRoyTWglkBExkIY.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 19. Bölüm - Kanlı Ay",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977743"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f20",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/oEM8srJddOgleDIRCqe9oRjqXGi.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 20. Bölüm - Büyük Fırsat / Yasaklı Kedi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4978644"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5862047"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f21",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/mx0PJk0x6quXZRnRblz8ltPtEkG.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 21. Bölüm - Kafessiz Anne",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4978645"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f22",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/3fyScu7qV0aFTvJfmhbPfyhtiIi.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 22. Bölüm - Hasat Yemeği / Kazanan",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4978646"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f23",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/nEsiSustkTXsXjEymt74vkNyajy.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 23. Bölüm - Gece Bill'i / Ucuz Yılan",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861663"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4978647"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f24",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/6ZbyK3TqaDZ922GeBmMopqbmNFS.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 24. Bölüm - Hiya Henry / İnsan İzlemek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4978648"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f25",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/zn2ttSVqRUdDFor3blJgO25OyUV.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 25. Bölüm - Sevgililer Günü Dansı / Yeşil Sokaklar",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5862041"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4978649"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f26",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/uBNeGjTsnw9d8LDTg4K9r1RWK5a.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 26. Bölüm - Ağrıyan Diş / Pijama Partisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861662"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4978651"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f27",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/rispkQ0BiX8PkHBzodkIxyvcppP.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 27. Bölüm - Karavan Sorunu / Malikane Çılgınlığı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861661"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4978652"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f28",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/unciv36lLiv82psOc7ajWFbaXvB.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 28. Bölüm - Park Curcunası / Cricket'in Kurabiyeleri",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4978654"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f29",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/8LcgGHdNs4YWWJfPmvvZAv1KK3y.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 29. Bölüm - Kokarcalı / Saxon'u Mahvetmek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4978655"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz1f30",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/k1IAWq76iQnayp5IIC7InnQnW7t.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 30. Bölüm - Cricket'in Yeri / Gönüllü Tilly",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4978656"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 2,
+                    "episodes": [
+                        {
+                            "episodeId": "s81sz2f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/86HsPaHMI0nWxquvRYmvTMHAEiK.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 1. Bölüm - Cricket'in Pırıltısı / Araba Sorunu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861660"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977744"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/92EXOwnKv0ieMB0LINRVxKchfli.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 2. Bölüm - Şehir Efsanesi / Dilek Havuzu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861659"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977746"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/A5Oz1HH5ZoEE04uX4IQwxJgIqS2.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 3. Bölüm - Asansördeki Kargaşa / Kötü Örnek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5862038"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977748"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/foDRgq9ollwutCeVPgNGHL1gqm9.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 4. Bölüm - Green'lerin Yılbaşı Günü",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977750"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ePMHfdyxik6XDgFs3t1Tz8YClAl.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 5. Bölüm - Hesaplaşma Zamanı / Kulüp",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977752"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/cqLToc7nwSVAEQRO6ZHNXGuQHYM.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 6. Bölüm - Sahte Popstar / Futbol Kampı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861658"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977754"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/yj4U7F6q78GeWOByZ14bDYzvSWL.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 7. Bölüm - Sıcakla Mücadele / Uzaylı İstilası",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5862032"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977755"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/n7y0oShM8dhdz6ljL9Mq1nlooDz.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 8. Bölüm - Köpek Balığı Telaşı / Rüya Kuklacısı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977756"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5862046"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/uuap4Zd1UytAXtGFiR5tDNtZDIr.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 9. Bölüm - Seviye Atladınız / Vahşi Yanım",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977760"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f10",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/neu93ctNLeCZ4TzhX9wm4tcYJYB.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 10. Bölüm - Garaj Hikâyeleri / Hayvan Çiftliği",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977761"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f11",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/auTz3mu71XkR28xVxXKy6Jsv4qG.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 11. Bölüm - Tatlı Bir Anı / Hediyeci",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977763"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f12",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/pZQxyNhPmjlrcgYHVzxjmXA1p0b.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 12. Bölüm - Gelecek Kaygısı / Nine Direksiyon Başında",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861657"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977764"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f13",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/areFdkQnncp7nnVsqDNecuNfjyN.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 13. Bölüm - Tilly'nin Yeni Tarzı / Ben, Çiftlik-bot",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977765"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f14",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/f93FeK0VNDbVoPexdJqioPWADyO.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 14. Bölüm - Sahte Arkadaş / Sahtekar",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861656"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977767"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f15",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/4wYk53xwgv9QC1jaFTBtD70yFjG.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 15. Bölüm - Green Arazisi / Oyuncak Bebek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977769"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f16",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/3MnadbSgKYk7CCwoMAx02ffqcUy.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 16. Bölüm - Gabriella'nın Arkadaşı / Ucuz Program",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977771"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f17",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/v0zcbfQHNMvf5tha1jB7AIeYWVU.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 17. Bölüm - Tıpkısının Aynısı / Cricket'ın Biletleri",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977772"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f18",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/g9njfxDHpy7mLUn2nkKTV1Dv4cc.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 18. Bölüm - Hodri Meydan / Süper Nine",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977775"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f19",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ehfNnIF64MpnOsSOyJTyVjK9Vmy.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 19. Bölüm - Hediye Zamanı / Kaza Geliyorum Demez",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977776"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f20",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/umknQzzu2szmvtn7pDG8LLOaWfU.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 20. Bölüm - Sessizlik Lütfen / Chip'in İntikamı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977777"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f21",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ecZd6XR9Gz6HBlYyYebUHSqCohD.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 21. Bölüm - Chip, Greenlere Karşı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5861655"
+                                },
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977779"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f22",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/zOgBOPeGzUg6YFIVpr41HtKrK4e.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 22. Bölüm - Ebeveyn Kontrolü / Havuzda Bir Gün",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977781"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f23",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/gPNyecaWi5tlIOVYInHghAmugAV.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 23. Bölüm - Yeni Yıl Kararı / Karlı Bir Gün",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977782"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f24",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/oZ4JnrZIiwkMu8c66H20sM1SN0h.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 24. Bölüm - Büyücüler ve Labirentler / Karaoke Gecesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977783"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f25",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/eXmrhRmgQL7ZIaKm8nOnW8RVsMI.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 25. Bölüm - Randevu / Oda",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977785"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f26",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ezZTbhPqn82vaN1zIb5yLzagu.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 26. Bölüm - Küfür / Gel Abla Gel",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977786"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f27",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/7YegQyScp8kPUKgaG8Xxeos11du.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 27. Bölüm - Sağlıksız Beslenme / Spagetti Teorisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977788"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f28",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/8r2apkqlKzqtH1ZJRuG9x7YqMMd.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 28. Bölüm - Ding Dongcular / Atmasyon Animasyon",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977790"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f29",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/vUPfwCfzNVigMFGRLnrdiJHityS.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 29. Bölüm - Minibüs / Sucuklar",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977791"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz2f30",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/yWny76y0o17NFLQhbw4wLO9OBMk.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 2. Sezon 30. Bölüm - Kuzen Jilly / Gloria'nın Kafesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4977792"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 3,
+                    "episodes": [
+                        {
+                            "episodeId": "s81sz3f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/6fHwKAVKyz4sLTmxRf2cL50UmIA.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 1. Bölüm - Parça Pinçik!",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155795"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/oq5U9clnUqauCV6OIt6aHwfmdmD.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 2. Bölüm - Patron Hayatı - Babaganda",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155800"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/5cki0GDgigL637iqjwPcdKfwgHB.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 3. Bölüm - Küçük Dost / Zen Bahçesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155808"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/zIJipD19caSG00B1DIZy9QR588D.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 4. Bölüm - Hizmet Verilmez / Kaçırılma",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155885"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/kKGq38IcR95DXk7pF88vuvq8pLk.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 5. Bölüm - Çevreci Greenler / Çok Ateşkes",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155905"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/bKYHol4IYLbzHJmebLTO6iNsrsT.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 6. Bölüm - Bilgi Yarışması / Büyük Bela",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155910"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/hDCDMM626s23sgaLrDCyjLIAgpL.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 7. Bölüm - MuhtaçBill / Dağıtıcınatör",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155912"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/xsLdqASqrPLA8J73ayih2seyb8s.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 8. Bölüm - Dinle! / Büyük Resim",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155913"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/uyNZYFABtGdGR7vCgzkVqkqZuV1.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 9. Bölüm - Rembo / Toprak Kavanozu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155914"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f10",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/hYTfaHOPRxgc4g5U45X9mcdN5j7.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 10. Bölüm - Taşınma",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155851"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f11",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/3iqNdrekmhjhfFUIBPwFT4fXFYM.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 11. Bölüm - Köy Hayatı / Çöp Dağı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155856"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f12",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/4Kd5Py9ZY8y5FyRXFwOd6xipOSa.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 12. Bölüm - Çiftçi Remy / Eve Dönüş",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155859"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f13",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/moT0QciXSbSUmmqyZ1juJYbylNv.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 13. Bölüm - Turta Sert / Fare Kuyruğu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155862"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f14",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/jssFIe5Ail9wfz1Y6oKHWGGDZS0.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 14. Bölüm - Fırfırlı Tilly / Montajlı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155865"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f15",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/3BG8ec1yOzq0bNC2HmVV91IpV6P.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 15. Bölüm - Pizza Kurtuluş / Atlı Kız",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155867"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f16",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/hsbkcMpuNJqQnAfirUZyozacS85.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 16. Bölüm - Neredeyse Noel",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155871"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f17",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/19uuaUq7e1rZHIJGMsvoaAxA9i2.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 17. Bölüm - Mektup Arkadaşı / Yurt Dışında Eğitim",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155878"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f18",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/gFllC9NrwtqzIeJfOZQXSaAHs75.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 18. Bölüm - Bal Soygunu / Belediye Başkanı Köpek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155882"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f19",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/742am76Nw7ioEO9IHCPgUmPhJ2D.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 19. Bölüm - Ürpertici Bill / Tavşan Çiftliği",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155886"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz3f20",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/a6nRwNsjqcvUOonZ28FRay7UwUB.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 3. Sezon 20. Bölüm - Bitmeyen Elveda",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5155852"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 4,
+                    "episodes": [
+                        {
+                            "episodeId": "s81sz4f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ufWNSoMeVkxiAT8rXzckjO9LbP0.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 1. Bölüm - Duran Kamyon / Cıngıllandınız",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047686"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/cjZ9Hq4s3jwKbTqApE0RxS1Eeup.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 2. Bölüm - Stand-Upçı Bill / Green Mahkemesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047685"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/diHM2zPs6yEjrqnYhlTdA902So3.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 3. Bölüm - Kötü Baba / Hurda Delisi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047683"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/znM2Krx7qPb5zoXyEqPFzW9TsVY.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 4. Bölüm - Tokalaşma / Kahve Arkadaşları",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047682"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/sHm1SnfhrxETbR7WI1L4C5LdFtX.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 5. Bölüm - Buzlu / Chip'in Dönüşü",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047680"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/AoZdY1eyVjRlWL5rbefnbSO65Rp.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 6. Bölüm - İnternetli / Gregly'i Yönlendirmek",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047678"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/VP8ZsV7hxBlqkOvkia6kJipEMk.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 7. Bölüm - Aile Ağacı / Korumasız",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047677"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/lQcpsv7iDFcPzBppOWcL1DCp8HY.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 8. Bölüm - Beton Ormanı / Başlangıç Paketi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047676"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/r5r7v1aNqN3qDU520eJ4pigjroZ.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 9. Bölüm - Dolar Anlayışı / Gerçek Gaklama",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047675"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f10",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/aaaDfOLgzbCycKqpJOZjrL3wDXf.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 10. Bölüm - FALCI / KAÇIŞ YOK",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047674"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f11",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/l8s9rpHtjZWKGHgYd98Vw5zC1ol.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 11. Bölüm - Hindi Meselesi / Sıkı Pazarlık",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047673"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f12",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/H9PU0rEzT4i21pYs4YdVP1nhvh.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 12. Bölüm - Hayal Ağacı / Mavi Greenler",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047672"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f13",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/hmk045IsU0CX5EWt9J1bmEIafcn.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 13. Bölüm - Kış Yaygarası / Jade Meselesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047670"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f14",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/zZK03jvDPWTcUDaltF52gg7tyCi.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 14. Bölüm - Köpek Maması Vakası / Cricket Kontrolü",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047669"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f15",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/km1a3Hkx1DVbo0ePXZcgTAuoXUC.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 15. Bölüm - 1 Nisan / Yastan Uzak",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047668"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f16",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/iRv8SrPte6HZeujYRQTKmeT1E2k.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 16. Bölüm - Evil Family / Greens Underground",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047667"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f17",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/bn0L6srNKEoO2Or1ivRnKUfgKZN.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 17. Bölüm - Freebie Frenzy / TP'd",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047665"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f18",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/czNn9LJcnoluJc0PRqt8d535ue.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 18. Bölüm - Çikolata Noel Baba / Çayır Çılgınlığı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047664"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f19",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/yIdqxR4DQF07TNNQtfB5xsJOONd.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 19. Bölüm - Ayrılık İkilemi / Boynuz Kulağı Geçince",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047663"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f20",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/yNEs08NGFOxoyg5RDuogqyqmCG8.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 20. Bölüm - Yüz",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047662"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f21",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/uFX2qfBmmbDcQsekMfKtjsLemM0.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 21. Bölüm - Chip'in İntikamı",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047661"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f22",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/3E70dZaF7eTHc54vNuyOtmooTcO.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 22. Bölüm - Hayır İşi / Babasının Oğlu",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047659"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f23",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/hhsD7wXtvnp8CoIzNAs5V7bbT1Y.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 23. Bölüm - Kilit Altında / Şehirli Wayne",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047658"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f24",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/vGpYrzyf6ywtKLyeuGxcuxS6vnd.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 24. Bölüm - Saxon’ın Kabiliyeti / Remy İkilemi",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047657"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f25",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/6tZSYj28iBvk6SLxvoD32DUEFh1.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 25. Bölüm - Korsan Savaşları / Nick'in İzcileri",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047655"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f26",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/uPOmO0h27pItLefgd6Ocy5AnoNd.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 26. Bölüm - Gergin / Karanlıktan Sonra",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047654"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f27",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ltXbn1A1zlWQ0iAsoW9zIy5ZFF0.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 27. Bölüm - Kopmak / Kırık Kart",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047653"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f28",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ZDoZjs2fqxcGp9GpgUYhdhG2qK.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 28. Bölüm - Kısa Bekleme / Korkunç Hukuki",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047651"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f29",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/sYWfQJbuNxkiDtYxP4wppRCGmLc.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 29. Bölüm - Kepçeleme / Mulligan",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047650"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s81sz4f30",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/aSi4E2UX7gzpAoBj3TdV64gO8hx.jpg",
+                            "title": "Greenlerin Büyükşehir Maceraları | 4. Sezon 30. Bölüm - Tekrarlayan Tarih / Plansız",
+                            "videoSources": [
+                                {
+                                    "name": "Sibnet",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6047647"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "seri-82": {
+            "title": "Blue Lock",
+            "description": "Japonya'nın Dünya Kupası zaferi arzusu, Japon Futbol Federasyonu'nu ülkenin bir sonraki santrforunu bulmak için yeni ve zorlu bir eğitim programı başlatmaya iter. Bu pozisyon için üç yüz lise öğrencisi birbirleriyle yarışır, ancak sadece biri zirveye çıkacaktır. Japon futbolunda yeni bir çağ başlatacak santrfor olmaya aday kim olacak?",
+            "cover": "https://m.media-amazon.com/images/M/MV5BOGRhNDQ3NTgtMmU3YS00OWI0LTgyMmUtNGQwODk0MDg2YTYzXkEyXkFqcGc@._V1_.jpg",
+            "categories": [
+                "Anime",
+                "Spor",
+                "Aksiyon",
+                "Gerilim"
+            ],
+            "year": 2022,
+            "type": [
+                "Animasyon",
+                "Aksiyon & Macera",
+                "Spor"
+            ],
+            "imdb": 8.1,
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "episodeId": "s82sz1f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ejH2YmotIR43Ly3rg4sFyRDpgTW.jpg",
+                            "title": "Blue Lock | 1. Sezon 1. Bölüm - Rüya",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6216448"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed167b.bitchute.com/nvwsAvxE8atf/g16yC7wlPY1a.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x1_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x1_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x1_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/Aky840u8pGRK7PwmuX9WBos5hDs.jpg",
+                            "title": "Blue Lock | 1. Sezon 2. Bölüm - Canavar",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6216456"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed177b.bitchute.com/nvwsAvxE8atf/fzadb3TSXbKM.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x2_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x2_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x2_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/fqRdy7JwdDz7prYdSPRgkIh9VAe.jpg",
+                            "title": "Blue Lock | 1. Sezon 3. Bölüm - Futbolun 'Sıfırı'",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6216458"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed177b.bitchute.com/nvwsAvxE8atf/HAhTMD5uBTyD.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x3_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x3_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x3_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/jkmFcejcBcE9q2IudDbHD6Qs3sG.jpg",
+                            "title": "Blue Lock | 1. Sezon 4. Bölüm - Önsezi ve Sezgi",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6216464"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed177b.bitchute.com/nvwsAvxE8atf/vLMRn5OtsMrI.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x4_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x4_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x4_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/3eKzBqE54oJjhRcZNUU3ZOBLbPn.jpg",
+                            "title": "Blue Lock | 1. Sezon 5. Bölüm - Yeniden Doğmak",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6216618"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed167b.bitchute.com/nvwsAvxE8atf/MmnXAW7UxopP.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x5_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x5_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x5_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/1kPac9sUuxdUsZjOVQtG3Diyd5t.jpg",
+                            "title": "Blue Lock | 1. Sezon 6. Bölüm - Üzgünüm",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6216610"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed306b.bitchute.com/nvwsAvxE8atf/XCnkCKnfSLaL.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x6_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x6_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x6_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ekRguJhtzJ75J8RC2IoluPHvZXr.jpg",
+                            "title": "Blue Lock | 1. Sezon 7. Bölüm - Hücum",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6216613"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://zb10-7gsop1v78b.bitchute.com/nvwsAvxE8atf/ZE3xXxwlVnrV.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x7_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x7_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x7_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/jGx7T6LLxzGY4YukGTA9cYCPot8.jpg",
+                            "title": "Blue Lock | 1. Sezon 8. Bölüm - Gollerin Formülü",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6217552"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed125b.bitchute.com/nvwsAvxE8atf/Mzj5KtvPSw9d.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x8_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x8_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x8_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/q0fZZIY5XKjd6GZma9CMJJwwOeo.jpg",
+                            "title": "Blue Lock | 1. Sezon 9. Bölüm - Uyanış",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6217554"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed307.bitchute.com/nvwsAvxE8atf/RBhmIt1Irjwa.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x9_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x9_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x9_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f10",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/zzkoANEfoiQRkhFqvABVl1BrOt6.jpg",
+                            "title": "Blue Lock | 1. Sezon 10. Bölüm - Sadece Olduğu Gibi",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6217556"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed306b.bitchute.com/nvwsAvxE8atf/LVDPwwaGituU.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x10_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x10_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x10_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f11",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/9hWWOSjsB2ee0D8zfCK9fNnf3W0.jpg",
+                            "title": "Blue Lock | 1. Sezon 11. Bölüm - Son Parça",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6217559"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed177b.bitchute.com/nvwsAvxE8atf/evTGhqC2J8Eu.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x11_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x11_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x11_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f12",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/5A6KYN6G1LlmGz31LpYxrWrfepF.jpg",
+                            "title": "Blue Lock | 1. Sezon 12. Bölüm - İkinci Seçim",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6217563"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://zn21g5kls-n995b.bitchute.com/nvwsAvxE8atf/0XASyrOtrq66.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x12_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x12_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x12_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f13",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/j3YLyFoHiNHKwxS0Ecu0HIK0pee.jpg",
+                            "title": "Blue Lock | 1. Sezon 13. Bölüm - İlk 3",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6217568"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://zggg98sgwbg1gh.bitchute.com/nvwsAvxE8atf/uya112BRRhd3.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x13_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x13_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x13_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f14",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/hgjHD9fF6BCvHuY0A9net0cn6qU.jpg",
+                            "title": "Blue Lock | 1. Sezon 14. Bölüm - Dahiler ve Sıradan Tipler",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6217574"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed167b.bitchute.com/nvwsAvxE8atf/AQ3D065oUkKu.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x14_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x14_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x14_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f15",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/jz8mJfx1CFKNrQrl7VmPyUXEnq9.jpg",
+                            "title": "Blue Lock | 1. Sezon 15. Bölüm - Yutmak",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6217586"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed177b.bitchute.com/nvwsAvxE8atf/ZVIlD5IDMDgU.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x15_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x15_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x15_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f16",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/vfJ0TI25jRCLzjeWfQr1EqZC0JK.jpg",
+                            "title": "Blue Lock | 1. Sezon 16. Bölüm - Üçlü Fizyon",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6217595"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://zb10-7gsop1v78b.bitchute.com/nvwsAvxE8atf/JKJyZch3Zxj1.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x16_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x16_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x16_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f17",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/7oiLxFCYUHt1EvnD6aKrKZB9eRF.jpg",
+                            "title": "Blue Lock | 1. Sezon 17. Bölüm - Eşek",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6217619"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed167b.bitchute.com/nvwsAvxE8atf/cnRJWHpCIJxM.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x17_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x17_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x17_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f18",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/xtA0MjO9kxNMDnFtMXQp1wy7Y36.jpg",
+                            "title": "Blue Lock | 1. Sezon 18. Bölüm - Başrolün Sahnesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6217646"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed128.bitchute.com/nvwsAvxE8atf/Lhf3abbmHbvA.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x18_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x18_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x18_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f19",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/1cE38jeGcVEoV8OzIHfTjC9boO5.jpg",
+                            "title": "Blue Lock | 1. Sezon 19. Bölüm - Dans Eden Çocuk",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6217674"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed132.bitchute.com/nvwsAvxE8atf/EEKiy1BBM7Bv.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x19_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x19_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x19_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f20",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/iDAUma1z37LEegD66tNFEgH8v0y.jpg",
+                            "title": "Blue Lock | 1. Sezon 20. Bölüm - Süper Paslaşma Oyunu",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6217710"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://zggg98sgwbg1gh.bitchute.com/nvwsAvxE8atf/LdqPUxv8qRPS.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x20_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x20_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x20_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f21",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/6sWjg3ANtiZb9i2CdZidDesWGMo.jpg",
+                            "title": "Blue Lock | 1. Sezon 21. Bölüm - Orada Değilim",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6217724"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed132.bitchute.com/nvwsAvxE8atf/xjbq5cLEkzKG.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x21_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x21_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x21_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f22",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/lW6B2udjVzh4E9WLSWCAbP6jvEk.jpg",
+                            "title": "Blue Lock | 1. Sezon 22. Bölüm - Ses",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6218007"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed305.bitchute.com/nvwsAvxE8atf/b3Ivcvavb80x.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x22_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x22_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x22_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f23",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/buytu8R9oVv4QIAA0FW9swSGBTB.jpg",
+                            "title": "Blue Lock | 1. Sezon 23. Bölüm - Şans",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6218051"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed163.bitchute.com/nvwsAvxE8atf/pJfPeSNhpDJr.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x23_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x23_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x23_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz1f24",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/kCufxxbyqEwOjxlQ1B1Zztc7gPp.jpg",
+                            "title": "Blue Lock | 1. Sezon 24. Bölüm - Dünya Yıldızları",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6218093"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://zn21g5kls-n995b.bitchute.com/nvwsAvxE8atf/6ZlYZWk8gYkA.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/tr/005_1x24_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/en/005_1x24_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s1/fra/005_1x24_fr.srt"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 2,
+                    "episodes": [
+                        {
+                            "episodeId": "s82sz2f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/gBSF3tkgvFL4y9qemahLwH4CIyP.jpg",
+                            "title": "Blue Lock | 2. Sezon 1. Bölüm - Denemeler",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6218470"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://zn21g5kls-n995b.bitchute.com/nvwsAvxE8atf/tNuTtBrneCN0.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/tr/005_2x1_tr.vtt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/en/005_2x1_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/fra/005_2x1_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz2f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/97NloZcN94eEMjCqdgtLwWwMs1.jpg",
+                            "title": "Blue Lock | 2. Sezon 2. Bölüm - Suikastçı ve Ninja",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6218481"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed177b.bitchute.com/nvwsAvxE8atf/RDknU9z6H6Je.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/tr/005_2x2_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/en/005_2x2_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/fra/005_2x2_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz2f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/fjJSz4GfdNtIKRdTnDOMGG88k0E.jpg",
+                            "title": "Blue Lock | 2. Sezon 3. Bölüm - Hissettiğin Dünya",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6218495"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed128.bitchute.com/nvwsAvxE8atf/6ZvWOo0jHKAe.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/tr/005_2x3_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/en/005_2x3_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/fra/005_2x3_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz2f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/1u0NF2WEcTOUrSZajaVgAnvpRv1.jpg",
+                            "title": "Blue Lock | 2. Sezon 4. Bölüm - Bukalemun",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6218537"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed167b.bitchute.com/nvwsAvxE8atf/k8zGwcN2FZBf.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/tr/005_2x4_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/en/005_2x4_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/fra/005_2x4_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz2f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/fbRSuvxoN998M9EGCJGFjfMBFUn.jpg",
+                            "title": "Blue Lock | 2. Sezon 5. Bölüm - Akış",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6218549"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed163.bitchute.com/nvwsAvxE8atf/lzcmnRMDOnis.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/tr/005_2x5_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/en/005_2x5_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/fra/005_2x5_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz2f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/7OjN7l3fPFuaGms9OryxKvtGUjh.jpg",
+                            "title": "Blue Lock | 2. Sezon 6. Bölüm - Büyük Sahne",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6218754"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed305.bitchute.com/nvwsAvxE8atf/oJv42uzgn44X.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/tr/005_2x6_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/en/005_2x6_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/fra/005_2x6_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz2f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/u66y3p2IpiK9sem8dNCL2KvnQqJ.jpg",
+                            "title": "Blue Lock | 2. Sezon 7. Bölüm - Itoshi Sae",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6218773"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed306b.bitchute.com/nvwsAvxE8atf/e7xMuTxNVos2.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/tr/005_2x7_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/en/005_2x7_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/fra/005_2x7_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz2f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/cRKglbo9fdGNNL05qfXJctyLyIt.jpg",
+                            "title": "Blue Lock | 2. Sezon 8. Bölüm - Mavi Genler",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6219155"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed163.bitchute.com/nvwsAvxE8atf/gZISN3y8dhaj.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/tr/005_2x8_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/en/005_2x8_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/fra/005_2x8_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz2f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/nsy1v5ix0TTKWJIDe80XCGaPZuP.jpg",
+                            "title": "Blue Lock | 2. Sezon 9. Bölüm - Gece Karı",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6219166"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed128.bitchute.com/nvwsAvxE8atf/7D35yb6i0YJJ.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/tr/005_2x9_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/en/005_2x9_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/fra/005_2x9_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz2f10",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/7hGZTxmz987nCC1e1qRNLPx0eUs.jpg",
+                            "title": "Blue Lock | 2. Sezon 10. Bölüm - Yedekler Sahneye Çıkıyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6219173"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed305.bitchute.com/nvwsAvxE8atf/tROPyi4KTLhl.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/tr/005_2x10_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/en/005_2x10_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/fra/005_2x10_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz2f11",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/gF77hRplC3bZTir41fQaOjkbQG0.jpg",
+                            "title": "Blue Lock | 2. Sezon 11. Bölüm - Bize Öğrettiklerin",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6219181"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed171.bitchute.com/nvwsAvxE8atf/OdmDAQeGvpd3.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/tr/005_2x11_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/en/005_2x11_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/fra/005_2x11_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz2f12",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/oZOFRHtqJa9apbt9WcvkBFBGZHh.jpg",
+                            "title": "Blue Lock | 2. Sezon 12. Bölüm - Çiçekler",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6219190"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://zb10-7gsop1v78b.bitchute.com/nvwsAvxE8atf/cug9wAJRD48W.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/tr/005_2x12_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/en/005_2x12_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/fra/005_2x12_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz2f13",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/i8SuEsAv0GE4a68sa0R6tmNdoCR.jpg",
+                            "title": "Blue Lock | 2. Sezon 13. Bölüm - Yalnız Değil",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6219207"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed125b.bitchute.com/nvwsAvxE8atf/Vv624RDOhzpu.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/tr/005_2x13_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/en/005_2x13_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/fra/005_2x13_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s82sz2f14",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/4GReHZj6E9ePuKMAoQEPWgZBSH7.jpg",
+                            "title": "Blue Lock | 2. Sezon 14. Bölüm - Son Saldırı",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6219223"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed122.bitchute.com/nvwsAvxE8atf/ITLPDUaMXHUI.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/tr/005_2x14_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/en/005_2x14_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Francais",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/blue-lock/s2/fra/005_2x14_fr.srt"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
