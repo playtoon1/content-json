@@ -5844,6 +5844,143 @@
                     ]
                 }
             ]
+        },
+        "seri-86": {
+            "title": "Bahçe Duvarının Ötesinde",
+            "description": "\"Bilinmeyen\" adlı gizemli bir ormanda kaybolan iki üvey kardeş Wirt ve Gregory, Oduncu ve Beatrice'in yardımıyla evlerinin yolunu bulmaya çalışırlar.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTA0NTYwMjg1NzJeQTJeQWpwZ15BbWU4MDA1MTAwNTMx._V1_.jpg",
+            "categories": [
+                "Çizgi Dizi",
+                "Gizem",
+                "Korku",
+                "Fantastik"
+            ],
+            "year": 2015,
+            "type": [
+                "Animasyon",
+                "Gizem",
+                "Korku",
+                "Fantastik"
+            ],
+            "imdb": 8.7,
+            "addedDate": "30-06-2026",
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "episodeId": "s86sz1f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ns3lufMzRN2JJBmXnYBavdHnfkX.jpg",
+                            "title": "1. Sezon 1. Bölüm - Eski Tahıl Değirmeni",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5882899"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s86sz1f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ndJfw0utiHpiYV97XcGCWBVIi7u.jpg",
+                            "title": "1. Sezon 2. Bölüm - Bal Kabağı Festivali'nde Zor Zamanlar",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5882898"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s86sz1f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/3GmouKe54H23AX7gppyQG0uQVG1.jpg",
+                            "title": "1. Sezon 3. Bölüm - Okul Yaramazlıkları",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5882897"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s86sz1f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/vMYqQC4oViFJnQ0MEnHymsSNSFJ.jpg",
+                            "title": "1. Sezon 4. Bölüm - Kara Fare'nin Şarkıları",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5882896"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s86sz1f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/reZpsZ7dDg3iczJoz8h0Oy2Z8WN.jpg",
+                            "title": "1. Sezon 5. Bölüm - Çılgın Aşk",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5882895"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s86sz1f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/jomWkwoJFZIqZYcbCbqiggscCDI.jpg",
+                            "title": "1. Sezon 6. Bölüm - Kurbağa Ülkesi'nde Ninni",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5882894"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s86sz1f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/b9g99P632CZgfqFzvNPOfDP3U5B.jpg",
+                            "title": "1. Sezon 7. Bölüm - Zil Sesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5882893"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s86sz1f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/iGYu1Q82gr3hyn3CvI3d8Lmy7EK.jpg",
+                            "title": "1. Sezon 8. Bölüm - Ormandaki Bebekler",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5882892"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s86sz1f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/dbSc2xnqdgDKpl4nf9iFsYgXzyf.jpg",
+                            "title": "1. Sezon 9. Bölüm - Bilinmeyen'e Doğru",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5882891"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s86sz1f10",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/qJvWc4Vx1XvKQ4gBzdmohjrvY4C.jpg",
+                            "title": "1. Sezon 10. Bölüm - Bilinmeyen",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5882890"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     }
 }
