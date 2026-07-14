@@ -5359,6 +5359,797 @@
                     ]
                 }
             ]
+        },
+        "seri-94": {
+            "title": "Slugterra",
+            "description": "Babasının ölümünün ardından 15 yaşındaki Eli Shane, kaderine sahip çıkıp babasının izinden gitmeye karar verir. Yeraltı dünyası Slugterra'da en iyi Slug fırlatıcı olmak için küçük yaratıkları toplar, eğitir ve onlarla düello yapar.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMjIyOTg3ODc2NF5BMl5BanBnXkFtZTcwNzAxMjE0OQ@@._V1_FMjpg_UX1000_.jpg",
+            "categories": [
+                "Animasyon",
+                "Aksiyon",
+                "Macera",
+                "Bilim Kurgu"
+            ],
+            "year": 2012,
+            "type": [
+                "Animasyon",
+                "Aksiyon & Macera"
+            ],
+            "imdb": 7.4,
+            "addedDate": "09.07.2026",
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "episodeId": "s94sz1f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/zUEkvOTZTLT56uvVXgKUCsd0AFZ.jpg",
+                            "title": "Slugterra | 1. Sezon 1. Bölüm - Ayaklarımızın Altındaki Dünya Bölüm 1",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779797"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz1f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/bW697PIsCniZyi99lmhqGsX5411.jpg",
+                            "title": "Slugterra | 1. Sezon 2. Bölüm - Ayaklarımızın Altındaki Dünya Bölüm 2",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779798"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz1f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/gdR6FBxRU4MVAf4jLUt5rJzR0RV.jpg",
+                            "title": "Slugterra | 1. Sezon 3. Bölüm - Takas",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779799"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz1f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/zzlxxDHP4JJxl6mSE0rlagVhF2k.jpg",
+                            "title": "Slugterra | 1. Sezon 4. Bölüm - Slug Savaşı",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779801"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz1f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/bh5qmbfScQpGjkecvZnP3tymJO5.jpg",
+                            "title": "Slugterra | 1. Sezon 5. Bölüm - Slug Kulübü",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779802"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz1f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/r6bVWXkjbO6LUZGYnjl73QWTEqT.jpg",
+                            "title": "Slugterra | 1. Sezon 6. Bölüm - Slug Yarışı",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779803"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz1f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/AbzIsrCD52g5wdyWUOudJm1mXpF.jpg",
+                            "title": "Slugterra | 1. Sezon 7. Bölüm - Mekanik İsyan",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779804"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz1f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ub853Uxhty66ijV8767mepmrMVL.jpg",
+                            "title": "Slugterra | 1. Sezon 8. Bölüm - Ölü Ot",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779805"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz1f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/3ri0Tc2dx6IE8U0lT6yJFUPfGlG.jpg",
+                            "title": "Slugterra | 1. Sezon 9. Bölüm - Gölgeler ve Işık",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779807"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz1f10",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/428mIQoHBLesK1Cs4QhRe2SzIWy.jpg",
+                            "title": "Slugterra | 1. Sezon 10. Bölüm - Mario Bravado",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779808"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz1f11",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/hWD0CyEuvHCkE5sSsuLLODrcYrT.jpg",
+                            "title": "Slugterra | 1. Sezon 11. Bölüm - Slug'un Şafağı",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779813"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz1f12",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/fmTEjv1CSd88K7DqDxXURCt6ja8.jpg",
+                            "title": "Slugterra | 1. Sezon 12. Bölüm - Akıntı",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779814"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz1f13",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/i74AxQzDUyccbqdtBEOctxd325s.jpg",
+                            "title": "Slugterra | 1. Sezon 13. Bölüm - Nesli Tükenmekte Olan Tür",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779815"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz1f14",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ic5mD6pgxsknXtm8nrtd69cPJLs.jpg",
+                            "title": "Slugterra | 1. Sezon 14. Bölüm - Yeni Çocuk Bölüm 1",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779816"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 2,
+                    "episodes": [
+                        {
+                            "episodeId": "s94sz2f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/tOSPpmMNweJfekYI6fEksLBGk4V.jpg",
+                            "title": "Slugterra | 2. Sezon 1. Bölüm - Yeni Çocuk Bölüm 2",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779817"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz2f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/nL0uFxNSfXQosU28VTUQrT7bFZH.jpg",
+                            "title": "Slugterra | 2. Sezon 2. Bölüm - Kar Dansı",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779819"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz2f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/26iSeDPrsalMAYutjNnJOf5nMer.jpg",
+                            "title": "Slugterra | 2. Sezon 3. Bölüm - Miras",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779820"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz2f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/y2knDZEsmsHILUhoJ2wQIdISolb.jpg",
+                            "title": "Slugterra | 2. Sezon 4. Bölüm - Uzak Bir Kıyı",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779821"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz2f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/5wba3UUZMDq6sCVQ29Hc2kp3oUR.jpg",
+                            "title": "Slugterra | 2. Sezon 5. Bölüm - Eve Dönüş Yolculuğu",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779823"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz2f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/3VqQOwtw2KDz6ZxRL1UlzWO5Huh.jpg",
+                            "title": "Slugterra | 2. Sezon 6. Bölüm - Robo Sluglar",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779825"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz2f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/8q4OfHD68bamP1pQarz2agAAuhT.jpg",
+                            "title": "Slugterra | 2. Sezon 7. Bölüm - Yenilmez Usta",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779826"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz2f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/z5nhqOIumkm0i6Fbf1YpT6O9tAa.jpg",
+                            "title": "Slugterra | 2. Sezon 8. Bölüm - Derin Su, Karanlık Su",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779828"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz2f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/nB7A3I1lR6YuNA8xPZ6IG55x1H4.jpg",
+                            "title": "Slugterra | 2. Sezon 9. Bölüm - Centilmen ve Hırsız",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779829"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz2f10",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ubPoSxxxO6Bp5o9dHQoFA6XwmZ4.jpg",
+                            "title": "Slugterra | 2. Sezon 10. Bölüm - Çıkış Yok",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779831"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz2f11",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/dPdxCqirk6EXo0LSbwIHDhQP6av.jpg",
+                            "title": "Slugterra | 2. Sezon 11. Bölüm - Zor Kısım",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779832"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 3,
+                    "episodes": [
+                        {
+                            "episodeId": "s94sz3f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/wooshGqXqIXsjYMOXl3fvdI83mw.jpg",
+                            "title": "Slugterra | 3. Sezon 1. Bölüm - Altta Yatan",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779833"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz3f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/vscINFwqqcAf2OxDBNVYeN6MxAf.jpg",
+                            "title": "Slugterra | 3. Sezon 2. Bölüm - Dönüş",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779834"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz3f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/40RA7JSo35npYXvs2ua0W2Lr6xg.jpg",
+                            "title": "Slugterra | 3. Sezon 3. Bölüm - Slug Topu",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779835"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz3f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/nQYZxkUIBe1TgSr6DlVGoUJJJre.jpg",
+                            "title": "Slugterra | 3. Sezon 4. Bölüm - Sapan Kralı",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779836"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz3f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/uqD1DoVT1oDqiYvinisDSJkCBRm.jpg",
+                            "title": "Slugterra | 3. Sezon 5. Bölüm - İmkansız Görev",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779838"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz3f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/7v2ppfySAyrHdn9BpcBAZ8S1qJl.jpg",
+                            "title": "Slugterra | 3. Sezon 6. Bölüm - Krallığın Anahtarları",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779839"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz3f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/dbMUl7Fzwy8TOsXz1klV3QlyQEV.jpg",
+                            "title": "Slugterra | 3. Sezon 7. Bölüm - Oyunun Heyecanı",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779841"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz3f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/btjklYhhgSWtJElDBD3LYqik5lD.jpg",
+                            "title": "Slugterra | 3. Sezon 8. Bölüm - Işık kuyusu",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779842"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz3f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/7N2kHrZzrFOkyB5pYVPUbFAOgxj.jpg",
+                            "title": "Slugterra | 3. Sezon 9. Bölüm - Geceleyin Gelir",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779843"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz3f10",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/9mttyBlIxGikWq3ImN4FV64dBlf.jpg",
+                            "title": "Slugterra | 3. Sezon 10. Bölüm - Güncelleme",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779844"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz3f11",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/tTJIM8gKjKKy4SM5du1bzW7F1E5.jpg",
+                            "title": "Slugterra | 3. Sezon 11. Bölüm - Blakk'a geri dön",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779846"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz3f12",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/8oGOflBAafPLAvdKoOIelP4tVHv.jpg",
+                            "title": "Slugterra | 3. Sezon 12. Bölüm - Kardeşlerin Bandolieri",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779847"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz3f13",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/w0WeCrK87DbqeIVxZPpxccSDEb7.jpg",
+                            "title": "Slugterra | 3. Sezon 13. Bölüm - Gece Kadar Karanlık",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779848"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz3f14",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/m9oG4bZ5INuSF3B3j9Vr2gtRz6S.jpg",
+                            "title": "Slugterra | 3. Sezon 14. Bölüm - Gündüz kadar aydınlık",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779849"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 4,
+                    "episodes": [
+                        {
+                            "episodeId": "s94sz4f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/yTH3SPkAjREJyUlJLWeIvTPhzwz.jpg",
+                            "title": "Slugterra | 4. Sezon 1. Bölüm - Dış Dünyadan Gelen Hortlak Bölüm 1",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779848"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz4f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/clWmq4EOmmeC6Owph68ECeireHy.jpg",
+                            "title": "Slugterra | 4. Sezon 2. Bölüm - Dış Dünyadan Gelen Hortlak Bölüm 2",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779849"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz4f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/s3k2fzRmH0ZpWkCRQMfEzioLWws.jpg",
+                            "title": "Slugterra | 4. Sezon 3. Bölüm - Elementallerin Dönüşü Bölüm 1",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779850"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz4f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/pUV0v3w3bzggQaahGklIvtIeOum.jpg",
+                            "title": "Slugterra | 4. Sezon 4. Bölüm - Elementallerin Dönüşü Bölüm 2",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779852"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz4f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/7qxcnvBBAmPc9JrlwNhm7talDOR.jpg",
+                            "title": "Slugterra | 4. Sezon 5. Bölüm - Elementallerin Dönüşü Bölüm 3",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779854"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz4f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/zzd1x88LdAb1jcf4UVz6WCL81yN.jpg",
+                            "title": "Slugterra | 4. Sezon 6. Bölüm - Sülük Fu Eğitimi 1.Bölüm",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779856"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s94sz4f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/mz848ME06M4g1WeRcFurViP7gVK.jpg",
+                            "title": "Slugterra | 4. Sezon 7. Bölüm - Sülük Fu Eğitimi 2.Bölüm",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=4779859"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "seri-95": {
+            "title": "Slugterra: Ascension",
+            "description": "Yeraltı kahramanı Eli Shane ve arkadaşları, yepyeni ve tehlikeli bir güçle yüzleşmek için geri dönüyor. Barışı sağlamak için, en eski ve en güçlü Sülüklerin gizemli gücünü keşfetmek zorundalar!",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYjNiMmFlNDAtZTljMS00MmZhLWJlZmUtZDE3MDhlZWI2NDRiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "categories": [
+                "Çizgi Dizi",
+                "Aksiyon",
+                "Fantastik"
+            ],
+            "year": 2022,
+            "type": [
+                "Çizgi Dizi",
+                "Aksiyon",
+                "Fantastik"
+            ],
+            "imdb": 7.6,
+            "addedDate": "14-07-2026",
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "episodeId": "s95sz1f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/uz4HJEwaNNPn6qN4N05KNfDfIp4.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 1. Bölüm - Tuzak",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6074544"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/x7lmb7nTaxIl0oxHUh0JOl2USGM.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 2. Bölüm - Yeni Bir Plan",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6074543"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ulI6AVnrFTzMVAKUy4fLLUX6EH5.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 3. Bölüm - Tünele Giriş",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6074542"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/8utSTinf2ewS2hrW9niwb7J0fEK.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 4. Bölüm - Tünelin İçinde",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6074541"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/rhm0Nsz2BjWWXdUxRL5dxipeKAY.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 5. Bölüm - Flopper'i Takip Et",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6074540"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ziNpZjEsyO24s0la4ZIMUYr1gBi.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 6. Bölüm - Korkunç Canavar",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6074539"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/80ZFrCCSrQ7IDxx4dUm1WY5Oilw.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 7. Bölüm - Efsanevi Sümüklüböcek",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6074538"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/jVXrcVeO52rRaJ2nZGnFh5Jjcf0.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 8. Bölüm - Çıkış Yolunda",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6074537"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/w5dJQPKujTz8Z3BLcdBx491ukMZ.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 9. Bölüm - Kurtar Beni Lütfen",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6074535"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f10",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/nVPXK5yBgeKezUr7UdtSytxiY4f.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 10. Bölüm - Hatırla, Burpy",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6074534"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f11",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/iOwsdZOXzEbqQ4UTeHrsOmduWGN.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 11. Bölüm - Kızartma Derecesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6080519"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f12",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/NcJhGPFrstQwON6u7cmYraeN3F.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 12. Bölüm - Ağ Örme Şampiyonu",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6080518"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f13",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/xLg11VdEUQYZ8uz6BxlsxeUhCKP.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 13. Bölüm - Buz Şampiyonu",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6080516"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f14",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/eFNIi6KkACBF5ouTdTUnLqEBLEg.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 14. Bölüm - Su Şampiyonu",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6080514"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f15",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/nArGnHf8rnUBh18gld6JOr1FwCc.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 15. Bölüm - Uni'nin Planı",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6080512"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f16",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/AnE2pHViWvFGolOcgrnYnpA0ILz.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 16. Bölüm - Blakk'le Yüzleşme",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6080510"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f17",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/z2YEAp53V5D22CJRP9nP1JBdgXC.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 17. Bölüm - Uni'yi Alıyoruz",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6080509"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f18",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/rpEBSHDJScdEQsePUEoo5yPETMp.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 18. Bölüm - Düşmanın Yanına Sızma",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6080507"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f19",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/kCx38TISc5U2N4f2yDSYov0kYfX.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 19. Bölüm - Soğuk Mağara",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6084218"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s95sz1f20",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/sA2clqeBGoLxtwCADAet8Kj4Wb5.jpg",
+                            "title": "Slugterra: Ascension | 1. Sezon 20. Bölüm - Yolun Sonu",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6084216"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     }
 }
