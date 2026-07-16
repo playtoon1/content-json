@@ -6150,6 +6150,327 @@
                     ]
                 }
             ]
+        },
+        "seri-96": {
+            "title": "What If...?",
+            "description": "The Watcher, uçsuz bucaksız çoklu evrendeki yolculuğumuzda bize rehberlik etmeyi sürdürüyor ve Marvel Sinematik Evreni'nde bizi yepyeni ve tanıdık yüzlerle karşı karşıya getiriyor. Bu animasyon antoloji dizisi, ikonik rollerini yeniden canlandıran çok sayıda yıldız oyuncunun yer aldığı inanılmaz bir seslendirme kadrosuyla klasik Marvel Sinematik anlarını sorguluyor, yeniden ele alıyor ve çarpıtıyor.",
+            "cover": "https://m.media-amazon.com/images/M/MV5BY2I0NTlmY2EtM2MyYy00NTYxLThjNzktNTA3YjVjMmQ1MjI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "categories": [
+                "Animasyon",
+                "Aksiyon",
+                "Bilim Kurgu"
+            ],
+            "year": 2021,
+            "type": [
+                "Animasyon",
+                "Aksiyon",
+                "Bilim Kurgu"
+            ],
+            "imdb": 7.3,
+            "addedDate": "16-07-2026",
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "episodeId": "s96sz1f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/iraDBIZNHvtK6GWCG2rHLGpPv2O.jpg",
+                            "title": "What If...? | 1. Sezon 1. Bölüm - Ya... Kaptan Carter İlk İntikamcı Olsaydı?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5387297What_If___S01E01_Ya__Kaptan_Carter__lk__ntikamc__Olsayd__%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz1f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/urF7o2y7sG6GB53R0krSk9krw0E.jpg",
+                            "title": "What If...? | 1. Sezon 2. Bölüm - Ya... T'Challa Bir Yıldız Lordu Olsaydı?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5387305What_If___S01E02_Ya__T_Challa_Bir_Y_ld_z_Lordu_Olsayd__%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz1f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/diTO5LCNpVOewxIxEpJXNy6JjGl.jpg",
+                            "title": "What If...? | 1. Sezon 3. Bölüm - Ya... Dünya En Güçlü Kahramanlarını Kaybetseydi?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5387329What_If___S01E03_Ya__D_nya_En_G_l__Kahramanlar_n__Kaybetseydi_%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz1f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/oNoesVA8NqPaMcyAneQg8MMgcAQ.jpg",
+                            "title": "What If...? | 1. Sezon 4. Bölüm - Ya... Doktor Strange Elleri Yerine Kalbini Kaybederse?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5387343What_If___S01E04_Ya__Doktor_Strange_Elleri_Yerine_Kalbini_Kaybederse_%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz1f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/6bGTn0hYYQeCFwAB8CKjRmk2MvV.jpg",
+                            "title": "What If...? | 1. Sezon 5. Bölüm - Ya... Zombiler?!",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5387361What_If___S01E05_Ya__Zombiler__%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz1f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/9xdfxaiukrGDc1xXWf0unQuGmrg.jpg",
+                            "title": "What If...? | 1. Sezon 6. Bölüm - Ya... Killmonger Tony Stark'ı Kurtarırsa?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5387376What_If___S01E06_Ya__Killmonger_Tony_Stark__Kurtar_rsa_%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz1f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/vZcOTpr6AOwmYvPR6qP4E0AxjW1.jpg",
+                            "title": "What If...? | 1. Sezon 7. Bölüm - Ya... Thor Tek Çocuk Olsaydı?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5387392What_If___S01E07_Ya__Thor_Tek__ocuk_Olsayd__%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz1f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/cAeBSoSch3qUtKgtO1b5ZWzhgqC.jpg",
+                            "title": "What If...? | 1. Sezon 8. Bölüm - Ya... Ultron Kazanırsa?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5387395What_If___S01E08_Ya_Ultron_Kazan_rsa_%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz1f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/qsgIiCfnQCi3CF7tQ6M7Nw4lB9O.jpg",
+                            "title": "What If...? | 1. Sezon 9. Bölüm - Ya... Gözcü Yeminini Bozarsa?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5387399What_If___S01E09_Ya__G_zc__Yeminini_Bozarsa_%2F"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 2,
+                    "episodes": [
+                        {
+                            "episodeId": "s96sz2f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/pHHiyoMJ4IVDc5yaXZqncHYXEPS.jpg",
+                            "title": "What If...? | 2. Sezon 1. Bölüm - Ya Nebula, Nova Birliği'ne Katılsaydı?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5441331What_If___S02E01_Ya_Nebula__Nova_Birli_i_ne_Kat_lsayd__%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz2f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/tz2oyQYhK0R7cqmKaoq13yF0RYV.jpg",
+                            "title": "What If...? | 2. Sezon 2. Bölüm - Ya Peter Quill, Dünyanın En Güçlü Kahramanları'na Saldırsaydı?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5441346What_If___S02E02_Ya_Peter_Quill__D_nyan_n_En_G_l__Kahramanlar_na_Sald_rsayd__%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz2f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/s17s4ZOi2apvDSKKiCbcGvzNANe.jpg",
+                            "title": "What If...? | 2. Sezon 3. Bölüm - Ya Happy Hogan, Noel'i Kurtarsaydı?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5441359What_If___S02E03_Ya_Happy_Hogan__Noel_i_Kurtarsayd__%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz2f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/pMCetlIB9hU6KxQEqgWIllgtFIG.jpg",
+                            "title": "What If...? | 2. Sezon 4. Bölüm - Ya Iron Man, Grandmaster'la Savaşsaydı?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5441367What_If___S02E04_Ya_Iron_Man__Grandmaster_la_Sava_sayd__%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz2f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/1mD443vygJASVG4AgLYR9hWdydQ.jpg",
+                            "title": "What If...? | 2. Sezon 5. Bölüm - Ya Yüzbaşı Carter, Hydra Zırhı'yla Savaşsaydı?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5441376What_If___S02E05_Ya_Y_zba__Carter__Hydra_Z_rh_yla_Sava_sayd__%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz2f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/iEhmff3xSEPvIXxfLXSEYDBwCpP.jpg",
+                            "title": "What If...? | 2. Sezon 6. Bölüm - Ya Kahhori, Dünya'yı Baştan Şekillendirseydi?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5441386What_If___S02E06_Ya_Kahhori__D_nya_y__Ba_tan__ekillendirseydi_%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz2f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/eoEIhRYK4uMHHvtJZgxfDc4dxwO.jpg",
+                            "title": "What If...? | 2. Sezon 7. Bölüm - Ya Hela, On Halka'yı Bulmuş Olsaydı?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5441391What_If___S02E07_Ya_Hela__On_Halka_y__Bulmu__Olsayd__%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz2f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/p7LKWkMmZ66dlmJZ3Vl0gXGN2tE.jpg",
+                            "title": "What If...? | 2. Sezon 8. Bölüm - Ya Avengers, 1602'de Kurulsaydı?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5441398What_If___S02E08_Ya_Avengers__1602_de_Kurulsayd__%2F"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz2f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/j5ZvdoMGyrYOun2UJ959b8JnZiK.jpg",
+                            "title": "What If...? | 2. Sezon 9. Bölüm - Ya Strange Supreme'e Müdahale Edilseydi?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5441408What_If___S02E09_Ya_Strange_Supreme_e_M_dahale_Edilseydi_%2F"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 3,
+                    "episodes": [
+                        {
+                            "episodeId": "s96sz3f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/h9td0VFSO29IjLrR0N6d9TVV2V1.jpg",
+                            "title": "What If...? | 3. Sezon 1. Bölüm - Ya Hulk Robotlu Avengerlarla Savaşsaydı?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5797093"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz3f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/kewzerVNtGLdKMEgPgbeTZTpS1.jpg",
+                            "title": "What If...? | 3. Sezon 2. Bölüm - Ya Agatha Hollywood’a Gitseydi?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5797057"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz3f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/etetipprMIomQtuY07s2MHWpi2i.jpg",
+                            "title": "What If...? | 3. Sezon 3. Bölüm - Ya Red Guardian Kış Askerini Durdursaydı?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5797006"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz3f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/iX385P6tuYDNcL0KtgnZCT328NN.jpg",
+                            "title": "What If...? | 3. Sezon 4. Bölüm - Ya Ördek Howard Evlenseydi?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5796978"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz3f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/eXbmvvyWgsqcVaTuptcwnOvEYoJ.jpg",
+                            "title": "What If...? | 3. Sezon 5. Bölüm - Ya Yaradılış Dünyayı Yok Etseydi?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5796909"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz3f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/aJh8jLfMCsQU9PlCDaHTyBONyO0.jpg",
+                            "title": "What If...? | 3. Sezon 6. Bölüm - Ya 1872?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5796835"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz3f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/9FhpfpIxW9iHDY6fpnjNWnXkwRi.jpg",
+                            "title": "What If...? | 3. Sezon 7. Bölüm - Ya Watcher Kaybolsaydı?",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5796797"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s96sz3f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/qMqTpaKf1EfbHoHZ89jodUJCuYx.jpg",
+                            "title": "What If...? | 3. Sezon 8. Bölüm - Ya... Ya? Başlangıcın sonu...",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5796769"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     }
 }
