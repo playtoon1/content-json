@@ -9361,6 +9361,450 @@
                     ]
                 }
             ]
+        },
+        "seri-100": {
+            "title": "Flash ve Dash S",
+            "description": "Orijinal serinin devamıdır. Flash ve Dash, bu kez dünya çapında düzenlenen S Kupası’na katılır. Yeni rakipler, özel S çipleri sayesinde gelişmiş yeteneklere sahip araçlar ve çok daha zorlu parkurlar serinin temelini oluşturur. Hikâye, dostluk ve takım ruhuyla birlikte hız sınırlarını zorlayarak şampiyonluk mücadelesi vermelerini kısaca anlatır.",
+            "cover": "https://raw.githubusercontent.com/playtoon1/content-json/refs/heads/main/covers/011.png",
+            "categories": [
+                "Animasyon",
+                "Spor",
+                "Macera",
+                "Gençlik"
+            ],
+            "year": 2012,
+            "type": [
+                "Aksiyon & Macera",
+                "Animasyon",
+                "Spor"
+            ],
+            "imdb": 7.4,
+            "addedDate": "18-07-2026",
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "episodeId": "s100sz1f1",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/BvQ3s3v7N4CY_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 1. Bölüm - Yeni Gelen",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244439"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed122.bitchute.com/5khxPvsn5XZn/BvQ3s3v7N4CY.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/flash-and-dash-s/s1/tr/011_1x1_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/flash-and-dash-s/s1/en/011_1x1_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Français",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/flash-and-dash-s/s1/fra/011_1x1_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f2",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/5qsGh8fA6kJn_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 2. Bölüm - Antrenman",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244440"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://zggg98sgwbg1gh.bitchute.com/5khxPvsn5XZn/5qsGh8fA6kJn.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f3",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/ula21AZVuK94_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 3. Bölüm - Yeni Rakip",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244443"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed132.bitchute.com/5khxPvsn5XZn/ula21AZVuK94.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f4",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/ptxahH3vhvET_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 4. Bölüm - Alıştırma Mükemmelleştirir",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244441"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://zb10-7gsop1v78b.bitchute.com/5khxPvsn5XZn/ptxahH3vhvET.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f5",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/mo6kYCAoM2Y2_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 5. Bölüm - Zorlukları Aşmak",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244444"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed163.bitchute.com/5khxPvsn5XZn/mo6kYCAoM2Y2.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f6",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/s13ymLecol1a_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 6. Bölüm - Güven",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244972"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed306b.bitchute.com/5khxPvsn5XZn/s13ymLecol1a.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f7",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/ZmyZdDqsIcRs_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 7. Bölüm - Gizli Beceri",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244973"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed177b.bitchute.com/5khxPvsn5XZn/ZmyZdDqsIcRs.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f8",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/2D41Thgkn5Ak_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 8. Bölüm - Test",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244974"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed305.bitchute.com/5khxPvsn5XZn/2D41Thgkn5Ak.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f9",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/RIAznafK4PoJ_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 9. Bölüm - Meydan Okuyan",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244978"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed307.bitchute.com/5khxPvsn5XZn/RIAznafK4PoJ.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f10",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/uOzli0DzDCay_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 10. Bölüm - Yarışma Başlıyor",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244976"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed177b.bitchute.com/5khxPvsn5XZn/uOzli0DzDCay.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f11",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/tSp8igNq22y2_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 11. Bölüm - Takım Çalışması",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244977"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed167b.bitchute.com/5khxPvsn5XZn/tSp8igNq22y2.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f12",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/eLMb9Po5AjXj_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 12. Bölüm - Yeni Strateji",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244982"
+                                },
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed128.bitchute.com/5khxPvsn5XZn/eLMb9Po5AjXj.mp4"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/flash-and-dash-s/s1/tr/011_1x12_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/flash-and-dash-s/s1/en/011_1x12_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Français",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/flash-and-dash-s/s1/fra/011_1x12_fr.srt"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f13",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/jrHd1WTpH3dm_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 13. Bölüm - Arkadaşlığın Gücü",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244983"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://zggg98sgwbg1gh.bitchute.com/5khxPvsn5XZn/jrHd1WTpH3dm.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f14",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/8wl2fdEob88t_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 14. Bölüm - Korkuyla Yüzleşmek",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244985"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed307.bitchute.com/5khxPvsn5XZn/8wl2fdEob88t.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f15",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/3JzspyeGzIGE_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 15. Bölüm - Beklenmedik Dönüş",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244988"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed306b.bitchute.com/5khxPvsn5XZn/3JzspyeGzIGE.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f16",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/NXH3PL0PlRxM_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 16. Bölüm - Sportmenlik Ruhu",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244992"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed306b.bitchute.com/5khxPvsn5XZn/NXH3PL0PlRxM.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f17",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/75rdp2hh5XEX_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 17. Bölüm - Nihai Meydan Okuma",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244990"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed128.bitchute.com/5khxPvsn5XZn/75rdp2hh5XEX.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f18",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/ltvrXkkMM6M5_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 18. Bölüm - Zafere Giden Yol",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6244993"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed163.bitchute.com/5khxPvsn5XZn/ltvrXkkMM6M5.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f19",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/dzYVt2OmgX4O_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 19. Bölüm - En Güçlü Rakip",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6245350"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed132.bitchute.com/5khxPvsn5XZn/dzYVt2OmgX4O.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f20",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/WK3xxXafi6hi_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 20. Bölüm - Gizli Silah",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6245351"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://zn21g5kls-n995b.bitchute.com/5khxPvsn5XZn/WK3xxXafi6hi.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f21",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/xmFe5Wtj3szc_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 21. Bölüm - Büyük Final",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6245352"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed306b.bitchute.com/5khxPvsn5XZn/xmFe5Wtj3szc.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f22",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/tkNMEVevpdt4_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 22. Bölüm - Şampiyonluk Tacı",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6245359"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed132.bitchute.com/5khxPvsn5XZn/tkNMEVevpdt4.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f23",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/QewNnZg68ZEa_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 23. Bölüm - Yeni Başlangıçlar",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6245360"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed132.bitchute.com/5khxPvsn5XZn/QewNnZg68ZEa.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f24",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/yRSIGqWpE27M_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 24. Bölüm - Bir Sonraki Seviye",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6245361"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed122.bitchute.com/5khxPvsn5XZn/yRSIGqWpE27M.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f25",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/4E8KvEm7IPHf_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 25. Bölüm - Uluslararası Turnuva",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6245367"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed177b.bitchute.com/5khxPvsn5XZn/4E8KvEm7IPHf.mp4"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s100sz1f26",
+                            "thumbnail": "https://static-3.bitchute.com/live/cover_images/5khxPvsn5XZn/dhRDyjEHY0Mu_1280x720.jpg",
+                            "title": "Flash ve Dash S | 1. Sezon 26. Bölüm - Dünya Sahnesi",
+                            "videoSources": [
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6245369"
+                                },
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed128.bitchute.com/5khxPvsn5XZn/dhRDyjEHY0Mu.mp4"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     }
 }
