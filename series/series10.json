@@ -9362,6 +9362,1131 @@
                 }
             ]
         },
+        "seri-99": {
+            "title": "Aslan Koruyucular",
+            "description": "Zuka Zama! Aslan Koruyucular birleşti ve şimdi savunacaklar! Aslan Koruyucular'ın lideri Kion, Ataların Kükreyişi'ni serbest bırakmaya hazır!",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMGY4NTUwZDUtMzQ5ZS00YzVmLTgyMzEtMTY5YzY2OWE2NWI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+            "categories": [
+                "Çizgi Dizi",
+                "Macera"
+            ],
+            "year": 2015,
+            "type": [
+                "Animasyon",
+                "Aksiyon & Macera"
+            ],
+            "imdb": 6.4,
+            "addedDate": "20-07-2026",
+            "seasons": [
+                {
+                    "seasonNumber": 1,
+                    "episodes": [
+                        {
+                            "episodeId": "s99sz1f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/9QGXnXGBAD8G9uyBvfWzxL4POsw.jpg",
+                            "title": "1. Sezon 1. Bölüm - Her Sırtlan Aynı Değildir",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5503501",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134025",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/fGh9CIC2ahC7oAUfdSH8U5zRUrJ.jpg",
+                            "title": "1. Sezon 2. Bölüm - Makuu'nun Yükselişi",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5503500",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134028",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/zYN52QSMyS1wgjjkWhMx4pq7IIx.jpg",
+                            "title": "1. Sezon 3. Bölüm - Bilge Bunga",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5503499",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134032",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/3N7YqPVSlkmr57TVKcoaA5UbVRU.jpg",
+                            "title": "1. Sezon 4. Bölüm - Kraliçe Olmak",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5503498",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134036",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/aibMtJxFFvSTySEKyWt0lMRszQv.jpg",
+                            "title": "1. Sezon 5. Bölüm - Bakış Açısı",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5503497",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134038",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/sb5vLrfEadHQgc7NLhrCAsv7skA.jpg",
+                            "title": "1. Sezon 6. Bölüm - Kupatana Kutlamaları",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5503495",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134041",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/aZm8uepoAFC8Djk8zo3FcnpjKZ0.jpg",
+                            "title": "1. Sezon 7. Bölüm - Fuli'nin Yeni Ailesi",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5503494",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134045",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/lgPZxTZYvaez1hAqB1orf78RkU5.jpg",
+                            "title": "1. Sezon 8. Bölüm - Utamu'nun Peşinde",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5503493",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134048",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ekZa7YY0TOrSQUukQwItt8vqRhN.jpg",
+                            "title": "1. Sezon 9. Bölüm - Hipopotamı Takip Et!",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5510209",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134052",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f10",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/6ltBFr9P6xxKr7Dn3TYCJ09wvF6.jpg",
+                            "title": "1. Sezon 10. Bölüm - Drongo'nun Çağrısı",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5510208",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134055",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f11",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/Av5H61W6ij05EseEc4qS0lPoMch.jpg",
+                            "title": "1. Sezon 11. Bölüm - Resimler ve Kehanetler",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5510207",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134059",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f12",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/qO1c3e23SxtGMfqCx29Sjm52UeP.jpg",
+                            "title": "1. Sezon 12. Bölüm - Mbali Düzlükleri Göçü",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5510206",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134061",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f13",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/nrTdj7bVCs70Ui2rfTvz90eoGyn.jpg",
+                            "title": "1. Sezon 13. Bölüm - Bunga ve Kral",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5510205",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134064",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f14",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/dC8wUvwUHs7UXPUg3WTtT1GHl7U.jpg",
+                            "title": "1. Sezon 14. Bölüm - Hayali Okapi",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5510204",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134066",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f15",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ywWBu6Rkir3ny4IGQrzkgOhOnTL.jpg",
+                            "title": "1. Sezon 15. Bölüm - Termit İstilası",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5510203",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134027",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f16",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/tcmjFUXPGFkNhYjQksAAy1MQk9G.jpg",
+                            "title": "1. Sezon 16. Bölüm - Lemurların Derdi",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5510202",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134030",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f17",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/uTPJ9qTIvq4JLO0DJuxhx2rcrPO.jpg",
+                            "title": "1. Sezon 17. Bölüm - Janja'nın Yeni Çetesi",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5510201",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134033",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f18",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/z1dVLiix9Qw55gcAtpkYwfkwwQd.jpg",
+                            "title": "1. Sezon 18. Bölüm - Babunlar!",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5524573",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134037",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f19",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/zgxxsHmvnykcqLPwxbHBwgICmIF.jpg",
+                            "title": "1. Sezon 19. Bölüm - Dikkat Zimwi!",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5524572",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134040",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f20",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/4n62JtMg7VNgalmIWSvLWbaPH2r.jpg",
+                            "title": "1. Sezon 20. Bölüm - Öte Diyar'ın Aslanları",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5524571",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134042",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f21",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/2HNywOOGsUNLz2t5j2GwsVFs9d0.jpg",
+                            "title": "1. Sezon 21. Bölüm - Kükreyişin Sonu",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5510198",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134044",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f22",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/7Ckvq9RiwDJgzQ9PdiTkCUlJVVX.jpg",
+                            "title": "1. Sezon 22. Bölüm - Kayıp Goriller",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5517742",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134046",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f23",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/mjNoiIvLoIF9ePhDr8lzeOYEwf2.jpg",
+                            "title": "1. Sezon 23. Bölüm - Udugu Yolu",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5517741",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134049",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f24",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/eNtNkXJHNCkxrbIvxe20saJ5PZG.jpg",
+                            "title": "1. Sezon 24. Bölüm - Ono'nun İdolü",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5517740",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134051",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f25",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/cVmd7QFYeySqaUAf4jh5zB5N100.jpg",
+                            "title": "1. Sezon 25. Bölüm - Beshte ve Hipopotam Yolları",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5524570",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134053",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz1f26",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/vXLNBScJmep1E4nnsYpRfM7UgZm.jpg",
+                            "title": "1. Sezon 26. Bölüm - Kene Kuşu Ono",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5517738",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134057",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 2,
+                    "episodes": [
+                        {
+                            "episodeId": "s99sz2f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/4dTNaDS6GG5EopLtDuphrO4dK0G.jpg",
+                            "title": "2. Sezon 1. Bölüm - Bebek Bakıcısı Bunga",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5517737",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134105",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/uk74PYkckANgp3TwtfyOMtMLlHO.jpg",
+                            "title": "2. Sezon 2. Bölüm - Savana Zirvesi",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5524569",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134108",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/19LFDWsboSbnwD2QJ2swZxTrxE3.jpg",
+                            "title": "2. Sezon 3. Bölüm - Gezici Babun Sirki",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5524568",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134110",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/mhwiQIkmHI9hhlRDYmmolsieajH.jpg",
+                            "title": "2. Sezon 4. Bölüm - Ono ve Yumurta",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5532939",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134112",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/c8XKagrvtwlATg9oNnJraGrS51b.jpg",
+                            "title": "2. Sezon 5. Bölüm - Scar'ın Yükselişi, Bölüm 1",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5524567",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134114",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/iYq3g28sfyb2CMcT8CMFYO65Mmk.jpg",
+                            "title": "2. Sezon 6. Bölüm - Scar'ın Yükselişi, Bölüm 2",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5524565",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134116",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/xRU57w1dSGbEuTcyDS4BXOobhjg.jpg",
+                            "title": "2. Sezon 7. Bölüm - Uyuyan Timsahı Sakın Uyandırmayın",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5524564",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134118",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/uk0CYIg6OWfzWYTeJCA8MtMxqE1.jpg",
+                            "title": "2. Sezon 8. Bölüm - Sürüklenmiş",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5524563",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134120",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/c8Qe1Tntc39kh0VinwW7DCR5euI.jpg",
+                            "title": "2. Sezon 9. Bölüm - Rafiki'nin Yeni Komşuları",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5532937",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134122",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f10",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/gVE2ymWjbW3rk98wLRxqD21iO1u.jpg",
+                            "title": "2. Sezon 10. Bölüm - Öte Diyar'da Hayat Kurtarma",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5532936",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134125",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f11",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/aOUxEZopCItJH4dBMy5LweSZWFs.jpg",
+                            "title": "2. Sezon 11. Bölüm - Ukumboşu Geleneği",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5532933",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134126",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f12",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/qzy8WIVtE8Sy0Z7AegPfLGCbYY1.jpg",
+                            "title": "2. Sezon 12. Bölüm - Kenge'nin Isırığı",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5532931",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134128",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f13",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/1M0bBg5KpJTyTQfcHqUGe2XDcJj.jpg",
+                            "title": "2. Sezon 13. Bölüm - Timon ve Pumbaa'nın Noeli",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5553436",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134130",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5375144",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f14",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/5708jMNKpsGt4UPZa6DT8llShNy.jpg",
+                            "title": "2. Sezon 14. Bölüm - Sabah Raporu",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5532930",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134132",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f15",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/8c317XNnz5dUOtvPKdoYJ2s6mMK.jpg",
+                            "title": "2. Sezon 15. Bölüm - Altın Zebra",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5532929",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134134",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f16",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/87IFvj8pjf78E7qi7ri6XVuR50C.jpg",
+                            "title": "2. Sezon 16. Bölüm - Küçük Gekko",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5532928",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134106",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f17",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/f7JvACOVR40bGwGe8AfO1Kn1gQe.jpg",
+                            "title": "2. Sezon 17. Bölüm - Bölün ve Fethet",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5553434",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134107",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f18",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/5EJXjlfgfwxCkHm1yrQMgxIKUyd.jpg",
+                            "title": "2. Sezon 18. Bölüm - Akrebin İğnesi",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134109",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f19",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/5EJXjlfgfwxCkHm1yrQMgxIKUyd.jpg",
+                            "title": "2. Sezon 19. Bölüm - Kongwe'nin Bilgeliği",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134111",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f20",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/q5IAkJSiqH50KJ5Vvc6OfaCPjec.jpg",
+                            "title": "2. Sezon 20. Bölüm - Kilo Vadisi Yangını",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134113",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f21",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/yvOk3NQGEibrYGXToAvBXaSU122.jpg",
+                            "title": "2. Sezon 21. Bölüm - Kamufle Kinyonga",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5553432",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134115",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f22",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/sJwZrF9xXDlJiZaRrkCdK8o7LA3.jpg",
+                            "title": "2. Sezon 22. Bölüm - Sırlar Mağarası",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134117",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f23",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/fjqAkuWX9n1ROyG4upCAaLeAZn9.jpg",
+                            "title": "2. Sezon 23. Bölüm - Elebaşı Zebra",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5553430",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134119",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f24",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/2oYu6o8Ekx2fG670aftPz6SyB5w.jpg",
+                            "title": "2. Sezon 24. Bölüm - Sırtlan Direnişi",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134121",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f25",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/aEU2nHhOiNOr3Ou0oKAIrkrdBQ5.jpg",
+                            "title": "2. Sezon 25. Bölüm - Yer Altı Macerası",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5553428",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134124",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f26",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/6TdRADf0C2xXLDqxnT1JQvzV1Jr.jpg",
+                            "title": "2. Sezon 26. Bölüm - Besthe ve Canavar",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5549236",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134127",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f27",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/fWWDeDqrgNC5CLIGmHPB4XHtDIv.jpg",
+                            "title": "2. Sezon 27. Bölüm - Mağrur Diyarlılar Birleşiyor!",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134129",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f28",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/mowkGUsWWrvJvpCOf2pjGohFCRB.jpg",
+                            "title": "2. Sezon 28. Bölüm - Kraliçe'nin Ziyareti",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5549234",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134131",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f29",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/8fuuiSx5VHCKhWIBq11ZROUhD9L.jpg",
+                            "title": "2. Sezon 29. Bölüm - Mizimu Korusu Yanıyor",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134133",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz2f30",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/yRobhKHvn0TCzaERCqIECfXxEHy.jpg",
+                            "title": "2. Sezon 30. Bölüm - Gökyüzünden Gelen Alevler",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5553425",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134135",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "seasonNumber": 3,
+                    "episodes": [
+                        {
+                            "episodeId": "s99sz3f1",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ckTc6Y9WyrtwfeOKGEYgrZLAEJY.jpg",
+                            "title": "3. Sezon 1. Bölüm - Aslan Kayalığı Savaşı - Bölüm 1",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134160",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f2",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/ckTc6Y9WyrtwfeOKGEYgrZLAEJY.jpg",
+                            "title": "3. Sezon 2. Bölüm - Aslan Kayalığı Savaşı - Bölüm 2",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134167",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f3",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/j9zzgWSlJaN0O95MzBZsRV4SZUg.jpg",
+                            "title": "3. Sezon 3. Bölüm - Harmattan",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5553424",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134170",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f4",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/gsEziB18ShlOzl2i2IE21GA0RcD.jpg",
+                            "title": "3. Sezon 4. Bölüm - Kazara Düşen Çığ",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5553433",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134173",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f5",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/vc4EHpEfjDFrjUolC5sJu3wN5z.jpg",
+                            "title": "3. Sezon 5. Bölüm - Dağın Hayaleti",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5553421",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134177",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f6",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/7q2Pofl4hfKYCdqzLng1ZFhOSzn.jpg",
+                            "title": "3. Sezon 6. Bölüm - Bataklıktaki Gizem",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5553419",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134182",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f7",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/acfrS2d0WZT9aHKlr8tzJDHdbGE.jpg",
+                            "title": "3. Sezon 7. Bölüm - Ejderha Adası",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5564602",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134187",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f8",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/5sV3apiuNfZ8Si5o9CESdDDk9JE.jpg",
+                            "title": "3. Sezon 8. Bölüm - Anılara Yolculuk",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134192",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f9",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/iPFUZASwCqBkJrmB29VrVreRrpa.jpg",
+                            "title": "3. Sezon 9. Bölüm - Tuliza Bulma Yarışı",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134195",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f10",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/7Y41lhVfr0Ja8Ggyblj7XrwSRUj.jpg",
+                            "title": "3. Sezon 10. Bölüm - Anne Binturong",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5564601",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134199",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f11",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/9o0N21ATl09puXSJHQQsMFYWcVw.jpg",
+                            "title": "3. Sezon 11. Bölüm - Ebediyen Arkadaş",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5564600",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134162",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f12",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/oGsCFCco0wTLpp9FTQcgglYLMb0.jpg",
+                            "title": "3. Sezon 12. Bölüm - Hayat Ağacı",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5564598",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134165",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f13",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/9xMEyQAmvEYUVkWtwQ9c1ogfdUe.jpg",
+                            "title": "3. Sezon 13. Bölüm - Sabır Nehri",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5564593",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134169",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f14",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/xl8pNHRiktBH33dVJHErSdFXCCJ.jpg",
+                            "title": "3. Sezon 14. Bölüm - İhtiyar Ginterbong",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5564592",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134171",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f15",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/vrhfP9OvR66Z6tjuSaToqxB60qS.jpg",
+                            "title": "3. Sezon 15. Bölüm - Yok Edici Poa",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5564591",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134174",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f16",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/xE93KX00XxGEjIvPZmvHNbaY1DL.jpg",
+                            "title": "3. Sezon 16. Bölüm - Çok Yaşa Kraliçe",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5564590",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134176",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f17",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/vMHpK3X0bIFIQDdFOyu2QdrhpXB.jpg",
+                            "title": "3. Sezon 17. Bölüm - Yansıma Gölü",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5564588",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134180",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f18",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/nlb0xbGYJczIyOPJPhoCIxboVWv.jpg",
+                            "title": "3. Sezon 18. Bölüm - Kükreme'nin Zaferi",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5564587",
+                                    "type": "Sib-Türkçe"
+                                },
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134185",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f19",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/gVhX0MG1mSjLmbNhPcbe1nJ4rS5.jpg",
+                            "title": "3. Sezon 19. Bölüm - Aslan Kayalığı'na Doğru Yolculuk",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134189",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s99sz3f20",
+                            "thumbnail": "https://media.themoviedb.org/t/p/w454_and_h254_face/hxZz6XjZI8GqL5en06Dm59SYD8p.jpg",
+                            "title": "3. Sezon 20. Bölüm - Aslan Kayalığı'na Geri Dönüş",
+                            "videoSources": [
+                                {
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=5134194",
+                                    "type": "Sib-Türkçe"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "seri-100": {
             "title": "Flash ve Dash S",
             "description": "Orijinal serinin devamıdır. Flash ve Dash, bu kez dünya çapında düzenlenen S Kupası’na katılır. Yeni rakipler, özel S çipleri sayesinde gelişmiş yeteneklere sahip araçlar ve çok daha zorlu parkurlar serinin temelini oluşturur. Hikâye, dostluk ve takım ruhuyla birlikte hız sınırlarını zorlayarak şampiyonluk mücadelesi vermelerini kısaca anlatır.",
