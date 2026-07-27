@@ -1,0 +1,770 @@
+{
+    "series": {
+        "seri-101": {
+            "title": "Peter Pan'ın Yeni Maceraları",
+            "description": "J.M. Barrie'nin klasik hikayesine modern bir yorum getiren bu animasyon dizisinde, Peter Pan, Wendy, John ve Michael Darling'in sihirli maceraları Neverland'de devam ediyor. Wendy ve kardeşleri, Peter Pan ve Kayıp Çocuklar ile birlikte Kaptan Hook ve sinsi korsanlarına karşı savaşırken, Neverland'in büyülü sırlarını ve fantastik yaratıklarını keşfederler. Dostluk, cesaret ve macera dolu bu hikayede kahramanlarımız, hayal gücünün sınırlarını zorlayarak kötülüğe karşı mücadele eder.",
+            "cover": "https://i.tmgrup.com.tr/mnka/go/2020/10/15/540x250/1602763287796.jpg",
+            "categories": [
+                "Animasyon",
+                "Macera",
+                "Fantastik",
+                "Çocuk"
+            ],
+            "year": 2012,
+            "type": [
+                "Aksiyon & Macera",
+                "Animasyon",
+                "Fantastik"
+            ],
+            "imdb": 6.5,
+            "addedDate": "27-07-2026",
+            "seasons": [
+                {
+                    "episodes": [
+                        {
+                            "episodeId": "s101sz1f1",
+                            "thumbnail": "https://i.ytimg.com/vi/F8yQ8oKPXa0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAse81GXJ2nyAJZUhRSEyuSPoxqhA",
+                            "title": "1. Sezon 1. Bölüm - Temizlik Vakti",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed132.bitchute.com/nvwsAvxE8atf/zgLENapcHTcB.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246138"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f2",
+                            "thumbnail": "https://i.ytimg.com/vi/_AjIPbBvikE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUtp7QagSlgUle2j9yL2T-rEllQQ",
+                            "title": "1. Sezon 2. Bölüm - Peter'ın Doğum Günü",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://zb10-7gsop1v78b.bitchute.com/nvwsAvxE8atf/U6NRrpkHb0ul.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246139"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f3",
+                            "thumbnail": "https://i.ytimg.com/vi/n0JGm-U_9XE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLs0mteew095GjlrBtUHEn3qGWuQ",
+                            "title": "1. Sezon 3. Bölüm - Michael'ın Kabusu",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed128.bitchute.com/nvwsAvxE8atf/3H1SuNOBVY2j.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246140"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f4",
+                            "thumbnail": "https://i.ytimg.com/vi/1oL_l--QABQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqJDpY4tsbROjeyxxBIEW2n-38EA",
+                            "title": "1. Sezon 4. Bölüm - Kayıp Kanca",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed305.bitchute.com/nvwsAvxE8atf/la6s2sGHsJsm.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246143"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f5",
+                            "thumbnail": "https://i.ytimg.com/vi/ma9-cbng0V8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzpWorp9d3MAuyZZrF9COdmCNXoQ",
+                            "title": "1. Sezon 5. Bölüm - Uzun John Pepper'ın Kılıcı",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed132.bitchute.com/nvwsAvxE8atf/cOjblBD3by7L.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246144"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f6",
+                            "thumbnail": "https://i.ytimg.com/vi/3tERF32mOwQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDv-dqilePaxbNKqjVIyoQG70mFQQ",
+                            "title": "1. Sezon 6. Bölüm - Arkadaşlık",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed307.bitchute.com/nvwsAvxE8atf/fxcNhLeB8PNK.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246158"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f7",
+                            "thumbnail": "https://i.ytimg.com/vi/OMzULCTVIUY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0u2Jux0xm-Wr4BDVbZwlgWqkUrw",
+                            "title": "1. Sezon 7. Bölüm - Kitapta Yazan",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://zggg98sgwbg1gh.bitchute.com/nvwsAvxE8atf/1ki6efEoVxXT.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246159"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f8",
+                            "thumbnail": "https://i.ytimg.com/vi/NbhEKXV2Vlk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCr0-bAFnTRpt_He8YqdI5JeVAiHQ",
+                            "title": "1. Sezon 8. Bölüm - Büyük Tehlike",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://zn21g5kls-n995b.bitchute.com/nvwsAvxE8atf/yAOKm2yN6FAW.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246162"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f9",
+                            "thumbnail": "https://i.ytimg.com/vi/HnMcGelRsck/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcoG_rfqKAfqGHmEnpGDVJNZb0TA",
+                            "title": "1. Sezon 9. Bölüm - Gizli Bahçe",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed177b.bitchute.com/nvwsAvxE8atf/EXu9PIVZ2dJE.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246165"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f10",
+                            "thumbnail": "https://i.ytimg.com/vi/CTgaSC7LRSw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMcaILqQzQHrI5C28fU4kVxTFQdQ",
+                            "title": "1. Sezon 10. Bölüm - Hazine Avı",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed307.bitchute.com/nvwsAvxE8atf/aggfpglHcYPi.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246167"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f11",
+                            "thumbnail": "https://i.ytimg.com/vi/DrAbpHpqWPY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACmjOZaprBTvoudOBict25xpmY8Q",
+                            "title": "1. Sezon 11. Bölüm - Kısa John",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed163.bitchute.com/nvwsAvxE8atf/ujRXJzUmmOO6.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246170"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f12",
+                            "thumbnail": "https://i.ytimg.com/vi/j8_T82vFDOQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2cTzDvYHNjMmtshJBq5mtJBZdzw",
+                            "title": "1. Sezon 12. Bölüm - Kahraman Kanca",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed177b.bitchute.com/nvwsAvxE8atf/mbiNe2b4wxiv.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246171"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f13",
+                            "thumbnail": "https://i.ytimg.com/vi/iA3CEtYRzAo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDil7JdAttOCxBamMdrsehEJdiUiA",
+                            "title": "1. Sezon 13. Bölüm - Peter'ın Seçimi",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed167b.bitchute.com/nvwsAvxE8atf/kMqKw34dIpkm.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246173"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f14",
+                            "thumbnail": "https://i.ytimg.com/vi/USM0r5QBRg4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDqYhUGGed4l-IIYXq3BnozeTrNg",
+                            "title": "1. Sezon 14. Bölüm - Chumbaların Sarayı",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://zb10-7gsop1v78b.bitchute.com/nvwsAvxE8atf/umhg80rn75ep.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246174"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f15",
+                            "thumbnail": "https://i.ytimg.com/vi/2BcGdRU--LY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsOAfuhRvkKry1U5yi0bx6YMX9Bg",
+                            "title": "1. Sezon 15. Bölüm - Gölge Hırsızı",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed132.bitchute.com/nvwsAvxE8atf/MfLdi8wfdS5j.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246176"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f16",
+                            "thumbnail": "https://i.ytimg.com/vi/6Mb2PxcR3JA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCy2vw3-3caGHtZ7QkTGbG4M4HDew",
+                            "title": "1. Sezon 16. Bölüm - Köken",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed126b.bitchute.com/nvwsAvxE8atf/fKxIk2PW3SZW.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246178"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f17",
+                            "thumbnail": "https://i.ytimg.com/vi/BzmCygO77pk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDk-nUNugbXYnCnS-Vtq-R7UEjAkw",
+                            "title": "1. Sezon 17. Bölüm - Bay Plouf",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed305.bitchute.com/nvwsAvxE8atf/tsrrrRKqD2bU.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246180"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f18",
+                            "thumbnail": "https://i.ytimg.com/vi/a2O4rzIgFh8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLChgsPQLyQmrGavHPialQj35NnLSw",
+                            "title": "1. Sezon 18. Bölüm - Liderlik",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed305.bitchute.com/nvwsAvxE8atf/O3TkxaxRjDfB.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246185"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f19",
+                            "thumbnail": "https://i.ytimg.com/vi/ZrsSTkdaBeA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgt-BW7vUXnQGi1ONATqFBiC_AwQ",
+                            "title": "1. Sezon 19. Bölüm - Olmayan Film",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed122.bitchute.com/nvwsAvxE8atf/bebwCllfXbHS.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246187"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f20",
+                            "thumbnail": "https://i.ytimg.com/vi/J9jzqwawcEY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiRheJjZwEcyUk1AUNdCXrjYqLxg",
+                            "title": "1. Sezon 20. Bölüm - Bitmeyen Gün",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed306b.bitchute.com/nvwsAvxE8atf/cP4AeDpI9XB2.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246188"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f21",
+                            "thumbnail": "https://i.ytimg.com/vi/VaOkAdEi1tI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDD2LOIdyxHJyyPqtmDRi4x1kspDw",
+                            "title": "1. Sezon 21. Bölüm - Londra'ya Seyahat",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed171.bitchute.com/nvwsAvxE8atf/Rendboy5iCp7.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246190"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f22",
+                            "thumbnail": "https://i.ytimg.com/vi/eGkJTIfJQEQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5mV74bX7LYsEbB5d1u7CmM00jfg",
+                            "title": "1. Sezon 22. Bölüm - Kötü Hava ",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://zn21g5kls-n995b.bitchute.com/nvwsAvxE8atf/aJITNj9aiG4x.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246191"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f23",
+                            "thumbnail": "https://i.ytimg.com/vi/ypZ_yguZjlM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfWVDSCVIbpyq8_wGQRWd6nTdPbA",
+                            "title": "1. Sezon 23. Bölüm - Vahşi Melodiler",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://zn21g5kls-n995b.bitchute.com/nvwsAvxE8atf/EhSOVMp09sD5.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6246973"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f24",
+                            "thumbnail": "https://i.ytimg.com/vi/_V8VskMhHcI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHFmQqqpoCUq23y-nY90g32yKfng",
+                            "title": "1. Sezon 24. Bölüm - Olmayan Ülkede Noel",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed163.bitchute.com/nvwsAvxE8atf/e6toKqULHw8l.mp4"
+                                },
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6247154"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz1f25",
+                            "thumbnail": "https://i.ytimg.com/vi/_1vU53CUg0E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB7IMuIadniO4yNqHceT6fBYio8Ig",
+                            "title": "1. Sezon 25. Bölüm - Kanca Noel'i Çaldığında",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Altyazılı",
+                                    "url": "https://seed122.bitchute.com/nvwsAvxE8atf/b9Sb7olxF6Gd.mp4"
+                                },
+                                {
+                                    "name": "Sib-Altyazılı",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6247482"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 1
+                },
+                {
+                    "episodes": [
+                        {
+                            "episodeId": "s101sz2f1",
+                            "thumbnail": "https://i.ytimg.com/vi/Y0TeDjsmZJA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6AaplmxB-D77LUuZg_xvlVje9ug",
+                            "title": "2. Sezon 1. Bölüm - Yıldız Geçidi",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed177b.bitchute.com/nvwsAvxE8atf/lR1n276Krv7Y.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6248300"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f2",
+                            "thumbnail": "https://i.ytimg.com/vi/cCBldZWOLO4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCe3_HyP_-YUkCYebEjrHAWMSNXnQ",
+                            "title": "2. Sezon 2. Bölüm - Bir Korsanın Hayatı",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed122.bitchute.com/nvwsAvxE8atf/mc4XuSOYA4VF.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6250691"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f3",
+                            "thumbnail": "https://i.ytimg.com/vi/bEjGD0NYX_A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqRiIdNvR9Qkvimg6IzA2iYqe1oQ",
+                            "title": "2. Sezon 3. Bölüm - Hırsız, Rakip Ve Arkadaş",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed132.bitchute.com/nvwsAvxE8atf/PYH9ATdgfFmx.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6250693"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f4",
+                            "thumbnail": "https://i.ytimg.com/vi/ZUzHlYyEsRk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFG1aTbA9jU2udSIW6PeOvukC5Dw",
+                            "title": "2. Sezon 4. Bölüm - Wendybell'e Dikkat Et",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://zn21g5kls-n995b.bitchute.com/nvwsAvxE8atf/7NBT1pqw8k7X.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6250694"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f5",
+                            "thumbnail": "https://i.ytimg.com/vi/gJixCm7eVxI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJW0g87IMthBRGtNvJlQR-7VXS2A",
+                            "title": "2. Sezon 5. Bölüm - Canavarla Uğraşmayın",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed177b.bitchute.com/nvwsAvxE8atf/iHtZ701lNEv6.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6250704"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f6",
+                            "thumbnail": "https://i.ytimg.com/vi/Z_W3cBZXr4I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFNr0SSOTKvbOZlAI6mCbddP2FCw",
+                            "title": "2. Sezon 6. Bölüm - Taklitçi",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed122.bitchute.com/nvwsAvxE8atf/j2UWwqYTAE0y.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6250757"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f7",
+                            "thumbnail": "https://i.ytimg.com/vi/2k_90jDLugw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1UENUjA9yFlRJtLDIy956hH3FLw",
+                            "title": "2. Sezon 7. Bölüm - Asi Kızlar",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed125b.bitchute.com/nvwsAvxE8atf/rbKJ0DoRKVep.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6250758"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f8",
+                            "thumbnail": "https://i.ytimg.com/vi/Gy1pEDuc91E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3WogLSzmhjvF8Szea2Aq0vAqVAQ",
+                            "title": "2. Sezon 8. Bölüm - Kaptan'ın Doğum Günü",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed163.bitchute.com/nvwsAvxE8atf/T5BEYn2376o6.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6250759"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f9",
+                            "thumbnail": "https://i.ytimg.com/vi/BucwBFaoqgc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDyB5dTJLh-rcNA_e7jcj4JftNguA",
+                            "title": "2. Sezon 9. Bölüm - Cesur Olma Zamanı",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed307.bitchute.com/nvwsAvxE8atf/n95PpwgAuxi7.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6250775"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f10",
+                            "thumbnail": "https://i.ytimg.com/vi/T74RTv9RFmg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAT6mQChB1iSvpDQoNdvMHF37eBKw",
+                            "title": "2. Sezon 10. Bölüm - Peynir Diyin!",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed132.bitchute.com/nvwsAvxE8atf/5Ex3QDykoAs2.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6250773"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f11",
+                            "thumbnail": "https://i.ytimg.com/vi/8asW-vCwK0M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAroQlSRnnT5rOieinWtb5RFcZcng",
+                            "title": "2. Sezon 11. Bölüm - Takım Çalışması Yapalım",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed128.bitchute.com/nvwsAvxE8atf/gAxNPL65pLDU.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6250776"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f12",
+                            "thumbnail": "https://i.ytimg.com/vi/hF6eiB0Wsg0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDl0arHea2PVcIEobcx7XBuXBFbA",
+                            "title": "2. Sezon 12. Bölüm - Olmayan Ülkede Yetenek Gösterisi",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed163.bitchute.com/nvwsAvxE8atf/ke8pbcJnzso6.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6250820"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f13",
+                            "thumbnail": "https://i.ytimg.com/vi/e7kDz2MvqoE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkQuQBvWnWqeerTmXCUg-Pw9Y8Hw",
+                            "title": "2. Sezon 13. Bölüm - Öfke Taşı",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://zn21g5kls-n995b.bitchute.com/nvwsAvxE8atf/YtIcU1k3uO04.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6250823"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f14",
+                            "thumbnail": "https://i.ytimg.com/vi/ihDYw2Slba4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDv7DLGLeFrAiUG778NI6oQHfmA4w",
+                            "title": "2. Sezon 14. Bölüm - Hain",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://zn21g5kls-n995b.bitchute.com/nvwsAvxE8atf/JvgGPBPpBYSV.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6251194"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f15",
+                            "thumbnail": "https://i.ytimg.com/vi/WqRZtO9HABM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1WWZaqmtCXfFI_-RyutslkSUqDw",
+                            "title": "2. Sezon 15. Bölüm - Büyük Chumbalaya",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed126b.bitchute.com/nvwsAvxE8atf/mFeKMOrvFJDV.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6251195"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f16",
+                            "thumbnail": "https://i.ytimg.com/vi/FZMq_QmgdEM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFRsrd57uBgl6zVYW-0_u7B2vnkQ",
+                            "title": "2. Sezon 16. Bölüm - Yıldızların Harmonisi",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed305.bitchute.com/nvwsAvxE8atf/ZRJefBTZlwow.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6251197"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f17",
+                            "thumbnail": "https://i.ytimg.com/vi/ix2jCPTksOs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKaam3io7-wYvXFlkCSOiOsGyq3Q",
+                            "title": "2. Sezon 17. Bölüm - Büyümek İstemiyorum",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed128.bitchute.com/nvwsAvxE8atf/q3wFWScpNLXO.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6251216"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f18",
+                            "thumbnail": "https://i.ytimg.com/vi/lWYDDMSGyCQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8BHTVTpTXeId5KVKzF7etRHr-4Q",
+                            "title": "2. Sezon 18. Bölüm - Kızıl Derililerin Sembol Töreni",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed305.bitchute.com/nvwsAvxE8atf/nOVVxAvyoIxY.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6251213"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f19",
+                            "thumbnail": "https://i.ytimg.com/vi/5b_-OBjVd2s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0107B8IavXH18m7nq0OFB5Bq3Mw",
+                            "title": "2. Sezon 19. Bölüm - Yağmur Balığı",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed171.bitchute.com/nvwsAvxE8atf/zbmBKVBCLhoo.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6251204"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f20",
+                            "thumbnail": "https://i.ytimg.com/vi/WL8TVXRK85A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1cOJv7wbj-gPBarTwWDVUinwizQ",
+                            "title": "2. Sezon 20. Bölüm - Oyuncak Bebekler",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed163.bitchute.com/nvwsAvxE8atf/mW1AdzWfNf8k.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6251222"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f21",
+                            "thumbnail": "https://i.ytimg.com/vi/MMTdnS_npiU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2ZkrcQjHFlEY3ZasRkJDi2_uZOw",
+                            "title": "2. Sezon 21. Bölüm - Wendy Rüyadayken",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://zn21g5kls-n995b.bitchute.com/nvwsAvxE8atf/tmHeQOa0Vmmq.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6251220"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f22",
+                            "thumbnail": "https://i.ytimg.com/vi/vpTdMFmEsLE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBEO-RUBHXCrkS_ZeQige5eHeuPWQ",
+                            "title": "2. Sezon 22. Bölüm - Olmayan Ülkenin Hikayesi Bölüm 1",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed171.bitchute.com/nvwsAvxE8atf/5Gv8yul7gmn5.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6251209"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f23",
+                            "thumbnail": "https://i.ytimg.com/vi/KZu0QFY8WVs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgwFo13_BpEUWo0zbH0ORC91bzmQ",
+                            "title": "2. Sezon 23. Bölüm - Olmayan Ülkenin Hikayesi Bölüm 2",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed126b.bitchute.com/nvwsAvxE8atf/uqbuNAVfSrVw.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6251226"
+                                }
+                            ]
+                        },
+                        {
+                            "episodeId": "s101sz2f24",
+                            "thumbnail": "https://i.ytimg.com/vi/rP2SdSMYajg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLACR8p-epEfqLjbIb5AOZVptw2kBw",
+                            "title": "2. Sezon 24. Bölüm - Olmayan Ülkenin Hikayesi Bölüm 3",
+                            "videoSources": [
+                                {
+                                    "name": "BC-Türkçe",
+                                    "url": "https://seed167b.bitchute.com/nvwsAvxE8atf/qyYbdlr3yNTO.mp4"
+                                },
+                                {
+                                    "name": "Sib-Türkçe",
+                                    "url": "https://video.sibnet.ru/shell.php?videoid=6251224"
+                                }
+                            ]
+                        }
+                    ],
+                    "seasonNumber": 2
+                }
+            ]
+        }
+    }
+}
