@@ -379,6 +379,20 @@
                                     "name": "Sib-Altyazılı",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=6247154"
                                 }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/014/s1/tr/014_1x24_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/014/s1/en/014_1x24_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Français",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/014/s1/fra/014_1x24_fr.srt"
+                                }
                             ]
                         },
                         {
@@ -393,6 +407,20 @@
                                 {
                                     "name": "Sib-Altyazılı",
                                     "url": "https://video.sibnet.ru/shell.php?videoid=6247482"
+                                }
+                            ],
+                            "subtitles": [
+                                {
+                                    "label": "Türkçe / Turkish",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/014/s1/tr/014_1x25_tr.srt"
+                                },
+                                {
+                                    "label": "İngilizce / English",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/014/s1/en/014_1x25_en.srt"
+                                },
+                                {
+                                    "label": "Fransızca / Français",
+                                    "url": "https://raw.githubusercontent.com/playtoon1/Playtoon-Subs/refs/heads/main/014/s1/fra/014_1x25_fr.srt"
                                 }
                             ]
                         }
