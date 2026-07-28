@@ -5376,7 +5376,7 @@
                 "Aksiyon & Macera"
             ],
             "imdb": 7.4,
-            "addedDate": "09.07.2026",
+            "addedDate": "09-07-2026",
             "seasons": [
                 {
                     "seasonNumber": 1,
@@ -9388,11 +9388,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5503501",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134025",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9403,11 +9403,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5503500",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134028",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9418,11 +9418,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5503499",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134032",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9433,11 +9433,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5503498",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134036",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9448,11 +9448,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5503497",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134038",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9463,11 +9463,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5503495",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134041",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9478,11 +9478,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5503494",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134045",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9493,11 +9493,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5503493",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134048",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9508,11 +9508,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5510209",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134052",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9523,11 +9523,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5510208",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134055",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9538,11 +9538,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5510207",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134059",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9553,11 +9553,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5510206",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134061",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9568,11 +9568,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5510205",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134064",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9583,11 +9583,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5510204",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134066",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9598,11 +9598,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5510203",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134027",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9613,11 +9613,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5510202",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134030",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9628,11 +9628,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5510201",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134033",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9643,11 +9643,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5524573",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134037",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9658,11 +9658,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5524572",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134040",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9673,11 +9673,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5524571",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134042",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9688,11 +9688,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5510198",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134044",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9703,11 +9703,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5517742",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134046",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9718,11 +9718,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5517741",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134049",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9733,11 +9733,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5517740",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134051",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9748,11 +9748,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5524570",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134053",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9763,11 +9763,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5517738",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134057",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         }
@@ -9783,11 +9783,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5517737",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134105",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9798,11 +9798,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5524569",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134108",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9813,11 +9813,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5524568",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134110",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9828,11 +9828,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5532939",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134112",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9843,11 +9843,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5524567",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134114",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9858,11 +9858,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5524565",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134116",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9873,11 +9873,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5524564",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134118",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9888,11 +9888,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5524563",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134120",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9903,11 +9903,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5532937",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134122",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9918,11 +9918,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5532936",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134125",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9933,11 +9933,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5532933",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134126",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9948,11 +9948,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5532931",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134128",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9963,15 +9963,15 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5553436",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134130",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5375144",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9982,11 +9982,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5532930",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134132",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -9997,11 +9997,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5532929",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134134",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10012,11 +10012,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5532928",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134106",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10027,11 +10027,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5553434",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134107",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10042,7 +10042,7 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134109",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10053,7 +10053,7 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134111",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10064,7 +10064,7 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134113",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10075,11 +10075,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5553432",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134115",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10090,7 +10090,7 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134117",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10101,11 +10101,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5553430",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134119",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10116,7 +10116,7 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134121",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10127,11 +10127,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5553428",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134124",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10142,11 +10142,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5549236",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134127",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10157,7 +10157,7 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134129",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10168,11 +10168,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5549234",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134131",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10183,7 +10183,7 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134133",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10194,11 +10194,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5553425",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134135",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         }
@@ -10214,7 +10214,7 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134160",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10225,7 +10225,7 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134167",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10236,11 +10236,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5553424",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134170",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10251,11 +10251,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5553433",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134173",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10266,11 +10266,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5553421",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134177",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10281,11 +10281,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5553419",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134182",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10296,11 +10296,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5564602",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134187",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10311,7 +10311,7 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134192",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10322,7 +10322,7 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134195",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10333,11 +10333,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5564601",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134199",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10348,11 +10348,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5564600",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134162",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10363,11 +10363,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5564598",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134165",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10378,11 +10378,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5564593",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134169",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10393,11 +10393,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5564592",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134171",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10408,11 +10408,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5564591",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134174",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10423,11 +10423,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5564590",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134176",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10438,11 +10438,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5564588",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134180",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10453,11 +10453,11 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5564587",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 },
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134185",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10468,7 +10468,7 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134189",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         },
@@ -10479,7 +10479,7 @@
                             "videoSources": [
                                 {
                                     "url": "https://video.sibnet.ru/shell.php?videoid=5134194",
-                                    "type": "Sib-Türkçe"
+                                    "name": "Sib-Türkçe"
                                 }
                             ]
                         }
