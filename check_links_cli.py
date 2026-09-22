@@ -2,16 +2,8 @@
 Video Link Checker - CLI (GitHub Actions icin)
 
 Kullanim:
-    # Tek JSON
-    python check_links_cli.py --json links.json
-
-    # Manifest (icindeki files[] URL'lerini cekip hepsini kontrol eder)
-    python check_links_cli.py --manifest https://cdn.jsdelivr.net/gh/user/repo@main/series_manifest.json
-
-Ortam degiskenleri (opsiyonel - e-posta icin):
-    SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS
-    MAIL_TO, MAIL_FROM (MAIL_FROM bos ise SMTP_USER kullanilir)
-    MAIL_SUBJECT_PREFIX (opsiyonel)
+    python check_links_cli.py --manifest <url> --json-out link_status.json
+    python check_links_cli.py --json links.json --json-out link_status.json
 """
 
 import argparse
@@ -47,16 +39,19 @@ OK_STATUS     = "\u2713 \u00c7al\u0131\u015f\u0131yor"
 BROKEN_STATUS = "\u2717 Bozuk"
 REDIR_STATUS  = "\u26a0 Y\u00f6nlendi"
 
-# URL -> baslik, URL -> kaynak dosya adi
 URL_META: dict   = {}
 URL_SOURCE: dict = {}
 
-# Manifest surumu (varsa rapora ve mail basligina yazilir)
 MANIFEST_VERSION = None
+
+STATUS_KEY = {
+    OK_STATUS:     "ok",
+    BROKEN_STATUS: "broken",
+    REDIR_STATUS:  "redirect",
+}
 
 # ----------------------------- Yukleme -------------------------------------
 def _read_url(url):
-    """Cache-bypass ile URL indirir."""
     req = Request(url, headers={
         "User-Agent": USER_AGENT,
         "Cache-Control": "no-cache",
@@ -72,7 +67,6 @@ def load_json(path_or_url):
         return json.load(f)
 
 def bust_cache(url):
-    """jsDelivr gibi CDN'leri baypas etmek icin zaman damgasi ekler."""
     sep = "&" if "?" in url else "?"
     return f"{url}{sep}_t={int(time.time())}"
 
@@ -104,7 +98,7 @@ def get_domain(url):
     except Exception:
         return ""
 
-# ----------------------------- Tespit mantigi ------------------------------
+# ----------------------------- Tespit --------------------------------------
 ERROR_PATTERNS_STR = [
     "video not found", "video does not exist", "video deleted",
     "video removed", "video unavailable", "page not found",
@@ -283,13 +277,8 @@ async def run_all(urls, on_progress=None):
                 on_progress(done, len(urls))
     return results
 
-# ----------------------------- Manifest isleme -----------------------------
+# ----------------------------- Manifest ------------------------------------
 async def fetch_manifest_sources(manifest_url):
-    """
-    Manifest'i indirir, icindeki files[] URL'lerini paralel ceker,
-    her dosyadan URL'leri cikarir. (all_urls, url_source) dondurur.
-    Manifest icindeki 'version' alanini MANIFEST_VERSION'a yazar.
-    """
     global MANIFEST_VERSION
 
     print(f"[+] Manifest yukleniyor: {manifest_url}")
@@ -310,8 +299,7 @@ async def fetch_manifest_sources(manifest_url):
                    if isinstance(u, str) and u.startswith(("http://", "https://"))]
     print(f"[+] Manifest icinde {len(source_urls)} kaynak dosya bulundu")
 
-    all_urls = []
-    seen = set()
+    all_urls, seen = [], set()
 
     async with aiohttp.ClientSession(
         connector=aiohttp.TCPConnector(limit=8, ssl=False)
@@ -353,7 +341,6 @@ def _esc(s):
     return (str(s).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
 
 def _source_summary_rows(urls, results):
-    """Kaynak bazli ozet satirlari uretir."""
     agg = {}
     for u in urls:
         src = URL_SOURCE.get(u, "\u2014")
@@ -489,6 +476,44 @@ def write_csv(path, urls, results):
             st, code, r = results.get(u, ("-", "-", ""))
             w.writerow([i, URL_SOURCE.get(u, ""), URL_META.get(u, ""), u, st, code, r])
 
+def write_json_report(path, urls, results, elapsed):
+    """Makine-okunabilir JSON rapor yazar."""
+    summary = {"total": len(urls), "ok": 0, "broken": 0, "redirect": 0}
+    sources = {}
+
+    entries = []
+    for u in urls:
+        st, code, redirect = results.get(u, ("-", "-", ""))
+        key = STATUS_KEY.get(st, "unknown")
+        if key in summary:
+            summary[key] += 1
+
+        src = URL_SOURCE.get(u, "")
+        s = sources.setdefault(src, {"total": 0, "ok": 0, "broken": 0, "redirect": 0})
+        s["total"] += 1
+        if key in s:
+            s[key] += 1
+
+        entries.append({
+            "url": u,
+            "title": URL_META.get(u, ""),
+            "source": src,
+            "status": key,
+            "code": code,
+            "redirect": redirect,
+        })
+
+    doc = {
+        "version": MANIFEST_VERSION,
+        "checked_at": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "duration_sec": round(elapsed, 2),
+        "summary": summary,
+        "sources": sources,
+        "results": entries,
+    }
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(doc, f, ensure_ascii=False, indent=2)
+
 # ----------------------------- E-posta -------------------------------------
 def send_email(html, csv_path, ok, brk, red, total):
     host = os.environ.get("SMTP_HOST")
@@ -550,6 +575,8 @@ def main():
     src.add_argument("--json", help="Tek JSON dosya yolu veya URL")
     src.add_argument("--manifest", help="Manifest JSON URL (files[] icerir)")
     ap.add_argument("--out-dir", default=".")
+    ap.add_argument("--json-out", default=None,
+                    help="JSON raporunun yazilacagi dosya")
     ap.add_argument("--no-email", action="store_true")
     args = ap.parse_args()
 
@@ -596,6 +623,12 @@ def main():
     html_path.write_text(build_html_report(results, urls, elapsed), encoding="utf-8")
     write_csv(csv_path, urls, results)
 
+    if args.json_out:
+        json_path = Path(args.json_out)
+        json_path.parent.mkdir(parents=True, exist_ok=True)
+        write_json_report(json_path, urls, results, elapsed)
+        print(f"[+] JSON raporu: {json_path}")
+
     ver_line = f"Surum: v{MANIFEST_VERSION}\n" if MANIFEST_VERSION else ""
     summary.write_text(
         f"{ver_line}"
@@ -609,7 +642,7 @@ def main():
         with open(gh_sum, "a", encoding="utf-8") as f:
             f.write(f"## Video Link Raporu")
             if MANIFEST_VERSION:
-                f.write(f" — v{MANIFEST_VERSION}")
+                f.write(f" \u2014 v{MANIFEST_VERSION}")
             f.write(f"\n\n")
             f.write(f"| Toplam | \u00c7al\u0131\u015f\u0131yor | Bozuk | Y\u00f6nlendi |\n")
             f.write(f"|---|---|---|---|\n")
