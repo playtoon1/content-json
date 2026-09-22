@@ -2,26 +2,32 @@ name: Video Link Check
 
 on:
   schedule:
-    # Her 3 gunde bir, 06:00 UTC (TR 09:00)
-    - cron: "0 6 */3 * *"
+    - cron: "0 6 */3 * *"      # Her 3 gunde bir 06:00 UTC
+  workflow_dispatch:            # Elle tetikleme
 
-    # Haftalik istersen bunu kullan, ustekini sil:
-    # - cron: "0 6 * * 1"     # Her Pazartesi 06:00 UTC
+# Repoya yazabilmek icin
+permissions:
+  contents: write
 
-  workflow_dispatch:        # elle tetikleme
+# Ayni anda iki tane calismasin (cron + manuel)
+concurrency:
+  group: link-check
+  cancel-in-progress: false
 
 env:
-  # Manifest'in nerede oldugu — istersen degistir
   MANIFEST_URL: "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series_manifest.json"
+  JSON_OUT:     "link_status.json"
 
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 30
 
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Python kur
         uses: actions/setup-python@v5
@@ -31,7 +37,7 @@ jobs:
       - name: Bagimliliklari yukle
         run: pip install aiohttp
 
-      - name: Link kontrolu
+      - name: Link kontrolu + JSON rapor
         env:
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
@@ -41,7 +47,29 @@ jobs:
           MAIL_FROM: ${{ secrets.MAIL_FROM }}
           MAIL_SUBJECT_PREFIX: "[Otomatik] "
         run: |
-          python check_links_cli.py --manifest "$MANIFEST_URL"
+          python check_links_cli.py \
+            --manifest "$MANIFEST_URL" \
+            --json-out "$JSON_OUT"
+
+      - name: JSON raporu repoya commit'le
+        if: always()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add "$JSON_OUT"
+
+          # Degisiklik yoksa cik
+          if git diff --cached --quiet; then
+            echo "[=] JSON degismedi, commit yok."
+            exit 0
+          fi
+
+          git commit -m "chore: link status $(date -u +%Y-%m-%d_%H:%M) [skip ci]"
+
+          # Cron ayni anda baska bir push yaptiysa rebase ile hallet
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+          git push origin "HEAD:${GITHUB_REF_NAME}"
 
       - name: Raporu artifact olarak yukle
         if: always()
@@ -52,4 +80,5 @@ jobs:
             report.html
             report.csv
             summary.txt
+            link_status.json
           retention-days: 30
