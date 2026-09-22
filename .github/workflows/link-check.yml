@@ -1,0 +1,55 @@
+name: Video Link Check
+
+on:
+  schedule:
+    # Her 3 gunde bir, 06:00 UTC (TR 09:00)
+    - cron: "0 6 */3 * *"
+
+    # Haftalik istersen bunu kullan, ustekini sil:
+    # - cron: "0 6 * * 1"     # Her Pazartesi 06:00 UTC
+
+  workflow_dispatch:        # elle tetikleme
+
+env:
+  # Manifest'in nerede oldugu — istersen degistir
+  MANIFEST_URL: "https://cdn.jsdelivr.net/gh/playtoon1/content-json@main/series_manifest.json"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bagimliliklari yukle
+        run: pip install aiohttp
+
+      - name: Link kontrolu
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO:   ${{ secrets.MAIL_TO }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          MAIL_SUBJECT_PREFIX: "[Otomatik] "
+        run: |
+          python check_links_cli.py --manifest "$MANIFEST_URL"
+
+      - name: Raporu artifact olarak yukle
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-report-${{ github.run_number }}
+          path: |
+            report.html
+            report.csv
+            summary.txt
+          retention-days: 30
