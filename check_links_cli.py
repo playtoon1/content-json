@@ -529,7 +529,7 @@ def write_json_report(path, urls, results, elapsed):
         json.dump(doc, f, ensure_ascii=False, indent=2)
 
 # ----------------------------- E-posta -------------------------------------
-def send_email(html, csv_path, ok, brk, red, total):
+def send_email(html, csv_path, json_path, ok, brk, red, total):
     host = _env("SMTP_HOST")
     port = int(_env("SMTP_PORT", "465"))
     user = _env("SMTP_USER")
@@ -539,31 +539,52 @@ def send_email(html, csv_path, ok, brk, red, total):
 
     if not all([host, user, pwd, to]):
         print("[!] SMTP bilgileri eksik, e-posta gonderilmedi.")
+        print(f"    SMTP_HOST={'OK' if host else 'EKSIK'}  "
+              f"SMTP_USER={'OK' if user else 'EKSIK'}  "
+              f"SMTP_PASS={'OK' if pwd else 'EKSIK'}  "
+              f"MAIL_TO={'OK' if to else 'EKSIK'}")
         return False
 
     prefix = _env("MAIL_SUBJECT_PREFIX")
     ver = f"v{MANIFEST_VERSION} - " if MANIFEST_VERSION else ""
     subj = f"{prefix}{ver}Video Link Raporu - {brk} bozuk / {total} link"
 
+    # mixed -> hem html govde hem dosya eki
     msg = MIMEMultipart("mixed")
     msg["From"] = frm
     msg["To"] = to
     msg["Subject"] = subj
 
+    # Alternatif govde (plain + html)
     alt = MIMEMultipart("alternative")
     ver_line = f"Surum: v{MANIFEST_VERSION}\n" if MANIFEST_VERSION else ""
     text = (f"{ver_line}"
             f"Toplam: {total}\nCalisiyor: {ok}\nBozuk: {brk}\nYonlendi: {red}\n\n"
-            f"HTML raporu ve CSV ektedir.")
+            f"HTML raporu, CSV ve JSON ektedir.")
     alt.attach(MIMEText(text, "plain", "utf-8"))
     alt.attach(MIMEText(html, "html", "utf-8"))
     msg.attach(alt)
 
-    with open(csv_path, "rb") as f:
-        part = MIMEApplication(f.read(), _subtype="csv")
-        part.add_header("Content-Disposition", "attachment",
-                        filename="link_raporu.csv")
-        msg.attach(part)
+    # CSV eki
+    try:
+        with open(csv_path, "rb") as f:
+            part = MIMEApplication(f.read(), _subtype="csv")
+            part.add_header("Content-Disposition", "attachment",
+                            filename="link_raporu.csv")
+            msg.attach(part)
+    except Exception as e:
+        print(f"[!] CSV eklenemedi: {e}")
+
+    # JSON eki
+    if json_path and Path(json_path).exists():
+        try:
+            with open(json_path, "rb") as f:
+                part = MIMEApplication(f.read(), _subtype="json")
+                part.add_header("Content-Disposition", "attachment",
+                                filename="link_status.json")
+                msg.attach(part)
+        except Exception as e:
+            print(f"[!] JSON eklenemedi: {e}")
 
     ctx = ssl.create_default_context()
     try:
@@ -578,8 +599,12 @@ def send_email(html, csv_path, ok, brk, red, total):
                 s.send_message(msg)
         print(f"[+] E-posta gonderildi -> {to}")
         return True
+    except smtplib.SMTPAuthenticationError as e:
+        print(f"[!] SMTP kimlik dogrulama hatasi: {e}")
+        print("    Gmail kullaniyorsan uygulama sifresi (App Password) gerekiyor.")
+        return False
     except Exception as e:
-        print(f"[!] E-posta hatasi: {e}")
+        print(f"[!] E-posta hatasi: {type(e).__name__}: {e}")
         return False
 
 # ----------------------------- Ana akis ------------------------------------
@@ -666,7 +691,9 @@ def main():
     if not args.no_email:
         try:
             send_email(html_path.read_text(encoding="utf-8"),
-                       str(csv_path), ok, brk, red, len(urls))
+                       str(csv_path),
+                       args.json_out or "",
+                       ok, brk, red, len(urls))
         except Exception as e:
             print(f"[!] E-posta adimi hata verdi (yoksayildi): {e}")
 
