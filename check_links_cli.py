@@ -1,10 +1,11 @@
 """
 Video Link Checker - CLI (GitHub Actions icin)
+
 Kullanim:
     # Tek JSON
     python check_links_cli.py --json links.json
 
-    # Manifest (icindeki file URL'lerini cekip hepsini kontrol eder)
+    # Manifest (icindeki files[] URL'lerini cekip hepsini kontrol eder)
     python check_links_cli.py --manifest https://cdn.jsdelivr.net/gh/user/repo@main/series_manifest.json
 
 Ortam degiskenleri (opsiyonel - e-posta icin):
@@ -49,6 +50,9 @@ REDIR_STATUS  = "\u26a0 Y\u00f6nlendi"
 # URL -> baslik, URL -> kaynak dosya adi
 URL_META: dict   = {}
 URL_SOURCE: dict = {}
+
+# Manifest surumu (varsa rapora ve mail basligina yazilir)
+MANIFEST_VERSION = None
 
 # ----------------------------- Yukleme -------------------------------------
 def _read_url(url):
@@ -284,16 +288,23 @@ async def fetch_manifest_sources(manifest_url):
     """
     Manifest'i indirir, icindeki files[] URL'lerini paralel ceker,
     her dosyadan URL'leri cikarir. (all_urls, url_source) dondurur.
+    Manifest icindeki 'version' alanini MANIFEST_VERSION'a yazar.
     """
+    global MANIFEST_VERSION
+
     print(f"[+] Manifest yukleniyor: {manifest_url}")
     manifest = load_json(bust_cache(manifest_url))
 
     if isinstance(manifest, dict):
+        MANIFEST_VERSION = manifest.get("version")
         source_urls = manifest.get("files") or []
     elif isinstance(manifest, list):
         source_urls = manifest
     else:
         source_urls = []
+
+    if MANIFEST_VERSION:
+        print(f"[+] Manifest surumu: v{MANIFEST_VERSION}")
 
     source_urls = [u for u in source_urls
                    if isinstance(u, str) and u.startswith(("http://", "https://"))]
@@ -309,7 +320,6 @@ async def fetch_manifest_sources(manifest_url):
             src_name = Path(urlparse(src).path).name or f"file{i}"
             print(f"    [{i}/{len(source_urls)}] {src_name}")
             try:
-                # CDN cache'i atlamak icin hem header hem query param
                 fetch_url = bust_cache(src)
                 async with session.get(
                     fetch_url,
@@ -346,11 +356,11 @@ def _source_summary_rows(urls, results):
     """Kaynak bazli ozet satirlari uretir."""
     agg = {}
     for u in urls:
-        src = URL_SOURCE.get(u, "—")
+        src = URL_SOURCE.get(u, "\u2014")
         st = results.get(u, ("-",))[0]
         a = agg.setdefault(src, {"total": 0, "ok": 0, "brk": 0, "red": 0})
         a["total"] += 1
-        if st == OK_STATUS:    a["ok"] += 1
+        if st == OK_STATUS:       a["ok"]  += 1
         elif st == BROKEN_STATUS: a["brk"] += 1
         elif st == REDIR_STATUS:  a["red"] += 1
 
@@ -376,12 +386,19 @@ def build_html_report(results, urls, elapsed):
     color = {OK_STATUS: "#22c55e", BROKEN_STATUS: "#ef4444",
              REDIR_STATUS: "#f59e0b"}
 
+    ver_badge = ""
+    if MANIFEST_VERSION:
+        ver_badge = (f'<span style="display:inline-block;background:#4f8cff;'
+                     f'color:#fff;font-size:11px;font-weight:600;padding:3px 8px;'
+                     f'border-radius:4px;margin-left:8px;vertical-align:middle">'
+                     f'v{_esc(MANIFEST_VERSION)}</span>')
+
     rows = []
     for i, u in enumerate(urls, 1):
         st, code, redirect = results.get(u, ("-", "-", ""))
         c = color.get(st, "#94a3b8")
-        title  = _esc(URL_META.get(u, "") or "—")
-        source = _esc(URL_SOURCE.get(u, "—"))
+        title  = _esc(URL_META.get(u, "") or "\u2014")
+        source = _esc(URL_SOURCE.get(u, "\u2014"))
         rows.append(f"""
         <tr>
           <td style="text-align:center;color:#64748b">{i}</td>
@@ -401,7 +418,7 @@ def build_html_report(results, urls, elapsed):
 <body style="margin:0;background:#f1f5f9;font-family:-apple-system,Segoe UI,Roboto,sans-serif;color:#0f172a">
 <div style="max-width:1300px;margin:0 auto;padding:24px">
 
-  <h1 style="margin:0 0 4px">🎬 Video Link Raporu</h1>
+  <h1 style="margin:0 0 4px">\U0001f3ac Video Link Raporu{ver_badge}</h1>
   <p style="margin:0 0 24px;color:#64748b">{now} &middot; {len(urls)} link &middot; {elapsed:.1f} sn</p>
 
   <table style="width:100%;border-collapse:separate;border-spacing:12px 0;margin-bottom:24px">
@@ -411,7 +428,7 @@ def build_html_report(results, urls, elapsed):
         <div style="font-size:28px;font-weight:700">{len(urls)}</div>
       </td>
       <td style="background:#fff;border-radius:10px;padding:16px 20px;border-left:4px solid #22c55e">
-        <div style="color:#64748b;font-size:11px;font-weight:600;letter-spacing:.5px">ÇALIŞIYOR</div>
+        <div style="color:#64748b;font-size:11px;font-weight:600;letter-spacing:.5px">\u00c7ALI\u015eIYOR</div>
         <div style="font-size:28px;font-weight:700;color:#22c55e">{ok}</div>
       </td>
       <td style="background:#fff;border-radius:10px;padding:16px 20px;border-left:4px solid #ef4444">
@@ -419,13 +436,13 @@ def build_html_report(results, urls, elapsed):
         <div style="font-size:28px;font-weight:700;color:#ef4444">{brk}</div>
       </td>
       <td style="background:#fff;border-radius:10px;padding:16px 20px;border-left:4px solid #f59e0b">
-        <div style="color:#64748b;font-size:11px;font-weight:600;letter-spacing:.5px">YÖNLENDİ</div>
+        <div style="color:#64748b;font-size:11px;font-weight:600;letter-spacing:.5px">Y\u00d6NLEND\u0130</div>
         <div style="font-size:28px;font-weight:700;color:#f59e0b">{red}</div>
       </td>
     </tr>
   </table>
 
-  <h2 style="font-size:16px;margin:0 0 12px">Kaynak Bazlı Özet</h2>
+  <h2 style="font-size:16px;margin:0 0 12px">Kaynak Bazl\u0131 \u00d6zet</h2>
   <div style="background:#fff;border-radius:10px;overflow:hidden;margin-bottom:24px">
     <table style="width:100%;border-collapse:collapse;font-size:13px">
       <thead>
@@ -434,25 +451,25 @@ def build_html_report(results, urls, elapsed):
           <th style="padding:10px 12px;text-align:right">Toplam</th>
           <th style="padding:10px 12px;text-align:right">OK</th>
           <th style="padding:10px 12px;text-align:right">Bozuk</th>
-          <th style="padding:10px 12px;text-align:right">Yönlendi</th>
+          <th style="padding:10px 12px;text-align:right">Y\u00f6nlendi</th>
         </tr>
       </thead>
       <tbody>{summary_rows}</tbody>
     </table>
   </div>
 
-  <h2 style="font-size:16px;margin:0 0 12px">Tüm Linkler</h2>
+  <h2 style="font-size:16px;margin:0 0 12px">T\u00fcm Linkler</h2>
   <div style="background:#fff;border-radius:10px;overflow:hidden">
     <table style="width:100%;border-collapse:collapse;font-size:12px">
       <thead>
         <tr style="background:#0f172a;color:#e2e8f0">
           <th style="padding:10px 12px;text-align:center">#</th>
           <th style="padding:10px 12px;text-align:left">Kaynak</th>
-          <th style="padding:10px 12px;text-align:left">Başlık</th>
+          <th style="padding:10px 12px;text-align:left">Ba\u015fl\u0131k</th>
           <th style="padding:10px 12px;text-align:left">Durum</th>
           <th style="padding:10px 12px;text-align:center">Kod</th>
           <th style="padding:10px 12px;text-align:left">URL</th>
-          <th style="padding:10px 12px;text-align:left">Yönlendirme</th>
+          <th style="padding:10px 12px;text-align:left">Y\u00f6nlendirme</th>
         </tr>
       </thead>
       <tbody>{''.join(rows)}</tbody>
@@ -460,7 +477,7 @@ def build_html_report(results, urls, elapsed):
   </div>
 
   <p style="color:#94a3b8;font-size:12px;text-align:center;margin-top:24px">
-    Otomatik oluşturuldu &middot; Video Link Checker
+    Otomatik olu\u015fturuldu &middot; Video Link Checker
   </p>
 </div></body></html>"""
 
@@ -486,7 +503,8 @@ def send_email(html, csv_path, ok, brk, red, total):
         return False
 
     prefix = os.environ.get("MAIL_SUBJECT_PREFIX", "")
-    subj = f"{prefix}Video Link Raporu - {brk} bozuk / {total} link"
+    ver = f"v{MANIFEST_VERSION} - " if MANIFEST_VERSION else ""
+    subj = f"{prefix}{ver}Video Link Raporu - {brk} bozuk / {total} link"
 
     msg = MIMEMultipart("mixed")
     msg["From"] = frm
@@ -494,7 +512,9 @@ def send_email(html, csv_path, ok, brk, red, total):
     msg["Subject"] = subj
 
     alt = MIMEMultipart("alternative")
-    text = (f"Toplam: {total}\nCalisiyor: {ok}\nBozuk: {brk}\nYonlendi: {red}\n\n"
+    ver_line = f"Surum: v{MANIFEST_VERSION}\n" if MANIFEST_VERSION else ""
+    text = (f"{ver_line}"
+            f"Toplam: {total}\nCalisiyor: {ok}\nBozuk: {brk}\nYonlendi: {red}\n\n"
             f"HTML raporu ve CSV ektedir.")
     alt.attach(MIMEText(text, "plain", "utf-8"))
     alt.attach(MIMEText(html, "html", "utf-8"))
@@ -536,16 +556,15 @@ def main():
     out = Path(args.out_dir)
     out.mkdir(parents=True, exist_ok=True)
 
-    t_load_start = time.time()
-
     if args.manifest:
         urls, _ = asyncio.run(fetch_manifest_sources(args.manifest))
     else:
         print(f"[+] JSON yukleniyor: {args.json}")
         data = load_json(args.json)
         urls = extract_urls(data)
+        src_name = Path(urlparse(args.json).path).name or "main"
         for u in urls:
-            URL_SOURCE[u] = Path(urlparse(args.json).path).name or "main"
+            URL_SOURCE[u] = src_name
 
     if not urls:
         print("[!] Hic link bulunamadi.")
@@ -576,7 +595,10 @@ def main():
 
     html_path.write_text(build_html_report(results, urls, elapsed), encoding="utf-8")
     write_csv(csv_path, urls, results)
+
+    ver_line = f"Surum: v{MANIFEST_VERSION}\n" if MANIFEST_VERSION else ""
     summary.write_text(
+        f"{ver_line}"
         f"Toplam: {len(urls)}\nCalisiyor: {ok}\nBozuk: {brk}\nYonlendi: {red}\n"
         f"Sure: {elapsed:.1f} sn\nTarih: {datetime.now():%Y-%m-%d %H:%M}\n",
         encoding="utf-8")
@@ -585,11 +607,14 @@ def main():
     gh_sum = os.environ.get("GITHUB_STEP_SUMMARY")
     if gh_sum:
         with open(gh_sum, "a", encoding="utf-8") as f:
-            f.write(f"## Video Link Raporu\n\n")
-            f.write(f"| Toplam | Çalışıyor | Bozuk | Yönlendi |\n")
+            f.write(f"## Video Link Raporu")
+            if MANIFEST_VERSION:
+                f.write(f" — v{MANIFEST_VERSION}")
+            f.write(f"\n\n")
+            f.write(f"| Toplam | \u00c7al\u0131\u015f\u0131yor | Bozuk | Y\u00f6nlendi |\n")
             f.write(f"|---|---|---|---|\n")
             f.write(f"| {len(urls)} | {ok} | {brk} | {red} |\n\n")
-            f.write(f"_Süre: {elapsed:.1f} sn_\n")
+            f.write(f"_S\u00fcre: {elapsed:.1f} sn_\n")
 
     if not args.no_email:
         send_email(html_path.read_text(encoding="utf-8"),
