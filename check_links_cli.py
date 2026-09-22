@@ -2,8 +2,16 @@
 Video Link Checker - CLI (GitHub Actions icin)
 
 Kullanim:
+    # Manifest
     python check_links_cli.py --manifest <url> --json-out link_status.json
+
+    # Tek JSON
     python check_links_cli.py --json links.json --json-out link_status.json
+
+Ortam degiskenleri (opsiyonel - e-posta icin):
+    SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS
+    MAIL_TO, MAIL_FROM (MAIL_FROM bos ise SMTP_USER kullanilir)
+    MAIL_SUBJECT_PREFIX (opsiyonel)
 """
 
 import argparse
@@ -49,6 +57,12 @@ STATUS_KEY = {
     BROKEN_STATUS: "broken",
     REDIR_STATUS:  "redirect",
 }
+
+# ----------------------------- Env yardimci --------------------------------
+def _env(name, default=""):
+    """Bos string bile olsa default dondurur."""
+    v = os.environ.get(name)
+    return v.strip() if v and v.strip() else default
 
 # ----------------------------- Yukleme -------------------------------------
 def _read_url(url):
@@ -516,18 +530,18 @@ def write_json_report(path, urls, results, elapsed):
 
 # ----------------------------- E-posta -------------------------------------
 def send_email(html, csv_path, ok, brk, red, total):
-    host = os.environ.get("SMTP_HOST")
-    port = int(os.environ.get("SMTP_PORT", "465"))
-    user = os.environ.get("SMTP_USER")
-    pwd  = os.environ.get("SMTP_PASS")
-    to   = os.environ.get("MAIL_TO")
-    frm  = os.environ.get("MAIL_FROM") or user
+    host = _env("SMTP_HOST")
+    port = int(_env("SMTP_PORT", "465"))
+    user = _env("SMTP_USER")
+    pwd  = _env("SMTP_PASS")
+    to   = _env("MAIL_TO")
+    frm  = _env("MAIL_FROM") or user
 
     if not all([host, user, pwd, to]):
         print("[!] SMTP bilgileri eksik, e-posta gonderilmedi.")
         return False
 
-    prefix = os.environ.get("MAIL_SUBJECT_PREFIX", "")
+    prefix = _env("MAIL_SUBJECT_PREFIX")
     ver = f"v{MANIFEST_VERSION} - " if MANIFEST_VERSION else ""
     subj = f"{prefix}{ver}Video Link Raporu - {brk} bozuk / {total} link"
 
@@ -650,8 +664,11 @@ def main():
             f.write(f"_S\u00fcre: {elapsed:.1f} sn_\n")
 
     if not args.no_email:
-        send_email(html_path.read_text(encoding="utf-8"),
-                   str(csv_path), ok, brk, red, len(urls))
+        try:
+            send_email(html_path.read_text(encoding="utf-8"),
+                       str(csv_path), ok, brk, red, len(urls))
+        except Exception as e:
+            print(f"[!] E-posta adimi hata verdi (yoksayildi): {e}")
 
 
 if __name__ == "__main__":
