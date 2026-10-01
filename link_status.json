@@ -1,18 +1,18 @@
 {
   "version": "1.1.14",
-  "checked_at": "2026-09-22T07:33:48Z",
-  "duration_sec": 359.92,
+  "checked_at": "2026-10-01T12:49:09Z",
+  "duration_sec": 391.13,
   "summary": {
     "total": 10722,
-    "ok": 1848,
-    "broken": 8873,
+    "ok": 1807,
+    "broken": 8914,
     "redirect": 1
   },
   "sources": {
     "series.json": {
       "total": 1254,
-      "ok": 469,
-      "broken": 785,
+      "ok": 459,
+      "broken": 795,
       "redirect": 0
     },
     "series2.json": {
@@ -23,8 +23,8 @@
     },
     "series3.json": {
       "total": 1090,
-      "ok": 181,
-      "broken": 909,
+      "ok": 177,
+      "broken": 913,
       "redirect": 0
     },
     "series4.json": {
@@ -35,8 +35,8 @@
     },
     "series5.json": {
       "total": 611,
-      "ok": 135,
-      "broken": 475,
+      "ok": 130,
+      "broken": 480,
       "redirect": 1
     },
     "series6.json": {
@@ -47,26 +47,26 @@
     },
     "series7.json": {
       "total": 559,
-      "ok": 67,
-      "broken": 492,
+      "ok": 57,
+      "broken": 502,
       "redirect": 0
     },
     "series8.json": {
       "total": 1395,
-      "ok": 60,
-      "broken": 1335,
+      "ok": 58,
+      "broken": 1337,
       "redirect": 0
     },
     "series9.json": {
       "total": 1578,
-      "ok": 520,
-      "broken": 1058,
+      "ok": 516,
+      "broken": 1062,
       "redirect": 0
     },
     "series10.json": {
       "total": 1410,
-      "ok": 38,
-      "broken": 1372,
+      "ok": 32,
+      "broken": 1378,
       "redirect": 0
     },
     "series11.json": {
@@ -3402,7 +3402,7 @@
       "title": "Tsubasa: Road To 2002 | 25. Bölüm - Dahi Futbolcu, Juan Diaz",
       "source": "series.json",
       "status": "ok",
-      "code": 206,
+      "code": 200,
       "redirect": ""
     },
     {
@@ -3578,7 +3578,7 @@
       "title": "Tsubasa: Road To 2002 | 36. Bölüm - Yeni Rüyalar Diyarı",
       "source": "series.json",
       "status": "ok",
-      "code": 206,
+      "code": 200,
       "redirect": ""
     },
     {
@@ -4402,7 +4402,7 @@
       "title": "Bakugan Battle Brawlers 31. Bölüm - Evden Çok Uzakta",
       "source": "series.json",
       "status": "ok",
-      "code": 206,
+      "code": 200,
       "redirect": ""
     },
     {
@@ -7033,56 +7033,56 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=4404774",
       "title": "Sürekli Dizi | 3. Sezon 3. Bölüm - Skips'in Strike'ı",
       "source": "series.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=4404781",
       "title": "Sürekli Dizi | 3. Sezon 4. Bölüm - Parkın Korku Hikayeleri, Bölüm 1",
       "source": "series.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=4404795",
       "title": "Sürekli Dizi | 3. Sezon 5. Bölüm - Parkın Korku Hikayeleri, Bölüm 2",
       "source": "series.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=4404805",
       "title": "Sürekli Dizi | 3. Sezon 6. Bölüm - Kamp Yapmak İyi Olabilir",
       "source": "series.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=4404814",
       "title": "Sürekli Dizi | 3. Sezon 7. Bölüm - Smaç",
       "source": "series.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=4404828",
       "title": "Sürekli Dizi | 3. Sezon 8. Bölüm - Havalı Bisikletler",
       "source": "series.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=4404836",
       "title": "Sürekli Dizi | 3. Sezon 9. Bölüm - Ev Kuralları",
       "source": "series.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -7097,24 +7097,24 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=4404855",
       "title": "Sürekli Dizi | 3. Sezon 11. Bölüm - Gezinti",
       "source": "series.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=4404862",
       "title": "Sürekli Dizi | 3. Sezon 12. Bölüm - Mahallede",
       "source": "series.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=4404869",
       "title": "Sürekli Dizi | 3. Sezon 13. Bölüm - Benson'ın Evinde Hafta Sonu",
       "source": "series.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -22129,8 +22129,8 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=5252903",
       "title": "Mucize: Uğur Böceği ile Kara Kedi | 5. Sezon 23. Bölüm - Devrim",
       "source": "series3.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -22145,8 +22145,8 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=5252912",
       "title": "Mucize: Uğur Böceği ile Kara Kedi | 5. Sezon 24. Bölüm - Temsil",
       "source": "series3.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -22161,8 +22161,8 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=5252925",
       "title": "Mucize: Uğur Böceği ile Kara Kedi | 5. Sezon 25. Bölüm - Konfor (Son Gün - Bölüm 1)",
       "source": "series3.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -22193,8 +22193,8 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=5252947",
       "title": "Mucize: Uğur Böceği ile Kara Kedi | 5. Sezon 27. Bölüm - Özel Bölüm: Eylem",
       "source": "series3.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -26586,7 +26586,7 @@
       "title": "Secret Saturday | 25. Bölüm - Lemuria'nın Gölgeleri",
       "source": "series3.json",
       "status": "ok",
-      "code": 206,
+      "code": 200,
       "redirect": ""
     },
     {
@@ -35185,8 +35185,8 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=4370202",
       "title": "Redakai | 1. Sezon 9. Bölüm - Neptün'ün Kayalığı",
       "source": "series5.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -35201,8 +35201,8 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=4370207",
       "title": "Redakai | 1. Sezon 10. Bölüm - Kale",
       "source": "series5.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -35217,8 +35217,8 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=4370209",
       "title": "Redakai | 1. Sezon 11. Bölüm - Kara Kairu Altın Metanoid",
       "source": "series5.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -35233,8 +35233,8 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=4370212",
       "title": "Redakai | 1. Sezon 12. Bölüm - Şampiyonlar Turnuvası",
       "source": "series5.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -35249,8 +35249,8 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=4370217",
       "title": "Redakai | 1. Sezon 13. Bölüm - Kairu Güç Gösterisi",
       "source": "series5.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -47833,88 +47833,88 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=5441399",
       "title": "Avengers Assemble | 3. Sezon 17. Bölüm - Panther'in Öfkesi",
       "source": "series7.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=5441404",
       "title": "Avengers Assemble | 3. Sezon 18. Bölüm - Ant-Man İşleri Büyütüyor",
       "source": "series7.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=5441411",
       "title": "Avengers Assemble | 3. Sezon 19. Bölüm - Zemo Hanedanı",
       "source": "series7.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=5441414",
       "title": "Avengers Assemble | 3. Sezon 20. Bölüm - U-Düşmanları",
       "source": "series7.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=5441419",
       "title": "Avengers Assemble | 3. Sezon 21. Bölüm - Mükemmel Silahı İnşa Etmek",
       "source": "series7.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=5441424",
       "title": "Avengers Assemble | 3. Sezon 22. Bölüm - Dünya Savaşı Hulk",
       "source": "series7.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=5441429",
       "title": "Avengers Assemble | 3. Sezon 23. Bölüm - İç Savaş, Bölüm 1: Attilan'ın Düşüşü",
       "source": "series7.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=5441434",
       "title": "Avengers Assemble | 3. Sezon 24. Bölüm - İç Savaş, Bölüm 2: Kudretli Yenilmezler",
       "source": "series7.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=5451660",
       "title": "Avengers Assemble | 3. Sezon 25. Bölüm - İç Savaş, Bölüm 3: Savaş Davulları",
       "source": "series7.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=5441448",
       "title": "Avengers Assemble | 3. Sezon 26. Bölüm - İç Savaş, Bölüm 4: Yenilmezler Devrimi",
       "source": "series7.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=5441243",
       "title": "Avengers Assemble | 4. Sezon 1. Bölüm - Yenilmezler Yok: Bölüm 1",
       "source": "series7.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -49506,7 +49506,7 @@
       "title": "Opti Morphs | 1. Sezon 14. Bölüm - Ormanın Derinliklerinde",
       "source": "series7.json",
       "status": "ok",
-      "code": 206,
+      "code": 200,
       "redirect": ""
     },
     {
@@ -49633,8 +49633,8 @@
       "url": "https://seed171.bitchute.com/5khxPvsn5XZn/XsTXgX1a3kKC.mp4",
       "title": "Opti Morphs | 1. Sezon 22. Bölüm - Buzul Sınavı",
       "source": "series7.json",
-      "status": "broken",
-      "code": "Zaman Asimi",
+      "status": "ok",
+      "code": 200,
       "redirect": ""
     },
     {
@@ -60897,8 +60897,8 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=6216310",
       "title": "Tobot (2010) | 2. Sezon 29. Bölüm - Planlar ve Pilotlar",
       "source": "series8.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -60906,15 +60906,15 @@
       "title": "Tobot (2010) | 2. Sezon 29. Bölüm - Planlar ve Pilotlar",
       "source": "series8.json",
       "status": "ok",
-      "code": 206,
+      "code": 200,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=6216311",
       "title": "Tobot (2010) | 2. Sezon 30. Bölüm - Son Yarış",
       "source": "series8.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -60929,8 +60929,8 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=4977708",
       "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 1. Bölüm - Uzay Tavuğu / Biftek Akşamı",
       "source": "series9.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -60945,16 +60945,16 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=4977712",
       "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 2. Bölüm - Cricket'a Karşı / Mavi Patates",
       "source": "series9.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=4977713",
       "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 2. Bölüm - Cricket'a Karşı / Mavi Patates",
       "source": "series9.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -60962,7 +60962,7 @@
       "title": "Greenlerin Büyükşehir Maceraları | 1. Sezon 3. Bölüm - Havuzdaki Şapşal / Tilly'nin Keçisi",
       "source": "series9.json",
       "status": "broken",
-      "code": "Video Yok",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -63218,7 +63218,7 @@
       "title": "Blue Lock | 2. Sezon 5. Bölüm - Akış",
       "source": "series9.json",
       "status": "ok",
-      "code": 206,
+      "code": 200,
       "redirect": ""
     },
     {
@@ -67458,7 +67458,7 @@
       "title": "Captain Tsubasa Dream Team | 1. Sezon 27. Bölüm - Moment of Glory",
       "source": "series9.json",
       "status": "ok",
-      "code": 200,
+      "code": 206,
       "redirect": ""
     },
     {
@@ -73537,8 +73537,8 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=5243816",
       "title": "Scooby Doo Neredesin? | 2. Sezon 7. Bölüm - Kim Korkar Büyük Kötü Kurt Adamdan",
       "source": "series9.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -73546,23 +73546,23 @@
       "title": "Scooby Doo Neredesin? | 2. Sezon 8. Bölüm - Hayaletle Oyun Oynama",
       "source": "series9.json",
       "status": "broken",
-      "code": "Video Yok",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=3981807",
       "title": "Sakin Ol, Scooby Doo! | 1. Sezon 1. Bölüm - Gizem 101 Dersi",
       "source": "series10.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=5980553",
       "title": "Sakin Ol, Scooby Doo! | 1. Sezon 1. Bölüm - Gizem 101 Dersi",
       "source": "series10.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -73570,31 +73570,31 @@
       "title": "Sakin Ol, Scooby Doo! | 1. Sezon 1. Bölüm - Gizem 101 Dersi",
       "source": "series10.json",
       "status": "broken",
-      "code": "Video Yok",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=3981695",
       "title": "Sakin Ol, Scooby Doo! | 1. Sezon 2. Bölüm - Tavuk Oyunu",
       "source": "series10.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=5980550",
       "title": "Sakin Ol, Scooby Doo! | 1. Sezon 2. Bölüm - Tavuk Oyunu",
       "source": "series10.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
       "url": "https://video.sibnet.ru/shell.php?videoid=5886839",
       "title": "Sakin Ol, Scooby Doo! | 1. Sezon 2. Bölüm - Tavuk Oyunu",
       "source": "series10.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
@@ -73609,8 +73609,8 @@
       "url": "https://video.sibnet.ru/shell.php?videoid=5980548",
       "title": "Sakin Ol, Scooby Doo! | 1. Sezon 3. Bölüm - Bütün Pençeler Güverteye",
       "source": "series10.json",
-      "status": "ok",
-      "code": 200,
+      "status": "broken",
+      "code": 403,
       "redirect": ""
     },
     {
