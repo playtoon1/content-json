@@ -1,7 +1,7 @@
 {
   "version": "1.1.14",
-  "checked_at": "2026-10-01T12:49:09Z",
-  "duration_sec": 391.13,
+  "checked_at": "2026-10-04T12:03:48Z",
+  "duration_sec": 359.17,
   "summary": {
     "total": 10722,
     "ok": 1807,
@@ -67458,7 +67458,7 @@
       "title": "Captain Tsubasa Dream Team | 1. Sezon 27. Bölüm - Moment of Glory",
       "source": "series9.json",
       "status": "ok",
-      "code": 206,
+      "code": 200,
       "redirect": ""
     },
     {
